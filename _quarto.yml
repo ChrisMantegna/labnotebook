@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Progress Makes a PhD"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: lab_notebook.qmd
+        text: Lab Notebook
+        menu: 
+          - href: dailylog.qmd
+            text: Daily Log
+          - href: extendedposts.qmd
+            text: Extended Posts
+      - href: projects.qmd
+        text: Projects
+      - href: resources.qmd
+        text: Resources
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
+
