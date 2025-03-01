@@ -1,0 +1,15 @@
+---
+title: "Daily Lab Notebook Log"
+listing:
+  contents: daily
+  sort: "date desc"
+  type: table
+  image-placeholder: "../imgs/logo.jpg"
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+
+Home of the daily posts that is in the folder: daily

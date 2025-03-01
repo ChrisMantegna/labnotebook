@@ -1,11 +1,17 @@
 ---
-title: "test_notebook"
+title: " "
+format:
+  html: 
+    theme: quartz
+    css: home.css
+    page-layout: full
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{r, echo=FALSE}
+#| column: screen
+knitr::include_graphics('img/boundlessbanner.jpeg')
 ```
+
+This is the home page.
+2-4 Sentences about my science and PhD goals
+Can make a photo footer 
