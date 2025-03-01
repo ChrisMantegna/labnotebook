@@ -2,7 +2,9 @@
 title: "About"
 ---
 
-About this site
+About me
+Add a brief overview of my journey
+Add media + cv + link to lab
 
 ```{r}
 1 + 1
