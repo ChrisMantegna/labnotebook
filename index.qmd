@@ -1,17 +1,17 @@
 ---
-title: " "
+title: "  "
 format:
   html: 
-    theme: quartz
+    theme: pulse
     css: home.css
     page-layout: full
 ---
 
 ```{r, echo=FALSE}
 #| column: screen
-knitr::include_graphics('img/boundlessbanner.jpeg')
+knitr::include_graphics('img/boundlessbanner.jpg')
 ```
 
-This is the home page.
-2-4 Sentences about my science and PhD goals
-Can make a photo footer 
+## Progress Makes a PhD, My Graduate Work in the Roberts' Lab at the University of Washington
+
+Straddling the line between classic ecological methods and cutting- edge molecular techniques, I am building my marine science foundation as a Marine Molecular Ecologist studying nearshore ecosystems in Puget Sound and the greater Salish Sea. While my work is dominantly focused on informing conservation strategies, it can also be readily applied to aquaculture and sustainable food systems. My graduate work is on marine invertebrates, mostly foundational species like mussels, but also incorporates exploration of the relationship dynamics between human and non-human kin. Ultimately, I want to understand how human-induced environmental changes influence nearshore communities at different scales; both at the organismal and ecosystem level.
