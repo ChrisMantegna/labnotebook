@@ -1,11 +1,18 @@
 /*-- scss:defaults --*/
 
+$intertidal-bg: #e6f2ef;
+$intertidal-card: #d3e3dc;
+$intertidal-dark: #3d5a50;
+$chiton-pink: #f2dcdc;
+$algae-green: #9cbfa7;
+$rock-grey: #b9c2ba;
+
 /*-- scss:rules --*/
 
 .projects {
   flex: 0 50%;
-  background: $dark;
-  box-shadow: 0 2px 4px 0 rgba($gray-700, 0.2), 0 5px 15px 0 rgba($gray-300, 0.15);
+  background: $intertidal-card;
+  box-shadow: 0 2px 6px 0 rgba($intertidal-dark, 0.2), 0 6px 16px 0 rgba($rock-grey, 0.15);
   border-radius: 15px;
   margin: 8px;
   padding: 10px 15px;
@@ -42,22 +49,49 @@
   }
 
   .card-footer {
-    background-color: $dark;
-    border-top: var(--bs-card-border-width) solid var(--bs-gray);
+    background-color: $intertidal-card;
+    border-top: 1px solid $intertidal-dark;
     margin-top: auto;
   }
 
   p {
     margin: 0;
+    color: $intertidal-dark;
   }
 
-  h5.card-title:hover {
-    text-decoration: underline;
+  h5.card-title {
+    color: $intertidal-dark;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   .listing-date {
     font-style: italic;
     margin-left: auto;
+    color: darken($intertidal-dark, 10%);
+  }
+
+  .listing-categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 0.5rem;
+
+    .listing-category {
+      background-color: $algae-green;
+      color: #fff;
+      font-size: 0.8rem;
+      padding: 4px 10px;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+
+      &:hover {
+        background-color: darken($algae-green, 10%);
+      }
+    }
   }
 }
 
