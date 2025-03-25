@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/dailylog.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/extendedposts.html",
+    "items": [
+      "/extended/testing_extended.html"
+    ]
+  }
+]
