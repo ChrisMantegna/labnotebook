@@ -3,7 +3,7 @@ title: "Daily Lab Notebook Log"
 page-layout: full
 title-block-banner: true
 listing:
-  contents: daily
+  contents: daily_notebook_posts
   sort: "date desc"
   type: table
   image-placeholder: "../imgs/logo.jpg"
