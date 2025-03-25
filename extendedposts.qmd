@@ -2,7 +2,7 @@
 title: "Extended Lab Notebook Posts"
 page-layout: full
 title-block-banner: true
-image: /assets/images/social-profile.png
+image: /img/social-profile.png
 listing:
   contents: extended
   sort: "date desc"
