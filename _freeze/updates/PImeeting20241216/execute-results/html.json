@@ -1,0 +1,15 @@
+{
+  "hash": "0f42f86c103b9548c38be6ecc19f5f5c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"12/16/25 Biweekly Check-In\"\nauthor: CM\ndate: December 16, 2024\ncategories: [ \"PI meeting\", \"progress\"]\nimage: \"../images/advisorsign.jpeg\"\n---\n\n\n\n\n\n# Performance Assessment\n\n## Previous 2 weeks\n\n-   Attended BIMS Week and presented my educator workshop\n-   Continued working with Kai and Darian with their SICB project analysis\n-   Finished data cleaning with Noah and identified missing data that he is entering from summer data sheets\n-   Submitted travel needs for Noah and I\n-   Got AGU content for RUA out the door (flyer design and print, application process walk-through, stickers ordered and shipped, sent website content for revamp to ConMar) **This is added despite being non-science because it took up significant time**\\\n\nThe projects that have been completed:\\\n- BIMS Week Workshop: Base curricula, preliminary website where it will be housed, and feedback from the in-person curricula review.  - SICB Travel: all students booked except for Noah & I and that process is moving through approvals.\\\n\n## Project Needs/ Updates (not outlined above)\n\n**Innovation Grant**\\\n- BIMS December invoice is incoming\\\n- Update on Althea & Umut's one time payment\\\n- Rosalind's honorarium - is that the way to go?\\\n\n**Biomarker paper**\\\n- No movement\n\n## Priorities (next 2 weeks)\n\n-   Biomarker paper (overdue)\n-   Finalizing last 3 SICB presentations by 12/30 lab meeting (Kai, Darian, Noah)\n\n## Long term priorities (within the next 2 months)\n\n**Bypass Package**  - Deadline 2/15/25\\\n- Master's proposal based on biomarkers and eDNA results\\\n- Goal: Deliver nlt 12.31.24\\\n\n## Other news/ For your awareness...\n\nNew\\\n- Taking FISH 549 Best Practices in Environmental Data Science. Mostly as a way to force me into better habits and project progress throughout the quarter\\\nPrevious\\\n- Taking SMEA 550 Qualitative Methods in winter quarter\\\n- Applied to the summer BIOL 200 Lecturer role\\\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
