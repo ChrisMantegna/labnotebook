@@ -1,7 +1,9 @@
 [
   {
     "listing": "/dailylog.html",
-    "items": []
+    "items": [
+      "/daily_notebook_posts/first_post.html"
+    ]
   },
   {
     "listing": "/projects.html",

@@ -3,7 +3,7 @@ title: "  "
 format:
   html: 
     theme: pulse
-    css: home.css
+    css: styles.css
     page-layout: full
 ---
 
@@ -12,7 +12,7 @@ format:
 knitr::include_graphics('img/boundlessbanner.jpg')
 ```
 
-## Progress Makes a PhD
+## Progress Makes a PhD  
 
 ### My Graduate Work in the Roberts' Lab at the University of Washington
 
