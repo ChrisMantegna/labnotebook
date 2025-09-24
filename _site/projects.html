@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="My active research projects">
 
-<title>Projects – Progress Makes a PhD</title>
+<title>Current Projects – Progress Makes a PhD</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,67 +67,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
-      
-      searchColumns: ["listing-image","listing-title","listing-description","listing-date","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="projects.css">
 </head>
 
 <body class="nav-fixed">
@@ -164,10 +106,6 @@ window.Quarto = {
     <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./resources.qmd"> 
-<span class="menu-text">Resources</span></a>
-  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -176,23 +114,28 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Art">Art <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Biomarkers">Biomarkers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ecology">Ecology <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Ecotoxicology">Ecotoxicology <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Education">Education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Epigenetics">Epigenetics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Intertidal">Intertidal <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Invertebrates">Invertebrates <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Marine">Marine <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Mentorship">Mentorship <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mussels">Mussels <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Mytilus">Mytilus <span class="quarto-category-count">(2)</span></div><div class="category" data-category="eDNA">eDNA <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projects</h1>
+<h1 class="title">Current Projects</h1>
+</div>
+
+<div>
+  <div class="description">
+    My active research projects
+  </div>
 </div>
 
 
-
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
   
@@ -204,184 +147,73 @@ window.Quarto = {
 </header>
 
 
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<div class="row p-0 row-cols-1 row-cols-md-2 row-cols-lg-3" style="margin-left: -.2rem; margin-right: -.2rem; margin-top: 1rem; margin-bottom: 1rem; ">
+<div class="card bg-transparent m-0 border-0 collapse.show bs4cards-blahblahblah " style="padding: .2rem ; border-width: 0; border-radius: 1rem 1rem 1rem 1rem ;">
+<a href="https://github.com/ChrisMantegna/WDFWmussels" style="color: inherit;">
+<img src="img/biomarker_hex.png" class="card-img-top" style="border-style:solid; border-color:inherits; border-width:1px 1px 0 1px; border-radius: 1rem 1rem 0 0 ;">
+</a>
+<div class="card-body justify-content-end m-0 p-0" style="visibility: visible; background-color: #FFFFFFFF; border-style:solid; border-color:inherits; border-width:1px; border-radius: 0 0 1rem 1rem ;">
+<a href="https://github.com/ChrisMantegna/WDFWmussels">
+<h5 class="card-title my-auto px-3 pt-3 pb-1 anchored">Biomarkers</h5>
+</a>
+<p class="card-text my-auto px-3 pb-3 pt-1">Utilizing Mytilus trossulus to validate traditional biomarkers in biomonitoring</p>
+</div>
+</div>
+<div class="card bg-transparent m-0 border-0 collapse.show bs4cards-blahblahblah " style="padding: .2rem ; border-width: 0; border-radius: 1rem 1rem 1rem 1rem ;">
+<a href="https://github.com/ChrisMantegna/WDFWmussels_epigenetics" style="color: inherit;">
+<img src="img/methylation_hex.png" class="card-img-top" style="border-style:solid; border-color:inherits; border-width:1px 1px 0 1px; border-radius: 1rem 1rem 0 0 ;">
+</a>
+<div class="card-body justify-content-end m-0 p-0" style="visibility: visible; background-color: #FFFFFFFF; border-style:solid; border-color:inherits; border-width:1px; border-radius: 0 0 1rem 1rem ;">
+<a href="https://github.com/ChrisMantegna/WDFWmussels_epigenetics">
+<h5 class="card-title my-auto px-3 pt-3 pb-1 anchored">DNA Methylation</h5>
+</a>
+<p class="card-text my-auto px-3 pb-3 pt-1">Assessing epigenetic response in Mytilus trossulus to PAHs</p>
+</div>
+</div>
+<div class="card bg-transparent m-0 border-0 collapse.show bs4cards-blahblahblah " style="padding: .2rem ; border-width: 0; border-radius: 1rem 1rem 1rem 1rem ;">
+<a href="https://github.com/ChrisMantegna/kenya_edna" style="color: inherit;">
+<img src="img/mormyrid_hex.png" class="card-img-top" style="border-style:solid; border-color:inherits; border-width:1px 1px 0 1px; border-radius: 1rem 1rem 0 0 ;">
+</a>
+<div class="card-body justify-content-end m-0 p-0" style="visibility: visible; background-color: #FFFFFFFF; border-style:solid; border-color:inherits; border-width:1px; border-radius: 0 0 1rem 1rem ;">
+<a href="https://github.com/ChrisMantegna/kenya_edna">
+<h5 class="card-title my-auto px-3 pt-3 pb-1 anchored">Lake Victoria</h5>
+</a>
+<p class="card-text my-auto px-3 pb-3 pt-1">Characterizing the community composition of Lake Victoria, Kenya with eDNA</p>
+</div>
+</div>
+<div class="card bg-transparent m-0 border-0 collapse.show bs4cards-blahblahblah " style="padding: .2rem ; border-width: 0; border-radius: 1rem 1rem 1rem 1rem ;">
+<a href="https://github.com/ChrisMantegna/yellowisland" style="color: inherit;">
+<img src="img/yellow_hex.png" class="card-img-top" style="border-style:solid; border-color:inherits; border-width:1px 1px 0 1px; border-radius: 1rem 1rem 0 0 ;">
+</a>
+<div class="card-body justify-content-end m-0 p-0" style="visibility: visible; background-color: #FFFFFFFF; border-style:solid; border-color:inherits; border-width:1px; border-radius: 0 0 1rem 1rem ;">
+<a href="https://github.com/ChrisMantegna/yellowisland">
+<h5 class="card-title my-auto px-3 pt-3 pb-1 anchored">Yellow Island</h5>
+</a>
+<p class="card-text my-auto px-3 pb-3 pt-1">Long term nearshore monitoring program</p>
+</div>
+</div>
+<div class="card bg-transparent m-0 border-0 collapse.show bs4cards-blahblahblah " style="padding: .2rem ; border-width: 0; border-radius: 1rem 1rem 1rem 1rem ;">
+<a href="https://github.com/ChrisMantegna/presentations" style="color: inherit;">
+<img src="img/prez_hex.png" class="card-img-top" style="border-style:solid; border-color:inherits; border-width:1px 1px 0 1px; border-radius: 1rem 1rem 0 0 ;">
+</a>
+<div class="card-body justify-content-end m-0 p-0" style="visibility: visible; background-color: #FFFFFFFF; border-style:solid; border-color:inherits; border-width:1px; border-radius: 0 0 1rem 1rem ;">
+<a href="https://github.com/ChrisMantegna/presentations">
+<h5 class="card-title my-auto px-3 pt-3 pb-1 anchored">Presentations</h5>
+</a>
+<p class="card-text my-auto px-3 pb-3 pt-1">Presentations &amp; workshops I've given (some of them) over my graduate career</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-custom" id="listing-projects">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="grid text-center list">
-<div class="g-col-12 g-col-lg-6 g-col-xl-4" data-index="0" data-categories="Mussels,Mytilus,Ecotoxicology,Epigenetics" data-listing-date-sort="1727766000000">
-<p><a href="https://github.com/ChrisMantegna/WDFWmussels_epigenetics" class=".quarto-grid-link" style="text-decoration: none;"></a></p><a href="https://github.com/ChrisMantegna/WDFWmussels_epigenetics" class=".quarto-grid-link" style="text-decoration: none;">
-<div class="quarto-grid-item card h-100 card-center projects">
-<div class="card-img-top">
-<img src="./img/mytilustrossulus.png" class="thumbnail-image card-img" loading="lazy" alt="Mussel Epigenetics">
-</div>
-<section id="mussel-epigenetics" class="level5 no-anchor card-title listing-title card-body post-contents">
-<h5 class="no-anchor card-title listing-title" data-anchor-id="mussel-epigenetics">Mussel Epigenetics</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Mussels'); return false;">Mussels</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Mytilus'); return false;">Mytilus</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Ecotoxicology'); return false;">Ecotoxicology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Epigenetics'); return false;">Epigenetics</div>
-
-</div>
-<div class="card-text listing-description">
-<p>Epigenetic analysis of mussels exposed to different concentrations of PAH contaminants from 4 sites across Puget Sound</p>
-</div>
-</section>
-<div class="card-footer">
-<div class="listing-date">
-<p>Oct 1, 2024</p>
-</div>
-</div>
-</div>
-</a><p><a href="https://github.com/ChrisMantegna/WDFWmussels_epigenetics" class=".quarto-grid-link" style="text-decoration: none;"></a></p>
-</div>
-<div class="g-col-12 g-col-lg-6 g-col-xl-4" data-index="1" data-categories="Mussels,Mytilus,Ecotoxicology,Biomarkers" data-listing-date-sort="1694761200000">
-<p><a href="https://github.com/ChrisMantegna/WDFWmussels" class=".quarto-grid-link" style="text-decoration: none;"></a></p><a href="https://github.com/ChrisMantegna/WDFWmussels" class=".quarto-grid-link" style="text-decoration: none;">
-<div class="quarto-grid-item card h-100 card-center projects">
-<div class="card-img-top">
-<img src="./img/musselbenchwork.jpeg" class="thumbnail-image card-img" loading="lazy" alt="Mussel Biomarkers">
-</div>
-<section id="mussel-biomarkers" class="level5 no-anchor card-title listing-title card-body post-contents">
-<h5 class="no-anchor card-title listing-title" data-anchor-id="mussel-biomarkers">Mussel Biomarkers</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Mussels'); return false;">Mussels</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Mytilus'); return false;">Mytilus</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Ecotoxicology'); return false;">Ecotoxicology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Biomarkers'); return false;">Biomarkers</div>
-
-</div>
-<div class="card-text listing-description">
-<p>Biochemical biomarker analysis of mussels from 74 sites across Puget Sound in collaboration with the WDFW Nearshore Monitoring Program</p>
-</div>
-</section>
-<div class="card-footer">
-<div class="listing-date">
-<p>Sep 15, 2023</p>
-</div>
-</div>
-</div>
-</a><p><a href="https://github.com/ChrisMantegna/WDFWmussels" class=".quarto-grid-link" style="text-decoration: none;"></a></p>
-</div>
-<div class="g-col-12 g-col-lg-6 g-col-xl-4" data-index="2" data-categories="Intertidal,Marine,Invertebrates,Ecology,eDNA" data-listing-date-sort="1688194800000">
-<p><a href="https://github.com/ChrisMantegna/YellowIsland2023" class=".quarto-grid-link" style="text-decoration: none;"></a></p><a href="https://github.com/ChrisMantegna/YellowIsland2023" class=".quarto-grid-link" style="text-decoration: none;">
-<div class="quarto-grid-item card h-100 card-center projects">
-<div class="card-img-top">
-<img src="./img/edna.jpg" class="thumbnail-image card-img" loading="lazy" alt="eDNA - Yellow Island 2023">
-</div>
-<section id="edna---yellow-island-2023" class="level5 no-anchor card-title listing-title card-body post-contents">
-<h5 class="no-anchor card-title listing-title" data-anchor-id="edna---yellow-island-2023">eDNA - Yellow Island 2023</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Intertidal'); return false;">Intertidal</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Marine'); return false;">Marine</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Invertebrates'); return false;">Invertebrates</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Ecology'); return false;">Ecology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('eDNA'); return false;">eDNA</div>
-
-</div>
-<div class="card-text listing-description">
-<p>Intertidal eDNA to compliment quadrat &amp; transect survey work on Yellow Island</p>
-</div>
-</section>
-<div class="card-footer">
-<div class="listing-date">
-<p>Jul 1, 2023</p>
-</div>
-</div>
-</div>
-</a><p><a href="https://github.com/ChrisMantegna/YellowIsland2023" class=".quarto-grid-link" style="text-decoration: none;"></a></p>
-</div>
-<div class="g-col-12 g-col-lg-6 g-col-xl-4" data-index="3" data-categories="Intertidal,Education,Marine,Ecology,Art" data-listing-date-sort="1682838000000">
-<p><a href="https://github.com/Intertidal-Innovators/InnovationGrantProject" class=".quarto-grid-link" style="text-decoration: none;"></a></p><a href="https://github.com/Intertidal-Innovators/InnovationGrantProject" class=".quarto-grid-link" style="text-decoration: none;">
-<div class="quarto-grid-item card h-100 card-center projects">
-<div class="card-img-top">
-<img src="./img/stripedleptasterias.jpg" class="thumbnail-image card-img" loading="lazy" alt="Intertidal Innovators">
-</div>
-<section id="intertidal-innovators" class="level5 no-anchor card-title listing-title card-body post-contents">
-<h5 class="no-anchor card-title listing-title" data-anchor-id="intertidal-innovators">Intertidal Innovators</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Intertidal'); return false;">Intertidal</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Education'); return false;">Education</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Marine'); return false;">Marine</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Ecology'); return false;">Ecology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Art'); return false;">Art</div>
-
-</div>
-<div class="card-text listing-description">
-<p>Increasing Environmental Connection, Literacy and Engagement through an Art + Science Collaborative Education Practice</p>
-</div>
-</section>
-<div class="card-footer">
-<div class="listing-date">
-<p>Apr 30, 2023</p>
-</div>
-</div>
-</div>
-</a><p><a href="https://github.com/Intertidal-Innovators/InnovationGrantProject" class=".quarto-grid-link" style="text-decoration: none;"></a></p>
-</div>
-<div class="g-col-12 g-col-lg-6 g-col-xl-4" data-index="4" data-categories="Intertidal,Marine,Invertebrates,Mentorship,Ecology" data-listing-date-sort="1646121600000">
-<p><a href="https://github.com/ChrisMantegna/yellowisland" class=".quarto-grid-link" style="text-decoration: none;"></a></p><a href="https://github.com/ChrisMantegna/yellowisland" class=".quarto-grid-link" style="text-decoration: none;">
-<div class="quarto-grid-item card h-100 card-center projects">
-<div class="card-img-top">
-<img src="./img/yellow.jpg" class="thumbnail-image card-img" loading="lazy" alt="Yellow Island Intertidal Monitoring Program">
-</div>
-<section id="yellow-island-intertidal-monitoring-program" class="level5 no-anchor card-title listing-title card-body post-contents">
-<h5 class="no-anchor card-title listing-title" data-anchor-id="yellow-island-intertidal-monitoring-program">Yellow Island Intertidal Monitoring Program</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Intertidal'); return false;">Intertidal</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Marine'); return false;">Marine</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Invertebrates'); return false;">Invertebrates</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Mentorship'); return false;">Mentorship</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Ecology'); return false;">Ecology</div>
-
-</div>
-<div class="card-text listing-description">
-<p>Intertidal Ecology, Community &amp; Joy</p>
-</div>
-</section>
-<div class="card-footer">
-<div class="listing-date">
-<p>Mar 1, 2022</p>
-</div>
-</div>
-</div>
-</a><p><a href="https://github.com/ChrisMantegna/yellowisland" class=".quarto-grid-link" style="text-decoration: none;"></a></p>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

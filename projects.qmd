@@ -14,7 +14,7 @@ format:
 source("_common.R")
 
 readr::read_csv(here::here("content", "projects.csv")) %>% 
-  select(-tags) %>% 
+  #select(-tags) %>% 
   bs4cards::cards(
     title = title,
     text = description,
