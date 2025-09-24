@@ -18,8 +18,6 @@ website:
             text: Extended Posts
       - href: projects.qmd
         text: Projects
-      - href: resources.qmd
-        text: Resources
 
 format:
   html:
