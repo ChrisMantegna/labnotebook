@@ -1,16 +1,16 @@
 ---
-title: "Extended Lab Notebook Posts"
+title: "Weekly Updates"
 page-layout: full
 title-block-banner: true
-image: /img/social-profile.png
+image: "img/crabinhand.jpg"
 listing:
   contents: extended
   sort: "date desc"
   type: default
-  image-placeholder: "../imgs/logo.jpg"
+  image-placeholder: "img/labnotebookmeme.png"
   categories: true
   sort-ui: true
   filter-ui: false
 ---
 
-Home of the extended lab notebook posts that is in the folder: extended
+Weekly wrap-up of the work done and agendas for PI/ committee meetings 

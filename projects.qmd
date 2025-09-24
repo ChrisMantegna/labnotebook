@@ -1,18 +1,26 @@
 ---
-title: "Projects"
-page-layout: full
-title-block-banner: FALSE
-listing:
-  - id: projects
-    template: projects.ejs
-    categories: true
-    sort-ui: false
-    sort: "date desc"
-    filter-ui: true
-    max-description-length: 300
-    page-size: 6
-    fields: [image, title, description, categories]
-
+title: Current Projects
+description: My active research projects
+execute: 
+  echo: false
+  message: false
+  warning: false
+format:
+  html: 
+    css: projects.css
 ---
 
-# fix format - start from the beginning & grab the projects csv to update
+```{r projects}
+source("_common.R")
+
+readr::read_csv(here::here("content", "projects.csv")) %>% 
+  select(-tags) %>% 
+  bs4cards::cards(
+    title = title,
+    text = description,
+    link = url,
+    image = src,
+    label_colour = "#ffffff",
+    border_radius = 5
+  )
+```
