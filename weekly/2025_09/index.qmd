@@ -1,5 +1,5 @@
 ---
-title: "1v1 Agenda for September 25, 2025 Meeting"
+title: "Weekly Adviser Meeting"
 date: '2025-09-24'
 categories:
   - 1v1
@@ -9,18 +9,19 @@ execute:
   message: false
 ---
 
-This will be an agenda for my meeting with SR tomorrow
-SR 1v1 Agenda:
-* Milestones review 
-* AY Overview
-    * Big 3 goals for the year w/ a timeline
-    * Include a Quarter overview with
-        * My major deliverables
-        * My goal to take my writtens
-        * A ‘preview of winter quarter
+Agenda for 09.25.2025 Meeting
+
+* Milestones review (SAFS form)
+
+* Big 3 goals for the quarter
+        * Submit Bypass Package by Nov 15th
+        * Prepare for written exam in Jan/Feb 2026
+        * Get Yellow & Kenya eDNA samples out
+
 * Bypass package status
     * Big piece timeline
-        * Includes biomarker manuscript
-    * Percent completion
+        * Includes biomarker manuscript (submit between 10/1/25 - 3/1/2026)
+    * Current completion percentage - 30%
     * Where I need help
     * Scheduling a committee meeting
+

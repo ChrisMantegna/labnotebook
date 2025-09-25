@@ -2,6 +2,4 @@
 title: "About"
 ---
 
-![Working with REU and Doris Duke Scholars at FHL in 2024](img/edna.jpg){fig-align="left" width="400"}
-
-This page is under construction!
+[![Turning the Tide. Check out our work on Yellow Island while I finish building this page!](img/20240623_FH2_211.jpg)](https://youtu.be/VLLocGcP9S8)
