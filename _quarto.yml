@@ -9,21 +9,19 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: projects.qmd
+        text: Projects
       - href: lab_notebook.qmd
         text: Lab Notebook
         menu: 
           - href: dailylog.qmd
-            text: Daily Log
-          - href: extendedposts.qmd
-            text: Extended Posts
-      - href: projects.qmd
-        text: Projects
+          - href: weeklyupdates.qmd
 
 format:
   html:
     theme: pulse
     css: styles.css
-    toc: true
+    toc: false
 
 editor: source
 

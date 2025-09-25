@@ -1,15 +1,16 @@
 ---
-title: "Daily Lab Notebook Log"
+title: "Daily Working Log"
 page-layout: full
 title-block-banner: true
 listing:
-  contents: daily_notebook_posts
+  contents: daily_log
   sort: "date desc"
   type: table
-  image-placeholder: "../imgs/logo.jpg"
+  image-placeholder: "img/labnotebookmeme.png"
   categories: true
-  sort-ui: true
+  sort-ui: false
   filter-ui: false
 ---
 
 Home of the daily posts that is in the folder: daily
+

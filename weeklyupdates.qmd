@@ -4,7 +4,7 @@ page-layout: full
 title-block-banner: true
 image: "img/crabinhand.jpg"
 listing:
-  contents: extended
+  contents: weekly
   sort: "date desc"
   type: default
   image-placeholder: "img/labnotebookmeme.png"

@@ -1,0 +1,13 @@
+---
+title: "New AY, New Set Up"
+date: '2025-09-24'
+categories:
+  - general
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+Setting up the format. This will be the daily log post style - need to tweak to double check the format
+

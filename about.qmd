@@ -2,8 +2,7 @@
 title: "About"
 ---
 
-About me Add a brief overview of my journey Add media + cv + link to lab
+Add a brief overview of my journey   
+Add media + cv + link to lab
 
-```{r}
-1 + 1
-```
+

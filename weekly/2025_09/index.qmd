@@ -1,0 +1,26 @@
+---
+title: "1v1 Agenda for September 25, 2025 Meeting"
+date: '2025-09-24'
+categories:
+  - 1v1
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+This will be an agenda for my meeting with SR tomorrow
+SR 1v1 Agenda:
+* Milestones review 
+* AY Overview
+    * Big 3 goals for the year w/ a timeline
+    * Include a Quarter overview with
+        * My major deliverables
+        * My goal to take my writtens
+        * A ‘preview of winter quarter
+* Bypass package status
+    * Big piece timeline
+        * Includes biomarker manuscript
+    * Percent completion
+    * Where I need help
+    * Scheduling a committee meeting

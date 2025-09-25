@@ -2,7 +2,7 @@
   {
     "listing": "/dailylog.html",
     "items": [
-      "/daily_notebook_posts/first_post.html"
+      "/daily_log/2025_0924/index.html"
     ]
   },
   {
@@ -13,6 +13,12 @@
     "listing": "/extendedposts.html",
     "items": [
       "/extended/testing_extended.html"
+    ]
+  },
+  {
+    "listing": "/weeklyupdates.html",
+    "items": [
+      "/weekly/2025_09/index.html"
     ]
   }
 ]
