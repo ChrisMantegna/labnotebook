@@ -1,0 +1,27 @@
+---
+title: "Weekly Adviser Meeting"
+date: '2025-09-24'
+categories:
+  - 1v1
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+Agenda for 09.25.2025 Meeting
+
+* Milestones review (SAFS form)
+
+* Big 3 goals for the quarter
+        * Submit Bypass Package by Nov 15th
+        * Prepare for written exam in Jan/Feb 2026
+        * Get Yellow & Kenya eDNA samples out
+
+* Bypass package status
+    * Big piece timeline
+        * Includes biomarker manuscript (submit between 10/1/25 - 3/1/2026)
+    * Current completion percentage - 30%
+    * Where I need help
+    * Scheduling a committee meeting
+
