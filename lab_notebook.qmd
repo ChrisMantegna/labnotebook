@@ -1,5 +1,0 @@
----
-title: "Lab Notebook"
----
-
-Daily Log & Weekly Posts will live here

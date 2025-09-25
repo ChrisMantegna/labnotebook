@@ -1,5 +1,5 @@
 ---
-title: "Daily Working Log"
+title: "Daily Log"
 page-layout: full
 title-block-banner: true
 listing:
@@ -12,5 +12,8 @@ listing:
   filter-ui: false
 ---
 
-Home of the daily posts that is in the folder: daily
+![](img/labnotebookmeme.png){fig-align="center" width="445"}
 
+::: {style="text-align:center"}
+It's all fun and games until your adviser asks if you've updated your lab notebook!
+:::

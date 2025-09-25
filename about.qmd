@@ -2,7 +2,6 @@
 title: "About"
 ---
 
-Add a brief overview of my journey   
-Add media + cv + link to lab
+![Working with REU and Doris Duke Scholars at FHL in 2024](img/edna.jpg){fig-align="left" width="400"}
 
-
+This page is under construction!

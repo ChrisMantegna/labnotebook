@@ -5,18 +5,14 @@ website:
   title: "Progress Makes a PhD"
   navbar:
     right:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: projects.qmd
-        text: Projects
-      - href: lab_notebook.qmd
-        text: Lab Notebook
-        menu: 
-          - href: dailylog.qmd
-          - href: weeklyupdates.qmd
-
+    - text: Home
+      href: index.qmd
+    - about.qmd
+    - projects.qmd
+    - text: Lab Notebook
+      menu:
+      - dailylog.qmd
+      - weeklyupdates.qmd
 format:
   html:
     theme: pulse
@@ -24,4 +20,3 @@ format:
     toc: false
 
 editor: source
-

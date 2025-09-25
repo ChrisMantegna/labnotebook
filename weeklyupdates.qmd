@@ -7,10 +7,13 @@ listing:
   contents: weekly
   sort: "date desc"
   type: default
-  image-placeholder: "img/labnotebookmeme.png"
   categories: true
   sort-ui: true
   filter-ui: false
 ---
 
-Weekly wrap-up of the work done and agendas for PI/ committee meetings 
+![](img/crabinhand.jpg){fig-align="center" width="400"}
+
+::: {style="text-align:center"}
+Weekly wrap-ups & agendas for PI/ committee meetings
+:::
