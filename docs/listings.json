@@ -2,6 +2,7 @@
   {
     "listing": "/dailylog.html",
     "items": [
+      "/daily_log/2025_0925/index.html",
       "/daily_log/2025_0924/index.html"
     ]
   },
@@ -18,8 +19,8 @@
   {
     "listing": "/weeklyupdates.html",
     "items": [
-      "/weekly/2025_09/index.html",
-      "/weekly/2025_08/index.html"
+      "/weekly/2025_0927/index.html",
+      "/weekly/2025_0831/index.html"
     ]
   }
 ]
