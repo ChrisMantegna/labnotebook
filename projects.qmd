@@ -1,0 +1,28 @@
+---
+title: Current Projects
+description: My active research projects
+execute: 
+  echo: false
+  message: false
+  warning: false
+format:
+  html: 
+    css: projects.css
+---
+
+```{r projects}
+
+library(dplyr)
+
+readr::read_csv(here::here("content", "projects.csv")) %>% 
+  #select(-tags) %>% 
+  bs4cards::cards(
+    title = title,
+    text = description,
+    link = url,
+    image = src,
+    label_colour = "#ffffff",
+    border_radius = 5
+  )
+
+```

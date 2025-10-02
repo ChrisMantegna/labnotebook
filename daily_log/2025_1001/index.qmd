@@ -1,0 +1,15 @@
+---
+title: "Biomarkers & Mentorship"
+date: '2025-10-01'
+categories:
+  - biomarkers
+  - mentorship
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+-   Started with a re-run of my site comparisons for the biomarkers. I was writing the results and trying to make some sense of what wasn't sitting right, and it turns out that if you aren't using the correct df in your code, you get a p-value of 0.478 for every single metric you are looking at when trying to understand if there are differences by site...
+-   Alison and I met to talk about the paper and how we're going to get the manuscript ready for the WIMS x ICB submission window timeframe. I felt really good about it and I believe she's cautiously optimistic that we'll make it!
+-   I had a wonderful conversation with Chelsea Wood today - scheduled - to discuss how to start curating my science brand and where to focus my professional development so that I'm not trying to slam in all of the work in my final year when I'm trying to apply for positions.

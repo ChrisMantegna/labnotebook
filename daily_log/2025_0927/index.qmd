@@ -1,0 +1,12 @@
+---
+title: "Day Off"
+date: '2025-09-27'
+categories:
+  - day off
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+No science work was done today.
