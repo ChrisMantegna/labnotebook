@@ -1,6 +1,6 @@
 ---
 title: "Weekly Adviser Meeting"
-date: '2025-09-24'
+date: '2025-10-02'
 categories:
   - 1v1
 execute:
