@@ -1,0 +1,84 @@
+---
+title: "Weekly Adviser Meeting"
+date: '2025-09-24'
+categories:
+  - 1v1
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+The goal today is to work through building my committee meeting presentation and ending with a recap of activities from the week.\
+
+### Last week recap
+
+-   Milestones form updated
+
+    -   Please sign the Docusign form sent via email so I can update the tracker
+
+    -   Committee meeting set of October 9th at 12pm
+
+    -   Only remaining 'overdue' milestone is my MS proposal, will become a moot point when I submit my bypass
+
+### New this week
+
+-   Biomarker paper update
+    -   Working the plotting through Friday (10/3)
+    -   Drafting discussion/ intro through Monday (10/5)
+    -   Goal - draft to you and Alison by committee meeting on 10/9
+        -   Not as a part of the meeting
+-   Bypass package scope refinement
+    -   Not sure how to really package this, so I need so help thinking through scoping the work. The research assumptions and questions below are where I think it works.
+    -   My goal is to have a working presentation to you for review by COB on 10/07.
+        -   Will build based on how we adjust the questions/ assumptions below
+
+### Research Questions
+
+1.  What is the community composition of the nearshore ecosystem in Puget Sound?
+
+    1.  Are there any temporal similarities or differences across the sound? Anything not expected?
+
+    2.  Can we identify any trends that point toward resilience or adverse response to human impacts? 
+
+2.  What is the impact of legacy contaminants and heavy metals on foundational nearshore organisms?
+
+    1.  How does regional (and nationally established and backed) biennial monitoring support conservation strategy development in Puget Sound?
+
+    2.  Can that monitoring model be leveraged to also infer organismal impact?
+
+        1.  If so, does organismal impact align with the contamination profiles at each monitored site?
+
+3.  How do we identify data-driven opportunities in conservation ecology and utilize those to prepare the next generation of conservation ecologists?
+
+    1.  What is the current state of conservation ecology? Is it effective? How do we know?
+
+        1.  Scoped to historical efficacy, collegiate preparation and inclusion, and new data techniques to bring together all the pertinent information to make decisions.
+
+        2.  Looking through the data and practitioners - not policy even though I will have to address 
+
+    2.  What teaching methods will support the learning and research for the next group of conservationists?
+
+    3.  Where are the new and the established conservationists aligned or mismatched with current conservation professionals?
+
+        1.  Social expectation - changes in workload versus personal time, work ethic?, compensation, and societal acceptance or celebration of the work
+
+        2.  Educational expectation - what skills are new folks coming in with, is it mismatched to what is needed, how does the UG degree provide (or not) the skills to be successful, and is there commentary on how that has changed over time?
+
+        3.  Urgency - efficacy is the question of the hour as we are losing time to ‘reverse’ or ‘stop’ change. Can we stop it, should we stop it, and how does multiple knowledge systems’ incorporation into the application of the data (and how its gathered) alter or confirm the future of conservation?
+
+### Research Assumptions
+
+-   Assessing the nearshore environment from ecosystem level to organismal impact is thorough but incomplete without considering how the human element impacts the ecosystem.
+
+-   Conservation Ecology is the end focus - what can my work do to bring together/ or bridge the existing data, identify where data is incomplete, or support the folks who want data-driven actions/ solutions to conservation
+
+-   We are **not** working with micro-plastics. Contamination work is the only axis of alteration we are assessing directly.
+
+### Things to Consider
+
+-   Where are the gaps in my approach?
+
+-   Can I launch an eDNA bio blitz where WDFW is outplanting the mussels if we find interesting correlations from the biomarker work and the DNA methylation work?
+
+-   What are the other axes of human impact in conservation ecology that I’m overlooking OR need to address?
