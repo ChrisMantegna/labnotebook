@@ -1,9 +1,7 @@
 ---
-title: "October Goals"
-date: '2025-10-01'
+title: "October Committee Meeting"
+date: '2025-10-07'
 categories:
-  - biomarkers
-  - bypass package
   - committee meeting
 execute:
   echo: false
