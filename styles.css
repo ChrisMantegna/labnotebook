@@ -13,3 +13,16 @@
   line-height: 1.2;
 }
 
+section.fullpage {
+  min-height: 100vh;   /* fills the viewport */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 4rem;
+  scroll-snap-align: start;
+  border-bottom: 2px solid #ccc;
+}
+body {
+  scroll-snap-type: y mandatory;
+}
+

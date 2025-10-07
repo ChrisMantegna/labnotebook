@@ -9,45 +9,97 @@ execute:
   message: false
 ---
 
-# Hello
+## Hello
 
-## put something here that outlines the goals for the meeting
+### put something here that outlines the goals for the meeting
 
-# Committee
+## Committee
 
-## Committee Members
+### Committee Members
 
-::::::: {.grid .grid-cols-4 .gap-4 .text-center}
-::: card
-```         
-```
+list names and specialties
 
-![](img/steven_hex.png)\<p\>\<strong\>Chair\</strong\>\<br\>\<em\>Physiology & Functional Genomics\</em\>\</p\>
-:::
+## Where is in the world is Chris Mantegna?
 
-::: card
-```         
-<img src="img/alison_hex.png" alt="Alison Gardell" class="rounded-xl shadow">
-<p><strong>Member</strong><br><em>Ecotoxicology</em></p>
-```
-:::
+recent interests and galavantings re: science
 
-::: card
-```         
-<img src="img/psean_hex.png" alt="P. Sean McDonald" class="rounded-xl shadow">
-<p><strong>Member</strong><br><em>Applied Marine Ecology</em></p>
-```
-:::
+## Research Questions
 
-::: card
-```         
-<img src="img/jose_hex.png" alt="José Guzmán" class="rounded-xl shadow">
-<p><strong>Member</strong><br><em>Pedagogy & Organismal Biologyy</em></p>
-```
-:::
-:::::::
+### MS Research Focus: Organismal reponse to legacy contaminants and heavy metals  
+Can we use an existing Puget Sound biomonitorting program (WDFW Nearshore Monitoring) to assess the response of _Mytilus trossulus_ to legacy contaminants and heavy metals?  
+a) Can we validate the use of traditional biomarkers using Mytilus trossulus' from the nearshore monitoring program?
+b) Can we identify candidate pathways/targets associated with exposure that could inform future biomarkers?  
 
-# Where is in the world is Chris Mantegna?
+## Current Research
+All current research will have the research question below the project name
+Current status of the project (manuscript prep, data analysis, bench work, etc)
+A plot or image, and anticipated outcome  
+
+### Biomarkers
+add a plot or two that illustrates the major findings. 
+
+### DNA Methylation
+add something from the Merry Mytilus page or a methods picture  
+
+### Yellow Island eDNA    
+transitioning into ecosystem level assessment to understand community comp and possible role of basic ecology in mitigating contaminant impacts 
+
+### Kenya eDNA 
+applying marine techniques to freshwater systems & building collabs across UMN and KNM
+
+## Expansion to PhD  
+### Research Questions
+Premise: Conservation Ecology spans a wide depth and breadth of expertise and practitioners with no shortage of opinions and strategies. Focusing on the conservation of nearshore ecosystems in Puget Sound regarding contaminants, I am interested in the ecology of the nearshore environment, advancing assessment techniques that clarify organismal impact, and identifying places to bridge the knowledge and skills of existing and future  conservationists. 
+To do this, my research questions pivot slightly to
+Main: Can we more efficiently weave multiple knowledge systems to increase conservation efficacy?
+What is the community composition of the nearshore ecosystem in Puget Sound? (yellow island)
+What is the impact of legacy contaminants and heavy metals on foundational nearshore organisms? (biomarker & methylation)
+How do we identify data-driven opportunities in conservation ecology and utilize those to prepare the next generation of conservation ecologists?
+
+### Conservation Ecology - tying in the human aspect to the organism and ecosystem work
+Social science chapter asking 
+
+## Enough to pivot to a PhD? Thoughts, suggestions, callouts?
+
+## Transitioning to PhD
+### Steps
+add the truncated checklist here - 12 items with a quick explainer for MS requirements and PhD requirements (maybe make a 2 column checkbox setup - use traffic lights; green is done, yellow is in progress and red isn't started yet)
+
+### Timeline - make a funnel, big picture down to the next 40 days
+Bypass package due to the graduate school November 15th for a Winter Quarter PhD student status
+Written exam window: Feb 1 - 28
+PhD proposal submission: March 15 - April 15
+PhD proposal defense: May 
+
+### Asks - add the ask below each major phase (editing/ feedback, signatures on docusign forms, reading list)
+
+### Deliverables
+biomarker manuscript draft - 10/10
+MS thesis draft - 10/17
+PhD proposal draft 10/24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 To accomplish this goal I must complete/ submit the following\
 - \[x\] Identify MS Committee Members 
