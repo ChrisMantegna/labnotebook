@@ -1,0 +1,39 @@
+---
+title: "October Goals"
+date: '2025-10-01'
+categories:
+  - biomarkers
+  - bypass package
+  - committee meeting
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+I have one overarching goal this month and that is to complete the draft of my bypass package and get it to my committee for review by the close of business on October 31st. 
+
+To accomplish this goal I must complete/ submit the following\
+- \[x\] Identify MS Committee Members 
+
+\- \[ \] Obtain Chair Confirmation Statement 
+
+\- \[x\] Unofficial Transcript 
+
+\- \[x\] MS Plan of Study 
+
+\- \[x\] Complete 45 course hours, including assigned FISH courses 
+
+\- \[ \] MS Research Statement/ cover letter 
+
+\- \[ \] MS Research Proposal 
+
+\- \[ \] Accepted Manuscript 
+
+\- \[ \] PhD Proposal 
+
+\- \[ \] PhD Timeline 
+
+\- \[ \] PhD Funding Mechanism 
+
+\- \[ \] CV
