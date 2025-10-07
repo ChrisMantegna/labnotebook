@@ -7,9 +7,48 @@ execute:
   echo: false
   warning: false
   message: false
+  
 ---
 
-I have one overarching goal this month and that is to complete the draft of my bypass package and get it to my committee for review by the close of business on October 31st. 
+# Hello
+
+## put something here that outlines the goals for the meeting
+
+# Committee
+
+## Committee Members
+
+::::::: {.grid .grid-cols-4 .gap-4 .text-center}
+::: card
+```         
+<img src="img/steven_hex.png" alt="Steven Roberts" class="rounded-xl shadow">
+<p><strong>Chair</strong><br><em>Physiology & Functional Genomics</em></p>
+```
+:::
+
+::: card
+```         
+<img src="img/alison_hex.png" alt="Alison Gardell" class="rounded-xl shadow">
+<p><strong>Member</strong><br><em>Ecotoxicology</em></p>
+```
+:::
+
+::: card
+```         
+<img src="img/psean_hex.png" alt="P. Sean McDonald" class="rounded-xl shadow">
+<p><strong>Member</strong><br><em>Applied Marine Ecology</em></p>
+```
+:::
+
+::: card
+```         
+<img src="img/jose_hex.png" alt="José Guzmán" class="rounded-xl shadow">
+<p><strong>Member</strong><br><em>Pedagogy & Organismal Biologyy</em></p>
+```
+:::
+:::::::
+
+# Where is in the world is Chris Mantegna?
 
 To accomplish this goal I must complete/ submit the following\
 - \[x\] Identify MS Committee Members 

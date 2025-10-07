@@ -58,3 +58,36 @@ prez_hex<-sticker(image, package="Presentations", p_size=14,
 print(prez_hex)
 
 ## Making hex stickers for committee members
+# steven
+image<- image_read("img/steven.jpg")
+mormyrid_hex<-sticker(image, package="Steven Roberts", p_size=15,
+                      p_y = 1.5,
+                      s_x=1, s_y=0.8, s_width=0.9,
+                      s_height = 14,
+                      filename="img/steven_hex.png",h_fill="#32006e",h_color = "#32006e")
+
+# alison
+image<- image_read("img/alison.jpg")
+mormyrid_hex<-sticker(image, package="Alison Gardell", p_size=15,
+                      p_y = 1.5,
+                      s_x=1, s_y=0.8, s_width=0.9,
+                      s_height = 14,
+                      filename="img/alison_hex.png",h_fill="#32006e",h_color = "#32006e")
+
+# p sean
+image<- image_read("img/psean.jpg")
+mormyrid_hex<-sticker(image, package="P Sean McDonald", p_size=12,
+                      p_y = 1.5,
+                      s_x=1, s_y=0.8, s_width=0.9,
+                      s_height = 14,
+                      filename="img/psean_hex.png",h_fill="#32006e",h_color = "#32006e")
+
+# jose
+image<- image_read("img/jose.jpg")
+mormyrid_hex<-sticker(image, package="José Guzmán", p_size=15,
+                      p_y = 1.5,
+                      s_x=1, s_y=0.8, s_width=0.9,
+                      s_height = 14,
+                      filename="img/jose_hex.png",h_fill="#32006e",h_color = "#32006e")
+
+

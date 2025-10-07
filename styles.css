@@ -3,3 +3,13 @@
 .navbar {
   background-color: #4B2E83;
 }
+
+.card img {
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
+.card p {
+  font-size: 0.9em;
+  line-height: 1.2;
+}
+
