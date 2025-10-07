@@ -7,7 +7,6 @@ execute:
   echo: false
   warning: false
   message: false
-  
 ---
 
 # Hello
@@ -21,9 +20,9 @@ execute:
 ::::::: {.grid .grid-cols-4 .gap-4 .text-center}
 ::: card
 ```         
-<img src="img/steven_hex.png" alt="Steven Roberts" class="rounded-xl shadow">
-<p><strong>Chair</strong><br><em>Physiology & Functional Genomics</em></p>
 ```
+
+![](img/steven_hex.png)\<p\>\<strong\>Chair\</strong\>\<br\>\<em\>Physiology & Functional Genomics\</em\>\</p\>
 :::
 
 ::: card
