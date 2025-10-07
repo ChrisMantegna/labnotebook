@@ -56,3 +56,5 @@ prez_hex<-sticker(image, package="Presentations", p_size=14,
                        s_height = 14,
                        filename="img/prez_hex.png",h_fill="#32006e",h_color = "#32006e")
 print(prez_hex)
+
+## Making hex stickers for committee members
