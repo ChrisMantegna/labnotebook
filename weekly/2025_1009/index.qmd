@@ -7,99 +7,131 @@ execute:
   echo: false
   warning: false
   message: false
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    page-layout: full
+    code-fold: true
 ---
 
-## Hello
-
-### put something here that outlines the goals for the meeting
-
-## Committee
+### Goals for Today's Meeting
 
 ### Committee Members
 
-list names and specialties
+![](img/committee.png){fig-align="center"}
 
-## Where is in the world is Chris Mantegna?
+------------------------------------------------------------------------
 
-recent interests and galavantings re: science
+### Where is in the world is Chris Mantegna?
 
-## Research Questions
+PLACEHOLDER - Add a Research, Mentoring & teaching photo for each w/ a caption that says research, mentoring or teaching
 
-### MS Research Focus: Organismal reponse to legacy contaminants and heavy metals  
-Can we use an existing Puget Sound biomonitorting program (WDFW Nearshore Monitoring) to assess the response of _Mytilus trossulus_ to legacy contaminants and heavy metals?  
-a) Can we validate the use of traditional biomarkers using Mytilus trossulus' from the nearshore monitoring program?
-b) Can we identify candidate pathways/targets associated with exposure that could inform future biomarkers?  
+------------------------------------------------------------------------
 
-## Current Research
-All current research will have the research question below the project name
-Current status of the project (manuscript prep, data analysis, bench work, etc)
-A plot or image, and anticipated outcome  
+### MS Research Questions
 
-### Biomarkers
-add a plot or two that illustrates the major findings. 
+::: callout-Focus
+Leveraging existing biomonitoring programs to assess organismal response to legacy contaminants and heavy metals in Puget Sound.
+:::
 
-### DNA Methylation
-add something from the Merry Mytilus page or a methods picture  
+> Main Question: Can long-running mussel outplant data from WDFW's Nearshore Monitoring Program be leveraged to link contaminant exposure to physiological and epigenetic responses in *Mytilus trossulus*?
+>
+> -   Do established biomarkers in *M. trossulus* show reproducible exposure–response associations with site-level contaminant burdens and classes?
+>
+> -   Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers?
 
-### Yellow Island eDNA    
-transitioning into ecosystem level assessment to understand community comp and possible role of basic ecology in mitigating contaminant impacts 
+------------------------------------------------------------------------
 
-### Kenya eDNA 
-applying marine techniques to freshwater systems & building collabs across UMN and KNM
+### Current Research
 
-## Expansion to PhD  
-### Research Questions
-Premise: Conservation Ecology spans a wide depth and breadth of expertise and practitioners with no shortage of opinions and strategies. Focusing on the conservation of nearshore ecosystems in Puget Sound regarding contaminants, I am interested in the ecology of the nearshore environment, advancing assessment techniques that clarify organismal impact, and identifying places to bridge the knowledge and skills of existing and future  conservationists. 
-To do this, my research questions pivot slightly to
-Main: Can we more efficiently weave multiple knowledge systems to increase conservation efficacy?
-What is the community composition of the nearshore ecosystem in Puget Sound? (yellow island)
-What is the impact of legacy contaminants and heavy metals on foundational nearshore organisms? (biomarker & methylation)
-How do we identify data-driven opportunities in conservation ecology and utilize those to prepare the next generation of conservation ecologists?
+PLACEHOLDER/ REMINDER TEXT: All current research will have the research question below the project name Current status of the project (manuscript prep, data analysis, bench work, etc) A plot or image, and anticipated outcome
 
-### Conservation Ecology - tying in the human aspect to the organism and ecosystem work
-Social science chapter asking 
+#### Biomarkers
 
-## Enough to pivot to a PhD? Thoughts, suggestions, callouts?
+::: {callout-Question}
+Do established biomarkers in *M. trossulus* show reproducible exposure–response associations with site-level contaminant burdens and classes?
+:::
 
-## Transitioning to PhD
-### Steps
+> **Project Status:** Manuscript drafting
+>
+> **Results Outcome:** The biomarker and morphometric measurements were inconsistent with the contaminant profiles at each site, most likely due to a combination of post-retrieval handling and temporal scale. Plot of RA & IBR box plot
+
+![L: Biomarker evaluation sites grouped by Reporting Area. R: Integrated Biomarker Response results by Reporting Area, Penn Cove Reference site indicated by the triangle](img/biomarker_plot.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+#### DNA Methylation
+
+Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers? Project Status: Analysis in progress Project Goals: Discover exposure-associated methylation signatures and pathway enrichments that prioritize targets for next-generation biomarkers. add something from the Merry Mytilus page or a methods picture
+
+------------------------------------------------------------------------
+
+### Expansion to PhD
+
+#### Research Questions
+
+::: callout-Focus
+Conservation Ecology encompasses diverse expertise, methodologies, and perspectives, yet the integration of these knowledge systems remains a persistent challenge. Centered on the nearshore ecosystems of Puget Sound, my research examines both the ecological responses of foundational species to legacy contaminants and the human systems shaping conservation practice and knowledge exchange. I aim to link biological and socio-cultural data to understand how interdisciplinary frameworks can strengthen conservation outcomes and training.
+:::
+
+> Main Question: How can multiple knowledge systems (scientific, community based, and traditional) be more effectively woven together to improve conservation efficacy in nearshore ecosystems?
+>
+> -   What are the patterns of community composition and species interactions in Puget Sound’s nearshore ecosystems, and how are these shaped by gradients of contamination and habitat condition? (yellow island)
+>
+> > -   **Purpose:** Connect molecular and physiological indicators (from your MS) to community-level processes — showing that contaminants influence not just individuals but ecological structure and function.
+>
+> -   How do legacy contaminants and heavy metals influence the physiological and epigenetic resilience of foundational nearshore organisms?
+>
+> > -   **Purpose:** Extend the MS focus by incorporating methylation and physiological pathways into a broader framework of resilience and adaptive capacity.
+>
+> -   How can data-driven insights and interdisciplinary frameworks be mobilized to train and empower the next generation of conservation ecologists?
+>
+> > -   **Purpose:** Create a practical link between your research outputs and conservation capacity-building — connecting ecological monitoring, pedagogy, and community partnership.
+
+------------------------------------------------------------------------
+
+#### Yellow Island Pedagogy & eDNA
+
+Question Project Status: Project Outcomes:
+
+------------------------------------------------------------------------
+
+#### Kenya eDNA
+
+Question Objective: applying marine techniques to freshwater systems & building collabs across UMN and KNM Project Status: Project Outcomes:
+
+------------------------------------------------------------------------
+
+#### Conservation Ecology
+
+Question Objective: tying in the human aspect to the organism and ecosystem work. Social science chapter asking Project Status: Project Outcomes:
+
+------------------------------------------------------------------------
+
+### Enough to pivot to a PhD? Thoughts, suggestions, callouts?
+
+add a graphic or something not project relates to allow for time to review without seeing next up or previous work
+
+------------------------------------------------------------------------
+
+### Transitioning to PhD
+
+#### Steps
+
 add the truncated checklist here - 12 items with a quick explainer for MS requirements and PhD requirements (maybe make a 2 column checkbox setup - use traffic lights; green is done, yellow is in progress and red isn't started yet)
 
-### Timeline - make a funnel, big picture down to the next 40 days
-Bypass package due to the graduate school November 15th for a Winter Quarter PhD student status
-Written exam window: Feb 1 - 28
-PhD proposal submission: March 15 - April 15
-PhD proposal defense: May 
+#### Timeline - make a funnel, big picture down to the next 40 days
 
-### Asks - add the ask below each major phase (editing/ feedback, signatures on docusign forms, reading list)
+Bypass package due to the graduate school November 15th for a Winter Quarter PhD student status Written exam window: Feb 1 - 28 PhD proposal submission: March 15 - April 15 PhD proposal defense: May
 
-### Deliverables
-biomarker manuscript draft - 10/10
-MS thesis draft - 10/17
-PhD proposal draft 10/24
+#### Asks - add the ask below each major phase (editing/ feedback, signatures on docusign forms, reading list)
 
+#### Deliverables
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+biomarker manuscript draft - 10/10 MS thesis draft - 10/17 PhD proposal draft 10/24
 
 To accomplish this goal I must complete/ submit the following\
 - \[x\] Identify MS Committee Members 

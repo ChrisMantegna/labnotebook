@@ -4,6 +4,11 @@
   background-color: #4B2E83;
 }
 
+/* Increase line spacing */
+.reveal p {
+  line-height: 1.5;
+}
+
 .card img {
   border-radius: 12px;
   margin-bottom: 10px;
