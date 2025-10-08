@@ -4,6 +4,11 @@
   background-color: #4B2E83;
 }
 
+/* Increase line spacing */
+.reveal p {
+  line-height: 1.5;
+}
+
 .card img {
   border-radius: 12px;
   margin-bottom: 10px;
@@ -11,5 +16,18 @@
 .card p {
   font-size: 0.9em;
   line-height: 1.2;
+}
+
+section.fullpage {
+  min-height: 100vh;   /* fills the viewport */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 4rem;
+  scroll-snap-align: start;
+  border-bottom: 2px solid #ccc;
+}
+body {
+  scroll-snap-type: y mandatory;
 }
 
