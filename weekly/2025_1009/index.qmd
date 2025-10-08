@@ -57,7 +57,7 @@ Do established biomarkers in *M. trossulus* show reproducible exposure–respons
 
 > **Project Status:** Manuscript drafting
 >
-> **Results Outcome:** The biomarker and morphometric measurements were inconsistent with the contaminant profiles at each site, most likely due to a combination of post-retrieval handling and temporal scale. Plot of RA & IBR box plot
+> **Results Outcome:** The biomarker and morphometric measurements were inconsistent with the contaminant profiles at each site, most likely due to a combination of post-retrieval handling and temporal scale. Plot of RA & IBR box plot.
 
 ![L: Biomarker evaluation sites grouped by Reporting Area. R: Integrated Biomarker Response results by Reporting Area, Penn Cove Reference site indicated by the triangle](img/biomarker_plot.png){fig-align="center"}
 
