@@ -16,7 +16,7 @@ format:
     code-fold: true
 ---
 
----
+------------------------------------------------------------------------
 
 ### Goals for Today's Meeting
 
@@ -37,21 +37,17 @@ format:
     -   Deliverables & Asks
 
 ------------------------------------------------------------------------
----
 
 ### Committee Members
 
 ![](img/committee.png){fig-align="center"}
 
----
 ------------------------------------------------------------------------
-
 
 ### What I've been up to
 
-![Where in the world is Chris?](img/2025_me.png){fig-align="center"}
+![](img/2025_me.png){fig-align="center" width="732"}
 
----
 ------------------------------------------------------------------------
 
 ### MS Research Questions
@@ -62,11 +58,10 @@ Leveraging existing biomonitoring programs to assess organismal response to lega
 
 > Main Question: Can long-running mussel outplant data from WDFW's Nearshore Monitoring Program be leveraged to link contaminant exposure to physiological and epigenetic responses in *Mytilus trossulus*?
 >
->> Do established biomarkers in *M. trossulus* show reproducible exposure–response associations with site-level contaminant burdens and classes?
+> > Do established biomarkers in *M. trossulus* show reproducible exposure–response associations with site-level contaminant burdens and classes?
 >
->> Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers?
+> > Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers?
 
----
 ------------------------------------------------------------------------
 
 ### Current Research
@@ -85,7 +80,7 @@ Do established biomarkers in *M. trossulus* show reproducible exposure–respons
 
 ------------------------------------------------------------------------
 
-#### DNA Methylation
+#### DNA Methylation - change plot
 
 ::: {callout-Question}
 Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers?
@@ -101,21 +96,21 @@ Which exposure-associated methylation signatures and pathways in *M. trossulus* 
 
 #### Research Questions
 
-::: {callout-Focus} 
-Conservation Ecology encompasses diverse expertise, methodologies, and perspectives, yet the integration of these knowledge systems remains a persistent challenge. Centered on the nearshore ecosystems of Puget Sound, my research examines both the ecological responses of foundational species to legacy contaminants and the human systems shaping conservation practice and knowledge exchange. I aim to link biological and socio-cultural data to understand how interdisciplinary frameworks can strengthen conservation outcomes and training. 
+::: {callout-Focus}
+Conservation Ecology encompasses diverse expertise, methodologies, and perspectives, yet the integration of these knowledge systems remains a persistent challenge. Centered on the nearshore ecosystems of Puget Sound, my research examines both the ecological responses of foundational species to legacy contaminants and the human systems shaping conservation practice and knowledge exchange. I aim to link biological and socio-cultural data to understand how interdisciplinary frameworks can strengthen conservation outcomes and training.
 :::
 
 > Main Question: How can multiple knowledge systems (scientific, community based, and traditional) be more effectively woven together to improve conservation efficacy in nearshore ecosystems?
 >
->> What are the patterns of community composition and species interactions in Puget Sound’s nearshore ecosystems, and how are these shaped by gradients of contamination and habitat condition?
+> > What are the patterns of community composition and species interactions in Puget Sound’s nearshore ecosystems, and how are these shaped by gradients of contamination and habitat condition?
 >
->> How do legacy contaminants and heavy metals influence the physiological and epigenetic resilience of foundational nearshore organisms?
+> > How do legacy contaminants and heavy metals influence the physiological and epigenetic resilience of foundational nearshore organisms?
 >
->> How can data-driven insights and interdisciplinary frameworks be mobilized to train and empower the next generation of conservation ecologists?
+> > How can data-driven insights and interdisciplinary frameworks be mobilized to train and empower the next generation of conservation ecologists?
 
 ------------------------------------------------------------------------
 
-#### Yellow Island Experiential Learning & eDNA
+#### Yellow Island Experiential Learning & eDNA - add image
 
 > **Purpose:** Connect molecular and physiological indicators to community-level processes showing that contaminants influence not just individual organisms but ecological structure and function.
 >
@@ -127,7 +122,7 @@ Conservation Ecology encompasses diverse expertise, methodologies, and perspecti
 
 ------------------------------------------------------------------------
 
-#### Conservation Ecology
+#### Conservation Ecology - pull from g-drive
 
 > **Purpose:** Create a practical link between my research and conservation capacity-building by connecting ecological monitoring, pedagogy, and community partnership.
 >
@@ -139,7 +134,7 @@ Conservation Ecology encompasses diverse expertise, methodologies, and perspecti
 
 ------------------------------------------------------------------------
 
-#### Kenya eDNA
+#### Kenya eDNA - pull from g-drive
 
 > Question: What is the community composition of Lake Victoria?
 >
@@ -159,19 +154,31 @@ add a graphic or something not project relates to allow for time to review witho
 
 ### Transitioning to PhD
 
-#### Steps
+#### Process & deliverables
 
-Bypass package due to the graduate school November 15th for a Winter Quarter PhD student status Written exam window: Feb 1 - 28 PhD proposal submission: March 15 - April 15 PhD proposal defense: May
+> *Package due to the graduate school by November 15th for a Winter Quarter PhD student status.*
 
-#### Asks - add the ask below each major phase (editing/ feedback, signatures on docusign forms, reading list)
-
-#### Deliverables
-
-biomarker manuscript draft - 10/10 MS thesis draft - 10/17 PhD proposal draft 10/24
-
-| *Completed* | *In Progress* | *Done at Submission* |
+| **Completed** | **In Progress** | **Done at Submission** |
 |------------------------|------------------------|------------------------|
 | \[x\] Identify MS Committee Members | \[ \] PhD Funding & Timeline | \[ \] Chair Confirmation Statement |
 | \[x\] Unofficial Transcript | \[ \] MS Research Proposal | \[ \] MS research cover letter |
 | \[x\] MS Plan of Study | \[ \] Accepted Manuscript | \[ \] My CV |
 | \[x\] Complete 45 course hours | \[ \] PhD Proposal | \[ \] Committee confirmation Docusign |
+
+> In progress items to be delivered for review, editing support, and approval as follows
+>
+> > Biomarker Manuscript Draft - 10/10
+>
+> > MS Thesis Proposal - 10/17
+>
+> > PhD Proposal - 10/24
+
+------------------------------------------------------------------------
+
+> 2025 -26 AY Goals
+>
+> > Bypass - Winter 2026
+>
+> > Written Exam - late Winter 2026
+>
+> > Oral Exam - Spring 2026
