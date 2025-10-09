@@ -90,7 +90,7 @@ Which exposure-associated methylation signatures and pathways in *M. trossulus* 
 >
 > **Project Goals:** Discover exposure-associated methylation signatures and pathway enrichments that prioritize targets for next-generation biomarkers.
 
-## ![](img/meth_plot_bounded_ibr.png)
+## ![](img/meth_plot_bounded_ibr.png){width="400"}
 
 ### Expansion to PhD
 
@@ -112,13 +112,19 @@ Conservation Ecology encompasses diverse expertise, methodologies, and perspecti
 
 #### Yellow Island Experiential Learning & eDNA - add image
 
-> **Purpose:** Connect molecular and physiological indicators to community-level processes showing that contaminants influence not just individual organisms but ecological structure and function.
+::: {callout-Focus}
+What are the patterns of community composition and species interactions in Puget Sound’s nearshore ecosystems, and how are these shaped by gradients of contamination and habitat condition?
+:::
+
+> **Purpose:** Connect molecular and physiological indicators to community-level processes showing that contaminants influence not just individual organisms but ecological structure and function. Yellow Island is a difficult to access nature preserve with marine reserve status that influences the boating, fishing and recreation on the island; it is a case study-esqe location that
 >
 > **Project Objectives:** Compare traditional quadrat/ transect data with eDNA from 2023 - 2025 to build intertidal community profile, assess the efficacy of experiential learning in a field setting.
 >
 > **Project Status:** Data collected, analysis in progress for quadrat/ transect data, and bench work prep for 2024-25 eDNA samples
 >
-> **Possible Projected Outcomes:** Yellow Island is a difficult to access nature preserve with marine reserve status that influences the boating, fishing and recreation on the island; it is expected that species abundance and diversity is more robust than those on surrounding islands. Additionally, it is expected that the eDNA results will clarify the quadrat/ transect results. Both data sources will support an assessment on the skill, teaching, or knowledge gaps with teaching in this program.
+> **Possible Projected Outcomes:** It is expected that species abundance and diversity is more robust than those on surrounding islands. Additionally, it is expected that the eDNA results will clarify the quadrat/ transect results. Both data sources will support an assessment on the skill, teaching, or knowledge gaps with teaching in this program.
+
+![](img/edna.jpg){fig-align="center"}
 
 ------------------------------------------------------------------------
 
