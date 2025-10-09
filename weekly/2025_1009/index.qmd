@@ -48,7 +48,7 @@ format:
 
 ### What I've been up to
 
-![](img/2025_me.png){fig-align="center" width="732"}
+![](img/2025_me.png){fig-align="center" width="900"}
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ Do established biomarkers in *M. trossulus* show reproducible exposure–respons
 
 ------------------------------------------------------------------------
 
-#### DNA Methylation 
+#### DNA Methylation
 
 ::: {callout-Question}
 Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers?
@@ -130,7 +130,7 @@ What are the patterns of community composition and species interactions in Puget
 
 ------------------------------------------------------------------------
 
-#### Conservation Ecology - pull from g-drive
+#### Conservation Ecology
 
 ::: {callout-Question}
 > How can data-driven insights and interdisciplinary frameworks be mobilized to train and empower the next generation of conservation ecologists?
@@ -138,13 +138,13 @@ What are the patterns of community composition and species interactions in Puget
 
 > **Purpose:** Create a practical link between my research and conservation capacity-building by connecting ecological monitoring, pedagogy, and community partnership.
 >
-> **Project Objectives:** Bringing in the human aspect to the organism and ecosystem work to 
+> **Project Objectives:** Bringing in the human aspect to the organism and ecosystem work to
 >
-> **Project Status:** 
+> **Project Status:** Developing
 >
-> **Projected Outcomes:**
+> **Projected Outcomes:** Survey and interview based results around the general thoughts, impressions, expertise, and skills necessary to perform conservation work as well as opportunities to identify ways to bridge expert and novice conservationists.
 
-------------------------------------------------------------------------
+![](img/yellowTeam.JPG){fig-align="center"}
 
 #### Kenya eDNA
 
