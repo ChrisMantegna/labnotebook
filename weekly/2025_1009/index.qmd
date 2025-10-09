@@ -11,10 +11,11 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-    smooth-scroll: true
+    toc: false
     page-layout: full
     code-fold: true
+---
+
 ---
 
 ### Goals for Today's Meeting
@@ -35,16 +36,22 @@ format:
 
     -   Deliverables & Asks
 
+------------------------------------------------------------------------
+---
+
 ### Committee Members
 
 ![](img/committee.png){fig-align="center"}
 
+---
 ------------------------------------------------------------------------
+
 
 ### What I've been up to
 
 ![Where in the world is Chris?](img/2025_me.png){fig-align="center"}
 
+---
 ------------------------------------------------------------------------
 
 ### MS Research Questions
@@ -55,19 +62,14 @@ Leveraging existing biomonitoring programs to assess organismal response to lega
 
 > Main Question: Can long-running mussel outplant data from WDFW's Nearshore Monitoring Program be leveraged to link contaminant exposure to physiological and epigenetic responses in *Mytilus trossulus*?
 >
-> -   Do established biomarkers in *M. trossulus* show reproducible exposure–response associations with site-level contaminant burdens and classes?
+>> Do established biomarkers in *M. trossulus* show reproducible exposure–response associations with site-level contaminant burdens and classes?
 >
-> -   Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers?
+>> Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers?
 
+---
 ------------------------------------------------------------------------
 
 ### Current Research
-<span style="color:#007acc; line-height:1.5;">
-This is blue text with 1.5 line spacing.
-</span>
-
-
-PLACEHOLDER/ REMINDER TEXT: All current research will have the research question below the project name Current status of the project (manuscript prep, data analysis, bench work, etc) A plot or image, and anticipated outcome
 
 #### Biomarkers
 
@@ -77,7 +79,7 @@ Do established biomarkers in *M. trossulus* show reproducible exposure–respons
 
 > **Project Status:** Manuscript drafting
 >
-> **Results Outcome:** The biomarker and morphometric measurements were inconsistent with the contaminant profiles at each site, most likely due to a combination of post-retrieval handling and temporal scale. 
+> **Results Outcome:** The biomarker and morphometric measurements were inconsistent with the contaminant profiles at each site, most likely due to a combination of post-retrieval handling and temporal scale.
 
 ![L: Biomarker evaluation sites grouped by Reporting Area. R: Integrated Biomarker Response results by Reporting Area, Penn Cove Reference site indicated by the triangle](img/biomarker_plot.png){fig-align="center"}
 
@@ -86,60 +88,70 @@ Do established biomarkers in *M. trossulus* show reproducible exposure–respons
 #### DNA Methylation
 
 ::: {callout-Question}
-Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers? 
+Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers?
 :::
 
-> **Project Status:** Analysis in progress 
+> **Project Status:** Analysis in progress
 >
 > **Project Goals:** Discover exposure-associated methylation signatures and pathway enrichments that prioritize targets for next-generation biomarkers.
 
-
-
-------------------------------------------------------------------------
+## ![](img/meth_plot_bounded_ibr_and_pah.png)
 
 ### Expansion to PhD
 
 #### Research Questions
 
-::: callout-Focus
-Conservation Ecology encompasses diverse expertise, methodologies, and perspectives, yet the integration of these knowledge systems remains a persistent challenge. Centered on the nearshore ecosystems of Puget Sound, my research examines both the ecological responses of foundational species to legacy contaminants and the human systems shaping conservation practice and knowledge exchange. I aim to link biological and socio-cultural data to understand how interdisciplinary frameworks can strengthen conservation outcomes and training.
+::: {callout-Focus} 
+Conservation Ecology encompasses diverse expertise, methodologies, and perspectives, yet the integration of these knowledge systems remains a persistent challenge. Centered on the nearshore ecosystems of Puget Sound, my research examines both the ecological responses of foundational species to legacy contaminants and the human systems shaping conservation practice and knowledge exchange. I aim to link biological and socio-cultural data to understand how interdisciplinary frameworks can strengthen conservation outcomes and training. 
 :::
 
 > Main Question: How can multiple knowledge systems (scientific, community based, and traditional) be more effectively woven together to improve conservation efficacy in nearshore ecosystems?
 >
-> -   What are the patterns of community composition and species interactions in Puget Sound’s nearshore ecosystems, and how are these shaped by gradients of contamination and habitat condition? (yellow island)
+>> What are the patterns of community composition and species interactions in Puget Sound’s nearshore ecosystems, and how are these shaped by gradients of contamination and habitat condition?
 >
-> > -   **Purpose:** Connect molecular and physiological indicators (from your MS) to community-level processes — showing that contaminants influence not just individuals but ecological structure and function.
+>> How do legacy contaminants and heavy metals influence the physiological and epigenetic resilience of foundational nearshore organisms?
 >
-> -   How do legacy contaminants and heavy metals influence the physiological and epigenetic resilience of foundational nearshore organisms?
->
-> > -   **Purpose:** Extend the MS focus by incorporating methylation and physiological pathways into a broader framework of resilience and adaptive capacity.
->
-> -   How can data-driven insights and interdisciplinary frameworks be mobilized to train and empower the next generation of conservation ecologists?
->
-> > -   **Purpose:** Create a practical link between your research outputs and conservation capacity-building — connecting ecological monitoring, pedagogy, and community partnership.
+>> How can data-driven insights and interdisciplinary frameworks be mobilized to train and empower the next generation of conservation ecologists?
 
 ------------------------------------------------------------------------
 
-#### Yellow Island Pedagogy & eDNA
+#### Yellow Island Experiential Learning & eDNA
 
-Question Project Status: Project Outcomes:
-
-------------------------------------------------------------------------
-
-#### Kenya eDNA
-
-Question Objective: applying marine techniques to freshwater systems & building collabs across UMN and KNM Project Status: Project Outcomes:
+> **Purpose:** Connect molecular and physiological indicators to community-level processes showing that contaminants influence not just individual organisms but ecological structure and function.
+>
+> **Project Objectives:** Compare traditional quadrat/ transect data with eDNA from 2023 - 2025 to build intertidal community profile, assess the efficacy of experiential learning in a field setting.
+>
+> **Project Status:** Data collected, analysis in progress for quadrat/ transect data, and bench work prep for 2024-25 eDNA samples
+>
+> **Possible Projected Outcomes:** Yellow Island is a difficult to access nature preserve with marine reserve status that influences the boating, fishing and recreation on the island; it is expected that species abundance and diversity is more robust than those on surrounding islands. Additionally, it is expected that the eDNA results will clarify the quadrat/ transect results. Both data sources will support an assessment on the skill, teaching, or knowledge gaps with teaching in this program.
 
 ------------------------------------------------------------------------
 
 #### Conservation Ecology
 
-Question Objective: tying in the human aspect to the organism and ecosystem work. Social science chapter asking Project Status: Project Outcomes:
+> **Purpose:** Create a practical link between my research and conservation capacity-building by connecting ecological monitoring, pedagogy, and community partnership.
+>
+> **Project Objectives:** tying in the human aspect to the organism and ecosystem work
+>
+> **Project Status:**
+>
+> **Projected Outcomes:**
 
 ------------------------------------------------------------------------
 
-### Enough to pivot to a PhD? Thoughts, suggestions, callouts?
+#### Kenya eDNA
+
+> Question: What is the community composition of Lake Victoria?
+>
+> Objective: applying marine techniques to freshwater systems & building collabs across UMN and KNM
+>
+> Project Status:
+>
+> Project Outcomes:
+
+------------------------------------------------------------------------
+
+### Pitfalls, Potential... Perfection?!?
 
 add a graphic or something not project relates to allow for time to review without seeing next up or previous work
 
@@ -149,10 +161,6 @@ add a graphic or something not project relates to allow for time to review witho
 
 #### Steps
 
-add the truncated checklist here - 12 items with a quick explainer for MS requirements and PhD requirements (maybe make a 2 column checkbox setup - use traffic lights; green is done, yellow is in progress and red isn't started yet)
-
-#### Timeline - make a funnel, big picture down to the next 40 days
-
 Bypass package due to the graduate school November 15th for a Winter Quarter PhD student status Written exam window: Feb 1 - 28 PhD proposal submission: March 15 - April 15 PhD proposal defense: May
 
 #### Asks - add the ask below each major phase (editing/ feedback, signatures on docusign forms, reading list)
@@ -161,27 +169,9 @@ Bypass package due to the graduate school November 15th for a Winter Quarter PhD
 
 biomarker manuscript draft - 10/10 MS thesis draft - 10/17 PhD proposal draft 10/24
 
-To accomplish this goal I must complete/ submit the following\
-- \[x\] Identify MS Committee Members 
-
-\- \[ \] Obtain Chair Confirmation Statement 
-
-\- \[x\] Unofficial Transcript 
-
-\- \[x\] MS Plan of Study 
-
-\- \[x\] Complete 45 course hours, including assigned FISH courses 
-
-\- \[ \] MS Research Statement/ cover letter 
-
-\- \[ \] MS Research Proposal 
-
-\- \[ \] Accepted Manuscript 
-
-\- \[ \] PhD Proposal 
-
-\- \[ \] PhD Timeline 
-
-\- \[ \] PhD Funding Mechanism 
-
-\- \[ \] CV
+| *Completed* | *In Progress* | *Done at Submission* |
+|------------------------|------------------------|------------------------|
+| \[x\] Identify MS Committee Members | \[ \] PhD Funding & Timeline | \[ \] Chair Confirmation Statement |
+| \[x\] Unofficial Transcript | \[ \] MS Research Proposal | \[ \] MS research cover letter |
+| \[x\] MS Plan of Study | \[ \] Accepted Manuscript | \[ \] My CV |
+| \[x\] Complete 45 course hours | \[ \] PhD Proposal | \[ \] Committee confirmation Docusign |
