@@ -90,7 +90,7 @@ Which exposure-associated methylation signatures and pathways in *M. trossulus* 
 >
 > **Project Goals:** Discover exposure-associated methylation signatures and pathway enrichments that prioritize targets for next-generation biomarkers.
 
-## ![](img/meth_plot_bounded_ibr_and_pah.png)
+## ![](img/meth_plot_bounded_ibr.png)
 
 ### Expansion to PhD
 
