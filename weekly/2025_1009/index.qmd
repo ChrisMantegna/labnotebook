@@ -19,15 +19,31 @@ format:
 
 ### Goals for Today's Meeting
 
+-   Overview of work to date
+
+    -   MS research progress
+
+-   Review requirements for MS to PhD bypass
+
+    -   Review current research
+
+    -   Review places of expansion from MS to PhD
+
+    -   Discuss potential to bypass
+
+-   Bypass requirements
+
+    -   Deliverables & Asks
+
 ### Committee Members
 
 ![](img/committee.png){fig-align="center"}
 
 ------------------------------------------------------------------------
 
-### Where is in the world is Chris Mantegna?
+### What I've been up to
 
-PLACEHOLDER - Add a Research, Mentoring & teaching photo for each w/ a caption that says research, mentoring or teaching
+![Where in the world is Chris?](img/2025_me.png){fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -46,6 +62,10 @@ Leveraging existing biomonitoring programs to assess organismal response to lega
 ------------------------------------------------------------------------
 
 ### Current Research
+<span style="color:#007acc; line-height:1.5;">
+This is blue text with 1.5 line spacing.
+</span>
+
 
 PLACEHOLDER/ REMINDER TEXT: All current research will have the research question below the project name Current status of the project (manuscript prep, data analysis, bench work, etc) A plot or image, and anticipated outcome
 
@@ -57,7 +77,7 @@ Do established biomarkers in *M. trossulus* show reproducible exposure–respons
 
 > **Project Status:** Manuscript drafting
 >
-> **Results Outcome:** The biomarker and morphometric measurements were inconsistent with the contaminant profiles at each site, most likely due to a combination of post-retrieval handling and temporal scale. Plot of RA & IBR box plot.
+> **Results Outcome:** The biomarker and morphometric measurements were inconsistent with the contaminant profiles at each site, most likely due to a combination of post-retrieval handling and temporal scale. 
 
 ![L: Biomarker evaluation sites grouped by Reporting Area. R: Integrated Biomarker Response results by Reporting Area, Penn Cove Reference site indicated by the triangle](img/biomarker_plot.png){fig-align="center"}
 
@@ -65,7 +85,15 @@ Do established biomarkers in *M. trossulus* show reproducible exposure–respons
 
 #### DNA Methylation
 
-Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers? Project Status: Analysis in progress Project Goals: Discover exposure-associated methylation signatures and pathway enrichments that prioritize targets for next-generation biomarkers. add something from the Merry Mytilus page or a methods picture
+::: {callout-Question}
+Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers? 
+:::
+
+> **Project Status:** Analysis in progress 
+>
+> **Project Goals:** Discover exposure-associated methylation signatures and pathway enrichments that prioritize targets for next-generation biomarkers.
+
+
 
 ------------------------------------------------------------------------
 
