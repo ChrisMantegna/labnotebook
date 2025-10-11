@@ -1,0 +1,11 @@
+---
+title: "Post Title"
+date: '2025-MM-DD'
+categories:
+  - whatever high level thing I worked on
+draft: true
+execute:
+  echo: false
+  warning: false
+  message: false
+---

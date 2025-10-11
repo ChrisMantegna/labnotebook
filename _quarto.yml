@@ -14,6 +14,8 @@ website:
       menu:
       - dailylog.qmd
       - weeklyupdates.qmd
+exclude:
+  - daily_log/archive/
 format:
   html:
     theme: pulse
