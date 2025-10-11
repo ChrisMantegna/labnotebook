@@ -1,0 +1,13 @@
+---
+title: "PhD Bound..."
+date: '2025-10-09'
+categories:
+  - committee meeting
+draft: false
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- Today's only goal was to make it through my committee meeting and come through the other side with a plan. It didn't go as expected, but I do have a plan. After the meeting, I re-confirmed with Sam that I did in fact have one quarter of funding remaining - I do, and then I continued on with my non-science responsibilities to wrap up the day.

@@ -1,14 +1,20 @@
 ---
-title: "Biomarkers & Mentorship"
+title: "Biomarkers & Mentorship, Part Duex"
 date: '2025-10-02'
 categories:
   - biomarkers
   - mentorship
-  - literature review
+  - bypass
 execute:
   echo: false
   warning: false
   message: false
 ---
 
-This is not correct - update title, categories and the post text
+- Kicked off today by updating my lab notebook daily entries. I forgot to update my reminder to continue past the previous week, so fixed that as well.
+- I organized my 1v1 agenda and got it rendered into a notebook post so Steven knows what we're chatting about later today.
+- Met with my friend and fellow SAFS grad student, Maddie. We set up some co- working blocks, talked through our respective projects and bounced ideas off of each other for improvements, suggestions and overall vibes.
+- Met with Julia to discuss managing multiple projects, getting the writing done, and meeting grad milestones met without going insane.
+- Met with Steven to go over my framing of my bypass package. He was on-board with the big picture but there is some places where I can more explicitly shore up the expansion. He gave me advice on how to frame that and we wrapped up for the day.
+- I spent some time this evening working on the framing of my bypass presentation for my October 9th committee meeting
+- Wrapped up the day with work on the biomarker analysis. The correlations seem to be far higher in number of significant results than when I previously worked on it, so I needed to investigate. Turns out I created a loop that was correlating the wrong variables. Fixed that.

@@ -1,0 +1,17 @@
+---
+title: "T-24 hours"
+date: '2025-10-08'
+categories:
+  - bypass presentation
+  - writing accountability
+  - mentoring
+draft: false
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- The name of the game is get that damn presentation together, out and reviewed by Steven before tomorrow. The bulk of my time has been spent on that.
+- I met with Logan today to discuss how to set up interviews for grad schools and some timeline planning for when/ how she is knocking out the major written portions for applications and grant applications.
+- I worked with KPJ today on re-familiarizing myself with the biomarker manuscript graveyard - should make it easier for me to jump back in to the work tomorrow when time is less of a constriction. 

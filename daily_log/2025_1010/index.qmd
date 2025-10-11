@@ -1,0 +1,15 @@
+---
+title: "Reworking the Work"
+date: '2025-10-10'
+categories:
+  - fish 510
+  - biomarkers
+  - bypass framing
+draft: false
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- Today was another heavy task management day versus a deep work day. I started by knocking out my readings and posts for FISH 510 next week. I pivoted to writing time for the biomarker manuscript, and then wrapped up the day by re-framing my bypass package proposals so that I could make a plan to get the work done as quickly as possible.

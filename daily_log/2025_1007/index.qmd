@@ -1,0 +1,16 @@
+---
+title: "Tasks"
+date: '2025-10-07'
+categories:
+  - fish 510
+  - bypass presentation
+draft: false
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- Today's work was limited to task completion. Tuesday's are fully RUA days so science is limited anyway, but it was more limited today because I had a previously scheduled obligation that wiped out any deep thinking/ deep work time.
+- I attended fish 510 and confirmed I will be giving the week 4 presentation on my epigenetic topic of interest.
+- I continued work on my bypass presentation, just shifted it over to quarto so that it is a notebook post.
