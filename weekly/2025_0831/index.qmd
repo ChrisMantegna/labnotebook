@@ -3,3 +3,19 @@ title: "Kenya 2025"
 author: "CM"
 date: 2025-08-31
 ---
+
+![](img/lake_victoria.png){fig-align="center"}
+
+I had the great fortune of collaborating with the University of Minnesota (UMN) and the National Museums of Kenya (KMN) in July and August to conduct field work that supported expanding our limited academic knowledge of Mormyrids, a weakly electric fish with a population in Lake Victoria, Kenya. Under the guidance of PI Kassie Ford, UMN Professor and Bell Museum Curator, we worked in direct collaboration with the ichthyologists at KMN to procure samples of as many species of mormyrids as we could for addition to the KMN fish collection and further projects amongst our respective institutions. My role, as the only non-ichthyologist, was to collect water and sediment samples for eDNA analysis to build a snapshot of the trophic composition of Lake Victoria and it's estuaries along with collecting stomach contents from multiple species at each site to support the mormyrid diet analysis assesment of MS student Kassi Price.
+
+We spent over a month visiting sites around the lake between the Tanzanian and Ugandan border (as well as the rivers that fed into the lake) collecting samples and assessing basic water quality (temperature, pH, salinity, etc), habitat differences, and watching over our shoulders for crocodiles and hippos! Ultimately, we used a variety of techniques and employed the support of local fishermen to expand our limited knowledge and help us reach our sampling goals.
+
+![](img/equator.png){fig-align="center" width="900"}
+
+At every single location we were greeted by people who were interested in our work. Dominantly children, but plenty of adults that helped us gain knowledge about the area, where to find certain fishes, and the best places to avoid conflict with wildlife. It was an incredibly welcoming and enthusiastic environment to work in. Most hilarious was the constant shouts of 'Mzungu' when local folks saw us in our vehicle or in the rivers or lake. It loosely means 'European person', but as we soon found out it essentially means anyone who is not from Kenya. It was really fun to talk with everyone as they were as interested in us as we were in them - it made long field days that much more enjoyable.
+
+As we wrapped up our work and headed back to Nairobi, we parted ways with our KNM collaborators and closed our trip with a 3 day safari in Masai Mara National Park. To say it is as magical as you expect and more is an understatement. I know everyone loves the big cats, but my favorites were the zebras and the wildebeests.
+
+![](img/safari.png){fig-align="center" width="1000"}
+
+We saw so many animals I had only seen in books or in zoos! Truth be told, the fish were cool, but this was a bucket list, once in a lifetime opportunity that I cannot get over. I am excited to be contributing to the body of knowledge around Lake Victoria by providing a baseline community composition in the dry season; something that doesn't exist for any season, but I am most proud of the relationships we're building, the future collaborations to come, and another opportunity to visit Kenya.

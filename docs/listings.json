@@ -2,6 +2,8 @@
   {
     "listing": "/dailylog.html",
     "items": [
+      "/daily_log/2025_1012/index.html",
+      "/daily_log/2025_1011/index.html",
       "/daily_log/2025_1010/index.html",
       "/daily_log/2025_1009/index.html",
       "/daily_log/2025_1008/index.html",
@@ -19,7 +21,13 @@
       "/daily_log/archive/2025_0926/index.html",
       "/daily_log/archive/2025_0925/index.html",
       "/daily_log/archive/2025_0924/index.html",
-      "/daily_log/2025_09/index.html"
+      "/daily_log/2025_1013/index.html",
+      "/daily_log/2025_1014/index.html",
+      "/daily_log/2025_1015/index.html",
+      "/daily_log/daily_template.html",
+      "/daily_log/2025_09/index.html",
+      "/daily_log/2025_1017/index.html",
+      "/daily_log/2025_1016/index.html"
     ]
   },
   {
