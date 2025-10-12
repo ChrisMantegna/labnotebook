@@ -1,8 +1,8 @@
 ---
-title: "October Committee Meeting"
-date: '2025-10-07'
+title: "Introduction to Notion"
+date: '2025-10-11'
 categories:
-  - committee meeting
+  - productivity tools
 execute:
   echo: false
   warning: false
@@ -16,193 +16,72 @@ format:
     code-fold: true
 ---
 
-------------------------------------------------------------------------
+[![](img/notion_logo.png)](https://www.notion.com)
 
-### Goals for Today's Meeting
+Notion has been a management and organization tool that I have been using on and off for the last 6 years, and finally this year I have hit my stride with the platform. This week’s wrap-up is about how I use Notion to manage my day to day responsibilities and how to avoid some of the mistakes I’ve made along the way.
 
--   Overview of work to date
+Most important to remember about the platform is that it is a tool that is typically aligned with productivity and project management, but the thousands of users and the seemingly unlimited customization abilities of Notion can make it whatever you want from a whole life management tool to a simple task manager.
 
-    -   MS research progress
+![](img/productivity_books.png){width="400"}
 
--   Review requirements for MS to PhD bypass
-
-    -   Review current research
-
-    -   Review places of expansion from MS to PhD
-
-    -   Discuss potential to bypass
-
--   Bypass requirements
-
-    -   Deliverables & Asks
-
--   My academic year goals
-
-------------------------------------------------------------------------
-
-### Committee Members
-
-![](img/committee.png){fig-align="center"}
-
-------------------------------------------------------------------------
-
-### What I've been up to
-
-![](img/2025_me.png){fig-align="center" width="900"}
-
-------------------------------------------------------------------------
-
-### MS Research Questions
-
-::: callout-Focus
-Leveraging existing biomonitoring programs to assess organismal response to legacy contaminants and heavy metals in Puget Sound.
+::: {callout-note}
+Since most folks use it as a life or project management tool, the setups align with a few titans in the productivity space. I’ve listed a few of them and their books below.
 :::
 
-> Main Question: Can long-running mussel outplant data from WDFW's Nearshore Monitoring Program be leveraged to link contaminant exposure to physiological and epigenetic responses in *Mytilus trossulus*?
->
-> > Do established biomarkers in *M. trossulus* show reproducible exposure–response associations with site-level contaminant burdens and classes?
->
-> > Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers?
+[***Getting Things Done (GTD)***](https://bookshop.org/p/books/getting-things-done-the-art-of-stress-free-productivity-david-allen/a75ff7d4feeb1930?ean=9780143126560&next=t) — *David Allen*
 
-------------------------------------------------------------------------
+[***Building a Second Brain***](https://bookshop.org/p/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential-tiago-forte/9a88c9248cc60371?ean=9781982167387&next=t) — *Tiago Forte*
 
-### Current Research
+[***Atomic Habits***](https://bookshop.org/p/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-james-clear/072529306f5772fe?ean=9780735211292&next=t) — *James Clear*
 
-#### Biomarkers
+[***Deep Work***](https://bookshop.org/p/books/deep-work-rules-for-focused-success-in-a-distracted-world-cal-newport/9a219b4ccc99d60b?ean=9781455586691&next=t) — *Cal Newport*
 
-::: {callout-Question}
-Do established biomarkers in *M. trossulus* show reproducible exposure–response associations with site-level contaminant burdens and classes?
+[***The Bullet Journal Method***](https://bookshop.org/p/books/the-bullet-journal-method-track-the-past-order-the-present-design-the-future-ryder-carroll/449785cc380dde6e?ean=9780525533337&next=t) — *Ryder Carroll*
+
+[***The 12-Week Year***](https://bookshop.org/p/books/the-12-week-year-get-more-done-in-12-weeks-than-others-do-in-12-months-brian-p-moran/155bb8e9ae584609?ean=9781118509234&next=t) — *Brian Moran & Michael Lennington*
+
+You may notice that the productivity space that guides a lot of this is male- dominated… do not be fooled the Notion girlies (and our non-binary builders) are what turns a simple system from a rigid practice to a flexible tool with a little pizzazz to keep you coming back to using it! More impactful, I found several of the concepts in the books to be less intuitive than I would like and the Notion girlies came through with great ways to help me think about adapting the systems to how my life works.
+
+Getting started on the platform is free and 99% of the platform’s functionality is available at the free tier. There are paid tiers and a free pro account if you are a student. I believe the limitation between a free versus paid account is in the storage space, but I haven’t encountered a problem. In addition, there are tons of free templates to get you rolling if you want some inspiration before building your own pages.
+
+![](img/cluttered_board.jpeg)
+
+::: {callout-Important}
+There are a few things to consider before you go down the rabbit hole, and those are having a clear vision of what you want to use Notion for, identifying what in your current system is and is not aligned, and finally, how can Notion support you in meeting your goals rather than create a distraction or friction point in your process. Let me explain what I mean.
 :::
 
-> **Project Status:** Manuscript drafting
+**First**, you have to decide is what you want to use Notion to do - is it replacing other management software, consolidating a multi-tool workflow that isn’t working, or do you want it to integrate into a system you are already using? I use it as the single place I operate my day-to-day from; multiple responsibilities for me means multiple ways I can lose myself in task switching and that tanks my productivity. I was looking for a way to help me integrate the parts of my workflow that were working and help me set up a place where I could manage the pieces that weren’t. For example, I love to use my Notes app to keep running to-do lists, drop thoughts or ideas, or make quick reminders to myself. The problem is that there’s no tracking, connection to the larger project the idea or task relates to, and no way to see if I’ve already dropped this brain bit into its project or calendar or whatever and that is frustrating. It felt like I was doing triple work just to get everything aligned and that led to task overwhelm and progress stunting.
+
+**Second**, think about your working style. Notion can be as standardized or bespoke as you’d like it to be - everyone has some new way to get it done, and if you aren’t sure what you’re trying to do and how you work, you will surely create something that creates more work than it is worth. For example, I keep a working log of notes in my Google Drive for each project and I thought maybe I would transition it to the Notion projects I built - it was more hassle than it was worth since it upended the habit I built by not matching the functionality or flexibility I need for that task. To combat making that mistake repeatedly, it helped me to sketch out what I needed to see and do everyday in one place. In Notion, that’s your dashboard(s) and databases. What do you need to see to get after it?
+
+**Third**, if you’re like me and want to have a space to be focused on the work but also a space to see your short and long term plans, it helps to make sure your end goals are clear. Once you know what you need and how you work, what are you doing this for? I needed a streamlined way to map out my day, ensure I was focused on the important or priority items, and a place to close out my day with a review and setup for the next day. This is important for two reasons; first, because having a daily start and stop ritual allows me to quiet my brain, and second, setting up the next day means I don’t spend time debating over where to get started and I can just start. Both of these things are crucial for me to make the progress towards the goals I want to achieve.
+
+Now that we’ve thought about what we want to get out of the Notion, their learning & resources content is extensive but YouTube is your best friend when setting up Notion. I’ve linked some of my favorite folks below - they are straight forward, scaffold from the easiest entry points up to more complex builds.
+
+I recommend watching some of the content from these creators to get started or learn more about some of Notion’s coolest features. 
+
+![](img/notion_youtubers.png) Their pages: [Frank Thomas Explains](https://www.youtube.com/@ThomasFrankExplains), [Jeff Su](https://www.youtube.com/@JeffSu), [Better Creating](https://www.youtube.com/@BetterCreating), and [Myra_irl](https://www.youtube.com/@myrairl)
+
+### Do's & Dont's
+
+> DO start with the most basic setup you need to get started
 >
-> **Results Outcome:** The biomarker and morphometric measurements were inconsistent with the contaminant profiles at each site, most likely due to a combination of post-retrieval handling and temporal scale.
-
-![L: Biomarker evaluation sites grouped by Reporting Area. R: Integrated Biomarker Response results by Reporting Area, Penn Cove Reference site indicated by the triangle](img/biomarker_plot.png){fig-align="center"}
-
-------------------------------------------------------------------------
-
-#### DNA Methylation
-
-::: {callout-Question}
-Which exposure-associated methylation signatures and pathways in *M. trossulus* could inform the development of candidate molecular biomarkers?
-:::
-
-> **Project Status:** Analysis in progress
+> > DON’T sink a ton of time world- building before you’ve tested it out
 >
-> **Project Goals:** Discover exposure-associated methylation signatures and pathway enrichments that prioritize targets for next-generation biomarkers.
-
-## ![L: IBR of chosen sites for further analysis. R: Gene track snippet showing potential differential methylation between 'high' and 'low' PAH exposed mussels](img/dna_meth_setup.png)
-
-### Expansion to PhD
-
-#### Research Questions
-
-::: {callout-Focus}
-Conservation Ecology encompasses diverse expertise, methodologies, and perspectives, yet the integration of these knowledge systems remains a persistent challenge. Centered on the nearshore ecosystems of Puget Sound, my research examines both the ecological responses of foundational species to legacy contaminants and the human systems shaping conservation practice and knowledge exchange. I aim to link biological and socio-cultural data to understand how interdisciplinary frameworks can strengthen conservation outcomes and training.
-:::
-
-> Main Question: How can multiple knowledge systems (scientific, community based, and traditional) be more effectively woven together to improve conservation efficacy in nearshore ecosystems?
+> DO spend time sketching out what you need
 >
-> > What are the patterns of community composition and species interactions in Puget Sound’s nearshore ecosystems, and how are these shaped by gradients of contamination and habitat condition?
+> > DON’T buy templates unless they are absolutely everything you’ve ever wanted
 >
-> > How do legacy contaminants and heavy metals influence the physiological and epigenetic resilience of foundational nearshore organisms? (Answered w/ MS work)
+> DO build a main dashboard and 1-2 pages to begin
 >
-> > How can data-driven insights and interdisciplinary frameworks be mobilized to train and empower the next generation of conservation ecologists?
-
-------------------------------------------------------------------------
-
-#### Yellow Island Experiential Learning & eDNA
-
-::: {callout-Question}
-What are the patterns of community composition and species interactions in Puget Sound’s nearshore ecosystems, and how are these shaped by gradients of contamination and habitat condition?
-:::
-
-> **Purpose:** Connect molecular and physiological indicators to community-level processes showing that contaminants influence not just individual organisms but ecological structure and function. Yellow Island is a difficult to access nature preserve with marine reserve status that influences the boating, fishing and recreation on the island; it is a case study-esqe location that
+> > DON’T create a new page for everything or you’ll never find it properly again
 >
-> **Project Objectives:** Compare traditional quadrat/ transect data with eDNA from 2023 - 2025 to build intertidal community profile, assess the efficacy of experiential learning in a field setting.
+> DO explore the automations and connections that can be made to your existing tools
 >
-> **Project Status:** Data collected, analysis in progress for quadrat/ transect data, and bench work prep for 2024-25 eDNA samples
+> > DON’T try to make everything fit into Notion
+
+> DO set a trial period so you can assess what is working and what isn’t
 >
-> **Possible Projected Outcomes:** It is expected that species abundance and diversity is more robust than those on surrounding islands. Additionally, it is expected that the eDNA results will clarify the quadrat/ transect results. Both data sources will support an assessment on the skill, teaching, or knowledge gaps with teaching in this program.
+> > DON’T only open Notion to create the tool or tweak the tool
 
-![](img/edna.jpg){fig-align="center"}
-
-------------------------------------------------------------------------
-
-#### Conservation Ecology
-
-::: {callout-Question}
-> How can data-driven insights and interdisciplinary frameworks be mobilized to train and empower the next generation of conservation ecologists?
-:::
-
-> **Purpose:** Create a practical link between my research and conservation capacity-building by connecting ecological monitoring, pedagogy, and community partnership.
->
-> **Project Objectives:** Bringing in the human aspect to the organism and ecosystem work to
->
-> **Project Status:** Developing
->
-> **Projected Outcomes:** Survey and interview based results around the general thoughts, impressions, expertise, and skills necessary to perform conservation work as well as opportunities to identify ways to bridge expert and novice conservationists.
-
-![](img/yellowTeam.JPG){fig-align="center"}
-
-#### Kenya eDNA
-
-::: {callout-Focus}
-*This project has not been explicitly included in the research questions above.*
-:::
-
-::: {callout-Question}
-Questions: What is the community composition of Lake Victoria during the dry season? Are there differences in diet amongst mormyrids in the lake and in the estuaries that feed into the lake?
-:::
-
-> Objective: Supporting the overarching research into mormyrid morphology, evolution and trophic niche in Lake Victoria, Kenya. In addition, I am applying eDNA techniques adapted to the challenges of the marine environment to freshwater systems.
->
-> Project Status: Sample collection completed in August 2025, bench work begins in October 2025.
->
-> Project Deliverables: eDNA metabarcoding analysis of water and sediment samples to create a picture of the trophic landscape, and gut content metabarcoding analysis to support species diet comparisons in the lake and the rivers that feed into the lake.
-
-![Team of ichthyologists (and me) from the Kenya National Museums & the University of Minnesota](img/kenya_4pack_photo.png){fig-align="center"}
-
-------------------------------------------------------------------------
-
-### Pitfalls, Potential... Perfection?!?
-
-![Blue Angels. Photo Credit: USN Mass Communications](img/blue_angels_diamond_formation.jpg){fig-align="center" width="600"}
-
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-### Transitioning to PhD
-
-#### Process & deliverables
-
-> Bypass requires the pieces listed in the table below as well as a year of funding remaining/ available.
->
-> > *Package due to the graduate school by November 15th for a Winter Quarter PhD student status.*
-
-| **Completed** | **In Progress** | **Done at Submission** |
-|------------------------|------------------------|------------------------|
-| \[x\] Identify MS Committee Members | \[ \] PhD Funding & Timeline | \[ \] Chair Confirmation Statement |
-| \[x\] Unofficial Transcript | \[ \] MS Research Proposal | \[ \] MS research cover letter |
-| \[x\] MS Plan of Study | \[ \] Accepted Manuscript | \[ \] My CV |
-| \[x\] Complete 45 course hours | \[ \] PhD Proposal | \[ \] Committee confirmation Docusign |
-
-> In progress items to be delivered for review, editing support, and approval as follows
->
-> > Biomarker Manuscript Draft - 10/10
->
-> > MS Thesis Proposal - 10/17
->
-> > PhD Proposal - 10/24
-
-------------------------------------------------------------------------
-
-> 2025 -26 AY Goals
->
-> > Bypass - Winter 2026
->
-> > Written Exam - late Winter 2026
->
-> > Oral Exam - Spring 2026
+Give Notion a test drive and tell me what you think! What do you like, dislike, or want to know more about?
