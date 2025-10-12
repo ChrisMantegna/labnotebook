@@ -11,6 +11,8 @@ execute:
   message: false
 ---
 
+![](img/monthly_goals.jpeg)
+
 I have one overarching goal this month and that is to complete the draft of my bypass package and get it to my committee for review by the close of business on October 31st. 
 
 To accomplish this goal I must complete/ submit the following\

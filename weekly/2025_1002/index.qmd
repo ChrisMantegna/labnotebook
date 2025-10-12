@@ -9,6 +9,8 @@ execute:
   message: false
 ---
 
+![](img/advisor.png){fig-align="left" width="200"}
+
 The goal today is to work through building my committee meeting presentation and ending with a recap of activities from the week.\
 
 ### Last week recap

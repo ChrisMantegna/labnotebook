@@ -1,6 +1,6 @@
 ---
 title: "October Committee Meeting"
-date: '2025-10-07'
+date: '2025-10-09'
 categories:
   - committee meeting
 execute:

@@ -1,7 +1,5 @@
 ---
-title: "Post about Summer Work"
+title: "Kenya 2025"
 author: "CM"
 date: 2025-08-31
 ---
-
-Kenya was cool.
