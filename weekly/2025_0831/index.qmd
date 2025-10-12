@@ -1,6 +1,5 @@
 ---
-title: "Post about Summer Work"
-author: "CM"
+title: "Kenya 2025"
 date: 2025-08-31
 ---
 
