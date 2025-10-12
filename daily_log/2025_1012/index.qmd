@@ -1,11 +1,13 @@
 ---
 title: "Post Title"
-date: '2025-MM-DD'
+date: '2025-10-12'
 categories:
-  - whatever high level thing I worked on
+  - checking workflow
 draft: true
 execute:
   echo: false
   warning: false
   message: false
 ---
+
+Did my branches work as I thought?
