@@ -1,11 +1,14 @@
 ---
 title: "Post Title"
-date: '2025-MM-DD'
+date: '2025-10-15'
 categories:
-  - whatever high level thing I worked on
+  - promethion proposal
+  - ecotox readings
 draft: true
 execute:
   echo: false
   warning: false
   message: false
 ---
+
+- I started off the day reviewing the papers I pulled last night for my PhD proposal. I did quick searches on Web of Science and Google Scholar for epigenetic work done in the ecotoxicology discipline, and while the results were limited, there was a ton of opinions in how epigenetics can be used as a tool to support understanding of the impact of legacy contaminants in foundational model organisms.

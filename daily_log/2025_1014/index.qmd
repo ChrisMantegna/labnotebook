@@ -1,11 +1,13 @@
 ---
-title: "Post Title"
-date: '2025-MM-DD'
+title: "Coursework"
+date: '2025-10-14'
 categories:
-  - whatever high level thing I worked on
-draft: true
+  - fish 510
+draft: false
 execute:
   echo: false
   warning: false
   message: false
 ---
+
+- Tuesday's are typically non-science days due to the length of time I spend in meetings and working on the RUA program. Today's only science related work was attending class, adding my papers for next week to the class GitHub, and chatting with Steven about shifting my bypass package submission back to Winter Quarter instead of pushing to submit in November. We're on the same page, so moving forward I will get the biomarkers paper out, work on my MS proposal, and continue to build my PhD proposal with the notes from my committee meeting in mind.
