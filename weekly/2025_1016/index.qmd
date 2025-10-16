@@ -1,0 +1,21 @@
+---
+title: "Weekly Advisor Meeting"
+date: '2025-10-16'
+categories:
+  - 1v1
+execute:
+  echo: false
+  warning: false
+  message: false
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    code-fold: true
+---
+
+Today's goal is to recap last week's committee meeting and review the scaffolding for re-working the PhD proposal.
+
+![](img/mapping_phd_chapters.png){fig-align="center"}
