@@ -1,0 +1,14 @@
+---
+title: "Timelines & Tasks"
+date: '2025-10-18'
+categories:
+  - organization
+  - planning
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+-   Today has been a heavy re-organization day. While most of what I needed to accomplish was not science related, rebuilding my science timelines and deliverables played a huge role in scheduling out the remainder of Autumn Quarter, assessing my goals, and building timelines that are attainable for my goals for the academic year; building in rest and off-days is also on the 'must do' list. While I may not reach candidacy at the close of Spring Quarter 2026, if I continue to manage my progress daily, I could reach it by late Summer Quarter 2026 or early Autumn Quarter 2026.
+-   Planning out this far is a bit precarious as I don't know what I don't know, so along with the big steps, I am building a list of questions that will help me refine the goals and the steps to achieve them.

@@ -16,7 +16,7 @@ format:
     code-fold: true
 ---
 
-[![](img/notion_logo.png)](https://www.notion.com)
+[![](img/notion_logo.png){width="150"}](https://www.notion.com)
 
 Notion has been a management and organization tool that I have been using on and off for the last 6 years, and finally this year I have hit my stride with the platform. This week’s wrap-up is about how I use Notion to manage my day to day responsibilities and how to avoid some of the mistakes I’ve made along the way.
 

@@ -1,0 +1,15 @@
+---
+title: "Coursework & Planning"
+date: '2025-10-17'
+categories:
+  - fish 510
+  - PhD proposal
+draft: false
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+-   I have spent my science- focused time continuing my work on my PhD proposal and bypass timeline re-work. Looking at the plan Steven and I worked on yesterday, I mapped a few big questions and plans to test them so that we can have a productive 1v1 next week.
+-   My next priority was finishing my readings for FISH 510 and outlining my presentation. I got my discussion post up and created a slide catastrophe of ideas that I'll refine over the weekend.
