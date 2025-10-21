@@ -1,0 +1,198 @@
+---
+title: "Epigenetics & Ecotoxicology"
+subtitle: "Exploring Transgenerational Effects of Pesticide Exposure"
+author: "Chris Mantegna"
+format: 
+  revealjs:
+    theme: [simple, dark]
+    slide-number: true
+    transition: fade
+    chalkboard: true
+    logo: "images/dna-icon.png"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Overview
+
+-   What happens when environmental exposure leaves a molecular
+    “memory”?
+-   How do these changes get passed on to offspring?
+-   Two focal papers:
+    -   *Ancestor’s Gift: Parental Early Exposure to Pesticide Mixture
+        Drives Offspring Phenotype*
+    -   *Epigenetic Profiling to Environmental Stressors in Model and
+        Non-Model Organisms*
+
+------------------------------------------------------------------------
+
+## Hook: Can Experience Be Inherited?
+
+> “If a parent fish is exposed to pesticides, could its grandchildren be
+> affected—even if they never encounter those chemicals?”
+
+-   Introduce the concept of **transgenerational epigenetic
+    inheritance**\
+-   Image: generational diagram (F0 → F1 → F2 → F3)
+-   Key idea: *environmental exposures can alter gene expression without
+    changing DNA sequence*
+
+------------------------------------------------------------------------
+
+## What Is Ecotoxicology?
+
+-   **Epigenetics** = heritable, reversible changes in gene expression
+-   Main mechanisms:
+    -   DNA methylation\
+    -   Histone modification\
+    -   Noncoding RNAs\
+-   These regulate *when, where, and how much* genes are expressed
+
+------------------------------------------------------------------------
+
+## Context: Environmental Epigenetics
+
+From *Ehtisham-Ul-Haq et al. (2018)*
+
+-   Environmental factors like toxins, temperature, and diet can
+    reprogram the epigenome\
+-   Epigenetic markers can serve as **biomarkers of exposure**
+-   Key takeaway: \> Environmental stressors leave “molecular
+    footprints” that link ecology and physiology
+
+------------------------------------------------------------------------
+
+## Knowledge Gap
+
+-   Many studies show epigenetic shifts after exposure\
+-   But: How long do these changes last?
+-   Do they influence **offspring phenotype**?
+-   Can they be inherited across generations?
+
+------------------------------------------------------------------------
+
+## Case Study: “Ancestor’s Gift”
+
+From *Lange et al. (2023)*
+
+-   **Organism:** \[insert species; e.g., zebrafish or medaka\]
+-   **Exposure:** early-life parental exposure to a **realistic
+    pesticide mixture**
+-   **Goal:** determine whether this alters offspring phenotype and gene
+    expression
+
+------------------------------------------------------------------------
+
+## Methods Snapshot
+
+-   Parental (F0) exposure → offspring (F1) analysis
+-   Measures included:
+    -   Growth and morphology\
+    -   Behavior or stress response\
+    -   Methylation / gene expression profiling
+-   Controlled design mimicking *environmentally relevant
+    concentrations*
+
+------------------------------------------------------------------------
+
+## Key Findings
+
+-   Offspring from exposed parents showed:
+    -   Altered phenotype (e.g., reduced growth or altered behavior)
+    -   Epigenetic changes linked to exposure
+-   No DNA sequence changes — effects are **epigenetic**
+-   Suggests *intergenerational inheritance* of pesticide effects
+
+------------------------------------------------------------------------
+
+## Synthesis: Connecting the Two Papers
+
+| Concept | Review Paper | Research Paper |
+|------------------|--------------------------|----------------------------|
+| Mechanisms | DNA methylation, histone mods, ncRNAs | DNA methylation & gene expression |
+| Focus | Framework for ecotoxicology | Experimental validation |
+| Outcome | Environmental memory | Transgenerational phenotype |
+
+> Epigenetic mechanisms act as the bridge between exposure and
+> inheritance.
+
+------------------------------------------------------------------------
+
+## Broader Implications
+
+-   Redefines how we think about **toxicity** and **risk**
+-   Epigenetic inheritance adds a **temporal dimension** to
+    environmental science
+-   Raises ethical and policy questions:
+    -   Should chemical testing consider effects in *future
+        generations*?
+
+------------------------------------------------------------------------
+
+## Discussion Prompt
+
+> “If epigenetic changes are reversible, at what point do they become
+> evolutionarily significant?”
+
+Encourage brief discussion or thought-pair-share with classmates.
+
+------------------------------------------------------------------------
+
+## Interactive Activity Options
+
+### Option 1: Predict the Effect
+
+**Group task (5 min):** - Each group gets a scenario card: 1. Fish
+exposed to heavy metals (F0 only) 2. Frogs exposed to pesticides for two
+generations 3. Mammals exposed to high temperatures
+
+**Predict:** - Which mechanism (methylation, histone mod, ncRNA)? - What
+phenotype might change? - Is it intergenerational or transgenerational?
+
+Groups share 1-min summaries.
+
+------------------------------------------------------------------------
+
+### Option 2: Mechanism Matching Game
+
+**Cards:**\
+- Environmental stressors (heat, pesticides, metals)\
+- Mechanisms (methylation, acetylation, miRNA)\
+- Outcomes (growth change, stress tolerance, reproduction)
+
+Students match stressor → mechanism → outcome.\
+Discuss connections to the two focal papers.
+
+------------------------------------------------------------------------
+
+### Option 3: Policy Pitch
+
+**Prompt:** - Design a 1-minute pitch for an environmental monitoring
+strategy - How could we test for long-term epigenetic effects? - Should
+regulatory frameworks require multi-generational data?
+
+Groups present quick pitches, followed by class vote for “most feasible
+idea.”
+
+------------------------------------------------------------------------
+
+## Takeaways
+
+-   Epigenetic mechanisms mediate environmental memory\
+-   Pesticide exposure can shape future generations’ phenotypes\
+-   Integrating epigenetics into ecotoxicology reframes how we assess
+    environmental risk
+
+------------------------------------------------------------------------
+
+## References
+
+-   Lange, M. et al. (2023). *Ancestor’s Gift: Parental Early Exposure
+    to the Environmentally Realistic Pesticide Mixture Drives Offspring
+    Phenotype.*
+-   Ehtisham-Ul-Haq, M. et al. (2018). *Epigenetic Profiling to
+    Environmental Stressors in Model and Non-Model Organisms:
+    Ecotoxicology Perspective.*
+
+------------------------------------------------------------------------
