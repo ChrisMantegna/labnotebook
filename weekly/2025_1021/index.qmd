@@ -1,7 +1,7 @@
 ---
 title: "Epigenetics & Ecotoxicology"
-subtitle: "Exploring Transgenerational Effects of Pesticide Exposure"
-author: "Chris Mantegna"
+subtitle: "Exploring Epigenetics as a Tool for Ecotoxicological Work"
+author: "FISH 510  |  October 2025  |  Chris Mantegna"
 format: 
   revealjs:
     theme: [simple, dark]
@@ -20,57 +20,72 @@ editor:
 
 -   How do these changes get passed on to offspring?
 
+-   What role can epigenetics play in ecotoxicology work?
 
+![](img/ecotox_osha.png){fig-align="center" width="60cm"}
 
-<div>
-
-------------------------------------------------------------------------
-
-</div>
-
-
-
-## Can Experience Be Inherited?
-
-> “If a parent fish is exposed to pesticides, could its grandchildren be
-> affected—even if they never encounter those chemicals?”
-
-
-![Key idea: environmental exposures can alter gene expression without
-changing DNA sequence](img/ancestors_abstract.png){width="400"}
+[*Image credit: OSHA*]{style="font-size: 0.6em;"}
 
 ------------------------------------------------------------------------
 
 ## What Is Ecotoxicology?
 
--   Quick overview w/ the simon says image
--   Add a AOP explainer slide with the AOP image
--   Main mechanisms:
-    -   DNA methylation\
-    -   Histone modification\
-    -   Noncoding RNAs\
--   These regulate *when, where, and how much* genes are expressed
+-   Interdisciplinary science that interrogates nature, effects and the
+    interaction of substances harmful to the environment
+
+-   Pivoting from ocean warming, acidification and biotoxins to focus on
+    contaminants
+
+![](img/ecotox_simonsays.png){fig-align="center" width="100cm"}
+
+[*Image credit: Ecotoxicology and Risk Assessment of Contaminated Water,
+Springer 2024*]{style="font-size: 0.6em;"}
 
 ------------------------------------------------------------------------
 
-## Context: Environmental Epigenetics
+## Ecotoxicology
 
-From *Ehtisham-Ul-Haq et al. (2018)*
+![](img/ecotox_flowchart.png){fig-align="center"}
 
--   Environmental factors like toxins, temperature, and diet can
-    reprogram the epigenome\
+[*Image credit: Ecotoxicology and Risk Assessment of Contaminated Water,
+Springer 2024*]{style="font-size: 0.6em;"}
+
+------------------------------------------------------------------------
+
+## Environmental Epigenetics & AOPs
+
 -   Epigenetic markers can serve as **biomarkers of exposure**
--   Key takeaway: \> Environmental stressors leave “molecular
-    footprints” that link ecology and physiology
+
+![](img/aop_diagram.png){fig-align="center" width="700"}
+
+[*Image credit: EPA*]{style="font-size: 0.6em;"}
+
+> Key Takeaway: Environmental stressors leave “molecular footprints”
+> that link ecology and physiology
 
 ------------------------------------------------------------------------
 
 ## Knowledge Gap
 
--   Many studies show epigenetic shifts after exposure\
--   But: How long do these changes last?
+#### (outlined by Chatterjee, Gim & Choi, 2018)
+
+-   Many studies show epigenetic shifts after exposure
+-   How long do these changes last?
 -   Do they influence **offspring phenotype**?
 -   Can they be inherited across generations?
+
+------------------------------------------------------------------------
+
+## Can Experience Be Inherited?
+
+> “If a parent is exposed to pesticides, could its grandchildren be
+> affected—even if they never encounter those chemicals?”
+
+![Key idea: environmental exposures can alter gene expression without
+changing DNA sequence](img/ancestors_abstract.png){fig-align="center"
+width="100cm"}
+
+[*Image credit: Lange et al., 2023*]{style="font-size: 0.6em;"}
 
 ------------------------------------------------------------------------
 
@@ -78,7 +93,7 @@ From *Ehtisham-Ul-Haq et al. (2018)*
 
 From *Lange et al. (2023)*
 
--   **Organism:** \[insert species; e.g., zebrafish or medaka\]
+-   **Organism:** *Crassostrea gigas* aka the Pacific Oyster
 -   **Exposure:** early-life parental exposure to a **realistic
     pesticide mixture**
 -   **Goal:** determine whether this alters offspring phenotype and gene
@@ -86,15 +101,18 @@ From *Lange et al. (2023)*
 
 ------------------------------------------------------------------------
 
-## Methods Snapshot -Add the experimental design image
+## Methods Snapshot
 
 -   Parental (F0) exposure → offspring (F1) analysis
 -   Measures included:
-    -   Growth and morphology\
-    -   Behavior or stress response\
-    -   Methylation / gene expression profiling
+    -   Growth/morphology, behavior/stress response, & methylation/ gene
+        expression profiling
 -   Controlled design mimicking *environmentally relevant
     concentrations*
+
+![](img/ancestors_exp_design.png){fig-align="center" width="70cm"}
+
+[*Image credit: Lange et al., 2023*]{style="font-size: 0.6em;"}
 
 ------------------------------------------------------------------------
 
@@ -132,11 +150,7 @@ From *Lange et al. (2023)*
 
 ------------------------------------------------------------------------
 
-
-
 ------------------------------------------------------------------------
-
-
 
 ------------------------------------------------------------------------
 
