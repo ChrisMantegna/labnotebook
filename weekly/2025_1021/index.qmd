@@ -8,7 +8,6 @@ format:
     slide-number: true
     transition: fade
     chalkboard: true
-    logo: "images/dna-icon.png"
 editor: 
   markdown: 
     wrap: 72
@@ -18,31 +17,34 @@ editor:
 
 -   What happens when environmental exposure leaves a molecular
     “memory”?
+
 -   How do these changes get passed on to offspring?
--   Two focal papers:
-    -   *Ancestor’s Gift: Parental Early Exposure to Pesticide Mixture
-        Drives Offspring Phenotype*
-    -   *Epigenetic Profiling to Environmental Stressors in Model and
-        Non-Model Organisms*
+
+
+
+<div>
 
 ------------------------------------------------------------------------
 
-## Hook: Can Experience Be Inherited?
+</div>
+
+
+
+## Can Experience Be Inherited?
 
 > “If a parent fish is exposed to pesticides, could its grandchildren be
 > affected—even if they never encounter those chemicals?”
 
--   Introduce the concept of **transgenerational epigenetic
-    inheritance**\
--   Image: generational diagram (F0 → F1 → F2 → F3)
--   Key idea: *environmental exposures can alter gene expression without
-    changing DNA sequence*
+
+![Key idea: environmental exposures can alter gene expression without
+changing DNA sequence](img/ancestors_abstract.png){width="400"}
 
 ------------------------------------------------------------------------
 
 ## What Is Ecotoxicology?
 
--   **Epigenetics** = heritable, reversible changes in gene expression
+-   Quick overview w/ the simon says image
+-   Add a AOP explainer slide with the AOP image
 -   Main mechanisms:
     -   DNA methylation\
     -   Histone modification\
@@ -84,7 +86,7 @@ From *Lange et al. (2023)*
 
 ------------------------------------------------------------------------
 
-## Methods Snapshot
+## Methods Snapshot -Add the experimental design image
 
 -   Parental (F0) exposure → offspring (F1) analysis
 -   Measures included:
@@ -96,7 +98,7 @@ From *Lange et al. (2023)*
 
 ------------------------------------------------------------------------
 
-## Key Findings
+## Key Findings- oyster image
 
 -   Offspring from exposed parents showed:
     -   Altered phenotype (e.g., reduced growth or altered behavior)
@@ -130,59 +132,11 @@ From *Lange et al. (2023)*
 
 ------------------------------------------------------------------------
 
-## Discussion Prompt
 
-> “If epigenetic changes are reversible, at what point do they become
-> evolutionarily significant?”
-
-Encourage brief discussion or thought-pair-share with classmates.
 
 ------------------------------------------------------------------------
 
-## Interactive Activity Options
 
-### Option 1: Predict the Effect
-
-**Group task (5 min):** - Each group gets a scenario card: 1. Fish
-exposed to heavy metals (F0 only) 2. Frogs exposed to pesticides for two
-generations 3. Mammals exposed to high temperatures
-
-**Predict:** - Which mechanism (methylation, histone mod, ncRNA)? - What
-phenotype might change? - Is it intergenerational or transgenerational?
-
-Groups share 1-min summaries.
-
-------------------------------------------------------------------------
-
-### Option 2: Mechanism Matching Game
-
-**Cards:**\
-- Environmental stressors (heat, pesticides, metals)\
-- Mechanisms (methylation, acetylation, miRNA)\
-- Outcomes (growth change, stress tolerance, reproduction)
-
-Students match stressor → mechanism → outcome.\
-Discuss connections to the two focal papers.
-
-------------------------------------------------------------------------
-
-### Option 3: Policy Pitch
-
-**Prompt:** - Design a 1-minute pitch for an environmental monitoring
-strategy - How could we test for long-term epigenetic effects? - Should
-regulatory frameworks require multi-generational data?
-
-Groups present quick pitches, followed by class vote for “most feasible
-idea.”
-
-------------------------------------------------------------------------
-
-## Takeaways
-
--   Epigenetic mechanisms mediate environmental memory\
--   Pesticide exposure can shape future generations’ phenotypes\
--   Integrating epigenetics into ecotoxicology reframes how we assess
-    environmental risk
 
 ------------------------------------------------------------------------
 
