@@ -116,13 +116,15 @@ From *Lange et al. (2023)*
 
 ------------------------------------------------------------------------
 
-## Key Findings- oyster image
+## Key Findings
 
 -   Offspring from exposed parents showed:
     -   Altered phenotype (e.g., reduced growth or altered behavior)
     -   Epigenetic changes linked to exposure
 -   No DNA sequence changes — effects are **epigenetic**
 -   Suggests *intergenerational inheritance* of pesticide effects
+
+![](img/oyster_reef.jpeg){fig-align="left" width="1000"}
 
 ------------------------------------------------------------------------
 
