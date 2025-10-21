@@ -47,8 +47,7 @@ Springer 2024*]{style="font-size: 0.6em;"}
 
 ![](img/ecotox_flowchart.png){fig-align="center"}
 
-[*Image credit: Ecotoxicology and Risk Assessment of Contaminated Water,
-Springer 2024*]{style="font-size: 0.6em;"}
+[*Image credit: Major interdisciplinary approaches in ecotoxicology; adapted from Amiard-Triquet et al., 2015*]{style="font-size: 0.6em;"}
 
 ------------------------------------------------------------------------
 
@@ -83,7 +82,7 @@ Springer 2024*]{style="font-size: 0.6em;"}
 
 ![Key idea: environmental exposures can alter gene expression without
 changing DNA sequence](img/ancestors_abstract.png){fig-align="center"
-width="100cm"}
+width="150cm"}
 
 [*Image credit: Lange et al., 2023*]{style="font-size: 0.6em;"}
 
@@ -103,14 +102,14 @@ From *Lange et al. (2023)*
 
 ## Methods Snapshot
 
+![](img/ancestors_exp_design.png){fig-align="center" width="100cm"}
+
 -   Parental (F0) exposure → offspring (F1) analysis
 -   Measures included:
     -   Growth/morphology, behavior/stress response, & methylation/ gene
         expression profiling
 -   Controlled design mimicking *environmentally relevant
     concentrations*
-
-![](img/ancestors_exp_design.png){fig-align="center" width="70cm"}
 
 [*Image credit: Lange et al., 2023*]{style="font-size: 0.6em;"}
 
@@ -149,20 +148,5 @@ From *Lange et al. (2023)*
 -   Raises ethical and policy questions:
     -   Should chemical testing consider effects in *future
         generations*?
-
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## References
-
--   Lange, M. et al. (2023). *Ancestor’s Gift: Parental Early Exposure
-    to the Environmentally Realistic Pesticide Mixture Drives Offspring
-    Phenotype.*
--   Ehtisham-Ul-Haq, M. et al. (2018). *Epigenetic Profiling to
-    Environmental Stressors in Model and Non-Model Organisms:
-    Ecotoxicology Perspective.*
 
 ------------------------------------------------------------------------
