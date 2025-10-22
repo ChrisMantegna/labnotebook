@@ -84,13 +84,13 @@ Springer 2024*]{style="font-size: 0.6em;"}
 changing DNA sequence](img/ancestors_abstract.png){fig-align="center"
 width="150cm"}
 
-[*Image credit: Lange et al., 2023*]{style="font-size: 0.6em;"}
+[*Image credit: Sol Dourdin et al., 2023*]{style="font-size: 0.6em;"}
 
 ------------------------------------------------------------------------
 
 ## Case Study: “Ancestor’s Gift”
 
-From *Lange et al. (2023)*
+From *Sol Dourdin et al. (2023)*
 
 -   **Organism:** *Crassostrea gigas* aka the Pacific Oyster
 -   **Exposure:** early-life parental exposure to a **realistic
@@ -111,7 +111,7 @@ From *Lange et al. (2023)*
 -   Controlled design mimicking *environmentally relevant
     concentrations*
 
-[*Image credit: Lange et al., 2023*]{style="font-size: 0.6em;"}
+[*Image credit: Sol Dourdin et al., 2023*]{style="font-size: 0.6em;"}
 
 ------------------------------------------------------------------------
 
