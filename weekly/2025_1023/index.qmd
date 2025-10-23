@@ -68,12 +68,15 @@ Today's Meeting is all about mussel reproduction, environmentally induced sex de
 
 ### New (to me) Literature
 
-Reviewing _Mytilus trossulus_ genome literature, I came across a ton of cool papers that I want to discuss in the context of pollutant work, resilience, and hitting a knowledge gap that isn't a chasm or a dead end.
+Reviewing _Mytilus trossulus_ genome literature, I came across a ton of cool papers that I want to discuss in the context of pollutant work, resilience, and hitting a knowledge gap that isn't a chasm or a dead end. The 3 below are just a few that are interesting to me.
 
-Paper 1: Breton et al. (2005) Comparative analysis of gender- associated complete mitochondrial genomes in marine mussels.
-Paper 2:Breton et al. (2021) Did doubly uniparental inheritance (DUI) of mtDNA originate  as a cytoplasmic male sterility (CMS) system?
-Paper 3: Chelyadina et al. (2022) Effects of heavy metals on sex inversion of the mussel _Mytilus galloprovincialis_ in coastal zone of the Black Sea
+- [Paper 1: Breton et al. (2006) Comparative analysis of gender-associated complete mtDNA genomes in marine mussels](https://github.com/ChrisMantegna/labnotebook/blob/main/resources/Breton%20et%20al.%20-%202006%20-%20Comparative%20Analysis%20of%20Gender-Associated%20Complete%20Mitochondrial%20Genomes%20in%20Marine%20Mussels%20(%20Myti.pdf)
+- [Paper 2: Breton et al. (2021) Did doubly uniparental inheritance (DUI) of mtDNA originate  as a cytoplasmic male sterility (CMS) system?](https://github.com/ChrisMantegna/labnotebook/blob/main/resources/Breton%20et%20al.%20-%202022%20-%20Did%20doubly%20uniparental%20inheritance%20(DUI)%20of%20mtDNA%20originate%20as%20a%20cytoplasmic%20male%20sterility%20(CMS)%20sy.pdf)
+- [Paper 3: Chelyadina et al. (2022) Effects of heavy metals on sex inversion of the mussel _Mytilus galloprovincialis_ in coastal zone of the Black Sea](https://github.com/ChrisMantegna/labnotebook/blob/main/resources/Chelyadina%20et%20al.%20-%202022%20-%20Effects%20of%20heavy%20metals%20on%20sex%20inversion%20of%20the%20mussel%20Mytilus%20galloprovincialis%20Lam.%2C%201819%20in%20coast.pdf)
 
-- Question: Do we know why the paternal mtDNA is more degraded than the maternal mtDNA and found dominantly in male offspring?
-- Question: Have we seen anything to indicate the population ratios around PS during or after the marine heat waves?
-- 
+---
+
+#### Some questions that are coming up
+- Do we know why the paternal mtDNA is more degraded than the maternal mtDNA and found dominantly in male offspring?
+- Have we seen anything to indicate the population ratios around PS during or after the marine heat waves?
+- Is it ethical (assuming they live long enough) to expose mussels to contaminants (heavy metals maybe) induce spawning and sex change and see if there is a difference in methylation patterns? 
