@@ -2,6 +2,7 @@
 title: "Epigenetics & Ecotoxicology"
 subtitle: "Exploring Epigenetics as a Tool for Ecotoxicological Work"
 author: "FISH 510  |  October 2025  |  Chris Mantegna"
+date: '2025-10-21'
 format: 
   revealjs:
     theme: [simple, dark]

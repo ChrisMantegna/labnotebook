@@ -1,0 +1,13 @@
+---
+title: "Sundays are for Reading"
+date: '2025-10-19'
+categories:
+  - lit review
+  - mussel genes
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- I spent my time today searching for papers re: mussel genomes and the role of DNA methylation. I used Web of Science and Google Scholar to find foundational knowledge papers to help me clarify my understanding of the resources, current knowledge, and future directions with mussels.

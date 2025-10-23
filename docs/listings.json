@@ -2,6 +2,10 @@
   {
     "listing": "/dailylog.html",
     "items": [
+      "/daily_log/2025_1022/index.html",
+      "/daily_log/2025_1021/index.html",
+      "/daily_log/2025_1020/index.html",
+      "/daily_log/2025_1019/index.html",
       "/daily_log/2025_1018/index.html",
       "/daily_log/2025_1017/index.html",
       "/daily_log/2025_1016/index.html",
@@ -36,8 +40,8 @@
   {
     "listing": "/weeklyupdates.html",
     "items": [
-      "/weekly/2025_1021/index.html",
       "/weekly/2025_1023/index.html",
+      "/weekly/2025_1021/index.html",
       "/weekly/2025_1018/index.html",
       "/weekly/2025_1016/index.html",
       "/weekly/2025_1011/index.html",

@@ -1,0 +1,16 @@
+---
+title: "Lab Meeting, Goal Setting & FISH 510 Prep"
+date: '2025-10-20'
+categories:
+  - lab meeting
+  - goal setting
+  - fish 510
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- Today's work was dominantly task- centered instead of deeper work.
+  - I worked on my presentation for FISH 510
+  - I attended lab meeting where I met 2 of my 4 goals completely and the remaining 2 at approximately 60% each. My goals for the next meeting are to complete the written pieces from my last goal round, and gain clarity in the DNA Methylation analysis so I can plan my next steps

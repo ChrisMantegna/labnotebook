@@ -1,0 +1,12 @@
+---
+title: "Class"
+date: '2025-10-21'
+categories:
+  - fish 510 
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- Tuesday's are class and RUA days, so my only science work today was attending class and presenting.
