@@ -11,7 +11,7 @@
     "href": "dailylog.html",
     "title": "Daily Log",
     "section": "",
-    "text": "It’s all fun and games until your adviser asks if you’ve updated your lab notebook!\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 31, 2025\n\n\nExperimental Design, Part 2\n\n\n \n\n\n\n\nOct 30, 2025\n\n\nExperimental Design\n\n\n \n\n\n\n\nOct 29, 2025\n\n\nMethylation Analysis\n\n\n \n\n\n\n\nOct 28, 2025\n\n\nClass & Computers\n\n\n \n\n\n\n\nOct 27, 2025\n\n\nPresentations & Reading\n\n\n \n\n\n\n\nOct 26, 2025\n\n\nNo Science Today\n\n\n \n\n\n\n\nOct 25, 2025\n\n\nNo Science Today\n\n\n \n\n\n\n\nOct 24, 2025\n\n\nEpigenetics\n\n\n \n\n\n\n\nOct 23, 2025\n\n\nLit Pull & Reading\n\n\n \n\n\n\n\nOct 22, 2025\n\n\nMussel Genomes do What?!?!?\n\n\n \n\n\n\n\nOct 21, 2025\n\n\nClass\n\n\n \n\n\n\n\nOct 20, 2025\n\n\nLab Meeting, Goal Setting & FISH 510 Prep\n\n\n \n\n\n\n\nOct 19, 2025\n\n\nSundays are for Reading\n\n\n \n\n\n\n\nOct 18, 2025\n\n\nTimelines & Tasks\n\n\n \n\n\n\n\nOct 17, 2025\n\n\nCoursework & Planning\n\n\n \n\n\n\n\nOct 16, 2025\n\n\nUsual Thursday Shenanigans\n\n\n \n\n\n\n\nOct 15, 2025\n\n\nEcotox\n\n\n \n\n\n\n\nOct 14, 2025\n\n\nCoursework\n\n\n \n\n\n\n\nOct 13, 2025\n\n\nNo Science Today\n\n\n \n\n\n\n\nOct 12, 2025\n\n\nBiomarkers\n\n\n \n\n\n\n\nOct 11, 2025\n\n\nNotebooks and Notes Management\n\n\n \n\n\n\n\nOct 10, 2025\n\n\nReworking the Work\n\n\n \n\n\n\n\nOct 9, 2025\n\n\nPhD Bound…\n\n\n \n\n\n\n\nOct 8, 2025\n\n\nT-24 hours\n\n\n \n\n\n\n\nOct 7, 2025\n\n\nTasks\n\n\n \n\n\n\n\nOct 6, 2025\n\n\nBooked & Busy\n\n\n \n\n\n\n\nOct 5, 2025\n\n\nFish 510 & Writing\n\n\n \n\n\n\n\nOct 4, 2025\n\n\nReading, Reading & More Reading\n\n\n \n\n\n\n\nOct 3, 2025\n\n\nCourse work & Biomarkers\n\n\n \n\n\n\n\nOct 2, 2025\n\n\nBiomarkers & Mentorship, Part Duex\n\n\n \n\n\n\n\nOct 1, 2025\n\n\nBiomarkers & Mentorship\n\n\n \n\n\n\n\nSep 30, 2025\n\n\nIt’s Epigenetics, Baby\n\n\n \n\n\n\n\nSep 29, 2025\n\n\nBypass & Biomarkers\n\n\n \n\n\n\n\nSep 28, 2025\n\n\nBiomarkers Literature Reconciliation\n\n\n \n\n\n\n\nSep 27, 2025\n\n\nDay Off\n\n\n \n\n\n\n\nSep 26, 2025\n\n\nBiomarkers, Back Again\n\n\n \n\n\n\n\nSep 25, 2025\n\n\nPut Your $$ Where Your Mouth Is\n\n\n \n\n\n\n\nSep 24, 2025\n\n\nNew AY, New Set Up\n\n\n \n\n\n\n\nSep 1, 2025\n\n\nSeptember Daily Posts\n\n\n \n\n\n\n\n\nNo matching items"
+    "text": "It’s all fun and games until your adviser asks if you’ve updated your lab notebook!\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nNov 1, 2025\n\n\nMonthly Planning\n\n\n \n\n\n\n\nOct 1, 2025\n\n\nOctober Daily Posts\n\n\n \n\n\n\n\nSep 1, 2025\n\n\nSeptember Daily Posts\n\n\n \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "extended/testing_extended.html",
@@ -719,5 +719,201 @@
     "title": "Experimental Design",
     "section": "",
     "text": "I spent a lovely morning meeting with Ariana to map out the mussel experiment for my 3rd dissertation chapter. We discussed the experimental design, including the number of replicates, treatment levels, and response variables to measure. We also talked about potential challenges and how to address them.\nI continued the methylation analysis by getting one sample completely through Bismark, but the second one didn’t finish so I will have to troubleshoot that tomorrow."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html",
+    "href": "daily_log/2025_10/index.html",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "This page compiles all daily posts for 2025-10.\n\n\n\n\nStarted with a re-run of my site comparisons for the biomarkers. I was writing the results and trying to make some sense of what wasn’t sitting right, and it turns out that if you aren’t using the correct df in your code, you get a p-value of 0.478 for every single metric you are looking at when trying to understand if there are differences by site…\nAlison and I met to talk about the paper and how we’re going to get the manuscript ready for the WIMS x ICB submission window time frame. I felt really good about it and I believe she’s cautiously optimistic that we’ll make it!\nI had a wonderful conversation with Chelsea Wood today - scheduled - to discuss how to start curating my science brand and where to focus my professional development so that I’m not trying to slam in all of the work in my final year when I’m trying to apply for positions.\nI ended the day working on pulling lit on the efficacy of conservation ecology work. This proved to be very difficult to find since the dominant result was either about engineering, the role of specific species, or commentary on how conservation practices should work. I made a log of search terms, platforms, results returned and added about 30 papers that get close to my topic, but this is still not working as I wanted.\n\nUltimately, this makes me question how we get the siloed work of individual organizations aligned with the ‘big data’ that is being collected, or how we gain access or clarity around the data and action of the organizations. Trying to clarify the efficacy of conservation efforts is challenging, especially when we all define efficacy a bit different.\n\n\n\n\n\n\nKicked off today by updating my lab notebook daily entries. I forgot to update my reminder to continue past the previous week, so fixed that as well.\nI organized my 1v1 agenda and got it rendered into a notebook post so Steven knows what we’re chatting about later today.\nMet with my friend and fellow SAFS grad student, Maddie. We set up some co- working blocks, talked through our respective projects and bounced ideas off of each other for improvements, suggestions and overall vibes.\nMet with Julia to discuss managing multiple projects, getting the writing done, and meeting grad milestones met without going insane.\nMet with Steven to go over my framing of my bypass package. He was on-board with the big picture but there is some places where I can more explicitly shore up the expansion. He gave me advice on how to frame that and we wrapped up for the day.\nI spent some time this evening working on the framing of my bypass presentation for my October 9th committee meeting\nWrapped up the day with work on the biomarker analysis. The correlations seem to be far higher in number of significant results than when I previously worked on it, so I needed to investigate. Turns out I created a loop that was correlating the wrong variables. Fixed that.\n\n\n\n\n\nScience solidly fell into task management and project analysis review today.\n\nFirst, I read over the papers for this week’s FISH 510 and setup my course project in Notion. I added my deadlines, deliverables and tasks and linked the literature for the course to the full project page.\nSecond, I started answering the Discussion Questions for the week and looking ahead to the upcoming week. The goal is to post responses to the discussion questions for the following week by Thursday of the week we’re in. I missed the mark this week, but it shouldn’t be difficult moving forward.\n\nI worked on wrapping up the biomarker analysis validation and documenting what steps and decisions I made in data manipulation, statistical analysis choices, and my interpretations of the individual results while thinking through what the results mean all together.\n\n\n\n\n\nAll science today was in the reading and re-reading of the literature behind the biomarker work. I have a Zotero project with almost 100 papers in it that are at various levels of annotation and note taking. Not ideal.\n\nI updated my sync to Notion by removing the complete project, selecting the papers I knew were 100% going to be cited, and then started triaging the mess I made to date.\nNext, I made a holding folder for papers that may support very specific analysis decisions and papers that will support specific text in the manuscript.\nFinally, I refined my note taking template to make the necessary information visible in a database in Notion so that when I want to review all papers supporting methods or my introduction or whatever, I can just sort and see my notes rather than have to open and close each individual entry to create another document that can get lost.\n\n\n\n\n\n\nI returned to the FISH 510 coursework first today. I completed my notes for the Week 2 papers, answered the discussion questions and got my posts and responses to others up on the discussion board.\nI finished the day by brain dumping my thoughts from my biomarker lit reconciliation. I moved pieces into their respective manuscript sections, aligned any citations that related, and tried to pull out the important pieces that keep the doc moving forward without my desire to wax poetic about the whole thing.\n\n\n\n\n\nAttended lab meeting where we shared our bi-weekly goals, progress, knowledge nuggets, and upcoming goals. My responses are below. My goals are built off of my Autumn quarter goals/ plan to meet those goals.\nI worked on my bypass presentation for my committee meeting on Thursday.\n\n\n\n\nGoals set on 9/25/25: Have one chapter of my PhD proposal drafted and the others outlined.\n\nProgress as of 10/06/25\nAfter dusting off the docs and taking an inventory of where each of the pieces stand, I have the 3 PhD chapters outlined and pivoted to working on my first MS chapter. I chose to shift away from the PhD proposal focus so that I could knock out the MS chapter since it is my required manuscript for the package and needs to be reviewed/ approved by both the committee and WDFW.\n\n\nMy knowledge nuggets all center around things I’m using to maximize my working time and reduce the number of ‘administrative’ tasks I need to do to get rolling on the real work.\n\n\n1st- the Graduate School Funding Guide has a huge database (GFIS) of funding opportunities that you can search, download into a csv and explore on your own time. It also has the college-wide Assistantships database you can explore. There are dedicated support resources through the library if you have questions.\n2nd- If you use Zotero and want to clean up your literature review process, link it to something like Notion or any other organizational platform that supports integration and keep all of your notes and annotations in one place. This video from The Grad School Coach shows you how to integrate Notion & Zotero, and this video from Aynur Science on how to create a literature review workflow using Notion that supports information recall.\n3rd- Wondering where your time is going? I did my own time trials using Toggl this summer to see how long my most frequent tasks (reading and annotating a paper, coding plots, setting up data cleaning scripts, etc.) take me to complete so that I could better schedule my day and not demoralize myself when I’m not meeting my productivity goals. I used daily to track my time, help me build my weekly time blocking schedules, and review where I’m getting lost, and as a bonus, I can see just how much work on each project I am putting in and how to adjust for the upcoming week. Toggl is platform that you can use for free, but there are paid upgrades if you want them. I’ve been using it since July and haven’t needed to upgrade at all, all of the free functions are great.\n\n\nGoals set on 10/06 for completion by 10/20 lab meeting:\n1. Finish the biomarker manuscript 10/9\n2. Finish the committee meeting presentation 10/9\n3. Complete draft of my MS thesis 10/14\n4. Create bench protocol for Kenya samples 10/20\n\n\n\n\n\n\nToday’s work was limited to task completion. Tuesday’s are fully RUA days so science is limited anyway, but it was more limited today because I had a previously scheduled obligation that wiped out any deep thinking/ deep work time.\nI attended fish 510 and confirmed I will be giving the week 4 presentation on my epigenetic topic of interest.\nI continued work on my bypass presentation, just shifted it over to quarto so that it is a notebook post.\n\n\n\n\n\nThe name of the game is get that damn presentation together, out and reviewed by Steven before tomorrow. The bulk of my time has been spent on that.\nI met with Logan today to discuss how to set up interviews for grad schools and some timeline planning for when/ how she is knocking out the major written portions for applications and grant applications.\nI worked with KPJ today on re-familiarizing myself with the biomarker manuscript graveyard - should make it easier for me to jump back in to the work tomorrow when time is less of a constriction.\n\n\n\n\n\nToday’s only goal was to make it through my committee meeting and come through the other side with a plan. It didn’t go as expected, but I do have a plan. After the meeting, I re-confirmed with Sam that I did in fact have one quarter of funding remaining - I do, and then I continued on with my non-science responsibilities to wrap up the day.\n\n\n\n\n\nToday was another heavy task management day versus a deep work day. I started by knocking out my readings and posts for FISH 510 next week. I pivoted to writing time for the biomarker manuscript, and then wrapped up the day by re-framing my bypass package proposals so that I could make a plan to get the work done as quickly as possible.\n\n\n\n\n\nI started the day by consolidating all of my noted for the week re: my daily notebook posts and dropping them into the actual digital lab notebook.\nNext I moved into writing for the biomarker manuscript. I started with citing the sources for my methods and then worked on the introduction. My results section is still a bullet-point list, but won’t be tomorrow when I can sort how to get the results chopped down into a shorter section.\n\n\n\n\n\nToday was all about knocking the dust off of all of my writing notes and re-running my result plots to get on with the show. I spent time reviewing the results, burning down the introduction draft and reworking the writing to more succinctly match the purpose of the research, plotting the draft versions of the figures, and thinking through what my next steps are to get this thing out to Alison and Steven before I die.\n\n\n\n\n\nThere was no true science work completed today.\n\n\n\n\n\nTuesday’s are typically non-science days due to the length of time I spend in meetings and working on the RUA program. Today’s only science related work was attending class, adding my papers for next week to the class GitHub, and chatting with Steven about shifting my bypass package submission back to Winter Quarter instead of pushing to submit in November. We’re on the same page, so moving forward I will get the biomarkers paper out, work on my MS proposal, and continue to build my PhD proposal with the notes from my committee meeting in mind.\n\n\n\n\n\nI started off the day reviewing the papers I pulled last night for my PhD proposal. I did quick searches on Web of Science and Google Scholar for epigenetic work done in the ecotoxicology discipline, and while the results were limited, there was a ton of opinions in how epigenetics can be used as a tool to support understanding of the impact of legacy contaminants in foundational model organisms.\n\nI am part of the team of submitters for the PromethION proposal. Today I helped with the final reading/ editing and it looks great. Mike has knocked it out of the park and I hope this comes to fruition.\n\n\n\n\n\nToday’s work consisted of reviewing my notes through my initial literature search to refine a few options for re-framing my dissertation and preparing to work through those ideas with Steven during our 1v1. My plan was a little too in the weeds, but I think we came up with a solid plan for moving forward.\n\n\n\n\n\nI have spent my science- focused time continuing my work on my PhD proposal and bypass timeline re-work. Looking at the plan Steven and I worked on yesterday, I mapped a few big questions and plans to test them so that we can have a productive 1v1 next week.\nMy next priority was finishing my readings for FISH 510 and outlining my presentation. I got my discussion post up and created a slide catastrophe of ideas that I’ll refine over the weekend.\n\n\n\n\n\nToday has been a heavy re-organization day. While most of what I needed to accomplish was not science related, rebuilding my science timelines and deliverables played a huge role in scheduling out the remainder of Autumn Quarter, assessing my goals, and building timelines that are attainable for my goals for the academic year; building in rest and off-days is also on the ‘must do’ list. While I may not reach candidacy at the close of Spring Quarter 2026, if I continue to manage my progress daily, I could reach it by late Summer Quarter 2026 or early Autumn Quarter 2026.\nPlanning out this far is a bit precarious as I don’t know what I don’t know, so along with the big steps, I am building a list of questions that will help me refine the goals and the steps to achieve them.\n\n\n\n\n\nI spent my time today searching for papers re: mussel genomes and the role of DNA methylation. I used Web of Science and Google Scholar to find foundational knowledge papers to help me clarify my understanding of the resources, current knowledge, and future directions with mussels.\n\n\n\n\n\nToday’s work was dominantly task- centered instead of deeper work.\n\nI worked on my presentation for FISH 510\nI attended lab meeting where I met 2 of my 4 goals completely and the remaining 2 at approximately 60% each. My goals for the next meeting are to complete the written pieces from my last goal round, and gain clarity in the DNA Methylation analysis so I can plan my next steps\n\n\n\n\n\n\nTuesday’s are class and RUA days, so my only science work today was attending class and presenting.\n\n\n\n\n\nMuch reading and writing today focused on getting through the papers I gathered over the weekend. Interestingly, I just learned that mussels inherit mtDNA from maternal and paternal lines…\n\nI also put my agenda together for my 1v1 with Steven tomorrow. This is the earliest I’ve done it and so close to the 24hr mark that maybe I will make it next week!\n\n\n\n\n\n\nToday was spent working on gathering some baseline data on mytilus trossulus genome, general mytilus species’ genomes, and working through some of my knowledge gaps about mussels.\nWhen meeting with Steven, we talked through my agenda and most recent lit findings, what my next steps should be for building my proposal and a few steps to get started on the methylation dataset.\nI finished the day by applying for the Climate Wayfinders program, which is a fellowship program for early career researchers interested in climate change research, education and science communication.\n\n\n\n\n\nI spent some time cleaning up the mussel methylation repo and taking a few steps to understand the bioinformatics workflow, programs and expected outcomes\nI read three of the four papers for next week’s FISH class.\nI built my analysis progress notes in my methylation in Notion, noted what needs to be expanded or further explained, linked my literature from Zotero, and built the script for the initial data pull, reference pull, and multiQC steps.\n\n\n\n\n\n\n\n\n\n\n\nI spent today working on my presentation on 11/3 to Alison’s Ecotox class.\nI continued to move through my pulled papers re: mussel genome information.\nI finished reading the last paper for FISH 510 tomorrow.\n\n\n\n\n\nToday’s biggest win was getting my conda/ mamba environment set up on my local machine so that I could work with the bioinformatics tools before jumping over to Raven to work with the methylation data.\n\n\n\n\n\nI pulled down 2 samples’ sequences, the reference genome and ran the workflow through multiQC, made a list of questions I had about the results and parameters, and started Bismark.\n\n\n\n\n\nI spent a lovely morning meeting with Ariana to map out the mussel experiment for my 3rd dissertation chapter. We discussed the experimental design, including the number of replicates, treatment levels, and response variables to measure. We also talked about potential challenges and how to address them.\nI continued the methylation analysis by getting one sample completely through Bismark, but the second one didn’t finish so I will have to troubleshoot that tomorrow.\n\n\n\n\n\nToday was all about working through the design, listing questions and needs, finding supporting literature, and drafting a schedule for the work."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#course-work-biomarkers",
+    "href": "daily_log/2025_10/index.html#course-work-biomarkers",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Science solidly fell into task management and project analysis review today.\n\nFirst, I read over the papers for this week’s FISH 510 and setup my course project in Notion. I added my deadlines, deliverables and tasks and linked the literature for the course to the full project page.\nSecond, I started answering the Discussion Questions for the week and looking ahead to the upcoming week. The goal is to post responses to the discussion questions for the following week by Thursday of the week we’re in. I missed the mark this week, but it shouldn’t be difficult moving forward.\n\nI worked on wrapping up the biomarker analysis validation and documenting what steps and decisions I made in data manipulation, statistical analysis choices, and my interpretations of the individual results while thinking through what the results mean all together."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#reading-reading-more-reading",
+    "href": "daily_log/2025_10/index.html#reading-reading-more-reading",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "All science today was in the reading and re-reading of the literature behind the biomarker work. I have a Zotero project with almost 100 papers in it that are at various levels of annotation and note taking. Not ideal.\n\nI updated my sync to Notion by removing the complete project, selecting the papers I knew were 100% going to be cited, and then started triaging the mess I made to date.\nNext, I made a holding folder for papers that may support very specific analysis decisions and papers that will support specific text in the manuscript.\nFinally, I refined my note taking template to make the necessary information visible in a database in Notion so that when I want to review all papers supporting methods or my introduction or whatever, I can just sort and see my notes rather than have to open and close each individual entry to create another document that can get lost."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#fish-510-writing",
+    "href": "daily_log/2025_10/index.html#fish-510-writing",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "I returned to the FISH 510 coursework first today. I completed my notes for the Week 2 papers, answered the discussion questions and got my posts and responses to others up on the discussion board.\nI finished the day by brain dumping my thoughts from my biomarker lit reconciliation. I moved pieces into their respective manuscript sections, aligned any citations that related, and tried to pull out the important pieces that keep the doc moving forward without my desire to wax poetic about the whole thing."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#booked-busy",
+    "href": "daily_log/2025_10/index.html#booked-busy",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Attended lab meeting where we shared our bi-weekly goals, progress, knowledge nuggets, and upcoming goals. My responses are below. My goals are built off of my Autumn quarter goals/ plan to meet those goals.\nI worked on my bypass presentation for my committee meeting on Thursday.\n\n\n\n\nGoals set on 9/25/25: Have one chapter of my PhD proposal drafted and the others outlined.\n\nProgress as of 10/06/25\nAfter dusting off the docs and taking an inventory of where each of the pieces stand, I have the 3 PhD chapters outlined and pivoted to working on my first MS chapter. I chose to shift away from the PhD proposal focus so that I could knock out the MS chapter since it is my required manuscript for the package and needs to be reviewed/ approved by both the committee and WDFW.\n\n\nMy knowledge nuggets all center around things I’m using to maximize my working time and reduce the number of ‘administrative’ tasks I need to do to get rolling on the real work.\n\n\n1st- the Graduate School Funding Guide has a huge database (GFIS) of funding opportunities that you can search, download into a csv and explore on your own time. It also has the college-wide Assistantships database you can explore. There are dedicated support resources through the library if you have questions.\n2nd- If you use Zotero and want to clean up your literature review process, link it to something like Notion or any other organizational platform that supports integration and keep all of your notes and annotations in one place. This video from The Grad School Coach shows you how to integrate Notion & Zotero, and this video from Aynur Science on how to create a literature review workflow using Notion that supports information recall.\n3rd- Wondering where your time is going? I did my own time trials using Toggl this summer to see how long my most frequent tasks (reading and annotating a paper, coding plots, setting up data cleaning scripts, etc.) take me to complete so that I could better schedule my day and not demoralize myself when I’m not meeting my productivity goals. I used daily to track my time, help me build my weekly time blocking schedules, and review where I’m getting lost, and as a bonus, I can see just how much work on each project I am putting in and how to adjust for the upcoming week. Toggl is platform that you can use for free, but there are paid upgrades if you want them. I’ve been using it since July and haven’t needed to upgrade at all, all of the free functions are great.\n\n\nGoals set on 10/06 for completion by 10/20 lab meeting:\n1. Finish the biomarker manuscript 10/9\n2. Finish the committee meeting presentation 10/9\n3. Complete draft of my MS thesis 10/14\n4. Create bench protocol for Kenya samples 10/20"
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#tasks",
+    "href": "daily_log/2025_10/index.html#tasks",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Today’s work was limited to task completion. Tuesday’s are fully RUA days so science is limited anyway, but it was more limited today because I had a previously scheduled obligation that wiped out any deep thinking/ deep work time.\nI attended fish 510 and confirmed I will be giving the week 4 presentation on my epigenetic topic of interest.\nI continued work on my bypass presentation, just shifted it over to quarto so that it is a notebook post."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#t-24-hours",
+    "href": "daily_log/2025_10/index.html#t-24-hours",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "The name of the game is get that damn presentation together, out and reviewed by Steven before tomorrow. The bulk of my time has been spent on that.\nI met with Logan today to discuss how to set up interviews for grad schools and some timeline planning for when/ how she is knocking out the major written portions for applications and grant applications.\nI worked with KPJ today on re-familiarizing myself with the biomarker manuscript graveyard - should make it easier for me to jump back in to the work tomorrow when time is less of a constriction."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#phd-bound",
+    "href": "daily_log/2025_10/index.html#phd-bound",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Today’s only goal was to make it through my committee meeting and come through the other side with a plan. It didn’t go as expected, but I do have a plan. After the meeting, I re-confirmed with Sam that I did in fact have one quarter of funding remaining - I do, and then I continued on with my non-science responsibilities to wrap up the day."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#reworking-the-work",
+    "href": "daily_log/2025_10/index.html#reworking-the-work",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Today was another heavy task management day versus a deep work day. I started by knocking out my readings and posts for FISH 510 next week. I pivoted to writing time for the biomarker manuscript, and then wrapped up the day by re-framing my bypass package proposals so that I could make a plan to get the work done as quickly as possible."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#notebooks-and-notes-management",
+    "href": "daily_log/2025_10/index.html#notebooks-and-notes-management",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "I started the day by consolidating all of my noted for the week re: my daily notebook posts and dropping them into the actual digital lab notebook.\nNext I moved into writing for the biomarker manuscript. I started with citing the sources for my methods and then worked on the introduction. My results section is still a bullet-point list, but won’t be tomorrow when I can sort how to get the results chopped down into a shorter section."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#biomarkers",
+    "href": "daily_log/2025_10/index.html#biomarkers",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Today was all about knocking the dust off of all of my writing notes and re-running my result plots to get on with the show. I spent time reviewing the results, burning down the introduction draft and reworking the writing to more succinctly match the purpose of the research, plotting the draft versions of the figures, and thinking through what my next steps are to get this thing out to Alison and Steven before I die."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#no-science-today",
+    "href": "daily_log/2025_10/index.html#no-science-today",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "There was no true science work completed today."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#coursework",
+    "href": "daily_log/2025_10/index.html#coursework",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Tuesday’s are typically non-science days due to the length of time I spend in meetings and working on the RUA program. Today’s only science related work was attending class, adding my papers for next week to the class GitHub, and chatting with Steven about shifting my bypass package submission back to Winter Quarter instead of pushing to submit in November. We’re on the same page, so moving forward I will get the biomarkers paper out, work on my MS proposal, and continue to build my PhD proposal with the notes from my committee meeting in mind."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#ecotox",
+    "href": "daily_log/2025_10/index.html#ecotox",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "I started off the day reviewing the papers I pulled last night for my PhD proposal. I did quick searches on Web of Science and Google Scholar for epigenetic work done in the ecotoxicology discipline, and while the results were limited, there was a ton of opinions in how epigenetics can be used as a tool to support understanding of the impact of legacy contaminants in foundational model organisms.\n\nI am part of the team of submitters for the PromethION proposal. Today I helped with the final reading/ editing and it looks great. Mike has knocked it out of the park and I hope this comes to fruition."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#usual-thursday-shenanigans",
+    "href": "daily_log/2025_10/index.html#usual-thursday-shenanigans",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Today’s work consisted of reviewing my notes through my initial literature search to refine a few options for re-framing my dissertation and preparing to work through those ideas with Steven during our 1v1. My plan was a little too in the weeds, but I think we came up with a solid plan for moving forward."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#coursework-planning",
+    "href": "daily_log/2025_10/index.html#coursework-planning",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "I have spent my science- focused time continuing my work on my PhD proposal and bypass timeline re-work. Looking at the plan Steven and I worked on yesterday, I mapped a few big questions and plans to test them so that we can have a productive 1v1 next week.\nMy next priority was finishing my readings for FISH 510 and outlining my presentation. I got my discussion post up and created a slide catastrophe of ideas that I’ll refine over the weekend."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#timelines-tasks",
+    "href": "daily_log/2025_10/index.html#timelines-tasks",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Today has been a heavy re-organization day. While most of what I needed to accomplish was not science related, rebuilding my science timelines and deliverables played a huge role in scheduling out the remainder of Autumn Quarter, assessing my goals, and building timelines that are attainable for my goals for the academic year; building in rest and off-days is also on the ‘must do’ list. While I may not reach candidacy at the close of Spring Quarter 2026, if I continue to manage my progress daily, I could reach it by late Summer Quarter 2026 or early Autumn Quarter 2026.\nPlanning out this far is a bit precarious as I don’t know what I don’t know, so along with the big steps, I am building a list of questions that will help me refine the goals and the steps to achieve them."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#sundays-are-for-reading",
+    "href": "daily_log/2025_10/index.html#sundays-are-for-reading",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "I spent my time today searching for papers re: mussel genomes and the role of DNA methylation. I used Web of Science and Google Scholar to find foundational knowledge papers to help me clarify my understanding of the resources, current knowledge, and future directions with mussels."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#lab-meeting-goal-setting-fish-510-prep",
+    "href": "daily_log/2025_10/index.html#lab-meeting-goal-setting-fish-510-prep",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Today’s work was dominantly task- centered instead of deeper work.\n\nI worked on my presentation for FISH 510\nI attended lab meeting where I met 2 of my 4 goals completely and the remaining 2 at approximately 60% each. My goals for the next meeting are to complete the written pieces from my last goal round, and gain clarity in the DNA Methylation analysis so I can plan my next steps"
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#class",
+    "href": "daily_log/2025_10/index.html#class",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Tuesday’s are class and RUA days, so my only science work today was attending class and presenting."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#mussel-genomes-do-what",
+    "href": "daily_log/2025_10/index.html#mussel-genomes-do-what",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Much reading and writing today focused on getting through the papers I gathered over the weekend. Interestingly, I just learned that mussels inherit mtDNA from maternal and paternal lines…\n\nI also put my agenda together for my 1v1 with Steven tomorrow. This is the earliest I’ve done it and so close to the 24hr mark that maybe I will make it next week!"
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#lit-pull-reading",
+    "href": "daily_log/2025_10/index.html#lit-pull-reading",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Today was spent working on gathering some baseline data on mytilus trossulus genome, general mytilus species’ genomes, and working through some of my knowledge gaps about mussels.\nWhen meeting with Steven, we talked through my agenda and most recent lit findings, what my next steps should be for building my proposal and a few steps to get started on the methylation dataset.\nI finished the day by applying for the Climate Wayfinders program, which is a fellowship program for early career researchers interested in climate change research, education and science communication."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#epigenetics",
+    "href": "daily_log/2025_10/index.html#epigenetics",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "I spent some time cleaning up the mussel methylation repo and taking a few steps to understand the bioinformatics workflow, programs and expected outcomes\nI read three of the four papers for next week’s FISH class.\nI built my analysis progress notes in my methylation in Notion, noted what needs to be expanded or further explained, linked my literature from Zotero, and built the script for the initial data pull, reference pull, and multiQC steps."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#presentations-reading",
+    "href": "daily_log/2025_10/index.html#presentations-reading",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "I spent today working on my presentation on 11/3 to Alison’s Ecotox class.\nI continued to move through my pulled papers re: mussel genome information.\nI finished reading the last paper for FISH 510 tomorrow."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#class-computers",
+    "href": "daily_log/2025_10/index.html#class-computers",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Today’s biggest win was getting my conda/ mamba environment set up on my local machine so that I could work with the bioinformatics tools before jumping over to Raven to work with the methylation data."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#methylation-analysis",
+    "href": "daily_log/2025_10/index.html#methylation-analysis",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "I pulled down 2 samples’ sequences, the reference genome and ran the workflow through multiQC, made a list of questions I had about the results and parameters, and started Bismark."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#experimental-design",
+    "href": "daily_log/2025_10/index.html#experimental-design",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "I spent a lovely morning meeting with Ariana to map out the mussel experiment for my 3rd dissertation chapter. We discussed the experimental design, including the number of replicates, treatment levels, and response variables to measure. We also talked about potential challenges and how to address them.\nI continued the methylation analysis by getting one sample completely through Bismark, but the second one didn’t finish so I will have to troubleshoot that tomorrow."
+  },
+  {
+    "objectID": "daily_log/2025_10/index.html#experimental-design-part-2",
+    "href": "daily_log/2025_10/index.html#experimental-design-part-2",
+    "title": "October Daily Posts",
+    "section": "",
+    "text": "Today was all about working through the design, listing questions and needs, finding supporting literature, and drafting a schedule for the work."
   }
 ]

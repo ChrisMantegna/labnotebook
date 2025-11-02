@@ -1,10 +1,11 @@
 ---
-title: "No Science Today"
-date: '2025-10-25'
+title: "Monthly Planning"
+date: '2025-11-01'
 categories:
-  - no science
+  - monthly planning
 execute:
   echo: false
   warning: false
   message: false
 ---
+
