@@ -79,7 +79,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
+      page: 30,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
@@ -203,7 +204,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(23)</span></div><div class="category" data-category="1v1">1v1 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="PhD proposal">PhD proposal <span class="quarto-category-count">(2)</span></div><div class="category" data-category="biomarkers">biomarkers <span class="quarto-category-count">(8)</span></div><div class="category" data-category="bypass">bypass <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bypass framing">bypass framing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bypass presentation">bypass presentation <span class="quarto-category-count">(3)</span></div><div class="category" data-category="committee meeting">committee meeting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ecotox readings">ecotox readings <span class="quarto-category-count">(1)</span></div><div class="category" data-category="fish 510">fish 510 <span class="quarto-category-count">(8)</span></div><div class="category" data-category="goal setting">goal setting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="lab meeting">lab meeting <span class="quarto-category-count">(2)</span></div><div class="category" data-category="lab notebook">lab notebook <span class="quarto-category-count">(1)</span></div><div class="category" data-category="lit review">lit review <span class="quarto-category-count">(1)</span></div><div class="category" data-category="literature reconciliation">literature reconciliation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="literature review">literature review <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mentoring">mentoring <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mentorship">mentorship <span class="quarto-category-count">(2)</span></div><div class="category" data-category="mussel genes">mussel genes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="organization">organization <span class="quarto-category-count">(1)</span></div><div class="category" data-category="phd proposal">phd proposal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="planning">planning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="promethion proposal">promethion proposal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="writing accountability">writing accountability <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(39)</span></div><div class="category" data-category="1v1">1v1 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="PhD proposal">PhD proposal <span class="quarto-category-count">(2)</span></div><div class="category" data-category="accountability">accountability <span class="quarto-category-count">(1)</span></div><div class="category" data-category="analysis">analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="biomarkers">biomarkers <span class="quarto-category-count">(11)</span></div><div class="category" data-category="bypass">bypass <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bypass framing">bypass framing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bypass presentation">bypass presentation <span class="quarto-category-count">(3)</span></div><div class="category" data-category="class">class <span class="quarto-category-count">(1)</span></div><div class="category" data-category="committee">committee <span class="quarto-category-count">(1)</span></div><div class="category" data-category="committee meeting">committee meeting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="conda">conda <span class="quarto-category-count">(1)</span></div><div class="category" data-category="day off">day off <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dna methylation">dna methylation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="documentation">documentation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ecotox readings">ecotox readings <span class="quarto-category-count">(1)</span></div><div class="category" data-category="epigenetics">epigenetics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="experimental design">experimental design <span class="quarto-category-count">(2)</span></div><div class="category" data-category="fish 510">fish 510 <span class="quarto-category-count">(10)</span></div><div class="category" data-category="goal setting">goal setting <span class="quarto-category-count">(2)</span></div><div class="category" data-category="lab meeting">lab meeting <span class="quarto-category-count">(3)</span></div><div class="category" data-category="lab notebook">lab notebook <span class="quarto-category-count">(1)</span></div><div class="category" data-category="lit review">lit review <span class="quarto-category-count">(1)</span></div><div class="category" data-category="literature">literature <span class="quarto-category-count">(2)</span></div><div class="category" data-category="literature management">literature management <span class="quarto-category-count">(2)</span></div><div class="category" data-category="literature reconciliation">literature reconciliation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="literature review">literature review <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mentoring">mentoring <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mentorship">mentorship <span class="quarto-category-count">(2)</span></div><div class="category" data-category="methylation analysis">methylation analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="milestones">milestones <span class="quarto-category-count">(2)</span></div><div class="category" data-category="mussel genes">mussel genes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mussels">mussels <span class="quarto-category-count">(1)</span></div><div class="category" data-category="no science">no science <span class="quarto-category-count">(2)</span></div><div class="category" data-category="organization">organization <span class="quarto-category-count">(2)</span></div><div class="category" data-category="phd proposal">phd proposal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="planning">planning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="preparation">preparation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="presentation">presentation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="promethion proposal">promethion proposal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="repo management">repo management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="task management">task management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="writing accountability">writing accountability <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -239,7 +240,106 @@ Author
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="phd proposal" data-listing-date-sort="1761116400000" data-listing-file-modified-sort="1761251247095" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66" data-listing-title-sort="Mussel Genomes do What?!?!?" data-listing-filename-sort="index.qmd">
+<tr data-index="0" data-categories="experimental design" data-listing-date-sort="1761894000000" data-listing-file-modified-sort="1762049339844" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="23" data-listing-title-sort="Experimental Design, Part 2" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Oct 31, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1031/index.html" class="title listing-title">Experimental Design, Part 2</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="1" data-categories="experimental design" data-listing-date-sort="1761807600000" data-listing-file-modified-sort="1762049400883" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="74" data-listing-title-sort="Experimental Design" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Oct 30, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1030/index.html" class="title listing-title">Experimental Design</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="2" data-categories="methylation analysis" data-listing-date-sort="1761721200000" data-listing-file-modified-sort="1762049104735" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="31" data-listing-title-sort="Methylation Analysis" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Oct 29, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1029/index.html" class="title listing-title">Methylation Analysis</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="3" data-categories="fish 510,conda" data-listing-date-sort="1761634800000" data-listing-file-modified-sort="1762049043776" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="36" data-listing-title-sort="Class &amp; Computers" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Oct 28, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1028/index.html" class="title listing-title">Class &amp; Computers</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="4" data-categories="presentation,literature" data-listing-date-sort="1761548400000" data-listing-file-modified-sort="1762048893819" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="36" data-listing-title-sort="Presentations &amp; Reading" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Oct 27, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1027/index.html" class="title listing-title">Presentations &amp; Reading</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="5" data-categories="no science" data-listing-date-sort="1761462000000" data-listing-file-modified-sort="1762048781273" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="No Science Today" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Oct 26, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1026/index.html" class="title listing-title">No Science Today</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="6" data-categories="no science" data-listing-date-sort="1761375600000" data-listing-file-modified-sort="1762048748438" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="No Science Today" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Oct 25, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1025/index.html" class="title listing-title">No Science Today</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="7" data-categories="dna methylation,fish 510" data-listing-date-sort="1761289200000" data-listing-file-modified-sort="1762048706620" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="76" data-listing-title-sort="Epigenetics" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Oct 24, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1024/index.html" class="title listing-title">Epigenetics</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="8" data-categories="literature,mussels,1v1" data-listing-date-sort="1761202800000" data-listing-file-modified-sort="1762048532186" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="92" data-listing-title-sort="Lit Pull &amp; Reading" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Oct 23, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1023/index.html" class="title listing-title">Lit Pull &amp; Reading</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="9" data-categories="phd proposal" data-listing-date-sort="1761116400000" data-listing-file-modified-sort="1761251247095" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66" data-listing-title-sort="Mussel Genomes do What?!?!?" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 22, 2025</span>
 </td>
@@ -250,7 +350,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="1" data-categories="fish 510" data-listing-date-sort="1761030000000" data-listing-file-modified-sort="1761251108845" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="18" data-listing-title-sort="Class" data-listing-filename-sort="index.qmd">
+<tr data-index="10" data-categories="fish 510" data-listing-date-sort="1761030000000" data-listing-file-modified-sort="1761251108845" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="18" data-listing-title-sort="Class" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 21, 2025</span>
 </td>
@@ -261,7 +361,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="2" data-categories="lab meeting,goal setting,fish 510" data-listing-date-sort="1760943600000" data-listing-file-modified-sort="1761251032074" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="76" data-listing-title-sort="Lab Meeting, Goal Setting &amp; FISH 510 Prep" data-listing-filename-sort="index.qmd">
+<tr data-index="11" data-categories="lab meeting,goal setting,fish 510" data-listing-date-sort="1760943600000" data-listing-file-modified-sort="1761251032074" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="76" data-listing-title-sort="Lab Meeting, Goal Setting &amp; FISH 510 Prep" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 20, 2025</span>
 </td>
@@ -272,7 +372,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="3" data-categories="lit review,mussel genes" data-listing-date-sort="1760857200000" data-listing-file-modified-sort="1761250843048" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="47" data-listing-title-sort="Sundays are for Reading" data-listing-filename-sort="index.qmd">
+<tr data-index="12" data-categories="lit review,mussel genes" data-listing-date-sort="1760857200000" data-listing-file-modified-sort="1761250843048" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="47" data-listing-title-sort="Sundays are for Reading" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 19, 2025</span>
 </td>
@@ -283,7 +383,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="4" data-categories="organization,planning" data-listing-date-sort="1760770800000" data-listing-file-modified-sort="1760827971567" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="147" data-listing-title-sort="Timelines &amp; Tasks" data-listing-filename-sort="index.qmd">
+<tr data-index="13" data-categories="organization,planning" data-listing-date-sort="1760770800000" data-listing-file-modified-sort="1760827971567" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="147" data-listing-title-sort="Timelines &amp; Tasks" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 18, 2025</span>
 </td>
@@ -294,7 +394,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="5" data-categories="fish 510,PhD proposal" data-listing-date-sort="1760684400000" data-listing-file-modified-sort="1760827517891" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87" data-listing-title-sort="Coursework &amp; Planning" data-listing-filename-sort="index.qmd">
+<tr data-index="14" data-categories="fish 510,PhD proposal" data-listing-date-sort="1760684400000" data-listing-file-modified-sort="1760827517891" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87" data-listing-title-sort="Coursework &amp; Planning" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 17, 2025</span>
 </td>
@@ -305,7 +405,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="6" data-categories="1v1,PhD proposal" data-listing-date-sort="1760598000000" data-listing-file-modified-sort="1760827098784" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="56" data-listing-title-sort="Usual Thursday Shenanigans" data-listing-filename-sort="index.qmd">
+<tr data-index="15" data-categories="1v1,PhD proposal" data-listing-date-sort="1760598000000" data-listing-file-modified-sort="1760827098784" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="56" data-listing-title-sort="Usual Thursday Shenanigans" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 16, 2025</span>
 </td>
@@ -316,7 +416,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="7" data-categories="promethion proposal,ecotox readings" data-listing-date-sort="1760511600000" data-listing-file-modified-sort="1760636670080" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="111" data-listing-title-sort="Ecotox" data-listing-filename-sort="index.qmd">
+<tr data-index="16" data-categories="promethion proposal,ecotox readings" data-listing-date-sort="1760511600000" data-listing-file-modified-sort="1760636670080" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="111" data-listing-title-sort="Ecotox" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 15, 2025</span>
 </td>
@@ -327,7 +427,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="8" data-categories="fish 510" data-listing-date-sort="1760425200000" data-listing-file-modified-sort="1760539204559" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="97" data-listing-title-sort="Coursework" data-listing-filename-sort="index.qmd">
+<tr data-index="17" data-categories="fish 510" data-listing-date-sort="1760425200000" data-listing-file-modified-sort="1760539204559" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="97" data-listing-title-sort="Coursework" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 14, 2025</span>
 </td>
@@ -338,7 +438,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="9" data-listing-date-sort="1760338800000" data-listing-file-modified-sort="1760402445425" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9" data-listing-title-sort="No Science Today" data-listing-filename-sort="index.qmd">
+<tr data-index="18" data-listing-date-sort="1760338800000" data-listing-file-modified-sort="1760402445425" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9" data-listing-title-sort="No Science Today" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 13, 2025</span>
 </td>
@@ -349,7 +449,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="10" data-categories="biomarkers" data-listing-date-sort="1760252400000" data-listing-file-modified-sort="1760402327068" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77" data-listing-title-sort="Biomarkers" data-listing-filename-sort="index.qmd">
+<tr data-index="19" data-categories="biomarkers" data-listing-date-sort="1760252400000" data-listing-file-modified-sort="1760402327068" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77" data-listing-title-sort="Biomarkers" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 12, 2025</span>
 </td>
@@ -360,7 +460,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="11" data-categories="lab notebook,biomarkers" data-listing-date-sort="1760166000000" data-listing-file-modified-sort="1760245905942" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="79" data-listing-title-sort="Notebooks and Notes Management" data-listing-filename-sort="index.qmd">
+<tr data-index="20" data-categories="lab notebook,biomarkers" data-listing-date-sort="1760166000000" data-listing-file-modified-sort="1760245905942" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="79" data-listing-title-sort="Notebooks and Notes Management" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 11, 2025</span>
 </td>
@@ -371,7 +471,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="12" data-categories="fish 510,biomarkers,bypass framing" data-listing-date-sort="1760079600000" data-listing-file-modified-sort="1760218158205" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64" data-listing-title-sort="Reworking the Work" data-listing-filename-sort="index.qmd">
+<tr data-index="21" data-categories="fish 510,biomarkers,bypass framing" data-listing-date-sort="1760079600000" data-listing-file-modified-sort="1760218158205" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64" data-listing-title-sort="Reworking the Work" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 10, 2025</span>
 </td>
@@ -382,7 +482,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="13" data-categories="committee meeting" data-listing-date-sort="1759993200000" data-listing-file-modified-sort="1760218420566" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="67" data-listing-title-sort="PhD Bound..." data-listing-filename-sort="index.qmd">
+<tr data-index="22" data-categories="committee meeting" data-listing-date-sort="1759993200000" data-listing-file-modified-sort="1760218420566" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="67" data-listing-title-sort="PhD Bound..." data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 9, 2025</span>
 </td>
@@ -393,7 +493,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="14" data-categories="bypass presentation,writing accountability,mentoring" data-listing-date-sort="1759906800000" data-listing-file-modified-sort="1760217797757" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="100" data-listing-title-sort="T-24 hours" data-listing-filename-sort="index.qmd">
+<tr data-index="23" data-categories="bypass presentation,writing accountability,mentoring" data-listing-date-sort="1759906800000" data-listing-file-modified-sort="1760217797757" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="100" data-listing-title-sort="T-24 hours" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 8, 2025</span>
 </td>
@@ -404,7 +504,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="15" data-categories="fish 510,bypass presentation" data-listing-date-sort="1759820400000" data-listing-file-modified-sort="1760217837283" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="80" data-listing-title-sort="Tasks" data-listing-filename-sort="index.qmd">
+<tr data-index="24" data-categories="fish 510,bypass presentation" data-listing-date-sort="1759820400000" data-listing-file-modified-sort="1760217837283" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="80" data-listing-title-sort="Tasks" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 7, 2025</span>
 </td>
@@ -415,7 +515,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="16" data-categories="lab meeting,bypass presentation" data-listing-date-sort="1759734000000" data-listing-file-modified-sort="1760217290004" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="478" data-listing-title-sort="Booked &amp; Busy" data-listing-filename-sort="index.qmd">
+<tr data-index="25" data-categories="lab meeting,bypass presentation" data-listing-date-sort="1759734000000" data-listing-file-modified-sort="1760217290004" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="478" data-listing-title-sort="Booked &amp; Busy" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 6, 2025</span>
 </td>
@@ -426,7 +526,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="17" data-categories="fish 510,biomarkers" data-listing-date-sort="1759647600000" data-listing-file-modified-sort="1760216632843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87" data-listing-title-sort="Fish 510 &amp; Writing" data-listing-filename-sort="index.qmd">
+<tr data-index="26" data-categories="fish 510,biomarkers" data-listing-date-sort="1759647600000" data-listing-file-modified-sort="1760216632843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87" data-listing-title-sort="Fish 510 &amp; Writing" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 5, 2025</span>
 </td>
@@ -437,7 +537,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="18" data-categories="literature reconciliation,biomarkers" data-listing-date-sort="1759561200000" data-listing-file-modified-sort="1760216617884" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="163" data-listing-title-sort="Reading, Reading &amp; More Reading" data-listing-filename-sort="index.qmd">
+<tr data-index="27" data-categories="literature reconciliation,biomarkers" data-listing-date-sort="1759561200000" data-listing-file-modified-sort="1760216617884" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="163" data-listing-title-sort="Reading, Reading &amp; More Reading" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 4, 2025</span>
 </td>
@@ -448,7 +548,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="19" data-categories="biomarkers,fish 510" data-listing-date-sort="1759474800000" data-listing-file-modified-sort="1760216605975" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="155" data-listing-title-sort="Course work &amp; Biomarkers" data-listing-filename-sort="index.qmd">
+<tr data-index="28" data-categories="biomarkers,fish 510" data-listing-date-sort="1759474800000" data-listing-file-modified-sort="1760216605975" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="155" data-listing-title-sort="Course work &amp; Biomarkers" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 3, 2025</span>
 </td>
@@ -459,7 +559,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="20" data-categories="biomarkers,mentorship,bypass" data-listing-date-sort="1759388400000" data-listing-file-modified-sort="1760215534929" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222" data-listing-title-sort="Biomarkers &amp; Mentorship, Part Duex" data-listing-filename-sort="index.qmd">
+<tr data-index="29" data-categories="biomarkers,mentorship,bypass" data-listing-date-sort="1759388400000" data-listing-file-modified-sort="1760215534929" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222" data-listing-title-sort="Biomarkers &amp; Mentorship, Part Duex" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 2, 2025</span>
 </td>
@@ -470,7 +570,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="21" data-categories="biomarkers,mentorship,literature review" data-listing-date-sort="1759302000000" data-listing-file-modified-sort="1759416089000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="300" data-listing-title-sort="Biomarkers &amp; Mentorship" data-listing-filename-sort="index.qmd">
+<tr data-index="30" data-categories="biomarkers,mentorship,literature review" data-listing-date-sort="1759302000000" data-listing-file-modified-sort="1759416089000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="300" data-listing-title-sort="Biomarkers &amp; Mentorship" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 1, 2025</span>
 </td>
@@ -481,7 +581,84 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="22" data-listing-date-sort="1756710000000" data-listing-file-modified-sort="1760218812664" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="898" data-listing-title-sort="September Daily Posts" data-listing-filename-sort="index.qmd">
+<tr data-index="31" data-categories="class,epigenetics" data-listing-date-sort="1759215600000" data-listing-file-modified-sort="1759415817407" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="116" data-listing-title-sort="It's Epigenetics, Baby" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Sep 30, 2025</span>
+</td>
+<td>
+<a href="./daily_log/archive/2025_0930/index.html" class="title listing-title">It’s Epigenetics, Baby</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="32" data-categories="biomarkers,milestones,committee,task management" data-listing-date-sort="1759129200000" data-listing-file-modified-sort="1759413027412" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="234" data-listing-title-sort="Bypass &amp; Biomarkers" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Sep 29, 2025</span>
+</td>
+<td>
+<a href="./daily_log/archive/2025_0929/index.html" class="title listing-title">Bypass &amp; Biomarkers</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="33" data-categories="biomarkers,literature management" data-listing-date-sort="1759042800000" data-listing-file-modified-sort="1759412423888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="93" data-listing-title-sort="Biomarkers Literature Reconciliation" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Sep 28, 2025</span>
+</td>
+<td>
+<a href="./daily_log/archive/2025_0928/index.html" class="title listing-title">Biomarkers Literature Reconciliation</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="34" data-categories="day off" data-listing-date-sort="1758956400000" data-listing-file-modified-sort="1759412095452" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6" data-listing-title-sort="Day Off" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Sep 27, 2025</span>
+</td>
+<td>
+<a href="./daily_log/archive/2025_0927/index.html" class="title listing-title">Day Off</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="35" data-categories="biomarkers,analysis,repo management,literature management" data-listing-date-sort="1758870000000" data-listing-file-modified-sort="1759412027104" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185" data-listing-title-sort="Biomarkers, Back Again" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Sep 26, 2025</span>
+</td>
+<td>
+<a href="./daily_log/archive/2025_0926/index.html" class="title listing-title">Biomarkers, Back Again</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="36" data-categories="accountability,lab meeting,goal setting,milestones" data-listing-date-sort="1758783600000" data-listing-file-modified-sort="1759412404451" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="132" data-listing-title-sort="Put Your $$ Where Your Mouth Is" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Sep 25, 2025</span>
+</td>
+<td>
+<a href="./daily_log/archive/2025_0925/index.html" class="title listing-title">Put Your $$ Where Your Mouth Is</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="37" data-categories="organization,preparation,documentation" data-listing-date-sort="1758697200000" data-listing-file-modified-sort="1758841121582" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="94" data-listing-title-sort="New AY, New Set Up" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Sep 24, 2025</span>
+</td>
+<td>
+<a href="./daily_log/archive/2025_0924/index.html" class="title listing-title">New AY, New Set Up</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="38" data-listing-date-sort="1756710000000" data-listing-file-modified-sort="1760218812664" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="898" data-listing-title-sort="September Daily Posts" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Sep 1, 2025</span>
 </td>
@@ -497,6 +674,9 @@ Author
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

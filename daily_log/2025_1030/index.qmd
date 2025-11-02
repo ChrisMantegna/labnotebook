@@ -1,0 +1,13 @@
+---
+title: "Experimental Design"
+date: '2025-10-30'
+categories:
+  - experimental design
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- I spent a lovely morning meeting with Ariana to map out the mussel experiment for my 3rd dissertation chapter. We discussed the experimental design, including the number of replicates, treatment levels, and response variables to measure. We also talked about potential challenges and how to address them.
+- I continued the methylation analysis by getting one sample completely through Bismark, but the second one didn't finish so I will have to troubleshoot that tomorrow.

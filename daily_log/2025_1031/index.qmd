@@ -1,0 +1,12 @@
+---
+title: "Experimental Design, Part 2"
+date: '2025-10-31'
+categories:
+  - experimental design
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- Today was all about working through the design, listing questions and needs, finding supporting literature, and drafting a schedule for the work.

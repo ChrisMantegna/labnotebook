@@ -1,0 +1,11 @@
+---
+title: "No Science Today"
+date: '2025-10-26'
+categories:
+  - no science
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+

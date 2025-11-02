@@ -1,0 +1,13 @@
+---
+title: "Biomarkers Literature Reconciliation"
+date: '2025-09-28'
+categories:
+  - biomarkers
+  - literature management
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+-   All of today's focus was in tidying up my notes and citations for the biomarker manuscript draft. I have left notes or comments for myself that are a little cryptic, or worse, tags that aren't as descriptive as I need. The goal was to ensure I have the right citations in the right places and identify anything that needs additional depth in citations (biomarker work is rich in practitioners) or needs a citation period. This took much longer than I anticipated, so I knocked off for the day after that.

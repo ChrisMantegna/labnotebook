@@ -1,0 +1,20 @@
+---
+title: "Bypass & Biomarkers"
+date: '2025-09-29'
+categories:
+  - biomarkers
+  - milestones
+  - committee
+  - task management
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+-   Most of today's work focused on my science task management.
+    -   I completed the overdue milestones in the new SAFS tracker. As soon as my committee signs the Docusigm, I can submit that and get off the 'bad kids list'.
+    -   I sent out the scheduler for my first committee meeting of the quarter. That meeting will be between 10/7 - 10/17.
+    -   I sent my 'degree work' explainer over to Manca. She is helping to connect me to her former colleagues at WWU, so I needed to write a paragraph about my work and ultimate dissertation topic for her to send - that took me a surprisingly long time to craft. That flagged my need to clarify my work in both my mind and in how I share it - part of my personal goals for the year.
+    -   I spent the rest of my science admin time assessing and mapping my deliverables for the bypass package and working to identify where I will need help.
+-   My biomarker work was in mapping my plots for the manuscript and trying to get some of those plots to look better. Even when plotting by site (74 of them) the plots are a bit crowded, so I was working on that.

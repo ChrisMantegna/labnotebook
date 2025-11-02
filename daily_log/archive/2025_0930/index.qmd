@@ -1,0 +1,15 @@
+---
+title: "It's Epigenetics, Baby"
+date: '2025-09-30'
+categories:
+  - class
+  - epigenetics
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+-   Tuesdays are typically days where minimal science will be done since my student assistance-ship is the dominant player, but for at least one hour every week this quarter I'll get some science in there!
+    -   Steven's class focused on epigenetics is a literature review class where we learn foundational concepts in the discipline and then bring our own interesting literature to present while interacting with what implications this information could have on our own work.
+    -   Today was the first class, so it was a familiarization, a chance to read a foundational paper, and work test run the GitHub workflow for the course.
