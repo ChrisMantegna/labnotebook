@@ -1,0 +1,14 @@
+---
+title: "Biomarkers"
+date: '2025-11-03'
+categories:
+  - biomarkers
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+-   I ran through my ecotox presentation and headed down to Tacoma to give it!
+-   I met with Alison to discuss transitioning from chapter 2 outcomes to chapter 3 validation and that was super helpful. Our current lab- based plan doesn't achieve what we are looking for, so I'll do some more reading and work through some alternatives before meeting with Steven.
+-   I lectured on biomarkers, conservation, Puget Sound organizations and what it means to be a non-traditional student. It was awesome and I enjoyed getting to practice talking about the biomarker and preliminary DNA methylation work.

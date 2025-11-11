@@ -1,0 +1,15 @@
+---
+title: "Notebooks and Notes Management"
+date: '2025-10-11'
+categories:
+  - lab notebook
+  - biomarkers
+draft: false
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- I started the day by consolidating all of my noted for the week re: my daily notebook posts and dropping them into the actual digital lab notebook.
+- Next I moved into writing for the biomarker manuscript. I started with citing the sources for my methods and then worked on the introduction. My results section is still a bullet-point list, but won't be tomorrow when I can sort how to get the results chopped down into a shorter section.

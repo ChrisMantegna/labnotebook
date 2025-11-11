@@ -1,5 +1,5 @@
 ---
-title: "October Daily Posts"
+title: "2025 October Daily Posts"
 date: '2025-10-01'
 toc: true
 page-layout: article
