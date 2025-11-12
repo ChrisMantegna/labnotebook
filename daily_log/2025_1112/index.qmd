@@ -1,0 +1,13 @@
+---
+title: "More Methylation"
+date: '2025-11-12'
+categories:
+  - methylation
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- Started today's work by checking on the status of my QC work I left running last night. It is still running and I anticipate the trimming and QC will take equally as long, so I will use the Bismark output from my local single sample run to touchbase with Steven in our 1v1 tomorrow.
+- While I keep checking in on these things, I am wrapping the introduction for my MS thesis proposal.
