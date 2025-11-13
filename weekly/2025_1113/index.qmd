@@ -1,0 +1,49 @@
+---
+title: "Weekly Advisor Meeting"
+date: '2025-11-13'
+categories:
+  - 1v1
+execute:
+  echo: false
+  warning: false
+  message: false
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    code-fold: true
+---
+
+![](img/michaelscott.jpg){fig-align="left" width="200"}
+
+Today's goal is to recap what I've been up to for the last 2 weeks and work through the validation chapter
+
+### Recap since October 23rd
+
+1.  Gave the guest lecture on November 3rd to Alison's ecotoxicology class
+2.  Gave the guest lecture on Noveber 7th to Eli & Kristi's ENV 100 class
+3.  Found my original MS thesis proposal and started cleaning it up.
+    1.  It contains the Biomarker & Yellow Island eDNA projects.
+    2.  Can I keep it like that, or should I adjust it to Biomarkers & DNA Methylation?
+4.  In compliance with the SAFS warning letter, I will have my draft MS proposal to the committee by end of day Friday, Nov 14th
+
+### Current Work
+
+#### DNA Methylation Analysis
+
+1.  Currently on Raven working through a stripped down version of the code from your project-mytilus repo.
+
+    1.  There a ton of sequences that I don't know where they came from - what are they?
+
+    2.  Process is trimming and aligning with Bismark is next - will hopefully be able to start that today. Should I move that part of the process to Klone?
+
+    3.  Related, I ran a single sample (239/ low PAH) up through Bismark, but I don't really understand the report.
+
+![](img/bismark_report_sample_239.png)
+
+2.  Experimental design.
+    1.  Ariana & I walked through building a lab based experiment that would be cool, but after thinking through it further it doesn't align with the goal to validate the novel biomarkers.
+    2.  Chatted with Alison on Nov 3rd and it is possible that if I identify a handful of sites to go pick up the samples, WDFW may be able to give me their extras from the February 2026 pickup. Not a guarantee.
+    3.  What would it take to get a field- based exposure experiment up and running? Is it possible to pilot 1-3 local sites this winter (December - February)?

@@ -9,5 +9,9 @@ execute:
   message: false
 ---
 
-- Started today's work by checking on the status of my QC work I left running last night. It is still running and I anticipate the trimming and QC will take equally as long, so I will use the Bismark output from my local single sample run to touchbase with Steven in our 1v1 tomorrow.
-- While I keep checking in on these things, I am wrapping the introduction for my MS thesis proposal.
+-   Started today's work by checking on the status of my QC work I left running last night. It is still running and I anticipate the trimming and QC will take equally as long, so I will use the Bismark output from my local single sample run to touch base with Steven in our 1v1 tomorrow.
+-   While I keep checking in on these things, I am wrapping the introduction for my MS thesis proposal.
+-   Returning to the methylation analysis, it has taken far longer to get through the QC steps before trimming and repeating the QC and I am going to have to just keep at it to get through it. I am a bit disappointed, but it is how it goes. I will get through the trimming and start the QC again tonight to hopefully have some results in the morning.
+    -   One thing I noticed is that there are a ton of sequences that look like maybe they are from the sequencer, possibly the absolutely raw data instead of the 'processed raw' data that is named in alignment with what I named the samples. I will ask about it when I talk to Steven tomorrow.
+    -   I opened a second terminal window to get the trim and QC rolling while the multiQC runs on the fastqc reports.
+    -   I moved the additional sequences from the raw directory to the raw_other directory to hopefully speed up this part of the process.
