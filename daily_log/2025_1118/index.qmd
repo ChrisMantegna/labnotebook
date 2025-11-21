@@ -1,0 +1,16 @@
+---
+title: "FISH 510 & Methylation Analysis"
+date: '2025-11-18'
+categories:
+  - coursework
+  - methylation
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- Today is a slow working day after some other responsibilities took me away from my work the last few days.
+- I started with adjusting my code like Steven and I discussed so I could reduce the time to run Bismark on the sequences to understand the output and optimize the parameters so that I'm balancing mapping efficiency while monitoring some of the cytosine parameters to ensure no artificial inflation of methylation ID.
+- I also started to catch up on my FISH 510 discussion posts by working backwards from the most recent one due to the posts that are overdue.
+- Finally, I attended class and participated in the polar bear epigenetic clock conversation.

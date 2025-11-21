@@ -1,0 +1,15 @@
+---
+title: "Writing"
+date: '2025-11-21'
+categories:
+  - MS proposal
+  - FISH blog
+  - experiment prep
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- I started the day by trying to streamline the lab- based experiment that should be conducted in the winter. It is a bit larger and more involved right now than I think it needs to be.
+- My next task is to work on finishing my MS proposal and get it to Steven for editing before passing off to my committee. I need to have it uploaded and confirmed by my committee by 12/12/25 and this is far tighter a window than I anticipated providing for edits and feedback.

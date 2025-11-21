@@ -1,0 +1,17 @@
+---
+title: "FISH 510 Coursework"
+date: '2025-11-20'
+categories:
+  - fish 510
+  - methylation
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- Today's work was dominantly task- centered as I am a bit behind.
+  - I first knocked out the discussion post for next week's class. That led me to do a bit of a deeper dive to understand how Botryllis is able to invade, survive and possibly thrive under challenging climate conditions; dominantly the asexually reproducing ones since the paper called out using both asexual and sexually reporductive colonies to interrogate genomic and epigenomic contributions to survival.
+  - I outlined my final deliverables and chose to go with the blog post. This was fun because translating complex scientific topics to a general audience made me map out what folks need to know to understand the topic, what I knew, and creating a fun roadmap to discuss epigenetics.
+  
+- I am continuing the methylation analysis, but there have been many stalls and lags with Raven today. Slow and steady...

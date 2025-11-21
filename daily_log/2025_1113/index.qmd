@@ -1,12 +1,14 @@
 ---
-title: "No Science Today"
-date: '2025-10-13'
+title: "Advisor Check-Ins and Writing"
+date: '2025-11-13'
 categories:
-draft: false
+  - 1v1
+  - writing
 execute:
   echo: false
   warning: false
   message: false
 ---
 
-- There was no true science work completed today.
+- I met with Steven today to go over my current steps in the methylation analysis, clarify the lab based experiment for my dissertation chapters and review the past two weeks of work.
+- I worked on changing the second chapter of my MS proposal from eDNA to DNA methylation.

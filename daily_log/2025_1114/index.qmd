@@ -1,0 +1,17 @@
+---
+title: "Writing"
+date: '2025-11-14'
+categories:
+  - writing
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+-   Today was a writing day. I have toggled between personal writing and proposal writing throughout the day; this helps me refocus when I feel like I am dragging.
+-   One major thing I will need to adjust moving forward is my literature review setup. I built a database in Notion that hold all of my papers, annotations, and purpose for the papers, but most of the papers I read and worked on before doing that in September don't align with the new system and I cannot afford to go back and redo things at this moment... but I will need to make an adjustment so that when my MS proposal is finished, I don't run into this again.
+    -   I also need to ensure the current setup is effective for me since I feel like I spend more time aligning my notes with the system rather than using the system to help me manage my notes.
+    -   One thing that helps that doesn't exist yet is a place to keep an annotated bibliography by project - this will help me move quicker though the literature.
+    -   Another thing is to use a category versus tagging system as the tags are out of hand. My Notion + Zotero integration already imports the keywords from the papers as tags, having my own 'tags' group is just making a confusing mess,
+    -   Finally, I need a better way to see my notes in my properties - more aligned with how I take the notes, that make it easier to read without having to click through a million things.
