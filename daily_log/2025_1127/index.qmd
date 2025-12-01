@@ -1,0 +1,12 @@
+---
+title: "Thanksgiving"
+date: '2025-11-27'
+categories:
+  - no science
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- The only science being done today was of the culinary fashion...

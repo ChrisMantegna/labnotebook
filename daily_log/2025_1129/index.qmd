@@ -1,0 +1,12 @@
+---
+title: "Mentoring & Recommendations"
+date: '2025-11-29'
+categories:
+  - mentoring
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- I completed three recommendation letters for three former mentees, and one reference for a job for a fourth. These young adults are keeping me busy!
