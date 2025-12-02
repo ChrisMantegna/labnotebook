@@ -30,16 +30,16 @@ In terms of scientific accuracy, I intentionally maintained clarity around what 
 
 Finally, I wanted the post to end with a sense of momentum. Epigenetics is a rapidly evolving field, and framing future research directions as the rise of “expansion teams” and “rookie superstars” delivered a sense of growth and possibility. Ultimately, my goal was to create an engaging piece that communicates core concepts of marine epigenetics while honoring the complexity of the science. The sports theme provided the right balance of accessibility and creativity, and the final piece reflects a deliberate effort to maintain accuracy while reaching a broad public audience.
 
-Read my post [here](https://chrismantegna.github.io/labnotebook/weekly/2025_1201/).
----
+## Read my post [here](https://chrismantegna.github.io/labnotebook/weekly/2025_1201/).
 
 ## Course Reflection
+
 ### Learning, Research and Feedback
 
 Over the past quarter, this course has deepened my understanding of the many physiological, ecological, and mechanistic processes that underlie aquatic organism function — especially for bivalves — and really put into context just how much remains to be discovered. Through our readings and discussions, I developed a much richer perspective of the multiple epigenetic mechanisms at work as well as the many ways environmental factors modulate those mechanisms. I came away with a clearer sense of not only *how* these mechanisms operate, but *why* even small differences among species or environmental context can lead to very different ecological outcomes.
 
 Much of my current and future projects already involve contaminants and fundamental physiology — but the conceptual scaffolding that this course provided gives me a clearer lens to add and interpret our findings in a physiological context through epigenetic analysis. Ultimately, the course’s emphasis on mechanisms gives me conceptual tools to better integrate physiology, ecology, and contaminant dynamics — strengthening the ecological relevance and interpretability of my data.
 
-Regarding course feedback, more notice on final course requirements and greater clarity on  how many discussion questions are expected per class. I would have enjoyed participating a bit more in the personal research or 'cool findings' posts if I was clearer on the expectation. Moreover, while we read many papers, there was often little time for discussion. Given the complexity of the mechanisms we studied, I think the course would benefit from dedicating some class sessions to student-led discussions or presentations. For example, allowing a student to present one paper aligned with the week’s themes, followed by group discussion, might deepen engagement and understanding more than simply reading multiple articles on one’s own outside of class. 
+Regarding course feedback, more notice on final course requirements and greater clarity on how many discussion questions are expected per class. I would have enjoyed participating a bit more in the personal research or 'cool findings' posts if I was clearer on the expectation. Moreover, while we read many papers, there was often little time for discussion. Given the complexity of the mechanisms we studied, I think the course would benefit from dedicating some class sessions to student-led discussions or presentations. For example, allowing a student to present one paper aligned with the week’s themes, followed by group discussion, might deepen engagement and understanding more than simply reading multiple articles on one’s own outside of class.
 
 In sum, the course enhanced my appreciation for the subtlety and complexity of epigenetic mechanisms. That deeper understanding has already started paying dividends in my research, helping me frame more nuanced hypotheses. With more transparent course structure and more opportunities for discussion or student-led synthesis, I believe the course could become even more effective.
