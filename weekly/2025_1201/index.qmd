@@ -2,7 +2,7 @@
 title: "Epigenetics: A Playbook for Marine Survival"
 subtitle: "How Marine Organisms Run the Ultimate Game Plan"
 author: "Chris Mantegna"
-date: "2025-12-02"
+date: "2025-12-01"
 format:
   html:
     theme: cosmo
@@ -76,7 +76,7 @@ Chromatin is the molecular complex made up of DNA and proteins in the nucleus of
 
 ## The Utility Players: Non-Coding RNAs
 
-![](/weekly/2025_1202/img/aja_ovi.png){fig-align="center" width="550"}
+![](/weekly/2025_1202/img/aja_ovi_updated.png){fig-align="center"}
 
 Non-coding RNAs are a little less well understood, but generally, they regulate gene expression by intercepting signals, amplifying others, or turning certain genes on or off at key moments. As the least studied mechanism of epigenetics, the sky is the limit for adding to our understanding of how this mechanism works.
 
@@ -148,7 +148,7 @@ Epigenetics isn’t static; it’s evolving like sports themselves. We’re ente
 
 This is the age of the rookies: [Michael Penix Jr.](https://www.espn.com/nfl/player/_/id/4360423/michael-penix-jr) (#GoDawgs), [Matthew Schaefer](https://www.espn.com/fantasy/hockey/story/_/id/46872457/espn-nhl-fantasy-hockey-rookie-watch-add-drop-stash), [Paige Bueckers](https://www.espn.com/wnba/player/_/id/4433730/paige-bueckers), [Kimi Antonelli](https://www.formula1.com/en/drivers/kimi-antonelli) — athletes rewriting their sports in real time. Epigenetics is undergoing that same explosive transformation.
 
-![](/weekly/2025_1202/img/rookies.png){fig-align="center"}
+![](/weekly/2025_1202/img/rookie_updated.png){fig-align="center"}
 
 Add new tools, [third-generation sequencing](https://en.wikipedia.org/wiki/Third-generation_sequencing), and a wealth of open-source data—that’s just like electronic line judging in tennis (except for the [French Open](https://www.rolandgarros.com/en-us/)), the new concussion helmets in the NFL, and more investment in youth sports across the US.
 
