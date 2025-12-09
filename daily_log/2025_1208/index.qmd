@@ -1,12 +1,13 @@
 ---
-title: "Tides in Tokeland"
-date: '2025-11-08'
+title: "Mussels in the Cold Room"
+date: '2025-12-08'
 categories:
-  - tides
+  - mussels
+  - experiment
 execute:
   echo: false
   warning: false
   message: false
 ---
 
-- I spent the majority of the day photographing the coast, the tides, intertidal critters at night, and the towns of Westport and Tokeland.
+- Today is the day to begin to test the tolerance of mussels to lab life.
