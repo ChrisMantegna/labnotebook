@@ -1,5 +1,6 @@
 ---
-title: "2025-11 — Daily Posts"
+title: "2025 November Daily Posts"
+date: '2025-11-01'
 toc: true
 page-layout: article
 format:
@@ -7,14 +8,10 @@ format:
     df-print: paged
 ---
 
-# 2025-11 — Daily Posts
-
-> This page compiles all daily posts for 2025-11.
+> This page compiles *all* daily posts made in November 2025.
 
 
-## 2025-11-01 — Monthly Planning & Goal Setting  
-[View original daily](archive/2025-11/2025_1101/index.qmd)
-
+### 2025-11-01 — Monthly Planning & Goal Setting
 
 -   The focus of today is to set my goals for the month of November, but
     I am still stuck in trying to get the rest of my life online for the
@@ -25,69 +22,49 @@ format:
     -   Finish MS thesis proposal
     -   Finish mussel methylation analysis
 
-## 2025-11-02 — From Kenya to Tacoma and Back  
-[View original daily](archive/2025-11/2025_1102/index.qmd)
-
+### 2025-11-02 — From Kenya to Tacoma and Back  
 
 -   Today's work was
     -   Finalizing my presentation on the biomarker work for Alison's class tomorrow.
     -   Creating the sediment sampling protocol, metadata collection steps, building the data tables and providing open- source resources to gather the data for the NMK team. They go out to our Lake Victoria field sites next week.
     -   Reading papers to help me clarify the experimental design for my chapter 3.
 
-## 2025-11-03 — Biomarkers  
-[View original daily](archive/2025-11/2025_1103/index.qmd)
-
+### 2025-11-03 — Biomarkers
 
 -   I ran through my ecotox presentation and headed down to Tacoma to give it!
 -   I met with Alison to discuss transitioning from chapter 2 outcomes to chapter 3 validation and that was super helpful. Our current lab- based plan doesn't achieve what we are looking for, so I'll do some more reading and work through some alternatives before meeting with Steven.
 -   I lectured on biomarkers, conservation, Puget Sound organizations and what it means to be a non-traditional student. It was awesome and I enjoyed getting to practice talking about the biomarker and preliminary DNA methylation work.
 
-## 2025-11-04 — No Science Today  
-[View original daily](archive/2025-11/2025_1104/index.qmd)
-
+### 2025-11-04 — No Science Today  
 
 - No science work done today.
 
-## 2025-11-05 — ENVIR Lecture  
-[View original daily](archive/2025-11/2025_1105/index.qmd)
-
+### 2025-11-05 — ENVIR Lecture
 
 - I knocked out my Research as Resistance lecture for Friday's ENV 100 class. I'm definitely nervous about speaking in front of more than 300 students, but if I don't practice now, I'll never get used to it.
 
-## 2025-11-06 — Writing  
-[View original daily](archive/2025-11/2025_1106/index.qmd)
-
+### 2025-11-06 — Writing
 
 - I spent the majority of today making an annotated bibliography for the biomarker paper while struggling through writing the introduction. It is still crap, but at least something is on the page.
 
-## 2025-11-07 — King Tides  
-[View original daily](archive/2025-11/2025_1107/index.qmd)
-
+### 2025-11-07 — King Tides  
 
 - I presented to the ENV 100 class and it was very cool! It is very fun to chat through what I am doing and where I want to go with my work.
 - After class I got home, packed my gear in the car and headed out to the coast for the weekend so I could take pictures of the tides, read without interruption, and write.
 
-## 2025-11-08 — Tides in Tokeland  
-[View original daily](archive/2025-11/2025_1108/index.qmd)
-
+### 2025-11-08 — Tides in Tokeland  
 
 - I spent the majority of the day photographing the coast, the tides, intertidal critters at night, and the towns of Westport and Tokeland.
 
-## 2025-11-09 — Tides, Again  
-[View original daily](archive/2025-11/2025_1109/index.qmd)
-
+### 2025-11-09 — Tides, Again  
 
 - I caught the last of the king tides at the Ocean Shores N jetty before heading home and setting up for the week.
 
-## 2025-11-10 — No Science Today  
-[View original daily](archive/2025-11/2025_1110/index.qmd)
-
+### 2025-11-10 — No Science Today  
 
 - No science today, tons of personal errands and tasks to knock out.
 
-## 2025-11-11 — Methylation Analysis  
-[View original daily](archive/2025-11/2025_1111/index.qmd)
-
+### 2025-11-11 — Methylation Analysis  
 
 -   Today's mission was to get the 'simple' version of the methylation work up and running on Raven. Last week, I built my bioinformatics environment on my local computer so that I could run the initial QC, trimming and alignment on 1-2 sequences so I could understand what I was doing.
     -   I was able to take the code from Steven's [Mytilus Project repo,](https://github.com/RobertsLab/project-mytilus-methylation/tree/main) strip it down to the barest of essentials (so I could understand it) and run through the Bismark alignment. I was able to do this with one sample (read 1 and 2), but my computer didn't have enough storage/ memory to do the second. Looking at the QC reports, I understand what I see, but I do not understand the Bismark output. This will be a topic in our 1v1 this week.
@@ -95,9 +72,7 @@ format:
     -   First - and possibly most important, if you update your gitignore file after the first commit without clearing the cache of your GH Desktop app, you will commit/ push files that are listed in the gitignore resulting in a never ending compressing/ writing/ failing loop that will prevent you from doing anything. Thank you StackOverflow for the fix.
     -   Second - I will 100% have to move up from Raven to Klone for this work and beyond. Just running the QC work on Raven has taken hours - will most likely take overnight for the process to finish. Not feeling great about it, but it is a tool that must be used.
 
-## 2025-11-12 — More Methylation  
-[View original daily](archive/2025-11/2025_1112/index.qmd)
-
+### 2025-11-12 — More Methylation
 
 -   Started today's work by checking on the status of my QC work I left running last night. It is still running and I anticipate the trimming and QC will take equally as long, so I will use the Bismark output from my local single sample run to touch base with Steven in our 1v1 tomorrow.
 -   While I keep checking in on these things, I am wrapping the introduction for my MS thesis proposal.
@@ -106,16 +81,12 @@ format:
     -   I opened a second terminal window to get the trim and QC rolling while the multiQC runs on the fastqc reports.
     -   I moved the additional sequences from the raw directory to the raw_other directory to hopefully speed up this part of the process.
 
-## 2025-11-13 — Advisor Check-Ins and Writing  
-[View original daily](archive/2025-11/2025_1113/index.qmd)
-
+### 2025-11-13 — Advisor Check-Ins and Writing  
 
 - I met with Steven today to go over my current steps in the methylation analysis, clarify the lab based experiment for my dissertation chapters and review the past two weeks of work.
 - I worked on changing the second chapter of my MS proposal from eDNA to DNA methylation.
 
-## 2025-11-14 — Writing  
-[View original daily](archive/2025-11/2025_1114/index.qmd)
-
+### 2025-11-14 — Writing  
 
 -   Today was a writing day. I have toggled between personal writing and proposal writing throughout the day; this helps me refocus when I feel like I am dragging.
 -   One major thing I will need to adjust moving forward is my literature review setup. I built a database in Notion that hold all of my papers, annotations, and purpose for the papers, but most of the papers I read and worked on before doing that in September don't align with the new system and I cannot afford to go back and redo things at this moment... but I will need to make an adjustment so that when my MS proposal is finished, I don't run into this again.
@@ -124,42 +95,30 @@ format:
     -   Another thing is to use a category versus tagging system as the tags are out of hand. My Notion + Zotero integration already imports the keywords from the papers as tags, having my own 'tags' group is just making a confusing mess,
     -   Finally, I need a better way to see my notes in my properties - more aligned with how I take the notes, that make it easier to read without having to click through a million things.
 
-## 2025-11-15 — No Science Today  
-[View original daily](archive/2025-11/2025_1115/index.qmd)
-
+### 2025-11-15 — No Science Today  
 
 - No science today
 
-## 2025-11-16 — No Science Today  
-[View original daily](archive/2025-11/2025_1116/index.qmd)
-
+### 2025-11-16 — No Science Today  
 
 - No science today
 
-## 2025-11-17 — No Science Today  
-[View original daily](archive/2025-11/2025_1117/index.qmd)
-
+### 2025-11-17 — No Science Today  
 
 - No science today
 
-## 2025-11-18 — FISH 510 & Methylation Analysis  
-[View original daily](archive/2025-11/2025_1118/index.qmd)
-
+### 2025-11-18 — FISH 510 & Methylation Analysis  
 
 - Today is a slow working day after some other responsibilities took me away from my work the last few days.
 - I started with adjusting my code like Steven and I discussed so I could reduce the time to run Bismark on the sequences to understand the output and optimize the parameters so that I'm balancing mapping efficiency while monitoring some of the cytosine parameters to ensure no artificial inflation of methylation ID.
 - I also started to catch up on my FISH 510 discussion posts by working backwards from the most recent one due to the posts that are overdue.
 - Finally, I attended class and participated in the polar bear epigenetic clock conversation.
 
-## 2025-11-19 — Wednesdays are for Writing  
-[View original daily](archive/2025-11/2025_1119/index.qmd)
-
+### 2025-11-19 — Wednesdays are for Writing  
 
 - I realized today that my MS proposal format is wrong. I am actually doing more than needed. During a writing block with KPJ, we realized I was framing the chapters individually rather than weaving together the common goal of both. This means I have been writing too much detail for each chapter rather than focusing on the overall narrative. I need to reframe my proposal to highlight the connections between chapters and how they contribute to my research question. This is relieving.
 
-## 2025-11-20 — FISH 510 Coursework  
-[View original daily](archive/2025-11/2025_1120/index.qmd)
-
+### 2025-11-20 — FISH 510 Coursework  
 
 - Today's work was dominantly task- centered as I am a bit behind.
   - I first knocked out the discussion post for next week's class. That led me to do a bit of a deeper dive to understand how Botryllus is able to invade, survive and possibly thrive under challenging climate conditions; dominantly the asexually reproducing ones since the paper called out using both asexual and sexually reproductive colonies to interrogate genomic and epigenomic contributions to survival.
@@ -167,66 +126,46 @@ format:
   
 - I am continuing the methylation analysis, but there have been many stalls and lags with Raven today. Slow and steady...
 
-## 2025-11-21 — Writing  
-[View original daily](archive/2025-11/2025_1121/index.qmd)
-
+### 2025-11-21 — Writing  
 
 - I started the day by trying to streamline the lab- based experiment that should be conducted in the winter. It is a bit larger and more involved right now than I think it needs to be.
 - I moved next to updating my daily lab notebook entries for the week, I didn't realize I was this far behind.
 - Finally, I finished the introduction to my MS proposal. I have got to get it to Steven for editing before passing off to my committee. I need to have it uploaded and confirmed by my committee by 12/12/25 and this is far tighter a window than I anticipated providing for edits and feedback.
 
-## 2025-11-22 — Mussels & Epigenetics  
-[View original daily](archive/2025-11/2025_1122/index.qmd)
-
+### 2025-11-22 — Mussels & Epigenetics  
 
 - I jumped back into Raven to get my alignments going again- my connection timed out two days ago and I have finally finished cleaning out the pieces of files, fixing my script to find the executable version of Bowtie and set it off and running.
 - I outlined my blog post for FISH 510, drafted my reflection statement and set up the plan for the presentation for class on 12/2.
 
-## 2025-11-23 — Sundays are for Reading  
-[View original daily](archive/2025-11/2025_1123/index.qmd)
-
+### 2025-11-23 — Sundays are for Reading  
 
 - I spent today reading about the history of Puget Sound waterway accesses and industrialization. Mostly historical non-fiction, not scientific articles.
 
-## 2025-11-24 — MS Writing  
-[View original daily](archive/2025-11/2025_1124/index.qmd)
-
+### 2025-11-24 — MS Writing  
 
 - I finally finished the draft of my MS proposal and got it over to Steven. I have lost the doc I started with my annotated bibliography - before I switched over to Notion, so I will have to go back and tighten up my sources before submitting the draft to my committee.
 
-## 2025-11-25 — FISH 510  
-[View original daily](archive/2025-11/2025_1125/index.qmd)
-
+### 2025-11-25 — FISH 510  
 
 - Tuesdays are for RUA, so the only 'science' I did today was prepare for and participate in class.
 
-## 2025-11-26 — FISH Blog  
-[View original daily](archive/2025-11/2025_1126/index.qmd)
-
+### 2025-11-26 — FISH Blog  
 
 - I completed the draft of my blog for class and my reflection statement... Now on to prep for Thanksgiving tomorrow.
 
-## 2025-11-27 — Thanksgiving  
-[View original daily](archive/2025-11/2025_1127/index.qmd)
-
+### 2025-11-27 — Thanksgiving  
 
 - The only science being done today was of the culinary fashion...
 
-## 2025-11-28 — No Science  
-[View original daily](archive/2025-11/2025_1128/index.qmd)
-
+### 2025-11-28 — No Science  
 
 - No science today
 
-## 2025-11-29 — Mentoring & Recommendations  
-[View original daily](archive/2025-11/2025_1129/index.qmd)
-
+### 2025-11-29 — Mentoring & Recommendations  
 
 - I completed three recommendation letters for three former mentees, and one reference for a job for a fourth. These young adults are keeping me busy!
 
-## 2025-11-30 — Citing for MS Proposal  
-[View original daily](archive/2025-11/2025_1130/index.qmd)
-
+### 2025-11-30 — Citing for MS Proposal  
 
 - I cannot find my annotated bibliography, so I had to comb back through all of my sources to match with what I wrote based on the first- pass notes in Zotero... 0/10 do not recommend.
 - I built in the annotated bib section into my Notion literature review database so that as I'm redoing the work, I won't lose it again.

@@ -8,9 +8,7 @@ format:
     df-print: paged
 ---
 
-# 2025-10 — Daily Posts
-
-> This page compiles all daily posts for 2025-10.
+> This page compiles *all* daily posts made in October 2025.
 
 
 ### 2025-10-01 — Biomarkers & Mentorship  
@@ -31,26 +29,26 @@ format:
 - I spent some time this evening working on the framing of my bypass presentation for my October 9th committee meeting
 - Wrapped up the day with work on the biomarker analysis. The correlations seem to be far higher in number of significant results than when I previously worked on it, so I needed to investigate. Turns out I created a loop that was correlating the wrong variables. Fixed that.
 
-## 2025-10-03 — Course work & Biomarkers  
+### 2025-10-03 — Course work & Biomarkers  
 
 -   Science solidly fell into task management and project analysis review today.
     -   First, I read over the papers for this week's FISH 510 and setup my course project in Notion. I added my deadlines, deliverables and tasks and linked the literature for the course to the full project page.
     -   Second, I started answering the Discussion Questions for the week and looking ahead to the upcoming week. The goal is to post responses to the discussion questions for the following week by Thursday of the week we're in. I missed the mark this week, but it shouldn't be difficult moving forward.
 -   I worked on wrapping up the biomarker analysis validation and documenting what steps and decisions I made in data manipulation, statistical analysis choices, and my interpretations of the individual results while thinking through what the results mean all together.
 
-## 2025-10-04 — Reading, Reading & More Reading  
+### 2025-10-04 — Reading, Reading & More Reading  
 
 - All science today was in the reading and re-reading of the literature behind the biomarker work. I have a Zotero project with almost 100 papers in it that are at various levels of annotation and note taking. Not ideal.
   - I updated my sync to Notion by removing the complete project, selecting the papers I knew were 100% going to be cited, and then started triaging the mess I made to date.
   - Next, I made a holding folder for papers that may support very specific analysis decisions and papers that will support specific text in the manuscript.
   - Finally, I refined my note taking template to make the necessary information visible in a database in Notion so that when I want to review all papers supporting methods or my introduction or whatever, I can just sort and see my notes rather than have to open and close each individual entry to create another document that can get lost.
 
-## 2025-10-05 — Fish 510 & Writing  
+### 2025-10-05 — Fish 510 & Writing  
 
 - I returned to the FISH 510 coursework first today. I completed my notes for the Week 2 papers, answered the discussion questions and got my posts and responses to others up on the discussion board.
 - I finished the day by brain dumping my thoughts from my biomarker lit reconciliation. I moved pieces into their respective manuscript sections, aligned any citations that related, and tried to pull out the important pieces that keep the doc moving forward without my desire to wax poetic about the whole thing.
 
-## 2025-10-06 — Booked & Busy  
+### 2025-10-06 — Booked & Busy  
 
 -   Attended lab meeting where we shared our bi-weekly goals, progress, knowledge nuggets, and upcoming goals. My responses are below. My goals are built off of my Autumn quarter goals/ plan to meet those goals.
 -   I worked on my bypass presentation for my committee meeting on Thursday.
@@ -82,118 +80,118 @@ Goals set on 10/06 for completion by 10/20 lab meeting:\
 4. Create bench protocol for Kenya samples 10/20
 :::
 
-## 2025-10-07 — Tasks  
+### 2025-10-07 — Tasks  
 
 - Today's work was limited to task completion. Tuesday's are fully RUA days so science is limited anyway, but it was more limited today because I had a previously scheduled obligation that wiped out any deep thinking/ deep work time.
 - I attended fish 510 and confirmed I will be giving the week 4 presentation on my epigenetic topic of interest.
 - I continued work on my bypass presentation, just shifted it over to quarto so that it is a notebook post.
 
-## 2025-10-08 — T-24 hours
+### 2025-10-08 — T-24 hours
 
 - The name of the game is get that damn presentation together, out and reviewed by Steven before tomorrow. The bulk of my time has been spent on that.
 - I met with Logan today to discuss how to set up interviews for grad schools and some timeline planning for when/ how she is knocking out the major written portions for applications and grant applications.
 - I worked with KPJ today on re-familiarizing myself with the biomarker manuscript graveyard - should make it easier for me to jump back in to the work tomorrow when time is less of a constriction. 
 
-## 2025-10-09 — PhD Bound...  
+### 2025-10-09 — PhD Bound...  
 
 - Today's only goal was to make it through my committee meeting and come through the other side with a plan. It didn't go as expected, but I do have a plan. After the meeting, I re-confirmed with Sam that I did in fact have one quarter of funding remaining - I do, and then I continued on with my non-science responsibilities to wrap up the day.
 
-## 2025-10-10 — Reworking the Work  
+### 2025-10-10 — Reworking the Work  
 
 - Today was another heavy task management day versus a deep work day. I started by knocking out my readings and posts for FISH 510 next week. I pivoted to writing time for the biomarker manuscript, and then wrapped up the day by re-framing my bypass package proposals so that I could make a plan to get the work done as quickly as possible.
 
-## 2025-10-11 — Notebooks and Notes Management  
+### 2025-10-11 — Notebooks and Notes Management  
 
 - I started the day by consolidating all of my noted for the week re: my daily notebook posts and dropping them into the actual digital lab notebook.
 - Next I moved into writing for the biomarker manuscript. I started with citing the sources for my methods and then worked on the introduction. My results section is still a bullet-point list, but won't be tomorrow when I can sort how to get the results chopped down into a shorter section.
 
-## 2025-10-12 — Biomarkers  
+### 2025-10-12 — Biomarkers  
 
 - Today was all about knocking the dust off of all of my writing notes and re-running my result plots to get on with the show. I spent time reviewing the results, burning down the introduction draft and reworking the writing to more succinctly match the purpose of the research, plotting the draft versions of the figures, and thinking through what my next steps are to get this thing out to Alison and Steven before I die.
 
-## 2025-10-13 — No Science Today  
+### 2025-10-13 — No Science Today  
 
 - There was no true science work completed today.
 
-## 2025-10-14 — Coursework  
+### 2025-10-14 — Coursework  
 
 - Tuesday's are typically non-science days due to the length of time I spend in meetings and working on the RUA program. Today's only science related work was attending class, adding my papers for next week to the class GitHub, and chatting with Steven about shifting my bypass package submission back to Winter Quarter instead of pushing to submit in November. We're on the same page, so moving forward I will get the biomarkers paper out, work on my MS proposal, and continue to build my PhD proposal with the notes from my committee meeting in mind.
 
-## 2025-10-15 — Ecotox  
+### 2025-10-15 — Ecotox  
 
 - I started off the day reviewing the papers I pulled last night for my PhD proposal. I did quick searches on Web of Science and Google Scholar for epigenetic work done in the ecotoxicology discipline, and while the results were limited, there was a ton of opinions in how epigenetics can be used as a tool to support understanding of the impact of legacy contaminants in foundational model organisms.\
 
  - I am part of the team of submitters for the PromethION proposal. Today I helped with the final reading/ editing and it looks great. Mike has knocked it out of the park and I hope this comes to fruition. 
 
-## 2025-10-16 — Usual Thursday Shenanigans  
+### 2025-10-16 — Usual Thursday Shenanigans  
 
 - Today's work consisted of reviewing my notes through my initial literature search to refine a few options for re-framing my dissertation and preparing to work through those ideas with Steven during our 1v1. My plan was a little too in the weeds, but I think we came up with a solid plan for moving forward.
 
-## 2025-10-17 — Coursework & Planning  
+### 2025-10-17 — Coursework & Planning  
 
 -   I have spent my science- focused time continuing my work on my PhD proposal and bypass timeline re-work. Looking at the plan Steven and I worked on yesterday, I mapped a few big questions and plans to test them so that we can have a productive 1v1 next week.
 -   My next priority was finishing my readings for FISH 510 and outlining my presentation. I got my discussion post up and created a slide catastrophe of ideas that I'll refine over the weekend.
 
-## 2025-10-18 — Timelines & Tasks  
+### 2025-10-18 — Timelines & Tasks  
 
 -   Today has been a heavy re-organization day. While most of what I needed to accomplish was not science related, rebuilding my science timelines and deliverables played a huge role in scheduling out the remainder of Autumn Quarter, assessing my goals, and building timelines that are attainable for my goals for the academic year; building in rest and off-days is also on the 'must do' list. While I may not reach candidacy at the close of Spring Quarter 2026, if I continue to manage my progress daily, I could reach it by late Summer Quarter 2026 or early Autumn Quarter 2026.
 -   Planning out this far is a bit precarious as I don't know what I don't know, so along with the big steps, I am building a list of questions that will help me refine the goals and the steps to achieve them.
 
-## 2025-10-19 — Sundays are for Reading  
+### 2025-10-19 — Sundays are for Reading  
 
 - I spent my time today searching for papers re: mussel genomes and the role of DNA methylation. I used Web of Science and Google Scholar to find foundational knowledge papers to help me clarify my understanding of the resources, current knowledge, and future directions with mussels.
 
-## 2025-10-20 — Lab Meeting, Goal Setting & FISH 510 Prep  
+### 2025-10-20 — Lab Meeting, Goal Setting & FISH 510 Prep  
 
 - Today's work was dominantly task- centered instead of deeper work.
   - I worked on my presentation for FISH 510
   - I attended lab meeting where I met 2 of my 4 goals completely and the remaining 2 at approximately 60% each. My goals for the next meeting are to complete the written pieces from my last goal round, and gain clarity in the DNA Methylation analysis so I can plan my next steps
 
-## 2025-10-21 — Class  
+### 2025-10-21 — Class  
 
 - Tuesday's are class and RUA days, so my only science work today was attending class and presenting.
 
-## 2025-10-22 — Mussel Genomes do What?!?!?  
+### 2025-10-22 — Mussel Genomes do What?!?!?  
 
 - Much reading and writing today focused on getting through the papers I gathered over the weekend. Interestingly, I just learned that mussels inherit mtDNA from maternal and paternal lines...
   - I also put my agenda together for my 1v1 with Steven tomorrow. This is the earliest I've done it and so close to the 24hr mark that maybe I will make it next week!
 
-## 2025-10-23 — Lit Pull & Reading  
+### 2025-10-23 — Lit Pull & Reading  
 
 - Today was spent working on gathering some baseline data on mytilus trossulus genome, general mytilus species' genomes, and working through some of my knowledge gaps about mussels.
 - When meeting with Steven, we talked through my agenda and most recent lit findings, what my next steps should be for building my proposal and a few steps to get started on the methylation dataset.
 - I finished the day by applying for the Climate Wayfinders program, which is a fellowship program for early career researchers interested in climate change research, education and science communication.
 
-## 2025-10-24 — Epigenetics  
+### 2025-10-24 — Epigenetics  
 
 - I spent some time cleaning up the mussel methylation repo and taking a few steps to understand the bioinformatics workflow, programs and expected outcomes
 - I read three of the four papers for next week's FISH class.
 - I built my analysis progress notes in my methylation in Notion, noted what needs to be expanded or further explained, linked my literature from Zotero, and built the script for the initial data pull, reference pull, and multiQC steps.
 
-## 2025-10-25 — No Science Today  
+### 2025-10-25 — No Science Today  
 
-## 2025-10-26 — No Science Today  
+### 2025-10-26 — No Science Today  
 
-## 2025-10-27 — Presentations & Reading  
+### 2025-10-27 — Presentations & Reading  
 
 - I spent today working on my presentation on 11/3 to Alison's Ecotox class.
 - I continued to move through my pulled papers re: mussel genome information.
 - I finished reading the last paper for FISH 510 tomorrow.
 
-## 2025-10-28 — Class & Computers  
+### 2025-10-28 — Class & Computers  
 
 - Today's biggest win was getting my conda/ mamba environment set up on my local machine so that I could work with the bioinformatics tools before jumping over to Raven to work with the methylation data.
 
-## 2025-10-29 — Methylation Analysis  
+### 2025-10-29 — Methylation Analysis  
 
 - I pulled down 2 samples' sequences, the reference genome and ran the workflow through multiQC, made a list of questions I had about the results and parameters, and started Bismark.
 
-## 2025-10-30 — Experimental Design  
+### 2025-10-30 — Experimental Design  
 
 - I spent a lovely morning meeting with Ariana to map out the mussel experiment for my 3rd dissertation chapter. We discussed the experimental design, including the number of replicates, treatment levels, and response variables to measure. We also talked about potential challenges and how to address them.
 - I continued the methylation analysis by getting one sample completely through Bismark, but the second one didn't finish so I will have to troubleshoot that tomorrow.
 
-## 2025-10-31 — Experimental Design, Part 2  
+### 2025-10-31 — Experimental Design, Part 2  
 
 - Today was all about working through the design, listing questions and needs, finding supporting literature, and drafting a schedule for the work.
 
