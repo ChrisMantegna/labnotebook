@@ -1,10 +1,8 @@
 ---
-title: "From Kenya to Tacoma and Back"
-date: '2025-11-02'
+title: "RUA Day, No Science"
+date: '2025-12-02'
 categories:
-  - biomarkers
-  - eDNA
-  - presentation
+  -no science today
 execute:
   echo: false
   warning: false
@@ -14,7 +12,4 @@ editor:
     wrap: sentence
 ---
 
--   Today's work was
-    -   Finalizing my presentation on the biomarker work for Alison's class tomorrow.
-    -   Creating the sediment sampling protocol, metadata collection steps, building the data tables and providing open- source resources to gather the data for the NMK team. They go out to our Lake Victoria field sites next week.
-    -   Reading papers to help me clarify the experimental design for my chapter 3.
+-   Tuesday's are UW-RUA days. No science today beyond the last FISH 510 class meeting. 

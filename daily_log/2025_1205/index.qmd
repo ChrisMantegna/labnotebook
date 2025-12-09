@@ -1,12 +1,12 @@
 ---
-title: "ENVIR Lecture"
-date: '2025-11-05'
+title: "Science Hour & Experiments"
+date: '2025-12-05'
 categories:
-  - presentation
+  - mussels
 execute:
   echo: false
   warning: false
   message: false
 ---
 
-- I knocked out my Research as Resistance lecture for Friday's ENV 100 class. I'm definitely nervous about speaking in front of more than 300 students, but if I don't practice now, I'll never get used to it.
+- I jumped into science hour to chat with Steven about getting the pilot mussel experiment up and running. Clarified some logistics and I will be ready to get it started on Monday.
