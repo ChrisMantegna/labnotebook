@@ -1,0 +1,14 @@
+---
+title: "Weekly Wrap Up"
+date: 2026-01-03
+---
+
+#### Focus for the Week: Primary goals and priorities.
+
+#### Progress Made: What moved forward?
+
+#### Challenges: What slowed things down?
+
+#### Synthesis: How does this week connect to the larger project?
+
+#### Next Week: Planned tasks and questions.
