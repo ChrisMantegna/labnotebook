@@ -2,6 +2,15 @@
 title: "Sundays are for Seahawks & spending time with your favorite bivalve"
 subtitle: "Testing Mytilus response to resazurin assays" 
 date: 2026-01-25
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: right
+    number-sections: false
+    smooth-scroll: true
+    page-layout: article
+    css: styles.css
 ---
 
 > > Following the established protocols of the Resazurin Assay [(Huffmyer et al., 2025)](https://www.biorxiv.org/content/10.1101/2025.11.06.686367v1#:~:text=Abstract,as%20a%20measure%20of%20metabolism.), I modified the assay to support a trial run for *Mytilus trossulus*. This work had two goals:
