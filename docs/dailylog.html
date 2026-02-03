@@ -79,7 +79,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
+      page: 30,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
@@ -203,7 +204,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(11)</span></div><div class="category" data-category="-no science today">-no science today <span class="quarto-category-count">(1)</span></div><div class="category" data-category="experiment">experiment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="goals">goals <span class="quarto-category-count">(1)</span></div><div class="category" data-category="monthly planning">monthly planning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mussels">mussels <span class="quarto-category-count">(3)</span></div><div class="category" data-category="no science today">no science today <span class="quarto-category-count">(1)</span></div><div class="category" data-category="reading">reading <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(42)</span></div><div class="category" data-category="-no science today">-no science today <span class="quarto-category-count">(1)</span></div><div class="category" data-category="AA team_ meetings">AA team_ meetings <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RUA">RUA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="benchwork">benchwork <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data_analysis">data_analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="event_lead">event_lead <span class="quarto-category-count">(1)</span></div><div class="category" data-category="experiment">experiment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="experiment_planning">experiment_planning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="experiment_takedown">experiment_takedown <span class="quarto-category-count">(1)</span></div><div class="category" data-category="goals">goals <span class="quarto-category-count">(1)</span></div><div class="category" data-category="lab_notebook">lab_notebook <span class="quarto-category-count">(1)</span></div><div class="category" data-category="monthly planning">monthly planning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mussels">mussels <span class="quarto-category-count">(3)</span></div><div class="category" data-category="mytilus">mytilus <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mytilus_pilot">mytilus_pilot <span class="quarto-category-count">(1)</span></div><div class="category" data-category="no science today">no science today <span class="quarto-category-count">(1)</span></div><div class="category" data-category="notion_info_migration">notion_info_migration <span class="quarto-category-count">(1)</span></div><div class="category" data-category="project_name">project_name <span class="quarto-category-count">(27)</span></div><div class="category" data-category="reading">reading <span class="quarto-category-count">(1)</span></div><div class="category" data-category="work_done_ie_coding, wriitng, bench">work_done_ie_coding, wriitng, bench <span class="quarto-category-count">(27)</span></div><div class="category" data-category="writing">writing <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -239,40 +240,7 @@ Author
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="mussels,experiment" data-listing-date-sort="1765180800000" data-listing-file-modified-sort="1765240354201" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="16" data-listing-title-sort="Mussels in the Cold Room" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Dec 8, 2025</span>
-</td>
-<td>
-<a href="./daily_log/2025_1208/index.html" class="title listing-title">Mussels in the Cold Room</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="1" data-categories="reading" data-listing-date-sort="1765094400000" data-listing-file-modified-sort="1765240293930" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65" data-listing-title-sort="Reading" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Dec 7, 2025</span>
-</td>
-<td>
-<a href="./daily_log/2025_1207/index.html" class="title listing-title">Reading</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="2" data-categories="no science today" data-listing-date-sort="1765008000000" data-listing-file-modified-sort="1765239828055" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="4" data-listing-title-sort="No Science Today" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Dec 6, 2025</span>
-</td>
-<td>
-<a href="./daily_log/2025_1206/index.html" class="title listing-title">No Science Today</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="3" data-categories="mussels" data-listing-date-sort="1764921600000" data-listing-file-modified-sort="1765239772688" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33" data-listing-title-sort="Science Hour &amp; Experiments" data-listing-filename-sort="index.qmd">
+<tr data-index="0" data-categories="mussels" data-listing-date-sort="1764921600000" data-listing-file-modified-sort="1765239772688" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33" data-listing-title-sort="Science Hour &amp; Experiments" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Dec 5, 2025</span>
 </td>
@@ -283,7 +251,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="4" data-listing-date-sort="1764835200000" data-listing-file-modified-sort="1765239618398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6" data-listing-title-sort="No Science Today" data-listing-filename-sort="index.qmd">
+<tr data-index="1" data-listing-date-sort="1764835200000" data-listing-file-modified-sort="1765239618398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6" data-listing-title-sort="No Science Today" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Dec 4, 2025</span>
 </td>
@@ -294,7 +262,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="5" data-categories="mussels" data-listing-date-sort="1764748800000" data-listing-file-modified-sort="1765239598812" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11" data-listing-title-sort="Reading &amp; Writing" data-listing-filename-sort="index.qmd">
+<tr data-index="2" data-categories="mussels" data-listing-date-sort="1764748800000" data-listing-file-modified-sort="1765239598812" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11" data-listing-title-sort="Reading &amp; Writing" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Dec 3, 2025</span>
 </td>
@@ -305,7 +273,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="6" data-categories="-no science today" data-listing-date-sort="1764662400000" data-listing-file-modified-sort="1765239550094" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="18" data-listing-title-sort="RUA Day, No Science" data-listing-filename-sort="index.qmd">
+<tr data-index="3" data-categories="-no science today" data-listing-date-sort="1764662400000" data-listing-file-modified-sort="1765239550094" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="18" data-listing-title-sort="RUA Day, No Science" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Dec 2, 2025</span>
 </td>
@@ -316,18 +284,18 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="7" data-categories="monthly planning,goals" data-listing-date-sort="1764576000000" data-listing-file-modified-sort="1765239533397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="85" data-listing-title-sort="Monthly Planning &amp; Goal Setting" data-listing-filename-sort="index.qmd">
+<tr data-index="4" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
 <td>
-<span class="listing-date">Dec 1, 2025</span>
+<span class="listing-date">Invalid Date</span>
 </td>
 <td>
-<a href="./daily_log/2025_1201/index.html" class="title listing-title">Monthly Planning &amp; Goal Setting</a>
+<a href="./daily_log/2026_09/index.html" class="title listing-title">Main Topic of the Day</a>
 </td>
 <td>
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="8" data-listing-date-sort="1761980400000" data-listing-file-modified-sort="1765316180495" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2325" data-listing-title-sort="2025 November Daily Posts" data-listing-filename-sort="index.qmd">
+<tr data-index="5" data-listing-date-sort="1761980400000" data-listing-file-modified-sort="1765316180495" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2325" data-listing-title-sort="2025 November Daily Posts" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Nov 1, 2025</span>
 </td>
@@ -338,7 +306,84 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="9" data-listing-date-sort="1759302000000" data-listing-file-modified-sort="1765316178534" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="16" data-listing-word-count-sort="3149" data-listing-title-sort="2025 October Daily Posts" data-listing-filename-sort="index.qmd">
+<tr data-index="6" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_31/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="7" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_07/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="8" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_01/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="9" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_06/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="10" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_30/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="11" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_08/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="12" data-categories="reading" data-listing-date-sort="1765094400000" data-listing-file-modified-sort="1765240293930" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65" data-listing-title-sort="Reading" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Dec 7, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1207/index.html" class="title listing-title">Reading</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="13" data-listing-date-sort="1759302000000" data-listing-file-modified-sort="1765316178534" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="16" data-listing-word-count-sort="3149" data-listing-title-sort="2025 October Daily Posts" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 1, 2025</span>
 </td>
@@ -349,7 +394,205 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="10" data-listing-date-sort="1756710000000" data-listing-file-modified-sort="1762900629256" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="898" data-listing-title-sort="2025 September Daily Posts" data-listing-filename-sort="index.qmd">
+<tr data-index="14" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_15/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="15" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_12/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="16" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_24/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="17" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_23/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="18" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_22/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="19" data-categories="mytilus_pilot,benchwork,experiment_takedown" data-listing-date-sort="1769328000000" data-listing-file-modified-sort="1769622189871" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="173" data-listing-title-sort="Testing Resazurin Assay Protocols for Mussels" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Jan 25, 2026</span>
+</td>
+<td>
+<a href="./daily_log/2026_25/index.html" class="title listing-title">Testing Resazurin Assay Protocols for Mussels</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="20" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_13/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="21" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_14/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="22" data-categories="mussels,experiment" data-listing-date-sort="1765180800000" data-listing-file-modified-sort="1765240354201" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="16" data-listing-title-sort="Mussels in the Cold Room" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Dec 8, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1208/index.html" class="title listing-title">Mussels in the Cold Room</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="23" data-categories="no science today" data-listing-date-sort="1765008000000" data-listing-file-modified-sort="1765239828055" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="4" data-listing-title-sort="No Science Today" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Dec 6, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1206/index.html" class="title listing-title">No Science Today</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="24" data-categories="monthly planning,goals" data-listing-date-sort="1764576000000" data-listing-file-modified-sort="1765239533397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="85" data-listing-title-sort="Monthly Planning &amp; Goal Setting" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Dec 1, 2025</span>
+</td>
+<td>
+<a href="./daily_log/2025_1201/index.html" class="title listing-title">Monthly Planning &amp; Goal Setting</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="25" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_03/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="26" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_04/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="27" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_05/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="28" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_02/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="29" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_11/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="30" data-categories="lab_notebook,writing,notion_info_migration" data-listing-date-sort="1769587200000" data-listing-file-modified-sort="1769620538286" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="142" data-listing-title-sort="Document or it didn't happen.." data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Jan 28, 2026</span>
+</td>
+<td>
+<a href="./daily_log/2026_28/index.html" class="title listing-title">Document or it didn’t happen..</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="31" data-categories="RUA,event_lead,AA team_ meetings" data-listing-date-sort="1769500800000" data-listing-file-modified-sort="1769620795840" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="97" data-listing-title-sort="STEM Socializing" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Jan 27, 2026</span>
+</td>
+<td>
+<a href="./daily_log/2026_27/index.html" class="title listing-title">STEM Socializing</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="32" data-listing-date-sort="1756710000000" data-listing-file-modified-sort="1762900629256" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="898" data-listing-title-sort="2025 September Daily Posts" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Sep 1, 2025</span>
 </td>
@@ -360,11 +603,113 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
+<tr data-index="33" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_16/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="34" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_29/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="35" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_20/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="36" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_18/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="37" data-categories="mytilus,experiment_planning,data_analysis" data-listing-date-sort="1769414400000" data-listing-file-modified-sort="1769622098587" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="149" data-listing-title-sort="Mytilus is the Main Character" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Jan 26, 2026</span>
+</td>
+<td>
+<a href="./daily_log/2026_26/index.html" class="title listing-title">Mytilus is the Main Character</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="38" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_19/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="39" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_21/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="40" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_17/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="41" data-categories="project_name,work_done_ie_coding, wriitng, bench" data-listing-date-sort="NaN" data-listing-file-modified-sort="1766536890876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10" data-listing-title-sort="Main Topic of the Day" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Invalid Date</span>
+</td>
+<td>
+<a href="./daily_log/2026_10/index.html" class="title listing-title">Main Topic of the Day</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
 </tbody>
 </table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
