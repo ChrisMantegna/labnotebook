@@ -1,0 +1,175 @@
+---
+title: "2025 December Daily Posts"
+date: '2025-12-01'
+toc: true
+page-layout: article
+format:
+  html:
+    df-print: paged
+---
+
+> This page compiles *all* daily posts made in December 2025. This month is exceptionally light due to end of quarter responsibilities for my student assistantship, familial obligations, and holiday prep.
+
+### 2025-12-01 — Monthly Planning & Goal Setting
+
+-   Second verse, same as the first... December goals are the exact same as November goals since none of these are completely finished yet.
+-   December goals
+    -   Finish biomarker manuscript draft
+    -   Finish MS thesis proposal
+    -   Finish mussel methylation analysis
+-   Science today is limited to lab meeting and finishing my coursework for FISH 510. My blog is coming together pretty nicely, so we shall see.
+
+### 2025-12-02 — RUA Day, No Science Today
+
+-   No science today.
+
+### 2025-12-03 — Reading & Writing
+
+-   All things mussels. Literature, textbooks, brain dump drafting...
+
+### 2025-12-04 — Drafting a Mussel Survivability Experiment
+
+-   I put together a loose plan to test the thermal thresholds and survivability of mussels in a lab- based experiment for at least 30 days.
+    -   While intertidal/ nearshore habitats get super hot, super quick in the summer, that is not the case in the winter so the temperature thresholds are lower.
+    -   A 30-day experiment will have two temperature treatments: a control temp (between 8° C - 12° C), and an elevated temp as high as we can push until we hit 50% mortality (between 20° C - 26° C)
+
+### 2025-12-05 — Science Hour and Mussel Experiments
+
+-   I jumped into science hour to chat with Steven about getting the pilot mussel experiment up and running. Clarified some logistics and I will be ready to get it started on Monday.
+
+### 2025-12-06 — No Science Today
+
+-   No science work done today.
+
+### 2025-12-07 — Reading
+
+-   I spent a good chunk of time reading through the applicable chapters of Applied Environmental Genomics thinking about methods and techniques that are transferable to ecotox work.
+-   The remainder of the time was spent reading and annotating the 2022 updated text on Marine Mussels from Gosling. I want to be crystal clear on mussel physiology and ecology before I start executing the full experiment.
+
+### 2025-12-08 — Mussels in the Cold Room
+
+-   Today is the day to begin to test the tolerance of mussels to lab life.
+    -   I picked up 1.5 pounds of mussels from QFC in the morning. The counter clerk said they came in directly from Penn Cove. He quickly sorted to remove the obviously dead mussels, and also checked to see if there was any information on the shipping paperwork about how long they were there. There was nothing he could find.
+    -   I used a cooler in the cold room, to set up with air stones and filled with 'seawater' using freshwater and Instant Ocean. All mussels were again sorted and bagged, discarding the dead ones. There were 68 total mussels separated into 4 mesh bags.
+    -   The mussels were held in the cold room at 11° C, salinity of 25 psu, and not fed.
+
+### 2025-12-09 — Mussel Check
+
+-   Mussel check at 0700. The cooler is a bit cloudy, but there seems to be no obvious mortalities.
+
+### 2025-12-10 — Mussel Check
+
+-   Prior to my arrival on campus, the mussels were removed from the cooler as they were all dead.
+    -   The thought is that they were at reduced capacity as they were in the grocery store out of water for too long to be effective for this trial.
+    -   Next steps are to reach out to Penn Cove directly to pick up some fresh mussels for another crack at it.
+
+### 2025-12-11 — No Science Today
+
+-   No science today.
+
+### 2025-12-12 — Lost Notebooks
+
+-   Today I realized all of my early notes on the papers for the biomarker manuscript are missing. I have the notes once I shifted to my Notion/ Zotero digital setup, but none of the early notes.
+    -   I will keep searching, but I will need to go back and skim the papers with missing notes to prioritize them before tackling each of the 60+ papers in the project.
+
+### 2025-12-13 to 12-21
+
+-   An atmospheric river is causing flooding that will not allow the Penn Cove folks harvest until DOH lifts the ban. They have been super helpful and keep me updated on when it will be ok to come up as they know.
+-   Beyond skimming biomarker papers, checking in with Penn Cove, and working through the broader experimental planning for the second phase of mussel work, the majority of my time has been spent prepping for the holidays.
+
+### 2025-12-22 — Bypass Package Work
+
+-   I spent intentional time mapping out the status and next steps of all of the pieces of the bypass package.
+    -   A large part of this was working on how to frame Chapter 3 and 4 so that it wasn't completely off-base from the plan Steven and I worked on in November, but still aligned.
+    -   The other major task was to identify which lit had notes, didn't have notes, and what was important to get the writing out versus what could wait.
+
+### 2025-12-23 — Mussels are Almost Ready
+
+-   Penn Cove let me know I could place an order for pickup on 12/24, and I did. Let's go!
+
+### 2025-12-24 — Mussel Pickup and Experiment Setup, Day 1
+
+-   I ran out to Penn Cove to grab 2lbs of mussels.
+-   Back at the lab, I set up the tank, performed a visual inspection of the mussels, bagged them and put them in the tank for a week of acclimation to the new environment without food.
+    -   Five bags of 15 mussels each - Total of 75 mussels once dead or damaged ones were discarded
+    -   Tank water was kept at cold room temp (11° C), Instant Ocean was added to a salinity of 25 psu, mussels were added, and pH was 7.4 approximately 1 hour post placement in the tank.
+    -   They will remain this way for one week with daily temperature, salinity and mortality checks.
+
+### 2025-12-25 — Mussel Check
+
+-   Day 2. Checked at 1530
+-   Visual tank inspection looked good for airflow and water clarity. The mussels in each bag have started to aggregate into a few clusters by using their byssal threads to attach to each other and the bags.
+-   Temperature= 11° C
+-   Salinity= 25 psu
+-   1 mortality found
+
+### 2025-12-26 — Mussel Check
+
+-   Day 3. Checked at 1007
+-   Visual tank inspection looked good for airflow and water clarity. Some foaming happening. Mussels still aggregated.
+-   Temperature= 11° C
+-   Salinity= 26 psu
+-   No mortalities
+
+### 2025-12-27 — Mussel Check
+
+-   Day 4. Checked at 1210
+-   Visual tank inspection looked good for airflow and water clarity. Foam that looked the same as yesterday. Mussels still aggregated.
+-   Temperature= 11° C
+-   Salinity= 26 psu
+-   No mortalities
+
+### 2025-12-28 — Mussel Check
+
+-   Day 5. Checked at 1815
+-   Visual tank inspection looked good for airflow and water clarity. Foam just looks like dirt on the side of the tank; the bottom of the tanks is DIRTY. Mussels still aggregated.
+-   Temperature= 11° C
+-   Salinity= 26 psu
+-   No mortalities
+
+### 2025-12-29 — Mussel Check
+
+-   Day 6. Checked at 1443
+-   Visual tank inspection looked good for airflow and water clarity. Tank looked the same as the day before. Mussels still aggregated.
+-   Temperature= 11° C
+-   Salinity= 27 psu
+-   No mortalities
+-   Salinity is creeping up, so I drained about half of the water and added fresh seawater after 90 minutes to ensure the water temperatures were the same.
+    -   Salinity rechecked post change= 25 psu
+
+### 2025-12-30 — Mussel Check, Water Change & Temp Increase
+
+-   Day 7. Checked at 1237
+-   Visual tank inspection looked ok for airflow and water clarity. Tank water didn't change much between yesterday and today. Mussels still aggregated.
+-   Temperature= 11° C
+-   Salinity= 25 psu
+-   No mortalities
+-   I setup the two coolers for the next step.
+    -   The blue cooler is for the control mussels, 3 of 5 bags will be held at 11° C
+    -   The red cooler is for the elevated temperature mussels, 2 of 5 bags will be held at 15° C for the next week
+    -   Both the blue and the red coolers were setup with air and fresh seawater (Instant Ocean/ freshwater mix) to about a 1/3 of the tank capacity. Tank water from the acclimation tank was added to both coolers to prevent any 'shock' and bring water levels to about 2/3 of the cooler capacity. This is enough to keep the mussels off the bottom, but still submerged.
+    -   The red cooler also received a submersible heater with a digital control to maintain the water temperature at 15° C.
+    -   Mussels were placed in the new coolers; both blue and red coolers were still at 11° C at the time of transfer.
+        -   Blue= temperature at 11° C, salinity at 25 psu
+        -   Red= temperature at 15° C, salinity at 25 psu
+
+### 2025-12-31 — Mussel Check & Feeding
+
+-   Day 8. Checked at 1338
+-   Visual tank inspections looked good for airflow and water clarity. Mussels were still aggregated in their respective bags/ coolers. The airflow in blue is a bit lower than in red. Will continue to monitor.
+-   Temperature
+    -   Blue= 11° C
+    -   Red= 15° C
+-   Salinity
+    -   Blue= 22 psu
+    -   Red= 25 psu
+-   Mortality
+    -   Blue= 0
+    -   Red= 0
+-   Feeding.
+    -   Shellfish Diet 1800, in the glass refrigerator in 213
+        -   Per instructions, .03mL/ g of tissue was mixed into a 400 mL slurry with tank water and then added to both tanks slowly. Blue= 250 mL, Red= 150 mL since there are more mussels in Blue. The calculation is below, based on the full 2 pounds since a negligible number of mussels died.
+        -   2 pound of mussels yields between 1/3 - 1/4 of tissue (32 oz yields 9.6 - 12.8 ounces of tissue) from the total weight.
+        -   9.6 - 12.8 ounces equals 272 - 363 grams (1oz= 28.35g). I split the difference and calculated based on 318 grams.
+        -   318g x .03mL= 9.5 mL Shellfish Diet
+-   Post feeding, I rechecked the salinity in Blue and added about 1/2 gallon of seawater to bring salinity to 25

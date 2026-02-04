@@ -1,21 +1,40 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "Day 1 of 365: January Goals"
+date: '2026-01-01'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
+  - monthly goals
+  - mytilus pilot experiment
 execute:
   echo: false
   warning: false
   message: false
 ---
 
-### Projects Touched Today
+### January Goals
 
-### New Knowledge
+1.  Finish these proposals and get them out to my committee by the end of the month for a chance at submitting a bypass package by the February deadline.
+2.  Get the biomarker manuscript polished enough to go to WDFW for review and sign-off.
 
-### Old Tricks
+### Today's Work
 
-### Questions or Concerns?
+-   Day 9. Mussel Check 1430
 
-### Tomorrow's Plan
+-   Visual tank inspections looked good for airflow and water clarity; clear reduction in food since yesterday. Mussels were still aggregated in their respective bags/ coolers. The airflow in blue remains a bit lower than in red. Will continue to monitor.
+
+-   Temperature
+
+    -   Blue= 11° C
+
+    -   Red= 15° C
+
+-   Salinity
+
+    -   Blue= 26 psu
+
+    -   Red= 25 psu
+
+-   Mortality
+
+    -   Blue= 0
+
+    -   Red= 0

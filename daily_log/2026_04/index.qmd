@@ -1,9 +1,8 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "Mussels"
+date: '2026-01-04'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
+  - mytilus pilot experiment
 execute:
   echo: false
   warning: false
@@ -12,10 +11,44 @@ execute:
 
 ### Projects Touched Today
 
+-   Mytilus pilot experiment
+
 ### New Knowledge
+
+Day 12. Mussel Check at 1520
+
+Visual tank inspections looked good for airflow and water clarity. Mussels were still aggregated in their respective bags/ coolers. The airflow in blue remains a bit lower than in red. Will continue to monitor.
+
+-   Temperature
+
+    -   Blue= 11° C
+
+    -   Red= 15° C
+
+-   Salinity
+
+    -   Blue= 27 psu
+
+    -   Red= 26 psu
+
+-   Mortality
+
+    -   Blue= 3
+
+    -   Red= 0
+
+-   Of course 3 kick the bucket! I do not know if all died today or yesterday, but since they are the control temp, it feels odd but could be due to air flow. I swapped the air stones between Red and Blue after wiping both down. The stronger air stone is now in Blue, with the less strong in Red since adjusting flow didn't seem to make enough of a change.
 
 ### Old Tricks
 
+-   Time to prep for the new quarter by updating calendars, planning time off and mapping daily goals.
+-   One of my 2026 goals is to write at least 500 new words a day. Ultimately, those words have to be in projects that move my work and my professional presence forward. The word count doesn't include emails or task- based writing.
+-   I may adjust that to include coding work, visualizations created, etc., since those all contribute to completing the deliverables in front of me.
+
 ### Questions or Concerns?
 
+-   None
+
 ### Tomorrow's Plan
+
+-   Review the status of my proposals and make a daily plan for completing the drafts this month.

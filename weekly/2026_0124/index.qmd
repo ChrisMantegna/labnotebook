@@ -1,9 +1,13 @@
 ---
-title: "Weekly Wrap Up"
+title: "Week 1 of 52: Weekly Wrap Up Templates"
 date: 2026-01-03
 ---
 
-#### Focus for the Week: Primary goals and priorities.
+I've decided to stage some templates for my daily and weekly notebook posts to make it easier to pull my notes from Notion together into something cohesive. Below is the weekly wrap-up template I'll be using going forward. The daily post template structure has also been setup, but I think that may need a bit more tweaking.
+
+-   Weekly Wrap Up Template:
+
+#### Focus for the Week: Primary goals and priorities for the past week.
 
 #### Progress Made: What moved forward?
 

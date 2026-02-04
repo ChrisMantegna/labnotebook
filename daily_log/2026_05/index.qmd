@@ -1,9 +1,8 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "Welcome to Winter Quarter"
+date: '2026-01-05'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
+  - mussel pilot experiment
 execute:
   echo: false
   warning: false
@@ -14,8 +13,36 @@ execute:
 
 ### New Knowledge
 
+Day 13. Mussel Check at 1049
+
+Visual tank inspections looked good for airflow and water clarity. Mussels were still aggregated in their respective bags/ coolers. The air stone swap seems to be ok. Will continue to monitor.
+
+-   Temperature
+
+    -   Blue= 11° C
+
+    -   Red= 15° C
+
+-   Salinity
+
+    -   Blue= 27 psu
+
+    -   Red= 26 psu
+
+-   Mortality
+
+    -   Blue= 0
+
+    -   Red= 0
+
 ### Old Tricks
+
+-   Not a lot of science beyond the mussel check. Prepping for a RUA day tomorrow.
 
 ### Questions or Concerns?
 
+-   None.
+
 ### Tomorrow's Plan
+
+-   Tuesdays are RUA days again this quarter, so only mussel checks.

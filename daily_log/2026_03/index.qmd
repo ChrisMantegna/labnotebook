@@ -1,9 +1,8 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "Quiluete Land & Coastal Wanderings"
+date: '2026-01-03'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
+  - king tides
 execute:
   echo: false
   warning: false
@@ -11,11 +10,16 @@ execute:
 ---
 
 ### Projects Touched Today
+- None
 
 ### New Knowledge
+- The Quiluete Resort is the perfect place to unplug and is central to awesome tidepooling for the night low tides.
 
 ### Old Tricks
+- Hiking along the coast during low tide feels like treasure hunting!
 
 ### Questions or Concerns?
+- None
 
 ### Tomorrow's Plan
+- Return home, check on my mussels, and prepare for the first day of the next quarter.
