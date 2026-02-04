@@ -1,9 +1,9 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "Mussels & Biomarkers"
+date: '2026-01-22'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
+  - mussel pilot experiment
+  - mussel biomarkers 
 execute:
   echo: false
   warning: false
@@ -12,10 +12,47 @@ execute:
 
 ### Projects Touched Today
 
+-   mussel pilot experiment
+-   mussel biomarkers
+
 ### New Knowledge
+
+Day 30. Mussel Check at 1944
+
+Visual tank inspections look ok-ish for airflow and water clarity; water is very cloudy in comparison to previous checks. Mussels were still aggregated in their respective bags/ coolers. You can smell the mussels when you enter the cold room, this temperature increase may get us to 50% mortality.
+
+-   Temperature
+
+    -   Blue= 11° C
+
+    -   Red= 22° C
+
+-   Salinity
+
+    -   Blue= 26 psu
+
+    -   Red= 26 psu
+
+-   Mortality
+
+    -   Blue= 0
+
+    -   Red= 3
 
 ### Old Tricks
 
+-   I had some personal obligations to knock out today, so my main productive activity was making the maps of the contaminant indices and IBRs for the supplement of the biomarker paper.
+
+### Word Count (Productivity)
+
+-   Maps Made: 16
+-   **Today's total: 0 words**
+-   **Monthly total to date: 7682 words**
+
 ### Questions or Concerns?
 
+-   None.
+
 ### Tomorrow's Plan
+
+-   Will be made tomorrow.

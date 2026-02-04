@@ -4,6 +4,7 @@ date: '2026-01-15'
 categories:
   - mussel pilot experiment
   - PhD proposal
+  - mussel experiment planning
 execute:
   echo: false
   warning: false
@@ -14,6 +15,7 @@ execute:
 
 -   mussel pilot experiment
 -   PhD proposal
+- mussel experiment planning
 
 ### New Knowledge
 
@@ -42,11 +44,12 @@ Visual tank inspections looked good for airflow and water clarity. Mussels were 
 -   Partial Water Change completed for Blue by emptying half of the existing water and adding fresh seawater.
 
     -   Salinity rechecked
-        -   Red= 25
+        -   Blue= 25
 
 ### Old Tricks
 
 - Returned to the PhD proposal after working on mussel experiment design. Made good progress on writing the methods sections, objectives and research questions. I feel like I matched the tone of the rest of the proposal and the MS proposal. 
+- I messaged with Sam and emailed with Jon Whittock re: tank help and any guidance he had on using contaminants in lab experiments. I followed that up with a phone call and subsequent email to EH&S re: anything other than physical lab requirements and waste disposal of water with metals/ contaminants in it. 
 
 ### Word Count (Productivity)
 

@@ -1,9 +1,9 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "Mussel Check and... You Guessed it, Proposal Writing"
+date: '2026-01-18'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
+  - mussel pilot experiment 
+  - proposal writing
 execute:
   echo: false
   warning: false
@@ -12,10 +12,47 @@ execute:
 
 ### Projects Touched Today
 
+-   mussel pilot experiment
+-   proposal writing
+
 ### New Knowledge
+
+Day 26. Mussel Check at 1137
+
+Visual tank inspections looked good for airflow and water clarity. Mussels were still aggregated in their respective bags/ coolers.
+
+-   Temperature
+
+    -   Blue= 11° C
+
+    -   Red= 20° C
+
+-   Salinity
+
+    -   Blue= 27 psu
+
+    -   Red= 26 psu
+
+-   Mortality
+
+    -   Blue= 0
+
+    -   Red= 0
 
 ### Old Tricks
 
+-   Right back at it refining, aligning and ensuring my proposal is clear without getting too into the weeds. I'm super close to a draft that isn't totally embarrassing to share with the committee.
+
+### Word Count (Productivity)
+
+-   MS & PhD Proposal: 556 words
+-   **Today's total: 556 words**
+-   **Monthly total to date: 5133 words**
+
 ### Questions or Concerns?
 
+-   None.
+
 ### Tomorrow's Plan
+
+-   Will be made tomorrow.

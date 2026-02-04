@@ -1,9 +1,9 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "Mussels, Thy Name is Icarus"
+date: '2026-01-24'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
+  - mussel pilot experiment
+  - mussel biomarkers
 execute:
   echo: false
   warning: false
@@ -12,10 +12,57 @@ execute:
 
 ### Projects Touched Today
 
+-   mussel pilot experiment
+-   mussel biomarkers
+
 ### New Knowledge
+
+Day 32. Mussel Check at 1246
+
+Visual tank inspections look fine for airflow but not for water clarity. Water is CLOUDY. Mussels were still aggregated in their respective bags/ coolers. You can smell the mussels when you enter the cold room, this temperature increase has pushed us past 50% mortality.
+
+-   Temperature
+
+    -   Blue= 11° C
+
+    -   Red= 22° C
+
+-   Salinity
+
+    -   Blue= 27 psu
+
+    -   Red= 28 psu
+
+-   Mortality
+
+    -   Blue= 0
+
+    -   Red= 4
+
+-   Water Change
+
+    -   Partial water change for Blue and Red. Salinity recheck:
+
+        -   Blue= 26
+
+        -   Red= 26
+
+-   With today's mortalities, we have reached 23 out of 30 (\>50%) in the elevated temperature treatment. Since we're notching daily mortalities now, I will run the Resazurin trial tomorrow, 1/25 to hopefully ensure some of the elevated temp mussels can also be tested.
 
 ### Old Tricks
 
+-   The biomarker paper is my focus for editing, expanding the introduction to better scaffold the problem we are solving, and fixing the method's subsection for analysis was my focus today. I also worked out some tentative captions for the figures, based on feedback from Alison about which viz is most effective. I am super excited about it is shaping up.
+
+### Word Count (Productivity)
+
+-   Biomarker manuscript and figure captions: 2574 words
+-   **Today's total: 2574 words**
+-   **Monthly total to date: 10,256 words**
+
 ### Questions or Concerns?
 
+-   None.
+
 ### Tomorrow's Plan
+
+-   Will be made tomorrow.

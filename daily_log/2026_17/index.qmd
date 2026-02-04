@@ -1,9 +1,8 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "Mussel Check and Errands"
+date: '2026-01-17'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
+  - mussel pilot experiment 
 execute:
   echo: false
   warning: false
@@ -12,10 +11,45 @@ execute:
 
 ### Projects Touched Today
 
+-   mussel pilot experiment
+
 ### New Knowledge
+
+Day 25. Mussel Check at 1004
+
+Visual tank inspections looked good for airflow and water clarity. Mussels were still aggregated in their respective bags/ coolers.
+
+-   Temperature
+
+    -   Blue= 11° C
+
+    -   Red= 20° C
+
+-   Salinity
+
+    -   Blue= 26 psu
+
+    -   Red= 26 psu
+
+-   Mortality
+
+    -   Blue= 0
+
+    -   Red= 0
 
 ### Old Tricks
 
+-   None. Lot of personal stuff to knockout today.
+
+### Word Count (Productivity)
+
+-   **Today's total: 0 words**
+-   **Monthly total to date: 4577 words**
+
 ### Questions or Concerns?
 
+-   None.
+
 ### Tomorrow's Plan
+
+-   Will be made tomorrow.

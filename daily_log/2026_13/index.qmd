@@ -23,7 +23,7 @@ Visual tank inspections looked good for airflow and water clarity. Mussels were 
 
     -   Blue= 11° C
 
-    -   Red= 18° C
+    -   Red= 18° C increasing to 20° C
 
 -   Salinity
 
