@@ -1,9 +1,8 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "Mussels and RUA"
+date: '2026-01-13'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
+  - mussel pilot experiment
 execute:
   echo: false
   warning: false
@@ -12,10 +11,47 @@ execute:
 
 ### Projects Touched Today
 
+-   mussel pilot experiment
+
 ### New Knowledge
+
+Day 21. Mussel Check at 1017
+
+Visual tank inspections looked good for airflow and water clarity. Mussels were still aggregated in their respective bags/ coolers. There smell is almost non- existent now.
+
+-   Temperature
+
+    -   Blue= 11° C
+
+    -   Red= 18° C
+
+-   Salinity
+
+    -   Blue= 26 psu
+
+    -   Red= 26 psu
+
+-   Mortality
+
+    -   Blue= 0
+
+    -   Red= 0
+
 
 ### Old Tricks
 
+- None.
+
+### Word Count (Productivity)
+
+-   No science writing today
+-   **Today's total: 0 words**
+-   **Monthly total to date: 1732 words**
+
 ### Questions or Concerns?
 
+-   None.
+
 ### Tomorrow's Plan
+
+-   Continue to last of selected papers for my proposals, work on the experimental design constraints and scale.

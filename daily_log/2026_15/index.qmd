@@ -1,9 +1,9 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "Mussels and Proposals"
+date: '2026-01-15'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
+  - mussel pilot experiment
+  - PhD proposal
 execute:
   echo: false
   warning: false
@@ -12,10 +12,52 @@ execute:
 
 ### Projects Touched Today
 
+-   mussel pilot experiment
+-   PhD proposal
+
 ### New Knowledge
+
+Day 23. Mussel Check at 1503
+
+Visual tank inspections looked good for airflow and water clarity. Mussels were still aggregated in their respective bags/ coolers. 
+
+-   Temperature
+
+    -   Blue= 11° C
+
+    -   Red= 20° C
+
+-   Salinity
+
+    -   Blue= 27 psu
+
+    -   Red= 26 psu
+
+-   Mortality
+
+    -   Blue= 0
+
+    -   Red= 0
+
+-   Partial Water Change completed for Blue by emptying half of the existing water and adding fresh seawater.
+
+    -   Salinity rechecked
+        -   Red= 25
 
 ### Old Tricks
 
+- Returned to the PhD proposal after working on mussel experiment design. Made good progress on writing the methods sections, objectives and research questions. I feel like I matched the tone of the rest of the proposal and the MS proposal. 
+
+### Word Count (Productivity)
+
+-   PhD Proposal: 1340 words
+-   **Today's total: 1340 words**
+-   **Monthly total to date: 3472 words**
+
 ### Questions or Concerns?
 
+-   None.
+
 ### Tomorrow's Plan
+
+-   Same as yesterday. Continue writing proposals to get them to the committee sooner rather than later. It's getting too close to offer a fair window of return.
