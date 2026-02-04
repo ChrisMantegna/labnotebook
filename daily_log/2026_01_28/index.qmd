@@ -2,9 +2,9 @@
 title: "Document or it didn't happen.."
 date: '2026-01-28'
 categories:
-  - lab_notebook
+  - lab notebook
   - writing
-  - notion_info_migration 
+  - notion info migration 
 execute:
   echo: false
   warning: false

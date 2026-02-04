@@ -2,9 +2,9 @@
 title: "Testing Resazurin Assay Protocols for Mussels"
 date: '2026-01-25'
 categories:
-  - mytilus_pilot
+  - mytilus pilot experiment
   - benchwork
-  - experiment_takedown
+  - experiment takedown
 execute:
   echo: false
   warning: false

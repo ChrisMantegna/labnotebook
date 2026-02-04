@@ -1,10 +1,9 @@
 ---
-title: "STEM Socializing"
+title: "STEM Socializing - No Science Today"
 date: '2026-01-27'
 categories:
-  - RUA
-  - event_lead
-  - AA team_ meetings 
+  - UW-RUA
+  - STEM events
 execute:
   echo: false
   warning: false
@@ -24,4 +23,4 @@ Data cleaning and analysis for the historic UW-RUA program (all three iterations
 No.
 
 ### Tomorrow's Plan
-Fly home. :)
+Fly home.

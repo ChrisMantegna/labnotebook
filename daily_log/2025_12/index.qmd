@@ -8,7 +8,7 @@ format:
     df-print: paged
 ---
 
-> This page compiles *all* daily posts made in December 2025. This month is exceptionally light due to end of quarter responsibilities for my student assistantship, familial obligations, and holiday prep.
+> This page compiles *all* daily posts made in December 2025. 
 
 ### 2025-12-01 — Monthly Planning & Goal Setting
 

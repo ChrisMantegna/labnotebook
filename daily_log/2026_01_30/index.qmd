@@ -1,21 +1,11 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "No Science Today"
+date: '2026-01-30'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
 execute:
   echo: false
   warning: false
   message: false
 ---
 
-### Projects Touched Today
-
-### New Knowledge
-
-### Old Tricks
-
-### Questions or Concerns?
-
-### Tomorrow's Plan
+No science today. I am home until February 2nd.

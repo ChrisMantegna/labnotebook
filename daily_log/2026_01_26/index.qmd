@@ -2,9 +2,10 @@
 title: "Mytilus is the Main Character"
 date: '2026-01-26'
 categories:
-  - mytilus
-  - experiment_planning
-  - data_analysis 
+  - mussel pilot experiment
+  - mussel experiment planning
+  - data analysis 
+  - resazurin
 execute:
   echo: false
   warning: false
@@ -13,8 +14,8 @@ execute:
 
 ### Projects Touched Today
 
-- Mytilus Pilot 
-- Mytilus Exp- Unknown
+- Mussel pilot experiment 
+- Mussel experiment planning
 
 ### New Knowledge
 
