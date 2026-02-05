@@ -1,0 +1,44 @@
+---
+title: "Taking Inventory & Making a Plan"
+date: '2026-02-04'
+categories:
+  - lab notebook
+  - mussel experiment planning and design
+  - mussel pilot experiment
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+### Projects Touched Today
+
+- lab notebook
+- mussel experiment planning and design
+- mussel pilot experiment
+
+### New Knowledge
+
+-   I created my February Goals Post with specific steps and strategies to complete them.
+-   I worked with KPJ for a 3-hour writing block where I collated and cleaned up about half of my lit notes to support the mussel experiment design choices.
+
+### Old Tricks
+
+-   Continued refining my literature support for the mussel experiment (second bullet point)
+- Returned to mapping for the biomarker visualizations (from yesterday). I cleaned up the sampling site map, and went to work on the individual biomarker activity maps for p450 and sod but didn't finish those today.
+
+### Word Count (Productivity)
+
+-   February Goals + Strategy Post: 191 words
+- Viz made: 1 map
+-   **Today's total: 191 words**
+-   **Monthly total to date: 904 words**
+-   **Annual total to date: 11,160 words**
+
+### Questions or Concerns?
+
+-   None.
+
+### Tomorrow's Plan
+
+-   Will be made tomorrow to include resazurin analysis, editing and refining biomarker viz, and continuing experimental planning for my 2/11 meeting with Steven.

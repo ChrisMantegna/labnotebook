@@ -2,7 +2,6 @@
 title: "Quiluete Land & Coastal Wanderings"
 date: '2026-01-03'
 categories:
-  - king tides
 execute:
   echo: false
   warning: false

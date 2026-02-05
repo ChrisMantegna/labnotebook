@@ -2,7 +2,7 @@
 title: "Testing Resazurin Assay Protocols for Mussels"
 date: '2026-01-25'
 categories:
-  - mytilus pilot experiment
+  - mussel pilot experiment
   - benchwork
   - experiment takedown
 execute:
@@ -13,7 +13,7 @@ execute:
 
 ### Projects Touched Today
 
--   Mytilus pilot
+-   Mussel pilot experiment
 
 ### New Knowledge
 

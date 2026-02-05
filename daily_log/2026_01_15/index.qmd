@@ -4,7 +4,7 @@ date: '2026-01-15'
 categories:
   - mussel pilot experiment
   - PhD proposal
-  - mussel experiment planning
+  - mussel experiment planning and design
 execute:
   echo: false
   warning: false

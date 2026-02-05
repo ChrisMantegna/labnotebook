@@ -2,8 +2,6 @@
 title: "STEM Socializing - No Science Today"
 date: '2026-01-27'
 categories:
-  - UW-RUA
-  - STEM events
 execute:
   echo: false
   warning: false

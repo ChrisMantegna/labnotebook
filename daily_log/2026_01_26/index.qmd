@@ -3,7 +3,7 @@ title: "Mytilus is the Main Character"
 date: '2026-01-26'
 categories:
   - mussel pilot experiment
-  - mussel experiment planning
+  - mussel experiment planning and design
   - data analysis 
   - resazurin
 execute:

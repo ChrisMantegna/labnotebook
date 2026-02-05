@@ -2,7 +2,7 @@
 title: "Mussels"
 date: '2026-01-04'
 categories:
-  - mytilus pilot experiment
+  - mussel pilot experiment
 execute:
   echo: false
   warning: false
@@ -11,7 +11,7 @@ execute:
 
 ### Projects Touched Today
 
--   Mytilus pilot experiment
+-   Mussel pilot experiment
 
 ### New Knowledge
 

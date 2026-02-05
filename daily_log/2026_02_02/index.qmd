@@ -1,0 +1,11 @@
+---
+title: "Tuesday's are for UW-RUA, but Monday's are Sometimes for Prep"
+date: '2026-02-02'
+categories:
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+- No science done today except for sketching out better ways to map the contaminant and integrated indices for the biomarker manuscript (about 45 minutes of work...), no deep work. I spent most of the day prepping for Tuesday's deliverables.
