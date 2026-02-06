@@ -161,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Oh, that’s right, he said “Life is what happens to you while you’re busy making other plans.”</p>
+<p>Oh, that’s right, he said “Life is what happens to you while you’re busy making other plans.” Well, life today definitely didn’t agree with my plans.</p>
 <section id="projects-touched-today" class="level3">
 <h3 class="anchored" data-anchor-id="projects-touched-today">Projects Touched Today</h3>
 <ul>
@@ -171,7 +171,23 @@ ul.task-list li input[type="checkbox"] {
 <section id="new-knowledge" class="level3">
 <h3 class="anchored" data-anchor-id="new-knowledge">New Knowledge</h3>
 <ul>
-<li>So, in my quest to wrap up mapping, I found a mistake in my spatial analysis of the biomarker metrics and indices. One seven letter word got me- degrees. I completed the SPATIAL analysis in degrees, not distance. I redid the analysis in GIS, and will return to the mapping and verification tomorrow.</li>
+<li>So, in my quest to wrap up mapping, I found a mistake in my spatial analysis of the biomarker metrics and indices. When I mapped my spatial results, I started with the geographic clusters designated using K-Means clustering that I verified with variance and significance testing ensure the groups were statisically different enough to be meaningful. When I threw the groups in the map, it looked like I just threw out a handful of fruit loops and said ‘ok’…
+<ul>
+<li>First, I went back and double checked the sites and assigned color palette were correct. Next I went to the data table to verify the values were in the correct format and not mistakenly overwritten. Finally, I moved over to check the code I used to analyze the clusters.</li>
+<li>One seven letter word got me- degrees. I completed the SPATIAL analysis in degrees, not distance. I made a note in the R code, and moved back over to GIS to redo the analysis.</li>
+</ul></li>
+<li>To redo the analysis, I did the following:
+<ul>
+<li>Imported a clean table of the metrics and identifiers, and formatted the columns from characters to actual numbers for next steps</li>
+<li>Next we need to link the table to the map, so I created a point layer to link the Puget Sound map. This takes the lat/ long data and converts it from coordinates (degrees) to actual distances. I confirmed the projection and moved to confirm the results.</li>
+<li>To verify that worked, beyond the points showing up on the map, I ran a distance matrix summary (by site_id, k=5) to verify the point layer and to guide the parameters I select in the Moran’s I analysis. The summary gives you a quick table of minimum and mean distances and the standard deviation; these guide the distance bands (scale) for Moran’s.</li>
+<li>I confirmed the distance matrix by running a linear matrix that shows if the distances are actually varying, there aren’t any self-comparisons, and verify both tests returned consistent results.</li>
+<li>Happy with the confirmation, I ran the Moran’s I (spatial autocorrelation- regional or global) for p450, mapped the result, and then moved to sod.
+<ul>
+<li>P450 showed a few significant clusters, SOD did not. This aligns with the KW comparisons and the Spearman’s correlations results. Thank goodness.</li>
+</ul></li>
+</ul></li>
+<li>Tomorrow, I will return to the Moran’s I analysis of the remaining metrics (18 of 20 total), the LISA analysis (all 20), and begin mapping the results one metric at a time.</li>
 </ul>
 </section>
 <section id="old-tricks" class="level3">
@@ -215,13 +231,14 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="questions-or-concerns">Questions or Concerns?</h3>
 <ul>
 <li><p>I made a quick protocol for converting non-geometric data into geometric data in QGIS. Mainly to help myself not miss a step, but secondarily to make sure I am creating mapping layers in the right projections with the right formats before I start mapping, rather than get stuck in the middle because nothing is working correctly.</p></li>
-<li><p>This and the maps will be in my weekly wrapup.</p></li>
+<li><p>This and the maps will be in my weekly wrap-up.</p></li>
 </ul>
 </section>
 <section id="tomorrows-plan" class="level3">
 <h3 class="anchored" data-anchor-id="tomorrows-plan">Tomorrow’s Plan</h3>
 <ul>
-<li>Finish fixing the spatial analysis, and then return to the mapping and verification. I will also return to complete the documentation and anlysis of the mussel pilot experiment and resazurin trials.</li>
+<li>Tomorrow (2/6), I will return to the Moran’s I analysis of the remaining metrics (18 of 20 total), the LISA analysis (all 20), and begin mapping the results one metric at a time.</li>
+<li>The documentation and analysis of the mussel pilot experiment and resazurin trials will get put back in the queue behind finishing the biomarker work.</li>
 </ul>
 
 

@@ -15,7 +15,8 @@ editor:
 ---
 
 Oh, that's right, he said "Life is what happens to you while you're busy
-making other plans."
+making other plans." Well, life today definitely didn't agree with my
+plans.
 
 ### Projects Touched Today
 
@@ -24,10 +25,48 @@ making other plans."
 ### New Knowledge
 
 -   So, in my quest to wrap up mapping, I found a mistake in my spatial
-    analysis of the biomarker metrics and indices. One seven letter word
-    got me- degrees. I completed the SPATIAL analysis in degrees, not
-    distance. I redid the analysis in GIS, and will return to the
-    mapping and verification tomorrow.
+    analysis of the biomarker metrics and indices. When I mapped my
+    spatial results, I started with the geographic clusters designated
+    using K-Means clustering that I verified with variance and
+    significance testing ensure the groups were statisically different
+    enough to be meaningful. When I threw the groups in the map, it
+    looked like I just threw out a handful of fruit loops and said
+    'ok'...
+    -   First, I went back and double checked the sites and assigned
+        color palette were correct. Next I went to the data table to
+        verify the values were in the correct format and not mistakenly
+        overwritten. Finally, I moved over to check the code I used to
+        analyze the clusters.
+    -   One seven letter word got me- degrees. I completed the SPATIAL
+        analysis in degrees, not distance. I made a note in the R code,
+        and moved back over to GIS to redo the analysis.
+-   To redo the analysis, I did the following:
+    -   Imported a clean table of the metrics and identifiers, and
+        formatted the columns from characters to actual numbers for next
+        steps
+    -   Next we need to link the table to the map, so I created a point
+        layer to link the Puget Sound map. This takes the lat/ long data
+        and converts it from coordinates (degrees) to actual distances.
+        I confirmed the projection and moved to confirm the results.
+    -   To verify that worked, beyond the points showing up on the map,
+        I ran a distance matrix summary (by site_id, k=5) to verify the
+        point layer and to guide the parameters I select in the Moran's
+        I analysis. The summary gives you a quick table of minimum and
+        mean distances and the standard deviation; these guide the
+        distance bands (scale) for Moran's.
+    -   I confirmed the distance matrix by running a linear matrix that
+        shows if the distances are actually varying, there aren't any
+        self-comparisons, and verify both tests returned consistent
+        results.
+    -   Happy with the confirmation, I ran the Moran's I (spatial
+        autocorrelation- regional or global) for p450, mapped the
+        result, and then moved to sod.
+        -   P450 showed a few significant clusters, SOD did not. This
+            aligns with the KW comparisons and the Spearman's
+            correlations results. Thank goodness.
+-   Tomorrow, I will return to the Moran's I analysis of the remaining
+    metrics (18 of 20 total), the LISA analysis (all 20), and begin
+    mapping the results one metric at a time.
 
 ### Old Tricks
 
@@ -94,10 +133,13 @@ The log of mapping decisions I may need to return to:
     projections with the right formats before I start mapping, rather
     than get stuck in the middle because nothing is working correctly.
 
--   This and the maps will be in my weekly wrapup.
+-   This and the maps will be in my weekly wrap-up.
 
 ### Tomorrow's Plan
 
--   Finish fixing the spatial analysis, and then return to the mapping
-    and verification. I will also return to complete the documentation
-    and anlysis of the mussel pilot experiment and resazurin trials.
+-   Tomorrow (2/6), I will return to the Moran's I analysis of the
+    remaining metrics (18 of 20 total), the LISA analysis (all 20), and
+    begin mapping the results one metric at a time.
+-   The documentation and analysis of the mussel pilot experiment and
+    resazurin trials will get put back in the queue behind finishing the
+    biomarker work.
