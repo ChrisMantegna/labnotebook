@@ -1,0 +1,103 @@
+---
+title: "What did John Lennon Say About Plans..."
+date: '2026-02-04'
+categories:
+  - mussel biomarkers
+  - map making
+  - spatial analysis in GIS/ QGIS
+execute:
+  echo: false
+  warning: false
+  message: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Oh, that's right, he said "Life is what happens to you while you're busy
+making other plans."
+
+### Projects Touched Today
+
+-   mussel biomarkers
+
+### New Knowledge
+
+-   So, in my quest to wrap up mapping, I found a mistake in my spatial
+    analysis of the biomarker metrics and indices. One seven letter word
+    got me- degrees. I completed the SPATIAL analysis in degrees, not
+    distance. I redid the analysis in GIS, and will return to the
+    mapping and verification tomorrow.
+
+### Old Tricks
+
+The log of mapping decisions I may need to return to:
+
+-   Returned to the sampling site map, added insets for Seattle and
+    Tacoma, and threw it in canva to clean up the format.
+
+-   I chose to add the following city labels:
+
+    -   Olympia, Tacoma, Seattle, Everett, Penn Cove, and San Juan
+        Islands
+
+-   The insets have the city label only for Tacoma and both the city
+    label and Bainbridge Island for the Seattle one because of the
+    geography captured in the inset
+
+-   Next maps will most likely not need the Canva step since I figured
+    out how to do adjust borders independently in QGIS, but we’ll see.
+
+    -   I created a specific color palette for reporting areas in QGIS
+        to be used in all plotting/ mapping for consistency. Hex codes
+        follow a pound sign with no spaces, and are as follows:
+
+        -   6 - 0f6f6c (dark teal)
+
+        -   7 - 6a4c93 (plum)
+
+        -   8.1 - c7352d (brick red)
+
+        -   8.2 - d4a437 (gold)
+
+        -   9 - e07a5f (coral/ salmon)
+
+        -   10 - 4fb3a2 (light teal)
+
+        -   11 - ff7f00 (orange)
+
+        -   12 - 33a02c (yellow)
+
+        -   13 - 1f3c5b (navy blue)
+
+    -   My sampling site basemap is in purple with black borders
+
+        -   Seattle inset is framed in black
+
+        -   Tacoma inset is framed in white - may need to change to
+            yellow or something brighter
+
+    -   My sites by reporting area map is just like the sites map,
+        except color coded as outlined above.
+
+        -   The legend is framed in the same weight as the other frames,
+            and has no background so that it doesn’t stand out so
+            starkly.
+
+        -   This map feels VERY busy, feedback will help for refining
+
+### Questions or Concerns?
+
+-   I made a quick protocol for converting non-geometric data into
+    geometric data in QGIS. Mainly to help myself not miss a step, but
+    secondarily to make sure I am creating mapping layers in the right
+    projections with the right formats before I start mapping, rather
+    than get stuck in the middle because nothing is working correctly.
+
+-   This and the maps will be in my weekly wrapup.
+
+### Tomorrow's Plan
+
+-   Finish fixing the spatial analysis, and then return to the mapping
+    and verification. I will also return to complete the documentation
+    and anlysis of the mussel pilot experiment and resazurin trials.

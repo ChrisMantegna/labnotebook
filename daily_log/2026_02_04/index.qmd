@@ -22,12 +22,15 @@ execute:
 -   I created my February Goals Post with specific steps and strategies to complete them.
 -   I worked with KPJ for a 3-hour writing block where I collated and cleaned up about half of my lit notes to support the mussel experiment design choices.
 
+
 ### Old Tricks
 
 -   Continued refining my literature support for the mussel experiment (second bullet point)
 - Returned to mapping for the biomarker visualizations (from yesterday). I cleaned up the sampling site map, and went to work on the individual biomarker activity maps for p450 and sod but didn't finish those today.
 
 ### Word Count (Productivity)
+
+*A note on word count/ productivity: I do not include task- based writing, for example the recommendation letter and cleaning up my January notebooks posts, because those don't directly move my work forward. I do count the resazurin post, because it was a synthesis of the work, a reflection on the results, and a plan for next steps.*
 
 -   February Goals + Strategy Post: 191 words
 - Viz made: 1 map
