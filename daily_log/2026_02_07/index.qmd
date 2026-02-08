@@ -42,6 +42,24 @@ execute:
     -   Width- 139.640
     -   Height- 205.216
 
+### Products & Word Count
+
+-   STP Presentation Draft: 327 words
+
+-   Complete Spatial Analysis RMD (excluding header, doc settings & library loads): 487 words
+
+-   Viz made: 1 map
+
+    <div>
+
+    > **Today's total: 814 words**
+    >
+    > **Monthly total to date: 1718 words**
+    >
+    > **Annual total to date: 12,878 words**
+
+    </div>
+
 ### Tomorrow's Plan
 
 -   Watch the Seahawks win the Super Bowl.

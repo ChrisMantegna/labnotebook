@@ -1,21 +1,85 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "SEA- HAWKS... I mean, More Mapping"
+date: '2026-02-08'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
+  - mussel biomarkers
+  - mapping 
 execute:
   echo: false
   warning: false
   message: false
 ---
 
+### Plan of the Day
+
+-   While the OG plan of the day was to watch the Seahawks redeem the worst decision in football... I really wanted to complete the draft maps of the significantly spatially autocorrelated contaminant classes so I could start fresh on some of the other tasks for the week on Monday.
+
+![](img/madmarshawn.jpeg){fig-align="center"}
+
 ### Projects Touched Today
 
-### New Knowledge
+-   Mussel Biomarkers
 
-### Old Tricks
+### Progress Notes
 
-### Questions or Concerns?
+-   Started off today reviewing what I knocked out yesterday, and picked back up on mapping the contaminant indices.
+
+    -   Splitting the significant indices into percentiles and detected/ not detected, that makes my layout simpler - I am going to put a grid together for the percentile maps; one shared legend. The top row will be (L-R) pah, pcb, pbde; the bottom row will be (L-R) ddt, total contaminants, legend.
+
+    -   Set my print layout to ANSI B - Landscape; 431.8mm x 279.4mm to make sure I can get 3 across without crowding.
+
+    -   The maps have the same exact setup, only the data varies, so this feels like it should be a clean way to compare the information.
+
+    -   Can’t forget to add the map attribution: Basemap: Esri World Ocean \| © Esri, and the projection: base- EPSG: 3857, points- EPSG:4326 - WGS 84 - Geographic
+
+-   **NOTE:** When I return to the sampling site and P450 maps- they need to match the extent, scale, and labeling of these maps.
+
+    -   Fix the city/ location labels
+
+    -   Everett is misspelled
+
+    -   Olympia may be misplaced
+
+    -   Add Port Angeles or Port Townsend, lots of sites= label
+
+    -   Consider adding waterway labels, like Commencement Bay, Elliott Bay, greater Salish Sea and/ or Puget Sound
+
+-   Back to the contaminant maps
+
+    -   There is an asterisk indicating the reference site - orange and just slightly larger than the map points; don’t forget to add this in the caption
+
+    -   This is a bit dramatic on the page - adjust when refining the maps
+
+![](img/first_row_contaminants.png) ![](img/second_row_contaminants.png)
+
+-   I am so excited to have finally gotten much closer to aligning the figures with the story in the manuscript draft - since the whole thing is on the shorter side, the figures really have to deliver. There is definite room for improvement; small cleanups on things like aligning frames, text styles, naming convention (I don't think I should pluralize the contaminant abbreviations), and larger refinements for clarity and overall message delivery will be tackled after committee feedback.
+
+### Products & Word Count
+
+-   Viz made: 5 maps + captioning (357 words)
+
+    <div>
+
+    > **Today's total: 357 words**
+    >
+    > **Monthly total to date: 2,075 words**
+    >
+    > **Annual total to date: 14,953 words**
+
+    </div>
 
 ### Tomorrow's Plan
+
+-   Reminder to committee to review my MS proposal so I can get it submitted
+
+    -   MS proposal must be submitted and signed off NLT 2/20/26
+
+    -   Schedule a meeting for end of February, early March to discuss PhD proposal and manuscript (full committee will receive NLT MS feedback/ submission is completed)
+
+-   Spend some time reviewing the status of my current projects
+
+    -   I have spent so much time in the QGIS rabbit hole that I need to refresh myself on where everything else stands
+
+    -   Map plan for the week based on that review (including blocks for non-dissertation projects that have also lagged)
+
+    -   Put up outline of 1v1 agenda/ statuses to be completed in advance of my meeting with Steven on 2/11
