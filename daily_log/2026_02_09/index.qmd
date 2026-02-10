@@ -1,21 +1,55 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "Catching Up with Other Committments"
+date: '2026-02-09'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
 execute:
   echo: false
   warning: false
   message: false
 ---
 
+### Plan of the Day
+
+-   Today's plan is to catch up on tasks outside of my direct dissertation work; only the two below are science related.
+    -   Continue to prepare to deliver the presentation to STP for the P2Solo
+    -   Compile my notes in preparation for SAFS 10 year graduate group meeting
+
 ### Projects Touched Today
 
-### New Knowledge
+-   None
 
-### Old Tricks
+### Progress Notes
 
-### Questions or Concerns?
+-   None that are applicable
+
+### Products & Word Count
+
+-   No dissertation/ thesis products today
+
+    <div>
+
+    > **Today's total: 0 words**
+    >
+    > **Monthly total to date: 2,075 words**
+    >
+    > **Annual total to date: 14,953 words**
+
+    </div>
 
 ### Tomorrow's Plan
+
+-   Shifting Monday's plan (below) to Tuesday 2/10/26
+
+-   Reminder to committee to review my MS proposal so I can get it submitted
+
+    -   MS proposal must be submitted and signed off NLT 2/20/26
+
+    -   Schedule a meeting for end of February, early March to discuss PhD proposal and manuscript (full committee will receive NLT MS feedback/ submission is completed)
+
+-   Spend some time reviewing the status of my current projects
+
+    -   I have spent so much time in the QGIS rabbit hole that I need to refresh myself on where everything else stands
+
+    -   Map plan for the week based on that review (including blocks for non-dissertation projects that have also lagged)
+
+    -   Put up outline of 1v1 agenda/ statuses to be completed in advance of my meeting with Steven on 2/11

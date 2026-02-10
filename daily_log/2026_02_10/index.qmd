@@ -1,21 +1,49 @@
 ---
-title: "Main Topic of the Day"
-date: '2026-MM-DD'
+title: "Something about today"
+date: '2026-02-10'
 categories:
-  - project_name
-  - work_done_ie_coding, wriitng, bench 
 execute:
   echo: false
   warning: false
   message: false
 ---
 
+### Plan of the Day
+
+-   Today's plan is to add a few science tasks into a medium- lift for UW-RUA since I don't have any events or major travelers this week.
+    -   After RUA office hours, my plan is to spend 30 minutes the specific deliverables for my current science work in progress
+    -   Create my 1v1 agenda to send Steven before our meeting on 2/11
+    -   Send the reminder email to my committee for proposal feedback and scheduling of our next meeting
+    -   Aspirationally - complete a draft of the CIL grant application for potentially free chems
+
 ### Projects Touched Today
 
-### New Knowledge
+-   We shall see
 
-### Old Tricks
+### Progress Notes
 
-### Questions or Concerns?
+-   Something
+
+### Products & Word Count
+
+-   Whatever happens
+
+    <div>
+
+    > **Today's total: 0 words**
+    >
+    > **Monthly total to date: 2,075 words**
+    >
+    > **Annual total to date: 14,953 words**
+
+    </div>
 
 ### Tomorrow's Plan
+
+-   1v1 with Steven
+
+-   Lab Meeting
+
+-   Meet with interested undergrad for potential bench work support through the mussel experiment
+
+-   Something else...
