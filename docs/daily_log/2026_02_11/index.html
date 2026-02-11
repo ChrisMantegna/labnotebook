@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-02-07">
+<meta name="dcterms.date" content="2026-02-11">
 
-<title>Mapping Biomarkers: Mapping Spatial Analyses Results in QGIS – Progress Makes a PhD</title>
+<title>Tasks and Meetings – Progress Makes a PhD</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -133,11 +133,10 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Mapping Biomarkers: Mapping Spatial Analyses Results in QGIS</h1>
+<h1 class="title">Tasks and Meetings</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">mussel biomarkers</div>
-    <div class="quarto-category">qgis</div>
-    <div class="quarto-category">mapping</div>
+    <div class="quarto-category">meetings</div>
+    <div class="quarto-category">planning and preparation</div>
   </div>
   </div>
 
@@ -149,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">February 7, 2026</p>
+      <p class="date">February 11, 2026</p>
     </div>
   </div>
   
@@ -161,73 +160,39 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="projects-touched-today" class="level3">
-<h3 class="anchored" data-anchor-id="projects-touched-today">Projects Touched Today</h3>
-<ul>
-<li>Mussel biomarkers</li>
-</ul>
-</section>
 <section id="plan-of-the-day" class="level3">
 <h3 class="anchored" data-anchor-id="plan-of-the-day">Plan of the Day</h3>
 <ul>
-<li>Map the analysis results.</li>
+<li>Advisor 1v1</li>
+<li>Lab Meeting</li>
 </ul>
+</section>
+<section id="projects-touched-today" class="level3">
+<h3 class="anchored" data-anchor-id="projects-touched-today">Projects Touched Today</h3>
 </section>
 <section id="progress-notes" class="level3">
 <h3 class="anchored" data-anchor-id="progress-notes">Progress Notes</h3>
 <ul>
-<li>Back at the mapping in QGIS.
-<ul>
-<li>First map to make is the Global Moran’s I outcomes. Since just plotting the Moran’s value or p-values isn’t helpful, I am exploring ways to plot the 9 significant results to tell the story with the actual stats in the caption. Using the significant results, I will go back to my complete metrics and indices table, convert the columns to the format I need, add geometry, and test plotting each of the 9 significant metrics.</li>
-<li>The mapping choices are as follows:</li>
-<li>A multi-panel layout will have P450, Total contaminants, PAH, PBDE and PCB in the top row in that order, and DDT, pesticides, chlordanes and HCHs in the bottom row in that order.</li>
-<li>P450 will use a different single color gradient than the contaminant ones; all contaminants will use the same single color gradient for consistency. The higher the value, the darker the color.</li>
-<li>For visual consistency, the category breaks for all 8 of the contaminants will be exactly the same - all of the concentrations are in ng/kg, so the comparison is super important to make clearly.</li>
-<li>As a reminder, the contaminants are in ng/g, and p450 is in activity/mg protein</li>
-<li>Using the histogram of values in p450, I moved the default from 30 bins to 7 to clearly visualize the values gradient between -1 to 2.7 without inflating the activity values and remembering that these are the values scaled based on the reference site. A zero means the value is the same at the reference site, and negative number means it is lower than the reference site, and any positive number is higher than the reference.</li>
-<li>The basemap is at 75% opacity to allow the symbols to stand out. The p450 symbol is a 4mm purple diamond with an outline/ stroke of dark grey (#2b2b2b) and a weight of 0.4 and a round join style. This is important because each of these settings, except for the color will be used in the contaminant maps.</li>
-<li>I added a duplicate symbol layer below the one described above to add a bit of depth. It is the same symbol shape, drug below the primary, set to 5.5mm, color is very pale grey (#f7f7f7), opacity at 30%, stoke/ outline off. This halo effect helps makes the higher density sites clearer without an inset.</li>
-</ul></li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="img/p450_ps_map.png" class="img-fluid figure-img" width="600"></p>
-<figcaption>Not perfect, but good enough until I get feedback.</figcaption>
-</figure>
-</div>
-<ul>
-<li>Shifting gears a bit, I pulled the summary stats for the contaminant indices, put them in a quick view table, and then thought through how to make consistent groupings, or how to explain the differences in scale.
-<ul>
-<li>None of the contaminant indices will follow a uniform color gradient, so I am trying to group similar scaled classes together rather than group them as I had planned earlier.</li>
-<li>There are three groups that are zero- dominant and 5 groups that have a significant range in concentrations, so I am splitting them into two groups for mapping. Group 1 will go to the supplement as detected/ not detected and group 2 will be in maps alongside the p450 map; the main difference is that the contaminants in group two will be broken down into percentiles of concentrations for consistency and p450 activity will remain scaled to the reference site to prevent inflation or deflation of variability.</li>
-<li>I created the templates for both groups, created the base maps for all 8 indices, and began refining them in the print layout to export. I need to create a single legend that can be displayed for them all, and tweak the details, but the base information and outcomes are complete - finally!</li>
-</ul></li>
-<li>Putting two maps per print layout
-<ul>
-<li>Width- 139.640</li>
-<li>Height- 205.216</li>
-</ul></li>
+<li></li>
 </ul>
 </section>
 <section id="products-word-count" class="level3">
 <h3 class="anchored" data-anchor-id="products-word-count">Products &amp; Word Count</h3>
-<ul>
-<li><p>STP Presentation Draft: 327 words</p></li>
-<li><p>Complete Spatial Analysis RMD (excluding header, doc settings &amp; library loads): 487 words</p></li>
-<li><p>Viz made: 1 map</p>
-<div>
-<blockquote class="blockquote">
-<p><strong>Today’s total: 814 words</strong></p>
-<p><strong>Monthly total to date: 1718 words</strong></p>
-<p><strong>Annual total to date: 12,878 words</strong></p>
-</blockquote>
-</div></li>
-</ul>
+<pre><code>&lt;div&gt;
+
+&gt; **Today's total: 0 words**
+&gt;
+&gt; **Monthly total to date: 2,075 words**
+&gt;
+&gt; **Annual total to date: 14,953 words**
+
+&lt;/div&gt;</code></pre>
 </section>
 <section id="tomorrows-plan" class="level3">
 <h3 class="anchored" data-anchor-id="tomorrows-plan">Tomorrow’s Plan</h3>
 <ul>
-<li>Watch the Seahawks win the Super Bowl.</li>
+<li><p>Tomorrow is pretty meeting heavy. I have 2 UW-RUA debrief meetings post traveler return, the NW CASC Info-session, the first of 3 ESA <em>Future-Proofing Your Science Career</em> sessions, and a meeting with a former mentee to work through the stats and visualizations for his capstone project featuring the data we collected on Yellow Island from 2023 - 24.</p></li>
+<li><p>Specific steps in my own work will be determined post today’s meetings.</p></li>
 </ul>
 
 
