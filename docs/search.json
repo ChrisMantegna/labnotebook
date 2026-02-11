@@ -2382,9 +2382,9 @@
   {
     "objectID": "weekly/2026_0210/index.html",
     "href": "weekly/2026_0210/index.html",
-    "title": "Weekly Wrap Up",
+    "title": "Advisor 1v1: February 11, 2026",
     "section": "",
-    "text": "Focus for the Week: Primary goals and priorities.\n\n\nProgress Made: What moved forward?\n\n\nChallenges: What slowed things down?\n\n\nSynthesis: How does this week connect to the larger project?\n\n\nNext Week: Planned tasks and questions."
+    "text": "Update on written deliverables (MS proposal, PhD proposal, Biomarker manuscript)\nMussel pilot experiment takeaways\nMussel Experiment for Chapters 3 & 4\nDNA Methylation Analysis\nNW CASC Fellowship"
   },
   {
     "objectID": "daily_log/2026_02_09/index.html",
@@ -3057,5 +3057,47 @@
     "title": "January 2026 Daily Posts",
     "section": "2026-01-31",
     "text": "2026-01-31\n\nNo Science Today\nNo science today. I am home until February 2nd."
+  },
+  {
+    "objectID": "weekly/2026_0210/index.html#agenda",
+    "href": "weekly/2026_0210/index.html#agenda",
+    "title": "Advisor 1v1: February 11, 2026",
+    "section": "",
+    "text": "Update on written deliverables (MS proposal, PhD proposal, Biomarker manuscript)\nMussel pilot experiment takeaways\nMussel Experiment for Chapters 3 & 4\nDNA Methylation Analysis\nNW CASC Fellowship"
+  },
+  {
+    "objectID": "weekly/2026_0210/index.html#updates",
+    "href": "weekly/2026_0210/index.html#updates",
+    "title": "Advisor 1v1: February 11, 2026",
+    "section": "Updates",
+    "text": "Updates\n\n\nWritten Deliverables\n\n\nMS Proposal\n\nSubmission deadline: February 20, 2026\nNo committee feedback on the draft as of 2/10. Email reminder sent to committee on 2/10 extending the feedback window to 2/15.\nThe draft can be found at this link.\n\n\n\nPhD Proposal\n\nNo current submission deadline. The bypass window (2/15) is too close and no one but Alison has seen the manuscript (required in package).\nGoal: Have Bypass Package complete and submitted by March 13th, ahead of the May 15th deadline (next available).\nThe draft can be found at this link.\n\n\n\nMussel Biomarker Manuscript\n\nSubmission Deadline to ICB: April 1, 2026 with preference for earlier if possible\nTo be completed by February 15: Updated results with the corrected spatial analyses, and a complete abstract.\nNext steps (before committee receipt):\n\nAdd figures directly into draft\nPut together a ‘support’ folder of the manuscript figures, supplementary information, and results for review with a link to the code in the existing repo.\n\nThe draft can be found at this link."
+  },
+  {
+    "objectID": "weekly/2026_0210/index.html#mussel-pilot-experiment-takeaways",
+    "href": "weekly/2026_0210/index.html#mussel-pilot-experiment-takeaways",
+    "title": "Advisor 1v1: February 11, 2026",
+    "section": "Mussel Pilot Experiment Takeaways",
+    "text": "Mussel Pilot Experiment Takeaways\n\nSummary Stats\n\nExperiment Duration: 33 days (December 24, 2025 - January 25, 2026)\nExperiment Goal: Determine mussel’s in- lab thermal tolerance. Can the mussels survive for 30- days or more under chronic exposure to increasing temperatures.\n\nExperiment Setup\n\n75 mussels, bagged in groups of 15, acclimated to 11° C with no food for 7 days\nOn Day 7, 45 mussels were moved to a 11° C treatment and 30 mussels were moved to a 15° C treatment; all were fed per Shellfish Diet 1800 instructions on Day 8.\nDaily water temperature, salinity and mortality checks were performed.\nWeekly water changes and feeding were performed\n\nWater changes were PRN, no less than once a week, and became more frequent with 20° C and 22° C temperatures.\n\nElevated temperature regime:\n\nDay 7 - 15° C\nDay 14 - 18° C\nDay 21 - 20° C\nDay 27 - 22° C\n\n\nExperiment Outcome: 50% mortality reached in temp tx on Day 30, three days after 22° C exposure.\nTakeaways\n\n22° C after consistent exposure to elevated temperatures is too far\n20° C may be the maximum temperature\nMulti- stressor experiment may require a decrease to 18° C for longevity, or 20° C (or higher) temperatures in acute exposures instead of chronic exposure\n\nNext Steps\n\nFinish setting up the repo documentation.\nComplete the resazurin analysis."
+  },
+  {
+    "objectID": "weekly/2026_0210/index.html#dna-methylation-analysis",
+    "href": "weekly/2026_0210/index.html#dna-methylation-analysis",
+    "title": "Advisor 1v1: February 11, 2026",
+    "section": "DNA Methylation Analysis",
+    "text": "DNA Methylation Analysis\n\n\n\nStatus: On hold until MS Proposal submission and mussel experiment ordering/ setup is completed\nAnticipated Restart: February 20, 2026\nPlan of attack for March 15th Completion of the Steps Below:\n\nRe-familiarize myself with where I left off in late 2025 and backup the large files.\nMove through the initial Bismark pipeline (which I believe I finished) into optimizing alignment parameters and using that outcome for subsequent steps.\nQuantify methylation levels and visualize using IGV or JBrowse.\nGet feedback on initial results from Steven and/or other lab members before moving into downstream analyses."
+  },
+  {
+    "objectID": "weekly/2026_0210/index.html#mussel-experiment-for-chapters-3-4",
+    "href": "weekly/2026_0210/index.html#mussel-experiment-for-chapters-3-4",
+    "title": "Advisor 1v1: February 11, 2026",
+    "section": "Mussel Experiment for Chapters 3 & 4",
+    "text": "Mussel Experiment for Chapters 3 & 4\n\nResearch Questions\n\nHow does thermal stress modify mussel physiological responses to legacy contaminant or metal exposure across environmentally relevant temperature regimes?\nWhich physiological and molecular mechanisms are associated with survival, stress tolerance, and sublethal impairment under combined legacy contaminant, metal and temperature stress?\nDoes exposure to legacy contaminants and/ or metals under elevated temperature induce changes in DNA methylation, and are differentially methylated loci associated with genes involved in stress response, detoxification, or thermal tolerance?\n\nSetup and Methods Overview: Ideal\n\nTreatments (high, low and control, n=15)\n\nTemperature - 11° C and 20° C\n\nBased on pilot study thresholds\nCould be replaced with resazurin stress assay to simulate acute heat stress once a test run of full time to reach plateau is identified.\n\nCadmium (metal) - low concentration & 25% above environmentally found concentrations\n\nBased on WDFW data from 2015 - 2022 and literature\n\nPAH mixture - low concentration & 25% above environmentally found concentrations at sites like Elliott Bay and Commencement Bay versus those at Hood Canal\n\nBased on WDFW data from 2015 - 2022 and literature\n\n\nMeasurements to be Taken\n\nMorphometrics - beginning and end only (LxWxH, △ weight as proxy for tissue weight)\nRespiration or metabolism - at timepoints defined below\nBiomarkers, P450 and SOD- at time points defined below\nGill or mantle tissue dissection for molecular sequencing- at time points defined below\n\nExperiment Duration: Minimum 30 days, Ideal- 45-60 days which is approximately 1/2 of outplanting season\nTimepoints for Sampling (~7)\n\nDay 0, 7, 14,21,28, 41 and end if exceeding 30 days\n\nSample Requirement: ~14lb of mussels\n\n2lbs yields ~70 mussels\n15 treatments requiring minimum 8 samples per timepoint (7) of destructive sampling\n\n~840 mussels + 10% for initial condition and mortality\n~930 mussels (35 mussels/ lb)\n\n\n\nIn Progress\n\nLab risk assessment form from EH&S. It’s diagnostic, not a requirement\nA summary of risk and physical mitigation techniques must be on file (only part not included in standard lab handbooks/ MSDS sheets/ existing ‘harmful agents’ exposure protocols\nLocated chemical vendor for legacy contaminants & potential ‘granting’ of chemicals\n\nCambridge Isotope Laboratories\n\nGrant request application (will complete regardless of choice)\nPAH contaminants range in price, for single agents to mixtures, from ~$200 - $2000 with the average mixtures running ~$1000.\nAn option would be to get input from Alison and Mariko (WDFW) on maybe 1-3 specifics that would cost ~$450 (for 3).\nAlternatively, since PCBs are also a heavy- hitter, and skew slightly lower in price\n\nThermoFisher is the vendor for cadmium\n\nThe formats (powder or foils?) unsure of the impact of difference\nNo prices available without contact with them\n\n\n\nNext Steps\n\nConfirm design options and requirements for moving forward\nConnect with Jon W to assess physical setup and limitations\nProvide a budget, supply requirements for assessment"
+  },
+  {
+    "objectID": "weekly/2026_0210/index.html#nw-casc-fellowship",
+    "href": "weekly/2026_0210/index.html#nw-casc-fellowship",
+    "title": "Advisor 1v1: February 11, 2026",
+    "section": "NW CASC Fellowship",
+    "text": "NW CASC Fellowship\n\n\n\nA version of my Chapter 3 draft can be used for this, reasoning is below application specs.\nDeadline for submission: March 9, 2026 The Research Fellowship call is at this link and the pdf of the call overview is at this link.\nFunding range: $5,000 - $65,000 with an averaged awarded amount of $30,000 for graduate students (not including tuition/ fees cost) for 1 year of fellowship.\n\nHigher amounts go to Postdocs per the fellowship FAQ/ website\n\nFull proposal requires the following pieces:\n\nCompleted online application that identifies the NW CASC Actionable Science Agenda item being addressed, specific output/ outcomes of the work, identification of external partners, requested funding and budget, and leveraged support description.\nProposal (3 page max, excluding references) with standard requirements + plan for interaction with NW CASC stakeholder (WDFW and UW-T for my thought)\nBudget + Justification\nLetter of support from PI\nLetter of application from prospective fellow (2 page max)\nStatement of Support from external partner (WDFW in accepted list)\nCV of prospective fellow\n\nNW CASC Actionable Science Alignment\n\nManaging the Ecological Impacts of Extreme Heat in the Northwest (ActionableScience Agenda5)\n\nKey Research Needs: Ranked from most applicable to least\nCharacterize the interactive ecological effects of extreme heat and other anthropogenic, biotic and abiotic disturbances and stressors\nAssess and improve the effectiveness and accessibility of existing tools to measure and predict general and extreme heat exposure and impacts\nUnderstand the mechanisms and drivers of interspecific and intraspecific variation in sensitivity and adaptive capacity to extreme heat\nKey Capacity- building Needs: Ranked from most applicable to least\nImprove, operationalize and expand the accessibility of existing tools and datasets\nSupport long-term and post-event rapid ecological and microclimate monitoring\n\nPriority ecosystem: Coastal\n\nMarine coastlines and nearshore habitats, Rocky intertidal zones, Estuaries, Sandy coastlines\n\nClimate-Linked Drivers of Ecological Change\n\nIncreasing Temperatures: Warmer winters, summer heat extremes and heat domes, changes in growing seasons\nLand use changes and additional stressors categories may also apply\n\n\n\nNext Steps\n\nInfo-session on Thursday 2/12- I am registered and will attend."
   }
 ]
