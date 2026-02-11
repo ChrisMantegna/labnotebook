@@ -2,14 +2,19 @@
 title: "Advisor 1v1: February 11, 2026"
 author: "CM"
 date: "2026-02-10"
+categories:
+  - 1v1
+execute:
+  echo: false
+  warning: false
+  message: false
 format:
   html:
     theme: cosmo
-    toc: true
-    toc-location: right
-    number-sections: false
-    smooth-scroll: true
-    page-layout: article
+    css: styles.css
+    toc: false
+    page-layout: full
+    code-fold: true
 ---
 
 ## Agenda
