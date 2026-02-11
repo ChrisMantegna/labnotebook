@@ -1,0 +1,40 @@
+---
+title: "Tasks and Meetings"
+date: '2026-02-11'
+categories:
+  - meetings
+  - planning and preparation
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+### Plan of the Day
+
+-   Advisor 1v1
+-   Lab Meeting
+
+### Projects Touched Today
+
+### Progress Notes
+
+-   
+
+### Products & Word Count
+
+    <div>
+
+    > **Today's total: 0 words**
+    >
+    > **Monthly total to date: 2,075 words**
+    >
+    > **Annual total to date: 14,953 words**
+
+    </div>
+
+### Tomorrow's Plan
+
+- Tomorrow is pretty meeting heavy. I have 2 UW-RUA debrief meetings post traveler return, the NW CASC Info-session, the first of 3 ESA *Future-Proofing Your Science Career* sessions, and a meeting with a former mentee to work through the stats and visualizations for his capstone project featuring the data we collected on Yellow Island from 2023 - 24.
+
+- Specific steps in my own work will be determined post today's meetings.
