@@ -1,5 +1,5 @@
 ---
-title: "Weekly Updates"
+title: "Weekly- ish Updates"
 page-layout: full
 title-block-banner: true
 listing:
