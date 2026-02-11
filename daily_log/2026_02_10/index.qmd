@@ -1,5 +1,5 @@
 ---
-title: "Something about today"
+title: "Task TKO"
 date: '2026-02-10'
 categories:
 execute:
@@ -18,25 +18,19 @@ execute:
 
 ### Projects Touched Today
 
--   We shall see
+-   1v1 prep
 
 ### Progress Notes
 
--   Something
+-   The only science I did today was put together my agenda for my meeting with Steven for tomorrow.
 
 ### Products & Word Count
 
--   Whatever happens
-
-    <div>
-
-    > **Today's total: 0 words**
-    >
-    > **Monthly total to date: 2,075 words**
-    >
-    > **Annual total to date: 14,953 words**
-
-    </div>
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 2,075 words**
+>
+> **Annual total to date: 14,953 words**
 
 ### Tomorrow's Plan
 
@@ -45,5 +39,3 @@ execute:
 -   Lab Meeting
 
 -   Meet with interested undergrad for potential bench work support through the mussel experiment
-
--   Something else...

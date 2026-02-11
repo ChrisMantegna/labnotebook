@@ -2,7 +2,8 @@
   {
     "listing": "/dailylog.html",
     "items": [
-      "/daily_log/2026_02/2026-01.html",
+      "/daily_log/2026_01/index.html",
+      "/daily_log/2026_02_10/index.html",
       "/daily_log/2026_02_09/index.html",
       "/daily_log/2026_02_08/index.html",
       "/daily_log/2026_02_07/index.html",
@@ -15,7 +16,6 @@
       "/daily_log/2025_12/index.html",
       "/daily_log/2025_11/index.html",
       "/daily_log/2025_10/index.html",
-      "/daily_log/2026_02_10/index.html",
       "/daily_log/2025_09/index.html"
     ]
   },
