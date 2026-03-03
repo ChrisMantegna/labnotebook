@@ -1,7 +1,8 @@
 ---
-title: "Something about today"
+title: "Getting Back on Track"
 date: '2026-03-02'
 categories:
+  - planning
 execute:
   echo: false
   warning: false
@@ -10,11 +11,11 @@ execute:
 
 ### Plan of the Day
 
-
+- Catch up with weekly planning and task management since I've been sick for the last two weeks.
 
 ### Projects Touched Today
 
-
+- None
 
 ### Progress Notes
 
@@ -25,9 +26,9 @@ execute:
 
 > **Today's total: 0 words**
 >
-> **Monthly total to date: 2,075 words**
+> **Monthly total to date: 0 words**
 >
-> **Annual total to date: 14,953 words**
+> **Annual total to date: 20,747 words**
 
 </div>
 

@@ -10,11 +10,11 @@ execute:
 
 ### Plan of the Day
 
-
+- 
 
 ### Projects Touched Today
 
-
+- 
 
 ### Progress Notes
 
@@ -25,11 +25,10 @@ execute:
 
 > **Today's total: 0 words**
 >
-> **Monthly total to date: 2,075 words**
+> **Monthly total to date: 0 words**
 >
-> **Annual total to date: 14,953 words**
+> **Annual total to date: 20,747 words**
 
 </div>
 
 ### Tomorrow's Plan
-
