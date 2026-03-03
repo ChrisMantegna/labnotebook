@@ -1,0 +1,35 @@
+---
+title: "Something about today"
+date: '2026-03-04'
+categories:
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+### Plan of the Day
+
+
+
+### Projects Touched Today
+
+
+
+### Progress Notes
+
+
+### Products & Word Count
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 2,075 words**
+>
+> **Annual total to date: 14,953 words**
+
+</div>
+
+### Tomorrow's Plan
+
