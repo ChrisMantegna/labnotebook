@@ -23,12 +23,16 @@ execute:
 
 <div>
 
-> **Today's total: 0 words**
+-   March Goals and Planning: 294 words
+
+> **Today's total: 294 words**
 >
-> **Monthly total to date: 0 words**
+> **March total: 294 words**
 >
-> **Annual total to date: 20,747 words**
+> **2026 total: 21,041 words**
 
 </div>
 
 ### Tomorrow's Plan
+
+-   Tuesday's are UW-RUA days, so the plan is to focus on my RUA deliverables only, returning my science on Wednesday.
