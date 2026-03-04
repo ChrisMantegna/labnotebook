@@ -1,5 +1,5 @@
 ---
-title: "Something about today"
+title: "UW-RUA Traveler Tuesday"
 date: '2026-03-03'
 categories:
 execute:
@@ -10,22 +10,23 @@ execute:
 
 ### Plan of the Day
 
-- 
+-   Focus on UW-RUA deliverables.
 
 ### Projects Touched Today
 
-- 
+- None
 
 ### Progress Notes
 
+- Nothing relevant to my work.
 
 ### Products & Word Count
 
 <div>
 
--   March Goals and Planning: 294 words
+-   No science products today.
 
-> **Today's total: 294 words**
+> **Today's total: 0 words**
 >
 > **March total: 294 words**
 >
@@ -35,4 +36,5 @@ execute:
 
 ### Tomorrow's Plan
 
--   Tuesday's are UW-RUA days, so the plan is to focus on my RUA deliverables only, returning my science on Wednesday.
+-   Wednesday's plan is to map out specific tasks in completing the biomarker manuscript to get it out to my committee  for review before submission to ICB at the end of the month.
+- After task mapping, I will knock out 1-2 identified tasks on the manuscript.
