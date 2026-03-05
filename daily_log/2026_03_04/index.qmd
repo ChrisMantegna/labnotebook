@@ -1,5 +1,5 @@
 ---
-title: "Groundhogs Day Times A Thousand"
+title: "Groundhog Day X 1000"
 date: '2026-03-04'
 categories:
   - writing
@@ -10,40 +10,234 @@ execute:
   echo: false
   warning: false
   message: false
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ### Plan of the Week: March 2 - 8, 2026
+
 #### Daily Focus
 
-- Thursday: No science work
-- Friday: Biomarker Manuscript
-- Saturday: No science work
-- Sunday: Biomarker Manuscript
+-   Thursday: No science work
+-   Friday: Biomarker Manuscript
+-   Saturday: No science work
+-   Sunday: Biomarker Manuscript
 
 ### Plan of the Day
 
-- Based on the list of biomarker manuscript deliverables, my first task is to update my Results section to include the corrected spatial analyses. Second task is to update Figures 1 and 2.
-- Finally, my current task management communication set-up is not effective. Moving forward, general weekly plans will be added to Monday notebook posts with specific daily tasks and outcome determined in the daily notebook posts. This will allow for more flexibility in task management and better communication of progress and plans.
+-   It feels like I just keep repeating the same tasks over and over
+    again. Each return is an improvement, but there has to be a better
+    way to limit the rework and encourage expeditious support from my
+    committee.
+-   Based on the list of biomarker manuscript deliverables, my first
+    task is to update my Results section to include the corrected
+    spatial analyses. Second task is to update Figures 1 and 2.
+-   Finally, my current task management communication set-up is not
+    effective. Moving forward, general weekly plans will be added to
+    Monday notebook posts with specific daily tasks and outcome
+    determined in the daily notebook posts. This will allow for more
+    flexibility in task management and better communication of progress
+    and plans.
 
 ### Projects Touched Today
 
-- 
+-   Mussel biomarkers
+-   Lab notebook
 
 ### Progress Notes
 
+-   I met my first goal of working on the results written portion of the
+    manuscript. It is a laundry list that needs to be more succinct and
+    focused on the key findings. To support writing that, the notes
+    below were helpful.
+-   I did not meet my second goal of updating Figures 1 & 2, reworking
+    the results took significantly longer than planned.
+-   I have determined that an evening versus morning check-in that has
+    both the plan of the day, the completed tasks, and the plan for the
+    following day is a more effective tool and cuts down on rework.
+
+#### Biomarker Analysis Tests Performed
+
+-   Shapiro- Wilkes
+    -   Purpose: Determines if your data is normally distributed across
+        the entirety of the dataset. The result determines parametric or
+        non-parametric route for exploratory and subsequent analysis
+        testing. Used at individual sample level.
+    -   Test H0 and assumption: Is the data normally distributed?
+    -   H0= Yes, p\< 0.05 rejects H0
+-   Levene’s Test
+    -   Purpose: Determines if the variability of your data is
+        consistent across different groups. This is the non-parametric
+        test that is more robust than the Bartlett Test when facing
+        skewed data or outliers. Used at analysis group level to verify
+        groups are different.
+    -   Test H0 and assumption: Are all group variances the same?
+    -   H0= Yes, p\< 0.05 rejects H0
+-   KW/ Dunn’s or ANOVA/ Tukey’s
+    -   Purpose: Pairwise or one-way comparison of three or more
+        independent measurements. Test choice determined by Shapiro-
+        Wilkes and Levene’s Test outcomes.
+        -   KW/ Dunn’s is the non-parametric test and post-hoc
+        -   ANOVA/ Tukey's is the parametric test and pos-hoc
+    -   Used at the group- level (site, reporting area) to compare the
+        measured metrics, IBRs and chemical analyte concentrations.
+    -   Test H0 and assumption: Are the means (ANOVA) or medians (KW) of
+        the groups the same?
+    -   H0= Yes, p\< 0.05 rejects H0
+    -   F-statistic indicates within- group and between- group variance
+        as a ration. The higher the statistic, the more likely there is
+        a difference to be confirmed. Should be used in interpretations
+        verified by post-hoc testing.
+    -   Post-hoc testing and assumption: Any rejected null is verified
+        with a post-hoc test to control for Type I errors (false
+        positives) and identify which means or medians are different.
+-   Spearman’s Rank Correlation
+    -   Purpose: Non-parametric test to measure the difference in ranks
+        of continuous variables in large datasets. Test choice
+        determined by Shapiro- Wilkes and Levene’s Test outcomes. Used
+        to determine any relationships between measured metrics and
+        chemical analyte concentrations at the analysis group level.
+    -   Test H0 and assumption: Is there an identifiable association
+        between variables?
+    -   H0= No, p\< 0.05 rejects H0
+    -   Test interpretation: Correlation coefficient (rho) ranges from
+        -1 to +1, and should be used in conjunction with the p-value for
+        correct interpretation.
+        -   -1: Perfect negative association, as one variable increases
+            the other variable decreases
+        -   0: No association between variables
+        -   +1: Perfect positive association, as one variable increases,
+            so does the other
+-   Kendall’s Tau
+    -   Purpose: Conservative, non-parametric test to assess the
+        concordance or discordance of pairs of variables in datasets
+        with outliers or heavy skew. Used to identify data trends or
+        clarify Spearman’s Rho ties in measured metrics and contaminant
+        class concentrations at the analysis group level.
+    -   Test H0 and assumption: Is there an identifiable association
+        between variables?
+    -   H0= No, p\< 0.05 rejects H0
+    -   Test interpretation: Kendall’s coefficient (tau) ranges from -1
+        to +1, and should be used in conjunction with the p-value for
+        correct interpretation.
+        -   -1: Perfect discordance (disagreement), as one variable
+            increases the other variable decreases
+        -   0: No relationship between variables
+        -   +1: Perfect concordance (agreement), as one variable
+            increases, so does the other
+-   Global Moran’s I
+    -   Purpose: Spatial analysis test that indicates if data is
+        clustered, dispersed, or randomly distributed across a defined
+        geographic area. Used to identify if there is a geographical
+        component that affects the measured metrics, IBRs, and
+        contaminant concentrations across all sites in the entire
+        sampling region.
+    -   Test H0 and assumption: Is there a significant spatial pattern
+        in the data?
+    -   H0= No, p\< 0.05 rejects H0
+    -   Expected I= Assigned theoretical value assuming H0 is true.
+    -   Test interpretation: Moran’s I Index ranges from -1 to +1, and
+        should be used in conjunction with the Expected Index (above),
+        Z-score (determined during test if not already available) and
+        p-value for correct interpretation.
+        -   -1: Negative Autocorrelation (dispersed), dissimilar data
+            values are adjacent to each other
+        -   0: No spatial relationship amongst variables (random)
+        -   +1: Positive Autocorrelation (clustered), similar data
+            values are adjacent to each other
+-   Local Indicators of Spatial Autocorrelation (LISA) a.k.a. Local
+    Moran’s I
+    -   Purpose: Spatial analysis test that indicates patterns of
+        autocorrelation when the general Global Moran’s I identified
+        clustered or dispersed data within the study’s geographic
+        region. Used to identify the local spatial patterns in the
+        measured metrics, IBRs, and contaminant concentrations across
+        all sites within the entire sampling region.
+    -   Test H0 and assumption: Where are the clusters or data outliers
+        that drove the Global Moran’s I result and are they significant?
+    -   H0= No, p\< 0.05 rejects H0
+    -   LISA interpretation: There are five possible outcomes that
+        grouped and plotted by color:
+        -   High-High / Hot Spot - red
+        -   Low-Low / Cold Spot - blue
+        -   High-Low / Outlier - pink
+        -   Low-High / Outlier - light blue
+        -   Not Significant - Gray
+
+#### Results Overview
+
+-   KW/ ANOVA
+
+    -   182 significant comparisons across reporting area and site that
+        include the following metrics and indices:
+
+        -   P450, Shell Thickness, Condition Index, Raw mussel
+            measurements
+
+        -   IBR Morph
+
+        -   Chlordanes, DDT, PAH- HMW, PBDE, Total Contaminants, Total
+            PAH index
+
+-   Spearman’s Correlation
+
+    -   94 total significant results
+
+        -   78 significant correlations between individual analytes and
+            both the measured metrics and the IBRs
+
+        -   15 significant correlations between contaminant indices and
+            the following:
+
+            -    SOD, IBR Bio, IBR Combined, and raw mussel measurements
+
+-   Kendall’s Tau
+
+    -   89 total significant results
+
+        -   79 significant correlations between individual analytes and
+            both the measured metrics and the IBRs
+
+            -   Single P450 and single IBR Morph correlations exist in
+                the group whereas multiples for each of the other
+                metrics and IBRs are significant
+
+        -   10 significant correlations between contaminant indices and
+            the following:
+
+            -    SOD, IBR Bio, IBR Combined, and raw mussel measurements
+
+-   Global Moran’s I
+
+    -   The following chemical indices and measured metrics were
+        significant for regional spatial autocorrelation:
+
+        -   Chlordane, DDT, HCH, PBDE, PAH- HMW, PCB, Pesticide, Total
+            Contaminant, Total Metal and Total PAH
+
+        -   P450, Shell Thickness, Initial and Final Weights
+
+-   LISA
+
+    -   This result table is significant following the same pattern as
+        the Global above with cluster groupings to confirm the Global
+        pattern found significant.
 
 ### Products & Word Count
 
 <div>
 
-> **Today's total: 0 words**
+> Biomarker Manuscript Results re-write: 948 words
 >
-> **Monthly total to date: 0 words**
+> **Today's total: 948 words**
 >
-> **Annual total to date: 20,747 words**
+> **Monthly total to date: 1242 words**
+>
+> **Annual total to date: 21,695 words**
 
 </div>
 
 ### Tomorrow's Plan
 
-- No science focus on Thursday.
+-   No science focus on Thursday.

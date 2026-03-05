@@ -8,7 +8,7 @@
 
 <meta name="dcterms.date" content="2026-03-04">
 
-<title>Groundhogs Day Times A Thousand – Progress Makes a PhD</title>
+<title>Groundhog Day X 1000 – Progress Makes a PhD</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -133,7 +133,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Groundhogs Day Times A Thousand</h1>
+<h1 class="title">Groundhog Day X 1000</h1>
   <div class="quarto-categories">
     <div class="quarto-category">writing</div>
     <div class="quarto-category">visualizations</div>
@@ -177,6 +177,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="plan-of-the-day" class="level3">
 <h3 class="anchored" data-anchor-id="plan-of-the-day">Plan of the Day</h3>
 <ul>
+<li>It feels like I just keep repeating the same tasks over and over again. Each return is an improvement, but there has to be a better way to limit the rework and encourage expeditious support from my committee.</li>
 <li>Based on the list of biomarker manuscript deliverables, my first task is to update my Results section to include the corrected spatial analyses. Second task is to update Figures 1 and 2.</li>
 <li>Finally, my current task management communication set-up is not effective. Moving forward, general weekly plans will be added to Monday notebook posts with specific daily tasks and outcome determined in the daily notebook posts. This will allow for more flexibility in task management and better communication of progress and plans.</li>
 </ul>
@@ -184,19 +185,158 @@ ul.task-list li input[type="checkbox"] {
 <section id="projects-touched-today" class="level3">
 <h3 class="anchored" data-anchor-id="projects-touched-today">Projects Touched Today</h3>
 <ul>
-<li></li>
+<li>Mussel biomarkers</li>
+<li>Lab notebook</li>
 </ul>
 </section>
 <section id="progress-notes" class="level3">
 <h3 class="anchored" data-anchor-id="progress-notes">Progress Notes</h3>
+<ul>
+<li>I met my first goal of working on the results written portion of the manuscript. It is a laundry list that needs to be more succinct and focused on the key findings. To support writing that, the notes below were helpful.</li>
+<li>I did not meet my second goal of updating Figures 1 &amp; 2, reworking the results took significantly longer than planned.</li>
+<li>I have determined that an evening versus morning check-in that has both the plan of the day, the completed tasks, and the plan for the following day is a more effective tool and cuts down on rework.</li>
+</ul>
+<section id="biomarker-analysis-tests-performed" class="level4">
+<h4 class="anchored" data-anchor-id="biomarker-analysis-tests-performed">Biomarker Analysis Tests Performed</h4>
+<ul>
+<li>Shapiro- Wilkes
+<ul>
+<li>Purpose: Determines if your data is normally distributed across the entirety of the dataset. The result determines parametric or non-parametric route for exploratory and subsequent analysis testing. Used at individual sample level.</li>
+<li>Test H0 and assumption: Is the data normally distributed?</li>
+<li>H0= Yes, p&lt; 0.05 rejects H0</li>
+</ul></li>
+<li>Levene’s Test
+<ul>
+<li>Purpose: Determines if the variability of your data is consistent across different groups. This is the non-parametric test that is more robust than the Bartlett Test when facing skewed data or outliers. Used at analysis group level to verify groups are different.</li>
+<li>Test H0 and assumption: Are all group variances the same?</li>
+<li>H0= Yes, p&lt; 0.05 rejects H0</li>
+</ul></li>
+<li>KW/ Dunn’s or ANOVA/ Tukey’s
+<ul>
+<li>Purpose: Pairwise or one-way comparison of three or more independent measurements. Test choice determined by Shapiro- Wilkes and Levene’s Test outcomes.
+<ul>
+<li>KW/ Dunn’s is the non-parametric test and post-hoc</li>
+<li>ANOVA/ Tukey’s is the parametric test and pos-hoc</li>
+</ul></li>
+<li>Used at the group- level (site, reporting area) to compare the measured metrics, IBRs and chemical analyte concentrations.</li>
+<li>Test H0 and assumption: Are the means (ANOVA) or medians (KW) of the groups the same?</li>
+<li>H0= Yes, p&lt; 0.05 rejects H0</li>
+<li>F-statistic indicates within- group and between- group variance as a ration. The higher the statistic, the more likely there is a difference to be confirmed. Should be used in interpretations verified by post-hoc testing.</li>
+<li>Post-hoc testing and assumption: Any rejected null is verified with a post-hoc test to control for Type I errors (false positives) and identify which means or medians are different.</li>
+</ul></li>
+<li>Spearman’s Rank Correlation
+<ul>
+<li>Purpose: Non-parametric test to measure the difference in ranks of continuous variables in large datasets. Test choice determined by Shapiro- Wilkes and Levene’s Test outcomes. Used to determine any relationships between measured metrics and chemical analyte concentrations at the analysis group level.</li>
+<li>Test H0 and assumption: Is there an identifiable association between variables?</li>
+<li>H0= No, p&lt; 0.05 rejects H0</li>
+<li>Test interpretation: Correlation coefficient (rho) ranges from -1 to +1, and should be used in conjunction with the p-value for correct interpretation.
+<ul>
+<li>-1: Perfect negative association, as one variable increases the other variable decreases</li>
+<li>0: No association between variables</li>
+<li>+1: Perfect positive association, as one variable increases, so does the other</li>
+</ul></li>
+</ul></li>
+<li>Kendall’s Tau
+<ul>
+<li>Purpose: Conservative, non-parametric test to assess the concordance or discordance of pairs of variables in datasets with outliers or heavy skew. Used to identify data trends or clarify Spearman’s Rho ties in measured metrics and contaminant class concentrations at the analysis group level.</li>
+<li>Test H0 and assumption: Is there an identifiable association between variables?</li>
+<li>H0= No, p&lt; 0.05 rejects H0</li>
+<li>Test interpretation: Kendall’s coefficient (tau) ranges from -1 to +1, and should be used in conjunction with the p-value for correct interpretation.
+<ul>
+<li>-1: Perfect discordance (disagreement), as one variable increases the other variable decreases</li>
+<li>0: No relationship between variables</li>
+<li>+1: Perfect concordance (agreement), as one variable increases, so does the other</li>
+</ul></li>
+</ul></li>
+<li>Global Moran’s I
+<ul>
+<li>Purpose: Spatial analysis test that indicates if data is clustered, dispersed, or randomly distributed across a defined geographic area. Used to identify if there is a geographical component that affects the measured metrics, IBRs, and contaminant concentrations across all sites in the entire sampling region.</li>
+<li>Test H0 and assumption: Is there a significant spatial pattern in the data?</li>
+<li>H0= No, p&lt; 0.05 rejects H0</li>
+<li>Expected I= Assigned theoretical value assuming H0 is true.</li>
+<li>Test interpretation: Moran’s I Index ranges from -1 to +1, and should be used in conjunction with the Expected Index (above), Z-score (determined during test if not already available) and p-value for correct interpretation.
+<ul>
+<li>-1: Negative Autocorrelation (dispersed), dissimilar data values are adjacent to each other</li>
+<li>0: No spatial relationship amongst variables (random)</li>
+<li>+1: Positive Autocorrelation (clustered), similar data values are adjacent to each other</li>
+</ul></li>
+</ul></li>
+<li>Local Indicators of Spatial Autocorrelation (LISA) a.k.a. Local Moran’s I
+<ul>
+<li>Purpose: Spatial analysis test that indicates patterns of autocorrelation when the general Global Moran’s I identified clustered or dispersed data within the study’s geographic region. Used to identify the local spatial patterns in the measured metrics, IBRs, and contaminant concentrations across all sites within the entire sampling region.</li>
+<li>Test H0 and assumption: Where are the clusters or data outliers that drove the Global Moran’s I result and are they significant?</li>
+<li>H0= No, p&lt; 0.05 rejects H0</li>
+<li>LISA interpretation: There are five possible outcomes that grouped and plotted by color:
+<ul>
+<li>High-High / Hot Spot - red</li>
+<li>Low-Low / Cold Spot - blue</li>
+<li>High-Low / Outlier - pink</li>
+<li>Low-High / Outlier - light blue</li>
+<li>Not Significant - Gray</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="results-overview" class="level4">
+<h4 class="anchored" data-anchor-id="results-overview">Results Overview</h4>
+<ul>
+<li><p>KW/ ANOVA</p>
+<ul>
+<li><p>182 significant comparisons across reporting area and site that include the following metrics and indices:</p>
+<ul>
+<li><p>P450, Shell Thickness, Condition Index, Raw mussel measurements</p></li>
+<li><p>IBR Morph</p></li>
+<li><p>Chlordanes, DDT, PAH- HMW, PBDE, Total Contaminants, Total PAH index</p></li>
+</ul></li>
+</ul></li>
+<li><p>Spearman’s Correlation</p>
+<ul>
+<li><p>94 total significant results</p>
+<ul>
+<li><p>78 significant correlations between individual analytes and both the measured metrics and the IBRs</p></li>
+<li><p>15 significant correlations between contaminant indices and the following:</p>
+<ul>
+<li>SOD, IBR Bio, IBR Combined, and raw mussel measurements</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><p>Kendall’s Tau</p>
+<ul>
+<li><p>89 total significant results</p>
+<ul>
+<li><p>79 significant correlations between individual analytes and both the measured metrics and the IBRs</p>
+<ul>
+<li>Single P450 and single IBR Morph correlations exist in the group whereas multiples for each of the other metrics and IBRs are significant</li>
+</ul></li>
+<li><p>10 significant correlations between contaminant indices and the following:</p>
+<ul>
+<li>SOD, IBR Bio, IBR Combined, and raw mussel measurements</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><p>Global Moran’s I</p>
+<ul>
+<li><p>The following chemical indices and measured metrics were significant for regional spatial autocorrelation:</p>
+<ul>
+<li><p>Chlordane, DDT, HCH, PBDE, PAH- HMW, PCB, Pesticide, Total Contaminant, Total Metal and Total PAH</p></li>
+<li><p>P450, Shell Thickness, Initial and Final Weights</p></li>
+</ul></li>
+</ul></li>
+<li><p>LISA</p>
+<ul>
+<li>This result table is significant following the same pattern as the Global above with cluster groupings to confirm the Global pattern found significant.</li>
+</ul></li>
+</ul>
+</section>
 </section>
 <section id="products-word-count" class="level3">
 <h3 class="anchored" data-anchor-id="products-word-count">Products &amp; Word Count</h3>
 <div>
 <blockquote class="blockquote">
-<p><strong>Today’s total: 0 words</strong></p>
-<p><strong>Monthly total to date: 0 words</strong></p>
-<p><strong>Annual total to date: 20,747 words</strong></p>
+<p>Biomarker Manuscript Results re-write: 948 words</p>
+<p><strong>Today’s total: 948 words</strong></p>
+<p><strong>Monthly total to date: 1242 words</strong></p>
+<p><strong>Annual total to date: 21,695 words</strong></p>
 </blockquote>
 </div>
 </section>
