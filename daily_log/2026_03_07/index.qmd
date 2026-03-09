@@ -1,6 +1,6 @@
 ---
 title: "No Science"
-date: '2026-03-08'
+date: '2026-03-07'
 categories:
 execute:
   echo: false
@@ -46,4 +46,4 @@ editor:
 
 ### Tomorrow's Plan
 
--   Monday 3/9 will be used to map out my plan for the week.
+-   No science on Sunday.

@@ -1,49 +1,62 @@
 ---
-title: "Groundhogs Day Times A Thousand"
-date: '2026-03-04'
+title: "Setting Up the Week"
+date: '2026-03-09'
 categories:
-  - writing
-  - visualizations
-  - mussel biomarkers
-  - time management
 execute:
   echo: false
   warning: false
   message: false
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ### Plan of the Week: March 2 - 8, 2026
+
+-   *Working week listed from Mon - Sun*
+
 #### Daily Focus
 
-- Thursday: No science work
-- Friday: Biomarker Manuscript
-- Saturday: No science work
-- Sunday: Biomarker Manuscript
+-   Monday: Mapping out the plan of attack for the week
+-   Tuesday: UW-RUA & Dean's Office Work
+-   Wednesday: Lab Meeting & Prep for Thursday's eDNA 'think tank' session and UW-AAF events 
+-   Thursday: eDNA process & literature 'think tank' session with Kassi P and Connor, Nanopore and UW-AAF events
+-   Friday: Writing Accountability with KPJ, focus on Biomarkers
+-   Saturday: NW Straits Meeting - Ecology/ Conservation/ Public Sessions
+-   Sunday: Biomarker Manuscript
 
 ### Plan of the Day
 
-- Based on the list of biomarker manuscript deliverables, my first task is to update my Results section to include the corrected spatial analyses. Second task is to update Figures 1 and 2.
-- Finally, my current task management communication set-up is not effective. Moving forward, general weekly plans will be added to Monday notebook posts with specific daily tasks and outcome determined in the daily notebook posts. This will allow for more flexibility in task management and better communication of progress and plans.
+-   My goal for today is to plan out the deliverables I have for the week - including the steps for making progress on upcoming deliverables to mitigate the 11th hour push that is getting really old.
 
 ### Projects Touched Today
 
-- 
+- Mussel Biomarkers
+- Lab Notebook
+- DNA Methylation
+- Kenya eDNA
+- Yellow Island 
 
 ### Progress Notes
 
+- Before setting up my plan for the week, I updated my lab notebook by adding daily log posts for the weekend, archiving February and putting all of those posts into a single file, reviewing my monthly goals, and brain dumping for all projects and tasks.
+- I sent my requested dates for Yellow Island surveys this spring/ summer. Since my schedule and priorities have shifted, I am able to batch surveys within the longer/ lower low tide series in late May and early June.
+
 
 ### Products & Word Count
+
+-   None
 
 <div>
 
 > **Today's total: 0 words**
 >
-> **Monthly total to date: 0 words**
+> **Monthly total to date: 1242 words**
 >
-> **Annual total to date: 20,747 words**
+> **Annual total to date: 21,695 words**
 
 </div>
 
 ### Tomorrow's Plan
 
-- No science focus on Thursday.
+-   Tuesday is a UW-RUA day, and likely will include no personal science work.
