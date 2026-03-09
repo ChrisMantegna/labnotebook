@@ -1,0 +1,51 @@
+---
+title: "No Science"
+date: '2026-03-05'
+categories:
+execute:
+  echo: false
+  warning: false
+  message: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### Plan of the Week: March 2 - 8, 2026
+
+#### Daily Focus
+
+-   Friday: No science work
+-   Saturday: No science work
+-   Sunday: No science work
+
+### Plan of the Day
+
+-   My weekly plan has shifted. I will return to science on Monday
+    3/9/26.
+
+### Projects Touched Today
+
+-   None
+
+### Progress Notes
+
+-   None
+
+### Products & Word Count
+
+-   None
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 1242 words**
+>
+> **Annual total to date: 21,695 words**
+
+</div>
+
+### Tomorrow's Plan
+
+-   No science focus on Friday.
