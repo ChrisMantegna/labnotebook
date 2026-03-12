@@ -1,0 +1,48 @@
+---
+title: "No Science"
+date: '2026-03-12'
+categories:
+execute:
+  echo: false
+  warning: false
+  message: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### Plan of the Week: March 9 - 15, 2026
+
+#### Daily Focus
+
+-   My weekly plan will shift significantly as I try to keep myself healthy.
+
+### Plan of the Day
+
+-   My plan for today is to rest and recover. Again, I have either rescheduled or canceled meetings to provide myself the time to rest. I already sent my eDNA protocols and information over to Kassi and Connor, so hopefully we just continue asynchronously until I feel better.
+
+### Projects Touched Today
+
+-   None
+
+### Progress Notes
+
+-   None
+
+### Products & Word Count
+
+-   None
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 1242 words**
+>
+> **Annual total to date: 21,695 words**
+
+</div>
+
+### Tomorrow's Plan
+
+-   Will be made tomorrow based on how I feel.
