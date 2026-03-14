@@ -1,0 +1,70 @@
+---
+title: "Resting & Reading"
+date: '2026-03-13'
+categories:
+execute:
+  echo: false
+  warning: false
+  message: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### Plan of the Week: March 9 - 15, 2026
+
+#### Daily Focus
+
+-   My goal this week has been to rest and figure out some low- effort
+    ways to get back into the work groove without overextending;
+    overdoing it has been prolonging my actual getting down to business.
+
+### Plan of the Day
+
+-   Rather than focus on products, I focused on reading and note taking
+    to get back into low- effort work flow that allows for breaks as
+    needed.
+
+### Projects Touched Today
+
+-   PhD Proposal
+-   Literature Review
+
+### Progress Notes
+
+-   My goal today was to work through the literature to support a pivot
+    in chapters 3 and 4 rather than do the deep work on my biomarker
+    manuscript. I was able to clean up some sources, reinforce my
+    historical epigenetics knowledge, and think through some ideas about
+    shifting the lab- based experiment to support (possibly) my earlier
+    biomarker and methylation work.
+
+-   Between medication- induced naps, I was able to go back in time to
+    read about how epigenetics became 'a thing' in 1942, came to the
+    marine invertebrate arena re: developmental bio in urchins in 1973,
+    and then be pleasantly reminded that amongst the first marine
+    organism non-embryonic epigenetics work was done by Steven and
+    published in 2010 with Mac. Pretty cool. Even AI can't make this up!
+    Pretty dope.
+
+![](img/sr_epigenetics.png){fig-align="center"}
+
+### Products & Word Count
+
+-   None
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 1242 words**
+>
+> **Annual total to date: 21,695 words**
+
+</div>
+
+### Tomorrow's Plan
+
+-   Will be made tomorrow based on how I feel. I expect to continue
+    connecting the history of work with the Mytilus genome and
+    epigenetic mechanisms sans non-coding RNAs.
