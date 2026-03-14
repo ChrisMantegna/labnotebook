@@ -49,9 +49,15 @@ editor:
 
 ![](img/sr_epigenetics.png){fig-align="center"}
 
+Trying to find some base connections between the current work and where
+I can go within a dissertation and in the mytilus genome - I built out a
+mindmap that can definitely be expanded, but is a decent start.
+
+![](img/epi_mm.png)
+
 ### Products & Word Count
 
--   None
+-   Personal literature notes + mind map above
 
 <div>
 
