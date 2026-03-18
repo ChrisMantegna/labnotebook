@@ -2,10 +2,10 @@
 title: "Getting Back on Track"
 date: '2026-03-02'
 categories:
-  - planning
-  - mussel biomarkers
-  - lab notebook
-  - goal setting
+  - Planning
+  - Mussel Biomarkers
+  - Lab Notebook
+  - Goal Setting
 execute:
   echo: false
   warning: false

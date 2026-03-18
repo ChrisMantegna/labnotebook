@@ -1,0 +1,96 @@
+---
+title: "Celeste!!!!!! & Histones"
+date: '2026-03-16'
+categories:
+  - Weekly Planning
+  - Literature Review
+  - Foundational Knowledge
+  - Histones
+execute:
+  echo: false
+  warning: false
+  message: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### Plan of the Week: March 16 - 22, 2026
+
+-   I am feeling marginally better, and since I didn't map the week on
+    Sunday, the plan today is to keep it low key so I don't put myself
+    back at square one.
+-   **Monday**: Map the week, catch up on UW-RUA work, confirm my
+    spring/ summer tide schedule, build base histone and chromatin
+    knowledge notes.
+-   **Tuesday**: UW-RUA work, no science.
+-   **Wednesday**: Return to epigenetic mechanisms to outline new
+    Chapter 3 for my proposal.
+-   **Thursday**: Biomarker manuscript
+-   **Friday**: Biomarker manuscript
+-   **Saturday**: Return to Chapter 3 outline and start drafting options
+    for the introduction and methods.
+-   **Sunday**: Continue Chapter 3 work.
+
+Missing from the plan is the DNA Methylation work - it will be worked
+into the other priorities as time permits, or be a focus for spring
+break week next week.
+
+### Plan of the Day
+
+-   Today's plan is to set up my science deliverables, catch up on my
+    own learning, pivot from that learning into actionable application.
+    -   First, review the basic biology of histones and create my notes
+        on this aspect.
+    -   Second, pull out the questions in my handwritten notes to
+        compile and address later this week.
+-   Next, create my JKP 1v1 agenda and pivot to UW-RUA work.
+
+### Projects Touched Today
+
+-   PhD Proposal
+-   Literature Review
+
+### Progress Notes
+
+-   I pulled out my questions/ thoughts about linking the histone,
+    chromatin, and methylation information to an actionable plan using
+    current open source resources. Am I asking relevant and testable
+    questions... we shall see!
+-   I spent my morning work block with Kristin building my notes about
+    histones and their general biology. Between quick reading of lit and
+    my good old Campbell biology textbook, I have a solid explainer of
+    histones, their composition/ role, and a few notes about the
+    differences in invertebrates. It took a bit longer than expected,
+    but slow progress is better than no progress.
+
+![](img/bio_textbook.jpeg){fig-align="left"}
+
+-   I virtually attended Celeste's defense where I learned more about
+    tunicates than I ever thought! She did excellently. I know she
+    worked hard, and seeing it all come together was awesome.
+-   I virtually attended the third Dean candidate's presentation and
+    submitted my feedback via the provided survey.
+
+### Products & Word Count
+
+-   Notes on epigenetic mechanisms
+    -   [Doc
+        5](https://docs.google.com/document/d/1ldVWqNx9f7UXG202yN0O4imkIKKyDJP43dHOn0U37CE/edit?usp=sharing)-
+        histone explainer: 839 words
+
+<div>
+
+> **Today's total: 839 words**
+>
+> **Monthly total to date: 5597 words**
+>
+> **Annual total to date: 27,292 words**
+>
+> **Annual target total to date: 37,500 words**
+
+</div>
+
+### Tomorrow's Plan
+
+-   UW-RUA Tuesday work blocks, no science.
