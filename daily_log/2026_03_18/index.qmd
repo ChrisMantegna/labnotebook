@@ -1,6 +1,6 @@
 ---
 title: "Chromatin's Turn to Shine"
-date: '2026-03-17'
+date: '2026-03-18'
 categories:
   - Foundational Knowledge
   - Epigenetic Mechanisms, Chromatin
@@ -55,30 +55,46 @@ break week next week.
 -   I caught up the notebook posts, archived February's posts to a
     single doc, and added a few images to make things more fun!
 -   I started by prepping for my afternoon meetings
-    -   UW-RUA applicant re: research statement feedback
+    -   UW-RUA applicants X 2 re: research statement feedback
     -   NW Straits April 3rd Caroline Gibson 'Conference' prep re:
         posters and abstract submission guidelines
     -   Henry Art Gallery re: my written accompaniment piece for a
         summer showcase
     -   Alternate paths to marine science for a high school group
         related to the IG cohort
+-   I completed a one- pager for a STEM/social science collaboration in
+    late 2026/ early 2027 if accepted
+-   I completed the initial pass on the chromatin explainer, but found
+    that it is mostly questions and connections to histones (obviously),
+    so this may be the shorted explainer yet!
+    -   Once I clean this up, I will add it to the digital notes but
+        right now my handwritten notes are all over the place.
+    -   Next steps are to put all three mechanisms together and make a
+        plan for how to use current open source data to develop an
+        analysis plan.
 
 ### Products & Word Count
 
--   No product count yet....
+-   Building Bridges in Conservation: 765 words
+-   Chromatin raw notes (handwritten): 230 words
 
 <div>
 
-> **Today's total: 0 words**
+> **Today's total: 995 words**
 >
-> **Monthly total to date: 5597 words**
+> **Monthly total to date: 6592 words**
 >
-> **Annual total to date: 27,292 words**
+> **Annual total to date: 28,287 words**
 >
-> **Annual target total to date: 38,000 words**
+> **Annual target total to date: 38,500 words**
 
 </div>
 
 ### Tomorrow's Plan
 
--   
+-   Clean up chromatin notes and add to epigenetics explainers in my
+    foundational knowledge db.
+
+-   Pivot to using the notes to create a plan for Chapter 3.
+
+-   Review biomarker manuscript and make a plan for completion.
