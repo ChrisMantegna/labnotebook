@@ -1,0 +1,93 @@
+---
+title: "Integrating Epigenetic Mechanisms"
+date: '2026-03-19'
+categories:
+  - Foundational Knowledge
+  - Epigenetic Mechanisms, Chromatin
+  - PhD Proposal
+execute:
+  echo: false
+  warning: false
+  message: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### Plan of the Week: March 16 - 22, 2026
+
+-   I am feeling marginally better, and since I didn't map the week on
+    Sunday, the plan today is to keep it low key so I don't put myself
+    back at square one.
+-   ~~**Monday**: Map the week, catch up on UW-RUA work, confirm my
+    spring/ summer tide schedule, build base histone and chromatin
+    knowledge notes.~~
+-   ~~**Tuesday**: UW-RUA work, no science.~~
+-   ~~**Wednesday**: Return to epigenetic mechanisms to outline new
+    Chapter 3 for my proposal.~~
+-   **Thursday**: Biomarker manuscript
+-   **Friday**: Biomarker manuscript
+-   **Saturday**: Return to Chapter 3 outline and start drafting options
+    for the introduction and methods.
+-   **Sunday**: Continue Chapter 3 work.
+
+Missing from the plan is the DNA Methylation work - it will be worked
+into the other priorities as time permits, or be a focus for spring
+break week next week.
+
+### Plan of the Day
+
+-   I originally slated time today to work on biomarkers, but I want to
+    finish the chromatin work so I can mull over the mechanisms while
+    working on the biomarker manuscript.
+-   Today is chromatin's day to shine... again!
+    -   Compile current notes, identify basic biology, any applicable
+        marine invert knowledge, and develop some questions around the
+        mechanism in the context of my work.
+-   I did not get through finalizing my chromatin notes and outlining
+    Chapter 3, so I'm going to focus on that before moving into
+    Biomarker work.
+    -   First, review existing notes. Second, pull the questions out and
+        put them with the rest and format notes like the others. Third,
+        use the questions and notes to identify alternate ways to work
+        with open source data for Chapter 3.
+-   After notetaking, I will begin outlining a plan for Chapter 3.
+    -   Pivoting to a bioinformatics chapter rather than a lab based one
+        will allow me to make better decisions for the experiments and
+        more strongly tie the mechanisms to the outcomes, and pull
+        together the work cleanly.
+
+### Projects Touched Today
+
+-   PhD Proposal
+-   Foundational Knowledge
+
+### Progress Notes
+
+-   I started by wondering how I ever made it out of Catholic school
+    with this handwriting!
+    -   My Chromatin notes are a bit all over the place, so after a
+        quick review I identified some gaps I have in understanding. I'm
+        filling those in as best as I can to knock out the cleaner
+        notes.
+
+### Products & Word Count
+
+-   Something: 0 words
+-   Something else: 0 words
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 6592 words**
+>
+> **Annual total to date: 28,287 words**
+>
+> **Annual target total to date: 38,500 words**
+
+</div>
+
+### Tomorrow's Plan
+
+-   Something
