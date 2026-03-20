@@ -94,6 +94,17 @@ break week next week.
     room to make them better, and when the time is appropriate, I will,
     but for now I need to get back to basics and reinforce information
     or decisions I have been treating as 'set-in-stone' facts.
+-   I was feeling pretty 'ready to apply' this reinforced knowledge and
+    quickly learned that sorting through old code and outputs after
+    dinner is a recipe for instant despair.
+    -   I went back to the DNA methylation analysis work to see where I
+        left off and possibly move forward... I did this because evening
+        writing is often akin to trying to sharpen a pencil with a blade
+        of grass - not smart. So, I thought, maybe tangible do X get Y
+        work would do it. Instead, I am now questioning every decision
+        and trying to figure out how my maping efficiency has not gotten
+        above 27%, and if that is even a problem... Key sign to pack it
+        up for the day.
 
 ### Products & Word Count
 
@@ -121,4 +132,6 @@ break week next week.
 
 ### Tomorrow's Plan
 
--   Something
+-   Friday starts with creating a specific task list for the biomarker
+    manuscript, executing a reasonable amount of it, and then turning my
+    attention to methylation.
