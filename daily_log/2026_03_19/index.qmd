@@ -1,6 +1,6 @@
 ---
 title: "Integrating Epigenetic Mechanisms"
-date: '2026-03-19'
+date: "2026-03-19"
 categories:
   - Foundational Knowledge
   - Epigenetic Mechanisms, Chromatin
@@ -9,8 +9,9 @@ execute:
   echo: false
   warning: false
   message: false
-editor: 
-  markdown: 
+
+editor:
+  markdown:
     wrap: 72
 ---
 
@@ -51,16 +52,17 @@ break week next week.
         put them with the rest and format notes like the others. Third,
         use the questions and notes to identify alternate ways to work
         with open source data for Chapter 3.
--   After notetaking, I will begin outlining a plan for Chapter 3.
+-   After note taking, I will begin outlining a plan for Chapter 3.
     -   Pivoting to a bioinformatics chapter rather than a lab based one
-        will allow me to make better decisions for the experiments and
-        more strongly tie the mechanisms to the outcomes, and pull
-        together the work cleanly.
+        will allow me to make better decisions for the experiments, more
+        strongly tie the mechanisms to the outcomes, and pull together
+        the complete work cleanly.
 
 ### Projects Touched Today
 
 -   PhD Proposal
 -   Foundational Knowledge
+-   DNA Methylation
 
 ### Progress Notes
 
@@ -70,21 +72,50 @@ break week next week.
         quick review I identified some gaps I have in understanding. I'm
         filling those in as best as I can to knock out the cleaner
         notes.
+    -   I moved my questions over to the running doc and realized that
+        chromatin remodeling is possibly the most straightforward of all
+        of the mechanisms.
+-   When I shifted over to DNA methylation, I found myself with more
+    analysis/ workflow questions than mechanistic questions.
+    -   I pivoted to creating a more comprehensive checklist and process
+        to follow for myself since it is easy for me to rattle a few
+        high-level steps, but unpacking them has been a process.
+    -   I then created a decision outline with some guiding questions
+        for the analysis.
+    -   For both I chose to start at the point of sequences in hand - I
+        will need to go back and make a section for sampling/
+        experimental design. Probably when I work on the methods for the
+        manuscript.
+    -   This exercise took an embarassingly long time, but really helped
+        me get down to the 'bones' of the process and set myself up to
+        comprehensively answer any questions with something more robust
+        than "that's how my lab does it".
+-   For all of my explainers/ note docs I am certain there is plenty of
+    room to make them better, and when the time is appropriate, I will,
+    but for now I need to get back to basics and reinforce information
+    or decisions I have been treating as 'set-in-stone' facts.
 
 ### Products & Word Count
 
--   Something: 0 words
--   Something else: 0 words
+-   [Doc
+    6](https://docs.google.com/document/d/12V6pyDkOy_DVWm-HfZjPhmLSLpN4xraSp_fZQYd9bzc/edit?usp=sharing)-
+    Chromatin Explainer: 498 words
+-   [Doc
+    7](https://docs.google.com/document/d/1RYjvVwA3ndbcXuhn3vkNCmippMzOkZuoBj4b2hzIz1c/edit?usp=sharing)-
+    DNA Methylation Analysis Checklist: 573 words
+-   [Doc
+    8](https://docs.google.com/document/d/14Lpd-y2T5Lp_uivo1BLYlhafrL46wIxYLOQWxGtIL9I/edit?usp=sharing)-
+    DNA Methylation Analysis Decisions: 875 words
 
 <div>
 
-> **Today's total: 0 words**
+> **Today's total: 1946 words**
 >
-> **Monthly total to date: 6592 words**
+> **Monthly total to date: 8538 words**
 >
-> **Annual total to date: 28,287 words**
+> **Annual total to date: 30,233 words**
 >
-> **Annual target total to date: 38,500 words**
+> **Annual target total to date: 39,000 words**
 
 </div>
 
