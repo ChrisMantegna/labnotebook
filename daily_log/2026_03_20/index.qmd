@@ -1,0 +1,107 @@
+---
+title: "Mussel Methylation Analysis Return"
+date: "2026-03-20"
+categories:
+  - Mussel Methylation
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: March 16 - 22, 2026
+
+-   I am feeling marginally better, and since I didn't map the week on
+    Sunday, the plan today is to keep it low key so I don't put myself
+    back at square one.
+-   ~~**Monday**: Map the week, catch up on UW-RUA work, confirm my
+    spring/ summer tide schedule, build base histone and chromatin
+    knowledge notes.~~
+-   ~~**Tuesday**: UW-RUA work, no science.~~
+-   ~~**Wednesday**: Return to epigenetic mechanisms to outline new
+    Chapter 3 for my proposal.~~
+-   ~~**Thursday**: Biomarker manuscript~~
+-   **Friday**: Biomarker manuscript
+-   **Saturday**: Return to Chapter 3 outline and start drafting options
+    for the introduction and methods.
+-   **Sunday**: Continue Chapter 3 work.
+
+Missing from the plan is the DNA Methylation work - it will be worked
+into the other priorities as time permits, or be a focus for spring
+break week next week.
+
+### Plan of the Day
+
+-   Today's goal was to work on biomarkers, but I am shifting to mussel
+    methylation.
+    -   Because I am behind basically everywhere in every aspect of my
+        life, I have a heavy task day. That equates to a lack of time to
+        focus on deep work, the kind of work that I need to do with the
+        biomarker manuscript.
+    -   I don't want to not touch something science today, so I'm going
+        to get something else cooking that is more formulaic going.
+
+### Projects Touched Today
+
+-   Mussel Methylation
+
+### Progress Notes
+
+-   My first step was to re-acclimate myself with where the project was
+    in the pipeline, where it needed to go, and what the next tangible
+    steps are.
+    -   First, I have not yet gotten myself sorted on Klone, so I am
+        still working on Raven.
+    -   Reviewing the sequences and alignments, I realized three major
+        things.
+        -   No documentation of matching checksums for my sequences or
+            for the reference genome.
+        -   No notes on potential parameter testing/ mapping efficiency
+            percentages and what was adjusted to get there, or what
+            needed to be done.
+        -   I didn't remove the sequencer artifacts from the work, so my
+            QC reports are 99% unneccesary and not useful.
+    -   Since I just made a list of steps and decisions, I went back and
+        used them!
+        -   First, I removed all of the old, second, I reviewed and
+            updated the code files that I created from Steven's orginals
+            and modified for running on my machine, not Raven. Most
+            important, I added some echoes so I wasn't flying blind in
+            the process.
+    -   Next up, I cleaned up the repo folders, added code to
+        concatenate the individual checksums into a single text file so
+        I didn't have to open 48 files...
+        -   Once my sequences were uploaded/ downloaded/ pulled into
+            Raven, I pulled out one sample (reads 1 & 2) from the high
+            PAH (69M) and low PAH (272M) to run through the complete
+            process before analyzing the complete dataset.
+        -   I moved all other sequences out of the raw data folder and
+            committed.
+
+### Products & Word Count
+
+-   Updated code docs for QC, trimming, reference pull and alignment:
+    \~100 words
+
+<div>
+
+> **Today's total: 100 words**
+>
+> **Monthly total to date: 8638 words**
+>
+> **Annual total to date: 30,333 words**
+>
+> **Annual target total to date: 39,500 words**
+
+</div>
+
+### Tomorrow's Plan
+
+-   Moving forward with the preliminary sequence run through QC,
+    trimming, and alignment.
+-   Continuing to knock out the other non-lab tasks and work I was not
+    able to complete today.
