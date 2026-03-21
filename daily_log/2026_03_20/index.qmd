@@ -68,7 +68,7 @@ break week next week.
     -   Since I just made a list of steps and decisions, I went back and
         used them!
         -   First, I removed all of the old, second, I reviewed and
-            updated the code files that I created from Steven's orginals
+            updated the code files that I created from Steven's originals
             and modified for running on my machine, not Raven. Most
             important, I added some echoes so I wasn't flying blind in
             the process.
