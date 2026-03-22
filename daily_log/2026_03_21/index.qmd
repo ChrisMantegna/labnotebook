@@ -1,49 +1,89 @@
 ---
-title: "Groundhogs Day Times A Thousand"
-date: '2026-03-04'
+title: "Moving forward with Mussel Methylation Analysis "
+date: "2026-03-21"
 categories:
-  - writing
-  - visualizations
-  - mussel biomarkers
-  - time management
+  - Mussel Methylation
 execute:
   echo: false
   warning: false
   message: false
+
+editor:
+  markdown:
+    wrap: 72
 ---
 
-### Plan of the Week: March 2 - 8, 2026
-#### Daily Focus
+### Plan of the Week: March 16 - 22, 2026
 
-- Thursday: No science work
-- Friday: Biomarker Manuscript
-- Saturday: No science work
-- Sunday: Biomarker Manuscript
+-   I am feeling marginally better, and since I didn't map the week on
+    Sunday, the plan today is to keep it low key so I don't put myself
+    back at square one.
+-   ~~**Monday**: Map the week, catch up on UW-RUA work, confirm my
+    spring/ summer tide schedule, build base histone and chromatin
+    knowledge notes.~~
+-   ~~**Tuesday**: UW-RUA work, no science.~~
+-   ~~**Wednesday**: Return to epigenetic mechanisms to outline new
+    Chapter 3 for my proposal.~~
+-   ~~**Thursday**: Biomarker manuscript~~
+-   ~~**Friday**: Biomarker manuscript~~
+-   **Saturday**: Return to Chapter 3 outline and start drafting options
+    for the introduction and methods.
+-   **Sunday**: Continue Chapter 3 work.
+
+Missing from the plan is the DNA Methylation work - it will be worked
+into the other priorities as time permits, or be a focus for spring
+break week next week.
 
 ### Plan of the Day
 
-- Based on the list of biomarker manuscript deliverables, my first task is to update my Results section to include the corrected spatial analyses. Second task is to update Figures 1 and 2.
-- Finally, my current task management communication set-up is not effective. Moving forward, general weekly plans will be added to Monday notebook posts with specific daily tasks and outcome determined in the daily notebook posts. This will allow for more flexibility in task management and better communication of progress and plans.
+-   Today's goal is to work on my new Chapter 3 outline and keep pushing
+    the methylation work forward
 
 ### Projects Touched Today
 
-- 
+-   Mussel Methylation
 
 ### Progress Notes
 
+-   The day started with running FastQC and MultiQC on the
+    representative samples.
+    -   I did not properly move the sequencer artifacts, so my QC rerun
+        failed repeatedly until I realized it was because I needed to
+        properly move those files and not adjust the code... that took a
+        little too long.
+    -   FastQC went well and reminded me that I need to ask again what
+        some of the quality parameters mean in the broader
+        analysis-impact pov.
+    -   I spent the better part of the day checking why I was stuck in
+        MultiQC purgatory... I am doing something wring because it
+        should not take half a day to run MultiQC on 4 samples, but
+        after some troubleshooting, I can't figure out what it is. I
+        will ask for help on this one before I screw up something in the
+        shared drives on Raven.
+-   I moved over to trimming, bypassing MultiQC while keeping FastQC.
+    -   Based on on the FastQC returns, the standard 20by at the
+        beginning and end of the raw sequences makes sense. I see we use
+        fastp, but TrimGalore is everywhere - I will try to sort out the
+        differences or create a comparison at another less
+        time-restricted moment.
+    -   
 
 ### Products & Word Count
+
+-   Something: 0 words
 
 <div>
 
 > **Today's total: 0 words**
 >
-> **Monthly total to date: 0 words**
+> **Monthly total to date: 8638 words**
 >
-> **Annual total to date: 20,747 words**
+> **Annual total to date: 30,333 words**
+>
+> **Annual target total to date: 39,500 words**
 
 </div>
 
 ### Tomorrow's Plan
 
-- No science focus on Thursday.
+-   Something...
