@@ -1,6 +1,6 @@
 ---
 title: "Weekly-ish Updates"
-subtitle: "Semi-Regular Wrap-Ups, Updates, Meeting Agendas, Musings on Mussels & Tidepool Tidbits"
+subtitle: "Semi-Regular Updates, Meeting Agendas, & Musings on Mussels & Tidepool Tidbits"
 page-layout: full
 title-block-banner: true
 listing:

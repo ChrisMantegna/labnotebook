@@ -1,0 +1,27 @@
+---
+title: "Yellow Island Intertidal Monitoring"
+subtitle: "2022 - 2026 eDNA and Quadrat Data"
+date: '2022-05-01'
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+### Project Overview & Purpose
+
+### Quick Links
+
+1.  Literature
+
+2.  Methods
+
+3.  Figures
+
+### Research Questions
+
+### Data Collection Methods
+
+### Data Processing & Analysis Methods
+
+### Anticipated Products & Findings
