@@ -128,6 +128,13 @@ editor:
     -   I met with a former GEODUC student who was interested in
         post-bac opportunities in the lab; not sure our goals are
         aligned at this time.
+-   Before hopping into my next round of tasks, I wanted to check off an
+    easy transition task - updating my GitHub landing page to more
+    accurately represent what I am working on. Mainly because it will be
+    linked to my work showcased on April 3rd at the NW Straits
+    Foundation Caroline Gibson 'conference'.
+    -   I updated my work description, order of the sections, and
+        removed some of the one-off work that was done a long time ago.
 -   Next, I went back to the biomarker manuscript and folder of figures/
     tables/ results and made a list of next steps:
     -   Fully updating results (not just comments)
@@ -146,7 +153,7 @@ editor:
     following today:
     -   
 
--------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ### Outcomes: Products & Word Count
 
