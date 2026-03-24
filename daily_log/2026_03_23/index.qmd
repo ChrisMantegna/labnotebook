@@ -1,0 +1,65 @@
+---
+title: "UW-RUA Deliverables"
+date: "2026-03-23"
+categories:
+  - Planning
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: March 23 - 27, 2026
+
+-   I am still not at full capacity and my plan for the week is to map
+    out the rest of March and Spring Quarter since I have some very
+    real, very important deadlines I'd like to hit.
+    -   A full plan will be added to my daily post for Tuesday 3/24/26.
+
+### Plan of the Day
+
+-   Today's goal is to make progress with some of my UW-RUA deliverables
+    and to map out the week before pivoting to mapping out the upcoming
+    quarter.
+
+### Projects Touched Today
+
+-   None
+
+### Progress Notes
+
+-   I managed to make decent headway on the data analysis of the UW-RUA
+    program outcomes.
+    -   I pulled in the program stats, cleaned them and made some base
+        plots to illustrate traveler demographics, colleges/ departments
+        within UW, and the host institutions visited.
+    -   I worked on writing up some more testimonials (that will
+        accompany the data) based on the interviews I've completed since
+        the end of Fall Quarter.
+-   I put together the flyer text for the Scholarly Skill Building
+    professional development programming series for review and edit.
+
+### Products & Word Count
+
+-   No science products today.
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 8838 words**
+>
+> **Annual total to date: 30,533 words**
+>
+> **Annual target total to date: 41,000 words**
+
+</div>
+
+### Tomorrow's Plan
+
+-   More UW-RUA work and planning of science deliverables, not just the
+    UW-RUA ones.

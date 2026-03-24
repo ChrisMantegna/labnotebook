@@ -1,0 +1,94 @@
+---
+title: "Running Errands & Running Alignments "
+date: "2026-03-22"
+categories:
+  - Mussel Methylation
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: March 16 - 22, 2026
+
+-   I am feeling marginally better, and since I didn't map the week on
+    Sunday, the plan today is to keep it low key so I don't put myself
+    back at square one.
+-   ~~**Monday**: Map the week, catch up on UW-RUA work, confirm my
+    spring/ summer tide schedule, build base histone and chromatin
+    knowledge notes.~~
+-   ~~**Tuesday**: UW-RUA work, no science.~~
+-   ~~**Wednesday**: Return to epigenetic mechanisms to outline new
+    Chapter 3 for my proposal.~~
+-   ~~**Thursday**: Biomarker manuscript~~
+-   ~~**Friday**: Biomarker manuscript~~
+-   ~~**Saturday**: Return to Chapter 3 outline and start drafting
+    options for the introduction and methods.~~
+-   **Sunday**: Continue Chapter 3 work.
+
+Missing from the plan is the DNA Methylation work - it will be worked
+into the other priorities as time permits, or be a focus for spring
+break week next week.
+
+### Plan of the Day
+
+-   Today's goal is to monitor my alignments running in Raven and
+    knockout household tasks.
+
+### Projects Touched Today
+
+-   Mussel Methylation
+
+### Progress Notes
+
+-   I checked in on the alignments that I started running last night.
+    -   The reference was downloaded and checksums confirmed.
+    -   The first sample alignment was completed around midday.
+    -   The second sample was completed in the evening.
+-   I began looking at the next steps by reviewing the [lab
+    handbook](https://robertslab.github.io/resources/bio_DNA-methylation/#bismark_1),
+    [Steven's Mytilus methylation
+    repo](https://github.com/RobertsLab/project-mytilus-methylation),
+    and [Sam's workflow for
+    methylation](https://github.com/sr320/ceasmallr/tree/1d64c7032df8c961b65cb9914d58b82559229cff/code)
+    analysis in oysters.
+    -   I know that deduplication, methylation extraction and parameter
+        testing are the next general steps, but my BASH code is pretty
+        rudimentary and I spent an awfully long time just sorting what
+        some of the commands do before building a base version.
+    -   I built the 'simple' version by first writing out, in full
+        words, what steps needed to be taken before turning to write out
+        the script.
+    -   In the process, I also noticed that I have some data files that
+        saved to the code directory, so I need to remember to move them
+        and ensure I am setting up my data and output paths properly in
+        the scripts.
+-   I have not started the deduplication; that will be a task for next
+    week while I am working on getting some of my other projects moving
+    forward as well.
+
+### Products & Word Count
+
+-   Simple deduplication script: 1
+-   Written process for deduplication, methylation extraction, and
+    parameter testing: \~200 words
+
+<div>
+
+> **Today's total: 200 words**
+>
+> **Monthly total to date: 8838 words**
+>
+> **Annual total to date: 30,533 words**
+>
+> **Annual target total to date: 40,500 words**
+
+</div>
+
+### Tomorrow's Plan
+
+-   Working on UW-RUA programming and traveler management.

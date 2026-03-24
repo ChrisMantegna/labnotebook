@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-03-21">
+<meta name="dcterms.date" content="2026-03-22">
 
-<title>Moving forward with Mussel Methylation Analysis – Progress Makes a PhD</title>
+<title>Running Errands &amp; Running Alignments – Progress Makes a PhD</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -133,7 +133,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Moving forward with Mussel Methylation Analysis</h1>
+<h1 class="title">Running Errands &amp; Running Alignments</h1>
   <div class="quarto-categories">
     <div class="quarto-category">Mussel Methylation</div>
   </div>
@@ -147,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">March 21, 2026</p>
+      <p class="date">March 22, 2026</p>
     </div>
   </div>
   
@@ -168,7 +168,7 @@ ul.task-list li input[type="checkbox"] {
 <li><del><strong>Wednesday</strong>: Return to epigenetic mechanisms to outline new Chapter 3 for my proposal.</del></li>
 <li><del><strong>Thursday</strong>: Biomarker manuscript</del></li>
 <li><del><strong>Friday</strong>: Biomarker manuscript</del></li>
-<li><strong>Saturday</strong>: Return to Chapter 3 outline and start drafting options for the introduction and methods.</li>
+<li><del><strong>Saturday</strong>: Return to Chapter 3 outline and start drafting options for the introduction and methods.</del></li>
 <li><strong>Sunday</strong>: Continue Chapter 3 work.</li>
 </ul>
 <p>Missing from the plan is the DNA Methylation work - it will be worked into the other priorities as time permits, or be a focus for spring break week next week.</p>
@@ -176,7 +176,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="plan-of-the-day" class="level3">
 <h3 class="anchored" data-anchor-id="plan-of-the-day">Plan of the Day</h3>
 <ul>
-<li>Today’s goal is to work on my new Chapter 3 outline and keep pushing the methylation work forward</li>
+<li>Today’s goal is to monitor my alignments running in Raven and knockout household tasks.</li>
 </ul>
 </section>
 <section id="projects-touched-today" class="level3">
@@ -188,38 +188,40 @@ ul.task-list li input[type="checkbox"] {
 <section id="progress-notes" class="level3">
 <h3 class="anchored" data-anchor-id="progress-notes">Progress Notes</h3>
 <ul>
-<li>The day started with running FastQC and MultiQC on the representative samples.
+<li>I checked in on the alignments that I started running last night.
 <ul>
-<li>I did not properly move the sequencer artifacts, so my QC rerun failed repeatedly until I realized it was because I needed to properly move those files and not adjust the code… that took a little too long.</li>
-<li>FastQC went well and reminded me that I need to ask again what some of the quality parameters mean in the broader analysis-impact pov.</li>
-<li>I spent the better part of the day checking why I was stuck in MultiQC purgatory… I am doing something wring because it should not take half a day to run MultiQC on 4 samples, but after some troubleshooting, I can’t figure out what it is. I will ask for help on this one before I screw up something in the shared drives on Raven.</li>
+<li>The reference was downloaded and checksums confirmed.</li>
+<li>The first sample alignment was completed around midday.</li>
+<li>The second sample was completed in the evening.</li>
 </ul></li>
-<li>I moved over to trimming, bypassing MultiQC while keeping FastQC.
+<li>I began looking at the next steps by reviewing the <a href="https://robertslab.github.io/resources/bio_DNA-methylation/#bismark_1">lab handbook</a>, <a href="https://github.com/RobertsLab/project-mytilus-methylation">Steven’s Mytilus methylation repo</a>, and <a href="https://github.com/sr320/ceasmallr/tree/1d64c7032df8c961b65cb9914d58b82559229cff/code">Sam’s workflow for methylation</a> analysis in oysters.
 <ul>
-<li>Based on on the FastQC returns, the standard 20by at the beginning and end of the raw sequences makes sense. I see we use fastp, but TrimGalore is everywhere - I will try to sort out the differences or create a comparison at another less time-restricted moment.</li>
-<li>I completed trimming, reviewed those FastQC files (bypassing MultiQC until I can figure out where it is getting stuck), and moved on to grabbing the reference genome from NCBI and starting the alignment.</li>
+<li>I know that deduplication, methylation extraction and parameter testing are the next general steps, but my BASH code is pretty rudimentary and I spent an awfully long time just sorting what some of the commands do before building a base version.</li>
+<li>I built the ‘simple’ version by first writing out, in full words, what steps needed to be taken before turning to write out the script.</li>
+<li>In the process, I also noticed that I have some data files that saved to the code directory, so I need to remember to move them and ensure I am setting up my data and output paths properly in the scripts.</li>
 </ul></li>
-<li>Once I started the alignment script, I let that run while I worked on some of my UW-RUA deliverables for the week.</li>
+<li>I have not started the deduplication; that will be a task for next week while I am working on getting some of my other projects moving forward as well.</li>
 </ul>
 </section>
 <section id="products-word-count" class="level3">
 <h3 class="anchored" data-anchor-id="products-word-count">Products &amp; Word Count</h3>
 <ul>
-<li>No tangible products today.</li>
+<li>Simple deduplication script: 1</li>
+<li>Written process for deduplication, methylation extraction, and parameter testing: ~200 words</li>
 </ul>
 <div>
 <blockquote class="blockquote">
-<p><strong>Today’s total: 0 words</strong></p>
-<p><strong>Monthly total to date: 8638 words</strong></p>
-<p><strong>Annual total to date: 30,333 words</strong></p>
-<p><strong>Annual target total to date: 40,000 words</strong></p>
+<p><strong>Today’s total: 200 words</strong></p>
+<p><strong>Monthly total to date: 8838 words</strong></p>
+<p><strong>Annual total to date: 30,533 words</strong></p>
+<p><strong>Annual target total to date: 40,500 words</strong></p>
 </blockquote>
 </div>
 </section>
 <section id="tomorrows-plan" class="level3">
 <h3 class="anchored" data-anchor-id="tomorrows-plan">Tomorrow’s Plan</h3>
 <ul>
-<li>No science on Sunday. I am exhausted, still taking my cold meds and hoping to shake this off for good.</li>
+<li>Working on UW-RUA programming and traveler management.</li>
 </ul>
 
 

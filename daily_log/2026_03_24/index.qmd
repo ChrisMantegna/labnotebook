@@ -1,0 +1,169 @@
+---
+title: "Weekly and Spring Quarter Planning "
+date: "2026-03-24"
+categories:
+  - Planning
+  - Yellow Island
+  - Kenya eDNA
+  - Biomarker Manuscript
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: March 23 - 27, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   I am still not at full capacity and my plan for the week is to map
+    out the rest of March and Spring Quarter since I have some very
+    real, very important deadlines I'd like to hit.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Catch up on UW-RUA and science project planning~~
+>
+> Tuesday - Planning & biomarker manuscript work
+>
+> Wednesday - Biomarker Manuscript
+>
+> Thursday - Chapter 3 proposal
+>
+> Friday - Chapter 3 proposal
+>
+> Saturday - Biomarker Manuscript
+>
+> Sunday - Weekly planning and prep
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   Today's goal is to map out the week before pivoting to mapping out
+    the upcoming quarter and tackling the highest priority identified
+    from the planning.
+    -   Since I was unable to do more than the UW-RUA work yesterday,
+        planning shifted to today.
+    -   Based on the planning session (in progress notes below), my
+        first priority is the biomarker manuscript and that will be the
+        primary project I work on today.
+
+### Projects Touched Today
+
+-   Yellow Island
+-   Kenya eDNA
+-   Biomarker Manuscript
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   I started with a massive brain dump of all of the projects, tasks,
+    ideas, thoughts, etc that I want to prioritize, delegate, or put in
+    order for next- up.
+    -   I didn't do a monthly retro moving into March, so some of that
+        was done after the brain dump and revealed a few things that I
+        will try to keep in mind moving into April and spring quarter.
+        -   First, no matter how I time block, my brain does not
+            appreciate pivoting projects in the same day. One or the
+            other project gets the attention, and no matter how I try to
+            force myself, I cannot give full attention (for deep work)
+            to more than one. This is a problem.
+        -   Second, my highest focus times of day are shifting to a bit
+            later than what I'm used to; typically my most productive
+            times are between 6:00 am - 12:00 pm, and are now shifting
+            back to more like 9/ 10:00 am - 3:00 pm. This is a conflict
+            with how my current meetings are scheduled and anything I
+            can shift moving forward, I will.
+        -   Third, while I am continually saying no to things, I am
+            still underwater. I cannot currently identify what needs to
+            be cut out, but my 'no thank you' game has got to get
+            stronger.
+    -   My priorities for March/ April are as follows:
+        -   Biomarker manuscript out to ICB
+        -   PhD proposal for bypass to my committee NLT April 1st
+            -   Getting back into weekly meetings with Steven to go over
+                the updates
+            -   A committee meeting scheduled for sometime between
+                4/13 - 4/24
+        -   Finishing initial DNA methylation analysis
+            -   Getting through the 2 sequence test run (deduplication,
+                methylation extraction and then moving into bio/ phys
+                impact via gene ID/ annotation)
+            -   Adjusting the parameters to ensure we're getting the
+                most out of the data without inflating error or
+                over-representation of results.
+            -   Visualizing the results of the test run
+            -   Completing the workflow with the rest of the sequences
+        -   Pulling together my complete bypass package for May 15th
+            submission deadline
+            -   Biomarker manuscript
+            -   Truncated MS proposal & cover letter explaining
+                expansion from MS to PhD
+            -   Polished PhD proposal based on committee feedback
+    -   Auxiliary work that must move forward, but can do so slowly
+        -   Yellow Island surveys
+        -   Kenya eDNA + mormyrid gut content data
+        -   Refining PromethION protocols for the Kenya data
+        -   Preparing for the Climate Wayfinders training over the
+            summer
+-   Shifting gears from project & task identification, and into
+    delegation:
+    -   I confirmed my spring/ summer travel date adjustments with TNC
+        to push my survey window back.
+    -   I met with Connor and Kassi P. to help them build out the eDNA
+        pipeline and gave them next steps they can accomplish without
+        me.
+    -   I met with a former GEODUC student who was interested in
+        post-bac opportunities in the lab; not sure our goals are
+        aligned at this time.
+-   Next, I went back to the biomarker manuscript and folder of figures/
+    tables/ results and made a list of next steps:
+    -   Fully updating results (not just comments)
+    -   Putting the figures into the manuscript where they belong,
+        regardless of how polished or not they look
+    -   Identifying where better citations or more detail should be
+        added
+        -   I really phoned it in in the discussion/ conclusion and
+            tying our results back to the problem identified in the
+            introduction
+        -   The introduction can be more straight forward
+        -   I need to decide what I am calling the geographic groupings
+            and stick to it
+    -   Write the abstract! (totally forgot about that...)
+-   After reviewing and making a list, I decided to knock out the
+    following today:
+    -   
+
+-------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Not sure yet...: 0 words
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 8838 words**
+>
+> **Annual total to date: 30,533 words**
+>
+> **Annual target total to date: 41,500 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Will be determined by the end of the day!

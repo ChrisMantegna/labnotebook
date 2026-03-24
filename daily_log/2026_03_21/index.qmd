@@ -66,11 +66,16 @@ break week next week.
         fastp, but TrimGalore is everywhere - I will try to sort out the
         differences or create a comparison at another less
         time-restricted moment.
-    -   
+    -   I completed trimming, reviewed those FastQC files (bypassing
+        MultiQC until I can figure out where it is getting stuck), and
+        moved on to grabbing the reference genome from NCBI and starting
+        the alignment.
+-   Once I started the alignment script, I let that run while I worked
+    on some of my UW-RUA deliverables for the week.
 
 ### Products & Word Count
 
--   Something: 0 words
+-   No tangible products today.
 
 <div>
 
@@ -80,10 +85,11 @@ break week next week.
 >
 > **Annual total to date: 30,333 words**
 >
-> **Annual target total to date: 39,500 words**
+> **Annual target total to date: 40,000 words**
 
 </div>
 
 ### Tomorrow's Plan
 
--   Something...
+-   No science on Sunday. I am exhausted, still taking my cold meds and
+    hoping to shake this off for good.
