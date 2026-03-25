@@ -6,6 +6,7 @@ categories:
   - Yellow Island
   - Kenya eDNA
   - Biomarker Manuscript
+  - DNA Methylation
 execute:
   echo: false
   warning: false
@@ -64,6 +65,7 @@ editor:
 -   Yellow Island
 -   Kenya eDNA
 -   Biomarker Manuscript
+-   DNA Methylation
 
 ------------------------------------------------------------------------
 
@@ -149,23 +151,31 @@ editor:
         -   I need to decide what I am calling the geographic groupings
             and stick to it
     -   Write the abstract! (totally forgot about that...)
--   After reviewing and making a list, I decided to knock out the
-    following today:
-    -   
+-   After reviewing it, I read it for coherence, gaps and line edits. I
+    worked on reworking the results section; it is not great, but I
+    think I have a good idea of how I want the most important spatial
+    results to read while the rest are just added to the supplement.
+-   I wrapped up by reviewing my deduplicating and parameter checks code
+    for the methylation data.
+    -   Again, I took examples from the lab and built a version that I
+        understand from those examples.
+    -   I got it up on Raven and if the spinning sparkle of death ever
+        stops, I will find out shortly if it was successful from a
+        coding point of view...
 
 ------------------------------------------------------------------------
 
 ### Outcomes: Products & Word Count
 
--   Not sure yet...: 0 words
+-   Biomarker results edits: 237 words
 
 <div>
 
-> **Today's total: 0 words**
+> **Today's total: 237 words**
 >
-> **Monthly total to date: 8838 words**
+> **Monthly total to date: 9075 words**
 >
-> **Annual total to date: 30,533 words**
+> **Annual total to date: 30,770 words**
 >
 > **Annual target total to date: 41,500 words**
 
