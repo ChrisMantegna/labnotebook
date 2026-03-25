@@ -1,0 +1,39 @@
+---
+title: "Yellow Island Intertidal Monitoring"
+subtitle: "Process Notes"
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+### Process Overview
+
+This is where I provide 2-3 sentences about what we're trying to accomplish with this project; the high-level steps will be laid out below.
+
+### Quick Links
+
+1.  Project repo
+
+2.  Literature
+
+3.  Methods
+
+### Protocols Used
+
+1.  Quadrats- random sampling and data recording
+2.  Metadata recording
+3.  eDNA sampling, water and sediment protocols
+
+### Process Roadmap
+[] Review and plan tide series
+[] Set up data collection workflow
+[] Collect data in the field
+[] Process and analyze data
+[] Interpret results and write up findings
+
+### Log
+
+#### 2026-03-24
+
+Setting up the workflow with the minimum to determine if this system is going to work for me.

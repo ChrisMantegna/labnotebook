@@ -9,7 +9,10 @@ website:
     - text: Home
       href: index.qmd
     - about.qmd
-    - projects.qmd
+    - text: Projects
+      menu:
+      - projectlog.qmd
+      - projects.qmd
     - text: Lab Notebook
       menu:
       - dailylog.qmd

@@ -1,6 +1,6 @@
 ---
 title: "Yellow Island Intertidal Monitoring"
-subtitle: "2022 - 2026 eDNA and Quadrat Data"
+subtitle: "2022 - 2026"
 date: '2022-05-01'
 execute:
   echo: false
@@ -12,16 +12,16 @@ execute:
 
 ### Quick Links
 
-1.  Literature
+1.  Project repo
 
-2.  Methods
+2.  Process/ Workflow
 
-3.  Figures
+3.  Literature
+
+4.  Methods & Protocols
 
 ### Research Questions
 
-### Data Collection Methods
-
-### Data Processing & Analysis Methods
-
 ### Anticipated Products & Findings
+
+### Next Steps
