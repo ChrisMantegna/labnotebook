@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -196,14 +196,14 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
+    <div class="quarto-title column-page-left">
       <h1 class="title">Project Log</h1>
             <p class="subtitle lead">Getting my Ducks in Row</p>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page">
+  <div class="quarto-title-meta column-page-left">
 
       
     
@@ -214,9 +214,10 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(12)</span></div></div></div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
@@ -234,60 +235,156 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1774400282872" data-listing-reading-time-sort="1" data-listing-word-count-sort="23">
-<a href="./project_log/mussel_biomarkers/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Mussel Biomarkers
-</h5>
-<div class="card-subtitle listing-subtitle">
-2023 - 2026
-</div>
-<div class="card-text listing-description">
-Connecting contaminant mixtures to biological outcomes
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1717225200000" data-listing-file-modified-sort="1774397755125" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="23">
-<a href="./project_log/mussel_methylation/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Mussel Methylation
-</h5>
-<div class="card-subtitle listing-subtitle">
-2024 - 2026
-</div>
-<div class="card-text listing-description">
-Project repo
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1651388400000" data-listing-file-modified-sort="1774396556854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="23">
-<a href="./project_log/yellow_island/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Yellow Island Intertidal Monitoring
-</h5>
-<div class="card-subtitle listing-subtitle">
-2022 - 2026
-</div>
-<div class="card-text listing-description">
-Project repo
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Date
+</th>
+<th>
+Title
+</th>
+<th>
+Author
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1774397499140" data-listing-reading-time-sort="1" data-listing-word-count-sort="56" data-listing-title-sort="Mussel Biomarkers" data-listing-filename-sort="methods.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
+<a href="./project_log/mussel_methylation/methods.html" class="title listing-title">Mussel Biomarkers</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="1" data-listing-file-modified-sort="1774397634033" data-listing-reading-time-sort="1" data-listing-word-count-sort="71" data-listing-title-sort="Mussel Biomarkers" data-listing-filename-sort="process.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
+<a href="./project_log/mussel_methylation/process.html" class="title listing-title">Mussel Biomarkers</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="2" data-listing-file-modified-sort="1774397661312" data-listing-reading-time-sort="1" data-listing-word-count-sort="52" data-listing-title-sort="Mussel Biomarkers" data-listing-filename-sort="literature.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
+<a href="./project_log/mussel_methylation/literature.html" class="title listing-title">Mussel Biomarkers</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="3" data-listing-file-modified-sort="1774397850884" data-listing-reading-time-sort="1" data-listing-word-count-sort="53" data-listing-title-sort="Mussel Methylation" data-listing-filename-sort="methods.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
+<a href="./project_log/mussel_biomarkers/methods.html" class="title listing-title">Mussel Methylation</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="4" data-listing-file-modified-sort="1774397818070" data-listing-reading-time-sort="1" data-listing-word-count-sort="74" data-listing-title-sort="Mussel Methylation" data-listing-filename-sort="process.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
+<a href="./project_log/mussel_biomarkers/process.html" class="title listing-title">Mussel Methylation</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="5" data-listing-file-modified-sort="1774397869669" data-listing-reading-time-sort="1" data-listing-word-count-sort="52" data-listing-title-sort="Mussel Methylation" data-listing-filename-sort="literature.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
+<a href="./project_log/mussel_biomarkers/literature.html" class="title listing-title">Mussel Methylation</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="6" data-listing-file-modified-sort="1774396679856" data-listing-reading-time-sort="1" data-listing-word-count-sort="34" data-listing-title-sort="Yellow Island Intertidal Monitoring" data-listing-filename-sort="methods.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
+<a href="./project_log/yellow_island/methods.html" class="title listing-title">Yellow Island Intertidal Monitoring</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="7" data-listing-file-modified-sort="1774397130188" data-listing-reading-time-sort="1" data-listing-word-count-sort="98" data-listing-title-sort="Yellow Island Intertidal Monitoring" data-listing-filename-sort="process.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
+<a href="./project_log/yellow_island/process.html" class="title listing-title">Yellow Island Intertidal Monitoring</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="8" data-listing-file-modified-sort="1774396805737" data-listing-reading-time-sort="1" data-listing-word-count-sort="34" data-listing-title-sort="Yellow Island Intertidal Monitoring" data-listing-filename-sort="literature.qmd">
+<td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
+<a href="./project_log/yellow_island/literature.html" class="title listing-title">Yellow Island Intertidal Monitoring</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="9" data-listing-date-sort="1717225200000" data-listing-file-modified-sort="1774397755125" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="23" data-listing-title-sort="Mussel Methylation" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Jun 1, 2024</span>
+</td>
+<td>
+<a href="./project_log/mussel_methylation/index.html" class="title listing-title">Mussel Methylation</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="10" data-listing-date-sort="1693551600000" data-listing-file-modified-sort="1774397747210" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="23" data-listing-title-sort="Mussel Biomarkers" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Sep 1, 2023</span>
+</td>
+<td>
+<a href="./project_log/mussel_biomarkers/index.html" class="title listing-title">Mussel Biomarkers</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="11" data-listing-date-sort="1651388400000" data-listing-file-modified-sort="1774396556854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="23" data-listing-title-sort="Yellow Island Intertidal Monitoring" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">May 1, 2022</span>
+</td>
+<td>
+<a href="./project_log/yellow_island/index.html" class="title listing-title">Yellow Island Intertidal Monitoring</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

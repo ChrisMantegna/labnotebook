@@ -2,7 +2,7 @@
 title: "Mussel Biomarkers"
 subtitle: "2023 - 2026"
 description: "Connecting contaminant mixtures to biological outcomes"
-image: "../images/mussel.png"
+image: docs/project_log/images/mussel.png
 ---
 
 ### Project Overview & Purpose
