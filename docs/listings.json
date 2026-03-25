@@ -67,19 +67,8 @@
   {
     "listing": "/projectlog.html",
     "items": [
-      "/project_log/yellow_island/methods.html",
-      "/project_log/yellow_island/process.html",
-      "/project_log/yellow_island/literature.html",
-      "/project_log/mussel_methylation/results.html",
-      "/project_log/mussel_methylation/index.html",
-      "/project_log/mussel_methylation/figures.html",
-      "/project_log/mussel_methylation/methods.html",
-      "/project_log/mussel_methylation/literature.html",
-      "/project_log/mussel_biomarkers/results.html",
       "/project_log/mussel_biomarkers/index.html",
-      "/project_log/mussel_biomarkers/figures.html",
-      "/project_log/mussel_biomarkers/methods.html",
-      "/project_log/mussel_biomarkers/literature.html",
+      "/project_log/mussel_methylation/index.html",
       "/project_log/yellow_island/index.html"
     ]
   }

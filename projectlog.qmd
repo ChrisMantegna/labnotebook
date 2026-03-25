@@ -4,11 +4,10 @@ subtitle: "Getting my Ducks in Row"
 page-layout: full
 title-block-banner: true
 listing:
-  contents: project_log
-  sort: "date desc"
-  type: table
-  image-placeholder: "img/ducks_in_row.jpeg"
-  categories: true
+  contents: project_log/*/index.qmd
+  type: grid
+  grid-columns: 3
+  fields: [title, subtitle, description]
   sort-ui: false
   filter-ui: false
 ---

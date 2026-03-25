@@ -1,48 +1,36 @@
 ---
-title: "March Goals"
-date: '2026-03-01'
-categories:
-  - monthly goals
+title: "Mussel Methylation"
+subtitle: "Methods Notes"
 execute:
   echo: false
   warning: false
   message: false
 ---
 
-### March Goals
-#### Reworking February's In-Progress Goals
+### Methods Overview
 
-1. Get the biomarker manuscript over to WDFW for review and out to ICB before the March 31st submission deadline.  
+Make this a high-level checklist of the following:
 
-2.  Complete DNA methylation data processing and begin exploratory analysis.
+-   Sample collection
 
-3. Finish PhD proposal and submit to committee for review. 
+-   Extraction & QC
 
-4. **Aspirational** - Begin mussel experiment for Chapter 3 & 4.
+-   Analysis
 
+### Quick Links
 
-### Strategies for Success
+1.  Project repo
 
-#### Goal 1: Biomarker Manuscript
-1. Re-write results section
-2. Write abstract
-3. Finish polished visualizations, tables, and captions for the biomarker manuscript.
-4. Prepare a folder of polished supplementary materials, i.e., index maps, transformed data tables, and cleaned up R scripts.
-5. Send manuscript to complete committee for feedback.
+2.  Process/ Workflow
 
-#### Goal 2: DNA Methylation Analysis
-1. Re-familiarize myself with where I left off in late 2025 and backup the large files.
-2. Move through the initial Bismark pipeline (which I believe I finished) into optimizing alignment parameters and using that outcome for subsequent steps. 
-3. Quantify methylation levels and visualize using IGV or JBrowse.
-4. Get feedback on initial results from Steven and/or other lab members before moving into downstream analyses.
+3.  Literature
 
-#### Goal 3: PhD Proposal
-1. Review MS proposal and points of expansion.
-2. Clarify purpose of chapters 3 & 4 and significance of the work.
-3. Rework the introduction to shift the framing from identifying the problem to creating a solution to maximize the current monitoring program OR reduce the monitoring burden.
-4. List and clarify the specific methods for each chapter and how they were built based on the results of chapter 2.
+### Research Questions
 
-#### **Goal 4: Chapter 3 & 4 Mussel Experiment**
-1. Put together a detailed experimental plan including timeline, materials needed, and data collection methods with 1-3 options for setup.
-2. Complete the Lab Risk Assessment form from EH&S to discuss with Steven to get approval for the experiment.
-3. Connect with Jon W and Sam W to work through physical space, setups, and ordering materials.
+### Methods Decisions
+
+### Log
+
+#### 2026-03-24
+
+Setting up the workflow with the minimum to determine if this system is going to work for me.

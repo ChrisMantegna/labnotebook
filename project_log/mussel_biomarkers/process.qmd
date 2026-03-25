@@ -1,0 +1,39 @@
+---
+title: "Mussel Methylation"
+subtitle: "Process Notes"
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+### Process Overview
+
+This is where I provide 2-3 sentences about what we're trying to accomplish with this project; the high-level steps will be laid out below.
+
+### Quick Links
+
+1.  Project repo
+
+2.  Literature
+
+3.  Methods
+
+### Protocols Used
+
+1.  Sampling
+2.  Bench
+3.  Analysis
+
+### Process Roadmap
+[] Extract DNA
+[] QC
+[] Test sequences
+[] Asses possible gene correlation to contaminants
+[] Write
+
+### Log
+
+#### 2026-03-24
+
+Setting up the workflow with the minimum to determine if this system is going to work for me.
