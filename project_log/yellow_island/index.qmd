@@ -1,11 +1,7 @@
 ---
 title: "Yellow Island Intertidal Monitoring"
 subtitle: "2022 - 2026"
-date: '2022-05-01'
-execute:
-  echo: false
-  warning: false
-  message: false
+description: "Assessing intertidal community composition using metabarcoding approaches"
 ---
 
 ### Project Overview & Purpose

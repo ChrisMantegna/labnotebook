@@ -1,11 +1,7 @@
 ---
 title: "Mussel Methylation"
 subtitle: "2024 - 2026"
-date: '2024-06-01'
-execute:
-  echo: false
-  warning: false
-  message: false
+description: "Exploring epigenetic signals as early indicators of stress and contaminant exposure"
 ---
 
 ### Project Overview & Purpose
