@@ -79,7 +79,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
+      page: 30,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
@@ -214,7 +215,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(30)</span></div><div class="category" data-category="Biomarker Manuscript">Biomarker Manuscript <span class="quarto-category-count">(1)</span></div><div class="category" data-category="DNA Methylation">DNA Methylation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Epigenetic Mechanisms">Epigenetic Mechanisms <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Epigenetic Mechanisms, Chromatin">Epigenetic Mechanisms, Chromatin <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Foundational Knowledge">Foundational Knowledge <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Goal Setting">Goal Setting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Histones">Histones <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Kenya eDNA">Kenya eDNA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Lab Notebook">Lab Notebook <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Literature Review">Literature Review <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Mussel Biomarkers">Mussel Biomarkers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mussel Methylation">Mussel Methylation <span class="quarto-category-count">(3)</span></div><div class="category" data-category="PhD Proposal">PhD Proposal <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Planning">Planning <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Weekly Planning">Weekly Planning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Yellow Island">Yellow Island <span class="quarto-category-count">(2)</span></div><div class="category" data-category="monthly goals">monthly goals <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mussel biomarkers">mussel biomarkers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="time management">time management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="visualizations">visualizations <span class="quarto-category-count">(1)</span></div><div class="category" data-category="writing">writing <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(32)</span></div><div class="category" data-category="Biomarker Manuscript">Biomarker Manuscript <span class="quarto-category-count">(1)</span></div><div class="category" data-category="DNA Methylation">DNA Methylation <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Epigenetic Mechanisms">Epigenetic Mechanisms <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Epigenetic Mechanisms, Chromatin">Epigenetic Mechanisms, Chromatin <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Foundational Knowledge">Foundational Knowledge <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Goal Setting">Goal Setting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Histones">Histones <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Kenya eDNA">Kenya eDNA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Lab Notebook">Lab Notebook <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Literature Review">Literature Review <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Meetings">Meetings <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mussel Biomarkers">Mussel Biomarkers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mussel Methylation">Mussel Methylation <span class="quarto-category-count">(3)</span></div><div class="category" data-category="NWStraits Symposium">NWStraits Symposium <span class="quarto-category-count">(1)</span></div><div class="category" data-category="PhD Proposal">PhD Proposal <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Planning">Planning <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Weekly Planning">Weekly Planning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Yellow Island">Yellow Island <span class="quarto-category-count">(2)</span></div><div class="category" data-category="monthly goals">monthly goals <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mussel biomarkers">mussel biomarkers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="time management">time management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="visualizations">visualizations <span class="quarto-category-count">(1)</span></div><div class="category" data-category="writing">writing <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -250,7 +251,29 @@ Author
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="Planning,Yellow Island,Kenya eDNA,Biomarker Manuscript,DNA Methylation" data-listing-date-sort="1774335600000" data-listing-file-modified-sort="1774410435266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1834" data-listing-title-sort="Weekly and Spring Quarter Planning" data-listing-filename-sort="index.qmd">
+<tr data-index="0" data-categories="NWStraits Symposium,DNA Methylation" data-listing-date-sort="1774422000000" data-listing-file-modified-sort="1774551834916" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="375" data-listing-title-sort="Conservation Ecology &amp; DNA Methylation" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Mar 25, 2026</span>
+</td>
+<td>
+<a href="./daily_log/2026_03_26/index.html" class="title listing-title">Conservation Ecology &amp; DNA Methylation</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="1" data-categories="Meetings,DNA Methylation" data-listing-date-sort="1774422000000" data-listing-file-modified-sort="1774551882922" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="863" data-listing-title-sort="DNA Methylation &amp; Meetings" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Mar 25, 2026</span>
+</td>
+<td>
+<a href="./daily_log/2026_03_25/index.html" class="title listing-title">DNA Methylation &amp; Meetings</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+</tr>
+<tr data-index="2" data-categories="Planning,Yellow Island,Kenya eDNA,Biomarker Manuscript,DNA Methylation" data-listing-date-sort="1774335600000" data-listing-file-modified-sort="1774549548358" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1834" data-listing-title-sort="Weekly and Spring Quarter Planning" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 24, 2026</span>
 </td>
@@ -261,7 +284,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="1" data-categories="Planning" data-listing-date-sort="1774249200000" data-listing-file-modified-sort="1774384319058" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="299" data-listing-title-sort="UW-RUA Deliverables" data-listing-filename-sort="index.qmd">
+<tr data-index="3" data-categories="Planning" data-listing-date-sort="1774249200000" data-listing-file-modified-sort="1774384319058" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="299" data-listing-title-sort="UW-RUA Deliverables" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 23, 2026</span>
 </td>
@@ -272,7 +295,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="2" data-categories="Mussel Methylation" data-listing-date-sort="1774162800000" data-listing-file-modified-sort="1774381337733" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="570" data-listing-title-sort="Running Errands &amp; Running Alignments" data-listing-filename-sort="index.qmd">
+<tr data-index="4" data-categories="Mussel Methylation" data-listing-date-sort="1774162800000" data-listing-file-modified-sort="1774381337733" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="570" data-listing-title-sort="Running Errands &amp; Running Alignments" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 22, 2026</span>
 </td>
@@ -283,7 +306,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="3" data-categories="Mussel Methylation" data-listing-date-sort="1774076400000" data-listing-file-modified-sort="1774380608174" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="669" data-listing-title-sort="Moving forward with Mussel Methylation Analysis" data-listing-filename-sort="index.qmd">
+<tr data-index="5" data-categories="Mussel Methylation" data-listing-date-sort="1774076400000" data-listing-file-modified-sort="1774380608174" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="669" data-listing-title-sort="Moving forward with Mussel Methylation Analysis" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 21, 2026</span>
 </td>
@@ -294,7 +317,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="4" data-categories="Mussel Methylation" data-listing-date-sort="1773990000000" data-listing-file-modified-sort="1774130998651" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="889" data-listing-title-sort="Mussel Methylation Analysis Return" data-listing-filename-sort="index.qmd">
+<tr data-index="6" data-categories="Mussel Methylation" data-listing-date-sort="1773990000000" data-listing-file-modified-sort="1774130998651" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="889" data-listing-title-sort="Mussel Methylation Analysis Return" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 20, 2026</span>
 </td>
@@ -305,7 +328,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="5" data-categories="Foundational Knowledge,Epigenetic Mechanisms, Chromatin,PhD Proposal" data-listing-date-sort="1773903600000" data-listing-file-modified-sort="1774129378248" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1164" data-listing-title-sort="Integrating Epigenetic Mechanisms" data-listing-filename-sort="index.qmd">
+<tr data-index="7" data-categories="Foundational Knowledge,Epigenetic Mechanisms, Chromatin,PhD Proposal" data-listing-date-sort="1773903600000" data-listing-file-modified-sort="1774129378248" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1164" data-listing-title-sort="Integrating Epigenetic Mechanisms" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 19, 2026</span>
 </td>
@@ -316,7 +339,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="6" data-categories="Foundational Knowledge,Epigenetic Mechanisms, Chromatin,PhD Proposal" data-listing-date-sort="1773817200000" data-listing-file-modified-sort="1773948172571" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="617" data-listing-title-sort="Chromatin's Turn to Shine" data-listing-filename-sort="index.qmd">
+<tr data-index="8" data-categories="Foundational Knowledge,Epigenetic Mechanisms, Chromatin,PhD Proposal" data-listing-date-sort="1773817200000" data-listing-file-modified-sort="1773948172571" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="617" data-listing-title-sort="Chromatin's Turn to Shine" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 18, 2026</span>
 </td>
@@ -327,7 +350,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="7" data-categories="Lab Notebook,Yellow Island" data-listing-date-sort="1773730800000" data-listing-file-modified-sort="1773862039656" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="337" data-listing-title-sort="UW-RUA Tuesday" data-listing-filename-sort="index.qmd">
+<tr data-index="9" data-categories="Lab Notebook,Yellow Island" data-listing-date-sort="1773730800000" data-listing-file-modified-sort="1773862039656" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="337" data-listing-title-sort="UW-RUA Tuesday" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 17, 2026</span>
 </td>
@@ -338,7 +361,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="8" data-categories="Weekly Planning,Literature Review,Foundational Knowledge,Histones" data-listing-date-sort="1773644400000" data-listing-file-modified-sort="1773861236297" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="527" data-listing-title-sort="Celeste!!!!!! &amp; Histones" data-listing-filename-sort="index.qmd">
+<tr data-index="10" data-categories="Weekly Planning,Literature Review,Foundational Knowledge,Histones" data-listing-date-sort="1773644400000" data-listing-file-modified-sort="1773861236297" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="527" data-listing-title-sort="Celeste!!!!!! &amp; Histones" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 16, 2026</span>
 </td>
@@ -349,7 +372,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="9" data-categories="PhD Proposal,Literature Review" data-listing-date-sort="1773558000000" data-listing-file-modified-sort="1773861197760" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="217" data-listing-title-sort="Epigenetic Mechanisms- More Notetaking" data-listing-filename-sort="index.qmd">
+<tr data-index="11" data-categories="PhD Proposal,Literature Review" data-listing-date-sort="1773558000000" data-listing-file-modified-sort="1773861197760" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="217" data-listing-title-sort="Epigenetic Mechanisms- More Notetaking" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 15, 2026</span>
 </td>
@@ -360,7 +383,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="10" data-categories="PhD Proposal,Epigenetic Mechanisms,Literature Review" data-listing-date-sort="1773471600000" data-listing-file-modified-sort="1773947566192" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="631" data-listing-title-sort="Epigenetic Mechanisms" data-listing-filename-sort="index.qmd">
+<tr data-index="12" data-categories="PhD Proposal,Epigenetic Mechanisms,Literature Review" data-listing-date-sort="1773471600000" data-listing-file-modified-sort="1773947566192" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="631" data-listing-title-sort="Epigenetic Mechanisms" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 14, 2026</span>
 </td>
@@ -371,7 +394,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="11" data-listing-date-sort="1773385200000" data-listing-file-modified-sort="1773460066544" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="367" data-listing-title-sort="Resting &amp; Reading" data-listing-filename-sort="index.qmd">
+<tr data-index="13" data-listing-date-sort="1773385200000" data-listing-file-modified-sort="1773460066544" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="367" data-listing-title-sort="Resting &amp; Reading" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 13, 2026</span>
 </td>
@@ -382,7 +405,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="12" data-listing-date-sort="1773298800000" data-listing-file-modified-sort="1773341762746" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="118" data-listing-title-sort="No Science" data-listing-filename-sort="index.qmd">
+<tr data-index="14" data-listing-date-sort="1773298800000" data-listing-file-modified-sort="1773341762746" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="118" data-listing-title-sort="No Science" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 12, 2026</span>
 </td>
@@ -393,7 +416,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="13" data-listing-date-sort="1773212400000" data-listing-file-modified-sort="1773341570960" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="80" data-listing-title-sort="No Science - Still Sick" data-listing-filename-sort="index.qmd">
+<tr data-index="15" data-listing-date-sort="1773212400000" data-listing-file-modified-sort="1773341570960" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="80" data-listing-title-sort="No Science - Still Sick" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 11, 2026</span>
 </td>
@@ -404,7 +427,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="14" data-listing-date-sort="1773126000000" data-listing-file-modified-sort="1773341622524" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="71" data-listing-title-sort="No Science - UW-RUA Tuesdays" data-listing-filename-sort="index.qmd">
+<tr data-index="16" data-listing-date-sort="1773126000000" data-listing-file-modified-sort="1773341622524" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="71" data-listing-title-sort="No Science - UW-RUA Tuesdays" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 10, 2026</span>
 </td>
@@ -415,7 +438,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="15" data-listing-date-sort="1773039600000" data-listing-file-modified-sort="1773341348502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="841" data-listing-title-sort="Setting Up the Week" data-listing-filename-sort="index.qmd">
+<tr data-index="17" data-listing-date-sort="1773039600000" data-listing-file-modified-sort="1773341348502" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="841" data-listing-title-sort="Setting Up the Week" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 9, 2026</span>
 </td>
@@ -426,7 +449,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="16" data-listing-date-sort="1772956800000" data-listing-file-modified-sort="1773088967312" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83" data-listing-title-sort="No Science" data-listing-filename-sort="index.qmd">
+<tr data-index="18" data-listing-date-sort="1772956800000" data-listing-file-modified-sort="1773088967312" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83" data-listing-title-sort="No Science" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 8, 2026</span>
 </td>
@@ -437,7 +460,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="17" data-listing-date-sort="1772870400000" data-listing-file-modified-sort="1773089860302" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73" data-listing-title-sort="No Science" data-listing-filename-sort="index.qmd">
+<tr data-index="19" data-listing-date-sort="1772870400000" data-listing-file-modified-sort="1773089860302" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73" data-listing-title-sort="No Science" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 7, 2026</span>
 </td>
@@ -448,7 +471,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="18" data-listing-date-sort="1772784000000" data-listing-file-modified-sort="1773088459874" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="80" data-listing-title-sort="No Science" data-listing-filename-sort="index.qmd">
+<tr data-index="20" data-listing-date-sort="1772784000000" data-listing-file-modified-sort="1773088459874" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="80" data-listing-title-sort="No Science" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 6, 2026</span>
 </td>
@@ -459,7 +482,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="19" data-listing-date-sort="1772697600000" data-listing-file-modified-sort="1773088425868" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86" data-listing-title-sort="No Science" data-listing-filename-sort="index.qmd">
+<tr data-index="21" data-listing-date-sort="1772697600000" data-listing-file-modified-sort="1773088425868" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86" data-listing-title-sort="No Science" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 5, 2026</span>
 </td>
@@ -470,7 +493,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="20" data-categories="writing,visualizations,mussel biomarkers,time management" data-listing-date-sort="1772611200000" data-listing-file-modified-sort="1773087063672" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2355" data-listing-title-sort="Groundhog Day X 1000" data-listing-filename-sort="index.qmd">
+<tr data-index="22" data-categories="writing,visualizations,mussel biomarkers,time management" data-listing-date-sort="1772611200000" data-listing-file-modified-sort="1773087063672" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2355" data-listing-title-sort="Groundhog Day X 1000" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 4, 2026</span>
 </td>
@@ -481,7 +504,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="21" data-listing-date-sort="1772524800000" data-listing-file-modified-sort="1772653220305" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90" data-listing-title-sort="UW-RUA Traveler Tuesday" data-listing-filename-sort="index.qmd">
+<tr data-index="23" data-listing-date-sort="1772524800000" data-listing-file-modified-sort="1772653220305" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90" data-listing-title-sort="UW-RUA Traveler Tuesday" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 3, 2026</span>
 </td>
@@ -492,7 +515,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="22" data-categories="Planning,Mussel Biomarkers,Lab Notebook,Goal Setting" data-listing-date-sort="1772438400000" data-listing-file-modified-sort="1773862506284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="196" data-listing-title-sort="Getting Back on Track" data-listing-filename-sort="index.qmd">
+<tr data-index="24" data-categories="Planning,Mussel Biomarkers,Lab Notebook,Goal Setting" data-listing-date-sort="1772438400000" data-listing-file-modified-sort="1773862506284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="196" data-listing-title-sort="Getting Back on Track" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 2, 2026</span>
 </td>
@@ -503,7 +526,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="23" data-categories="monthly goals" data-listing-date-sort="1772352000000" data-listing-file-modified-sort="1773089975435" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="302" data-listing-title-sort="March Goals" data-listing-filename-sort="index.qmd">
+<tr data-index="25" data-categories="monthly goals" data-listing-date-sort="1772352000000" data-listing-file-modified-sort="1773089975435" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="302" data-listing-title-sort="March Goals" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Mar 1, 2026</span>
 </td>
@@ -514,7 +537,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="24" data-listing-date-sort="1769932800000" data-listing-file-modified-sort="1773863344169" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="25" data-listing-word-count-sort="4911" data-listing-title-sort="2026 February Daily Posts" data-listing-filename-sort="index.qmd">
+<tr data-index="26" data-listing-date-sort="1769932800000" data-listing-file-modified-sort="1773863344169" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="25" data-listing-word-count-sort="4911" data-listing-title-sort="2026 February Daily Posts" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Feb 1, 2026</span>
 </td>
@@ -525,7 +548,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="25" data-listing-date-sort="1767254400000" data-listing-file-modified-sort="1770834306140" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="32" data-listing-word-count-sort="6348" data-listing-title-sort="2026 January Daily Posts" data-listing-filename-sort="index.qmd">
+<tr data-index="27" data-listing-date-sort="1767254400000" data-listing-file-modified-sort="1770834306140" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="32" data-listing-word-count-sort="6348" data-listing-title-sort="2026 January Daily Posts" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Jan 1, 2026</span>
 </td>
@@ -536,7 +559,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="26" data-listing-date-sort="1764576000000" data-listing-file-modified-sort="1770191069720" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1951" data-listing-title-sort="2025 December Daily Posts" data-listing-filename-sort="index.qmd">
+<tr data-index="28" data-listing-date-sort="1764576000000" data-listing-file-modified-sort="1770191069720" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1951" data-listing-title-sort="2025 December Daily Posts" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Dec 1, 2025</span>
 </td>
@@ -547,7 +570,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="27" data-listing-date-sort="1761980400000" data-listing-file-modified-sort="1765316180495" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2325" data-listing-title-sort="2025 November Daily Posts" data-listing-filename-sort="index.qmd">
+<tr data-index="29" data-listing-date-sort="1761980400000" data-listing-file-modified-sort="1765316180495" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2325" data-listing-title-sort="2025 November Daily Posts" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Nov 1, 2025</span>
 </td>
@@ -558,7 +581,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="28" data-listing-date-sort="1759302000000" data-listing-file-modified-sort="1765316178534" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="16" data-listing-word-count-sort="3149" data-listing-title-sort="2025 October Daily Posts" data-listing-filename-sort="index.qmd">
+<tr data-index="30" data-listing-date-sort="1759302000000" data-listing-file-modified-sort="1765316178534" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="16" data-listing-word-count-sort="3149" data-listing-title-sort="2025 October Daily Posts" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Oct 1, 2025</span>
 </td>
@@ -569,7 +592,7 @@ Author
 <span class="listing-author">&nbsp;</span>
 </td>
 </tr>
-<tr data-index="29" data-listing-date-sort="1756710000000" data-listing-file-modified-sort="1762900629256" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="898" data-listing-title-sort="2025 September Daily Posts" data-listing-filename-sort="index.qmd">
+<tr data-index="31" data-listing-date-sort="1756710000000" data-listing-file-modified-sort="1762900629256" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="898" data-listing-title-sort="2025 September Daily Posts" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Sep 1, 2025</span>
 </td>
@@ -585,6 +608,9 @@ Author
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
