@@ -1,0 +1,130 @@
+---
+title: "DNA Methylation & Meetings "
+date: "2026-03-25"
+categories:
+  - Meetings
+  - DNA Methylation
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: March 23 - 27, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   I am still not at full capacity and my plan for the week is to map
+    out the rest of March and Spring Quarter since I have some very
+    real, very important deadlines I'd like to hit.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Catch up on UW-RUA and science project planning~~
+>
+> ~~Tuesday - Planning & biomarker manuscript work~~
+>
+> Wednesday - Biomarker Manuscript
+>
+> Thursday - Chapter 3 proposal
+>
+> Friday - Chapter 3 proposal
+>
+> Saturday - Biomarker Manuscript
+>
+> Sunday - Weekly planning and prep
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   Today's goal is to return to the plan mapping I finished yesterday
+    and complete the task breakdown, refine the project priorities, and
+    start plugging the tasks into my planner dashboard in Notion.
+
+### Projects Touched Today
+
+-   DNA Methylation
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   I kicked off the day with a new paper from my Google alerts, One
+    Health perspectives on veterinary residues and bioaccumulation in
+    marine mussels. [DOI
+    link](https://doi.org/10.1016/j.marenvres.2026.108009) to the paper.
+    -   This is a review paper focused on contaminant mixtures and their
+        potential impacts to mussels, and how those outcomes link to
+        human health outcomes using the One Health framework.
+    -   The authors focus on heavy metals and pharmaceuticals as the
+        perturbation/ mixture.
+    -   Call to Action: Integrate monitoring programs, molecular ecotox,
+        and new tech to mitigate contaminant's entry into waterways.
+-   I moved into task planning. I identified the main projects that must
+    be pushed forward, the secondary projects that are moving forward
+    under delegated efforts, and potential upcoming project work.
+    -   This took a significantly longer time to get through, so I
+        focused on the priority project tasks in the allotted time
+        block.
+    -   Thursday will see a revisit of the task defining and scheduling
+        since I need to pivot to meeting prep.
+-   First 'meeting' was my working block with KPJ.
+    -   I walked myself through the Bismark results so I could
+        understand what I was seeing and what questions I actually
+        needed to ask.
+    -   I returned to my problem trying to access the qc programs. I
+        haven't been able to run a successful MultiQC yet. So, I created
+        an environment in Raven where I can run FastQC and MultiQC
+        without searching for the tools to only find the directories -
+        this means I either don't get a result, or the result returns an
+        error after running for days.
+    -   I updated my QC, trim, alignment and deduplication scripts to
+        reflect this new environment.
+    -   I ran the QC and trim files for all remaining sequences; I
+        hadn't done that yet, only for the two I am working with.
+-   I left that work block and joined lab meeting. We shared progress
+    and upcoming plans.
+    -   I need to update the lab calendar with my availability next
+        quarter.
+-   I moved over to my weekly eDNA meeting with Connor and Kassi P
+    -   We went over the introductory literature I shared, field
+        protocols (for Connor's upcoming work), and next steps for our
+        meeting in two weeks.
+-   I completed my second of three total high school marine bio sessions
+    after that.
+-   Once meetings were out of the way, the remainder of the day was
+    spent monitoring the QC and trimming scripts on Raven and knocking
+    out some UW-RUA tasks for travelers.
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   No direct products
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 9075 words**
+>
+> **Annual total to date: 30,770 words**
+>
+> **Annual target total to date: 42,000 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   To complete the task 'scheduling' and prepare for the smaller project deliverables upcoming between March 31st - April 6th.

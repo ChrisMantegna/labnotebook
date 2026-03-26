@@ -1,0 +1,98 @@
+---
+title: "Conservation Ecology & DNA Methylation "
+date: "2026-03-26"
+categories:
+  - NWStraits Symposium
+  - DNA Methylation
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: March 23 - 27, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   I am still not at full capacity and my plan for the week is to map
+    out the rest of March and Spring Quarter since I have some very
+    real, very important deadlines I'd like to hit.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Catch up on UW-RUA and science project planning~~
+>
+> ~~Tuesday - Planning & biomarker manuscript work~~
+>
+> ~~Wednesday - Biomarker Manuscript~~
+>
+> Thursday - Chapter 3 proposal
+>
+> Friday - Chapter 3 proposal
+>
+> Saturday - Biomarker Manuscript
+>
+> Sunday - Weekly planning and prep
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   Today's goal is to complete the followings:
+    -   NWStraits abstract and poster mock-up
+    -   Locate open source sequences for Chapter 3
+    -   Update or refine and add my figures to the biomarker manuscript
+    -   Prep for my meeting with PSP and Tiara for the social science
+        project
+    -   Complete the task mapping for the lower-priority projects
+
+### Projects Touched Today
+
+-   DNA Methylation
+-   NWStraits Caroline Gibson Conservation Symposium
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   I knocked out my abstract and followed up with my current and former
+    mentees to remind them to get the requested information to me by the
+    end of their day on Friday.
+    -   My poster is about increasing access to increase larger
+        opportunities in conservation ecology
+    -   The plan is to link programs like Yellow, REU, and DDCSP to
+        their larger impacts in conservation
+-   
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   NWStraits Abstract: 107 words
+-   
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 9075 words**
+>
+> **Annual total to date: 30,770 words**
+>
+> **Annual target total to date: 42,500 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Will be determined by the end of the day!
