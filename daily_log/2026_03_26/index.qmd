@@ -146,6 +146,10 @@ editor:
     -   I'm certain the handwritten notes on all projects won't make it
         in for now, but will be in future projects because I just don't
         want to waste time pulling them for projects reaching their end.
+-   I wrapped up the day by updating my CV using Vitae and finally
+    getting to my About Me GitHub page since I will be presenting myself
+    and my work in 2 weeks and I'd like folks to have something more
+    substantial than my GH landing page only.
 
 ------------------------------------------------------------------------
 
@@ -153,16 +157,17 @@ editor:
 
 -   NWStraits Abstract: 107 words
 -   PSP Social Science Proposal Update: 412 words
--   BOP Art x Environmentalism Ideas: 180 words
+-   BOP Art x Environmentalism Ideas: 277 words
+-   Creating my About Me .qmd page: 528 words
 -   NWStraits poster mock-up based on mentee responses so far
 
 <div>
 
-> **Today's total: 699 words**
+> **Today's total: 1324 words**
 >
-> **Monthly total to date: 9774 words**
+> **Monthly total to date: 10,399 words**
 >
-> **Annual total to date: 31,469 words**
+> **Annual total to date: 32,094 words**
 >
 > **Annual target total to date: 42,500 words**
 

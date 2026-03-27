@@ -1,5 +1,120 @@
 ---
 title: "About"
+page-layout: full
+format:
+  html:
+    toc: false
+    code-fold: false
 ---
 
-[![Turning the Tide. Check out our work on Yellow Island while I finish building this page!](img/20240623_FH2_211.jpg)](https://youtu.be/VLLocGcP9S8)
+::: {.columns}
+::: {.column width="35%"}
+![](img/20240623_FH2_211.jpg){fig-alt="Portrait of Chris Mantegna" style="width:90%; border-radius: 12px;"}
+
+::: {.callout-note appearance="simple"}
+## Connect
+
+[Email](mailto:mantegna@uw.edu)  
+[GitHub](https://github.com/ChrisMantegna)  
+[Lab Notebook](/labnotebook/)  
+[Download Full CV](./content/chris-mantegna-cv.pdf)
+:::
+:::
+
+::: {.column width="65%"}
+# Hi, I’m Chris.
+
+I am a marine scientist, educator, and community-engaged researcher working across ecotoxicology, environmental epigenetics, intertidal ecology, and science education. My work uses marine organisms and coastal systems to ask questions about contamination, biological response, biodiversity, and how we build more inclusive pathways into science.
+
+I am currently a PhD student in Aquatic and Fishery Sciences at the University of Washington, where my research connects biomarker and epigenetic approaches in mussels with broader questions about environmental stress, ecosystem health, and marine conservation. Alongside this work, I design and teach place-based marine science learning experiences that bring together research, mentorship, and public engagement.
+
+This site is a living lab notebook and professional home for my projects, field and analysis notes, teaching materials, and evolving ideas. I care deeply about science that is rigorous, collaborative, and useful beyond the academy.
+:::
+:::
+
+## Research Focus
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+### Environmental epigenetics
+I am interested in how marine invertebrates respond to environmental stress through mechanisms such as DNA methylation, and how those responses can complement more traditional measures of organismal condition.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Biomarkers and contaminants
+My research uses mussels and related biomarker approaches to assess contaminant exposure and biological response across Puget Sound and the Salish Sea.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Intertidal ecology and eDNA
+I build projects that connect biodiversity monitoring, intertidal field ecology, and molecular tools to better understand nearshore ecosystems.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Teaching and access
+I design marine science learning spaces that center mentorship, interdisciplinary thinking, and community connection.
+:::
+:::
+
+## Selected Experience
+
+### Education
+
+- **PhD, Aquatic & Fishery Sciences**, University of Washington  
+  Expected December 2028
+- **BSc, Marine Biology**, University of Washington  
+  June 2021
+- **ASc-T, Biology**, Green River College  
+  May 2019
+
+### Selected Publications
+
+- **Mantegna, C.** *Ecologists: don’t lose touch with the joy of fieldwork.* Nature World View. 2024.
+- **Mantegna, C., Nordstrom, D., Langness, M., Roberts, S., & Gardell, A.** *Biochemical biomarker response in Mytilus trossulus across Puget Sound.* In prep. 2026.
+
+### Teaching, Mentorship, and Public Engagement
+
+- **Lead Instructor**, Marine Ecology, Summit Public Schools & Salish Sea Sciences
+- **Lead Mentor**, Yellow Island Intertidal Monitoring Program
+- **Co-Facilitator**, Intertidal Innovators
+- **Co-Instructor**, ENVIR 401: Analysis of Environmental Cases
+- **Invited Speaker**, Friday Harbor Labs Seminar Series
+- **Presenter**, Society for Integrative and Comparative Biology Conference
+
+### Awards and Recognition
+
+- National Science Foundation Graduate Research Fellowship
+- EarthLab Innovation Grant
+- The Nature Conservancy Salish Sea Research Grant
+- Husky 100
+
+## Current Tools and Methods
+
+- R and Quarto for reproducible analysis and communication
+- QGIS and spatial analysis workflows
+- Biomarker analysis in marine organisms
+- Environmental epigenetics and WGBS workflow development
+- Intertidal field survey design and biodiversity monitoring
+- eDNA and community-based marine science education
+
+## How to Use This Site
+
+This notebook brings together several parts of my work:
+
+- **Project pages** for ongoing research and writing
+- **Daily and archived lab notes** documenting process and decision-making
+- **Methods and workflow development** for analysis and reproducibility
+- **Public-facing reflections** on science, teaching, and community-engaged work
+
+## A Few Things I Care About
+
+- Building rigorous science that remains accessible and useful
+- Expanding who feels welcomed into marine and environmental science
+- Connecting fieldwork, molecular methods, and community knowledge
+- Keeping curiosity, joy, and care present in scientific practice
+
+## Contact
+
+I’m especially interested in connections around marine ecotoxicology, environmental epigenetics, intertidal ecology, inclusive STEM education, and collaborative public science.
+
+You can reach me at [mantegna@uw.edu](mailto:mantegna@uw.edu).
