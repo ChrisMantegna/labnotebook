@@ -13,7 +13,7 @@ editor:
     wrap: 72
 ---
 
-### Plan of the Week: March 23 - 27, 2026
+### Plan of the Week: March 23 - 29, 2026
 
 -   I am still not at full capacity and my plan for the week is to map
     out the rest of March and Spring Quarter since I have some very

@@ -1,0 +1,90 @@
+---
+title: "Sundays are for Hanging Out with Chloe "
+date: "2026-03-29"
+categories:
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: March 23 - 29, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   I am still not at full capacity and my plan for the week is to map
+    out the rest of March and Spring Quarter since I have some very
+    real, very important deadlines I'd like to hit.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Catch up on UW-RUA and science project planning~~
+>
+> ~~Tuesday - Planning & biomarker manuscript work~~
+>
+> ~~Wednesday - Biomarker Manuscript~~
+>
+> ~~Thursday - Chapter 3 proposal~~
+>
+> ~~Friday - Chapter 3 proposal~~
+>
+> ~~Saturday - Biomarker Manuscript~~
+>
+> ~~Sunday - Weekly planning and prep~~
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   Today's goal is to brain dump the tasks and priorities for the week,
+    check the status of the methylation data on Raven, and hang out with
+    the kid.
+
+### Projects Touched Today
+
+-   DNA Methylation
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   The only science I did today was to check the alignment script I am
+    running on Raven.
+    -   I had to restart the Bismark code, I made tool path adjustments
+        in the script and made a coding mistake, so the reference
+        portion ran again because I forgot to un-comment the skip loop
+        when I was making other changes. It is the same reference, so
+        that's fine- just a time waster.
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   No tangible products
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 10,977 words**
+>
+> **Annual total to date: 32,672 words**
+>
+> **Annual target total to date: 44,000 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Use my brain dump list to set up the week, knock out the NWS poster,
+    and prep for the TNC meeting next week.
