@@ -1,49 +1,83 @@
 ---
-title: "Groundhogs Day Times A Thousand"
-date: '2026-03-04'
+title: "UW-RUA Tuesday"
+date: "2026-03-31"
 categories:
-  - writing
-  - visualizations
-  - mussel biomarkers
-  - time management
 execute:
   echo: false
   warning: false
   message: false
+
+editor:
+  markdown:
+    wrap: 72
 ---
 
-### Plan of the Week: March 2 - 8, 2026
-#### Daily Focus
+### Plan of the Week: March 30 - April 5, 2026
 
-- Thursday: No science work
-- Friday: Biomarker Manuscript
-- Saturday: No science work
-- Sunday: Biomarker Manuscript
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   I am finally as close to healthy as I have been in awhile, so as
+    long as the anxiety of being so behind doesn't take me out, I will
+    be solid!
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Catch up on UW-RUA and NWS Poster~~
+>
+> Tuesday - UW-RUA, No Science
+>
+> Wednesday - Biomarker Manuscript
+>
+> Thursday - Biomarker Manuscript
+>
+> Friday - NWS Symposium
+>
+> Saturday - Biomarker Manuscript
+>
+> Sunday - No Science
+
+</div>
+
+------------------------------------------------------------------------
 
 ### Plan of the Day
 
-- Based on the list of biomarker manuscript deliverables, my first task is to update my Results section to include the corrected spatial analyses. Second task is to update Figures 1 and 2.
-- Finally, my current task management communication set-up is not effective. Moving forward, general weekly plans will be added to Monday notebook posts with specific daily tasks and outcome determined in the daily notebook posts. This will allow for more flexibility in task management and better communication of progress and plans.
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   There is no science goal today.
 
 ### Projects Touched Today
 
-- 
+-   None
+
+------------------------------------------------------------------------
 
 ### Progress Notes
 
+-   None
 
-### Products & Word Count
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   No science products
 
 <div>
 
 > **Today's total: 0 words**
 >
-> **Monthly total to date: 0 words**
+> **Monthly total to date: 10,977 words**
 >
-> **Annual total to date: 20,747 words**
+> **Annual total to date: 32,672 words**
+>
+> **Annual target total to date: 45,000 words**
 
 </div>
 
-### Tomorrow's Plan
+### Next Up: Tomorrow's Plan
 
-- No science focus on Thursday.
+-   Working block with KPJ. A full plan will be made based on UW-RUA
+    outcomes today as we prep for the programming series that starts at
+    the end of the month.

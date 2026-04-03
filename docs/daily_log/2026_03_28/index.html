@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-03-25">
+<meta name="dcterms.date" content="2026-03-28">
 
-<title>DNA Methylation &amp; Meetings – Progress Makes a PhD</title>
+<title>Saturday- Something – Progress Makes a PhD</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -144,10 +144,10 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">DNA Methylation &amp; Meetings</h1>
+<h1 class="title">Saturday- Something</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Meetings</div>
-    <div class="quarto-category">DNA Methylation</div>
+    <div class="quarto-category">Mussel Methylation</div>
+    <div class="quarto-category">NWS Symposium</div>
   </div>
   </div>
 
@@ -159,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">March 25, 2026</p>
+      <p class="date">March 28, 2026</p>
     </div>
   </div>
   
@@ -183,9 +183,9 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p><del>Monday - Catch up on UW-RUA and science project planning</del></p>
 <p><del>Tuesday - Planning &amp; biomarker manuscript work</del></p>
-<p>Wednesday - Biomarker Manuscript</p>
-<p>Thursday - Chapter 3 proposal</p>
-<p>Friday - Chapter 3 proposal</p>
+<p><del>Wednesday - Biomarker Manuscript</del></p>
+<p><del>Thursday - Chapter 3 proposal</del></p>
+<p><del>Friday - Chapter 3 proposal</del></p>
 <p>Saturday - Biomarker Manuscript</p>
 <p>Sunday - Weekly planning and prep</p>
 </blockquote>
@@ -198,69 +198,58 @@ ul.task-list li input[type="checkbox"] {
 <section id="granular-level-task-list-to-accomplish-the-high--level-goal-outlined-above" class="level4">
 <h4 class="anchored" data-anchor-id="granular-level-task-list-to-accomplish-the-high--level-goal-outlined-above"><em>Granular level task list to accomplish the high- level goal outlined above</em></h4>
 <ul>
-<li>Today’s goal is to return to the plan mapping I finished yesterday and complete the task breakdown, refine the project priorities, and start plugging the tasks into my planner dashboard in Notion.</li>
+<li>Today’s goal is to knock out the first version of the NWS poster to ask for feedback early next week</li>
 </ul>
 </section>
 </section>
 <section id="projects-touched-today" class="level3">
 <h3 class="anchored" data-anchor-id="projects-touched-today">Projects Touched Today</h3>
 <ul>
-<li>DNA Methylation</li>
+<li><p>DNA Methylation</p></li>
+<li><p>NWS Symposium</p></li>
 </ul>
 <hr>
 </section>
 <section id="progress-notes" class="level3">
 <h3 class="anchored" data-anchor-id="progress-notes">Progress Notes</h3>
 <ul>
-<li>I kicked off the day with a new paper from my Google alerts, One Health perspectives on veterinary residues and bioaccumulation in marine mussels. <a href="https://doi.org/10.1016/j.marenvres.2026.108009">DOI link</a> to the paper.
+<li>After going over the parameters that Sam and I talked about yesterday, I annotated the scripts so I wouldn’t forget.
 <ul>
-<li>This is a review paper focused on contaminant mixtures and their potential impacts to mussels, and how those outcomes link to human health outcomes using the One Health framework.</li>
-<li>The authors focus on heavy metals and pharmaceuticals as the perturbation/ mixture.</li>
-<li>Call to Action: Integrate monitoring programs, molecular ecotox, and new tech to mitigate contaminant’s entry into waterways.</li>
-</ul></li>
-<li>I moved into task planning. I identified the main projects that must be pushed forward, the secondary projects that are moving forward under delegated efforts, and potential upcoming project work.
+<li>I am still running the methylation analysis with the standard alignment parameters (L,0, -0.6) because this aligment stringency is the best balance between mapping efficiency and not inflating the CHH or CHG percentages; methylation percentage changes marginally (11.5% to 11.7%)</li>
+<li>Clarifying what I mean re: parameters below. When running Bismark and Bowtie2, the list of parameters below tell the programs what to do.
 <ul>
-<li>This took a significantly longer time to get through, so I focused on the priority project tasks in the allotted time block.</li>
-<li>Thursday will see a revisit of the task defining and scheduling since I need to pivot to meeting prep.</li>
+<li>First, The goal is to convert the reference genome to a bisulfite- ready version for alignment, and then Bowtie2 aligns my sample sequences with the bisulfite- converted reference genome.</li>
+<li>Alignment ‘matching’ stringency. This parameter check was done on the first 10k sequences of the aligned test sequences (69M- high PAH and 272M- low PAH) scores ranging from L,0,-4 to L,-1,-0.6). This is basically a ‘how many mismatches are too many’ check - the smaller the number (more negative), the more relaxed the matching and potentially the driver behind mapping efficiency differences. L- linear function, first number is the intercept, second number is the slope. These are impacted by read length… will add read length thresholds as a later- knowledge project.</li>
+<li>Output order. The Reorder call just puts the outputs in the same order as the inputs and supports future troubleshooting. This is for organization/ file management.</li>
+<li>Quality score. The call to ignore-quals is just a way to bypass any PHRED/ quality scores and treat all of the sequences the same. This is a data management command.</li>
+<li>R1 and R2 are a team. The —no-mixed command tells Bowtie2 to keep sequence pairs together, when one aligns but the other does not, the whole thing has to go. This makes the mapping more conservative and supports downstream analysis/ interpretation.</li>
+<li>Direction. Non-directional versus directional calls either release or restrict the directional library assumptions. Library prep should have preserved strand directionality and this is the default call for the program, so no need for changing up now!</li>
+<li>Discordancey. A no-discordant call forces the alignments to follow paired-end logic (supporting the —no-mixed command).</li>
+<li>Dovetail and maxins: next up to double check they are actually commands to ensure fragments and overlapping reads aren’t discarded, but I have to double check that because all of the online resources use descriptions that are as clear as mud.</li>
 </ul></li>
-<li>First ‘meeting’ was my working block with KPJ.
-<ul>
-<li>I walked myself through the Bismark results so I could understand what I was seeing and what questions I actually needed to ask.</li>
-<li>I returned to my problem trying to access the qc programs. I haven’t been able to run a successful MultiQC yet. So, I created an environment in Raven where I can run FastQC and MultiQC without searching for the tools to only find the directories - this means I either don’t get a result, or the result returns an error after running for days.</li>
-<li>I updated my QC, trim, alignment and deduplication scripts to reflect this new environment.</li>
-<li>I ran the QC and trim files for all remaining sequences; I hadn’t done that yet, only for the two I am working with.</li>
 </ul></li>
-<li>I left that work block and joined lab meeting. We shared progress and upcoming plans.
-<ul>
-<li>I need to update the lab calendar with my availability next quarter.</li>
-</ul></li>
-<li>I moved over to my weekly eDNA meeting with Connor and Kassi P
-<ul>
-<li>We went over the introductory literature I shared, field protocols (for Connor’s upcoming work), and next steps for our meeting in two weeks.</li>
-</ul></li>
-<li>I completed my second of three total high school marine bio sessions after that.</li>
-<li>Once meetings were out of the way, the remainder of the day was spent monitoring the QC and trimming scripts on Raven and knocking out some UW-RUA tasks for travelers.</li>
+<li>I shifted over to sketching out a few poster ideas, settling on one that is too conceptual, and returning to square one.</li>
 </ul>
 <hr>
 </section>
 <section id="outcomes-products-word-count" class="level3">
 <h3 class="anchored" data-anchor-id="outcomes-products-word-count">Outcomes: Products &amp; Word Count</h3>
 <ul>
-<li>No direct products</li>
+<li>Bismark &amp; Bowtie2 Command Breakdown: 578 words</li>
 </ul>
 <div>
 <blockquote class="blockquote">
-<p><strong>Today’s total: 0 words</strong></p>
-<p><strong>Monthly total to date: 9075 words</strong></p>
-<p><strong>Annual total to date: 30,770 words</strong></p>
-<p><strong>Annual target total to date: 42,000 words</strong></p>
+<p><strong>Today’s total: 578 words</strong></p>
+<p><strong>Monthly total to date: 10,977 words</strong></p>
+<p><strong>Annual total to date: 32,672 words</strong></p>
+<p><strong>Annual target total to date: 43,500 words</strong></p>
 </blockquote>
 </div>
 </section>
 <section id="next-up-tomorrows-plan" class="level3">
 <h3 class="anchored" data-anchor-id="next-up-tomorrows-plan">Next Up: Tomorrow’s Plan</h3>
 <ul>
-<li>To complete the task ‘scheduling’ and prepare for the smaller project deliverables upcoming between March 31st - April 6th.</li>
+<li>Taking the day off to hang out with the kid</li>
 </ul>
 
 
