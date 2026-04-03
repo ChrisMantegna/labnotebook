@@ -75,20 +75,26 @@ editor:
         alignment runs and lets me move forward in the methylation
         analysis. As of 1738, sample 95M has been running since
         about 1345. Let's hope it will wrap up before the morning.
+    -   It did finish and I was able to get the deduplication and
+        MultiQC up and running by 1920, so that should be finished
+        before morning.
+-   I outlined/ brain dumped the methylation chapter sections into a
+    Google doc while I watched the deduplications run for a bit, and
+    called it a day.
 
 ------------------------------------------------------------------------
 
 ### Outcomes: Products & Word Count
 
--   Something...: 0 words
+-   Outlining Methylation Chapter: 553 words
 
 <div>
 
-> **Today's total: 0 words**
+> **Today's total: 553 words**
 >
-> **Monthly total to date: 10,977 words**
+> **Monthly total to date: 11,550 words**
 >
-> **Annual total to date: 32,672 words**
+> **Annual total to date: 33,225 words**
 >
 > **Annual target total to date: 46,000 words**
 
