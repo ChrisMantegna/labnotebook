@@ -1,0 +1,80 @@
+---
+title: "Methylation Analysis"
+date: "2026-04-03"
+categories:
+  - DNA Methylation
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: March 30 - April 5, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   Moving forward.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Catch up on UW-RUA and NWS Poster~~
+>
+> ~~Tuesday - UW-RUA, No Science~~
+>
+> ~~Wednesday - Biomarker Manuscript~~
+>
+> ~~Thursday - Biomarker Manuscript~~
+>
+> Friday - NWS Symposium
+>
+> Saturday - Biomarker Manuscript
+>
+> Sunday - No Science
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   Something
+
+### Projects Touched Today
+
+-   DNA Methylation
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   Something
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Methylation Analysis Details: 368 words
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 11,550 words**
+>
+> **Annual total to date: 33,225 words**
+>
+> **Annual target total to date: 46,500 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Will be determined tomorrow.
