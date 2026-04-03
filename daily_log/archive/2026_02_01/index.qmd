@@ -1,0 +1,46 @@
+---
+title: "February Goals"
+date: '2026-02-01'
+categories:
+  - monthly goals
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+### February Goals
+
+1. Get the biomarker manuscript over to WDFW for review and sign-off for 31 March 2026 ICB submission deadline.   
+
+2.  Begin mussel experiment for Chapter 3 & 4.
+
+3.  Complete DNA methylation data processing and begin exploratory analysis.
+
+### Strategies for Success
+
+#### Goal 1
+1. Finish polished visualizations, tables, and captions for the biomarker manuscript.
+2. Prepare a folder of polished supplementary materials, i.e., index maps, transformed data tables, and cleaned up R scripts.
+3. Send manuscript to complete committee for feedback.
+
+#### Goal 2
+1. Put together a detailed experimental plan including timeline, materials needed, and data collection methods with 1-3 options for setup.
+2. Complete the Lab Risk Assessment form from EH&S to discuss with Steven to get approval for the experiment.
+3. Connect with Jon W and Sam W to work through physical space, setups, and ordering materials.
+
+#### Goal 3
+1. Re-familiarize myself with where I left off in late 2025 and backup the large files.
+2. Move through the initial Bismark pipeline (which I believe I finished) into optimizing alignment parameters and using that outcome for subsequent steps. 
+3. Quantify methylation levels and visualize using IGV or JBrowse.
+4. Get feedback on initial results from Steven and/or other lab members before moving into downstream analyses.
+
+
+
+
+
+
+
+
+
+

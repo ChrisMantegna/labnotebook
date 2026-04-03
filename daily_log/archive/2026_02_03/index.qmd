@@ -1,0 +1,46 @@
+---
+title: "Lab Notebook Posts v Notion Notes"
+date: '2026-02-03'
+categories:
+  - lab notebook
+  - mentoring
+  - mussel pilot experiment
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+### Projects Touched Today
+
+-   lab notebook
+-   mentoring
+-   mussel pilot experiment
+
+### New Knowledge
+
+-   I first knocked out Darian's recommendation letter for a summer internship; had to get back into the writing groove.
+-   Next, I put together a weekly wrap-up post on my 1/25/26 resazurin trial with my pilot experiment mussels.
+-   I built the table with the observations of the pilot experiment to add to the pilot repo, and I made a few notes about what should go in the README for a small task later this week.
+-   I finished by moving my Notion daily notes to my daily notebook post template and updating the entire month of January. The ease of just adding a few lines in Notion (via my button) doesn't really translate into an easy post setup, so I need to think about how to streamline that process. I like that I can capture what I'm doing or questions I have in the moment, but those are a bit too loosey- goosey.
+
+### Old Tricks
+
+-   It was a RUA day, so getting some of my admin tasks out of the way was a bigger win than I expected.
+
+### Word Count (Productivity)
+
+*A note on word count/ productivity: I do not include task- based writing, for example the recommendation letter and cleaning up my January notebooks posts, because those don't directly move my work forward. I do count the resazurin post, because it was a synthesis of the work, a reflection on the results, and a plan for next steps.*
+
+-   Resazurin post: 713 words
+-   **Today's total: 713 words**
+-   **Monthly total to date: 713 words**
+-   **Annual total to date: 10,969 words**
+
+### Questions or Concerns?
+
+-   None.
+
+### Tomorrow's Plan
+
+-   Will be made tomorrow to include resazurin analysis, editing and refining biomarker viz, and updating February noteboook posts.
