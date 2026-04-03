@@ -1,0 +1,99 @@
+---
+title: "April Showers for Sure"
+date: "2026-04-02"
+categories:
+  - DNA Methylation
+  - Lab Notebook
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: March 30 - April 5, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   I am finally as close to healthy as I have been in awhile, so as
+    long as the anxiety of being so behind doesn't take me out, I will
+    be solid!
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Catch up on UW-RUA and NWS Poster~~
+>
+> ~~Tuesday - UW-RUA, No Science~~
+>
+> ~~Wednesday - Biomarker Manuscript~~
+>
+> Thursday - Biomarker Manuscript
+>
+> Friday - NWS Symposium
+>
+> Saturday - Biomarker Manuscript
+>
+> Sunday - No Science
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   The plan today is to try and focus for short working blocks in
+    between my obligations.
+
+### Projects Touched Today
+
+-   DNA Methylation
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   I started today handling personal business.
+-   Next up was Connor's MS defense where he demonstrated how morphology
+    helped clarify some of the evolutionary relationships amongst
+    diverse fishes using the skull shape of sticklebacks. It was very
+    cool to see the culmination of a ton of hard work!
+-   I pulled my log notes from Notion to update my lab notebook. Not too
+    many things going on so far this week so that was quick.
+-   I checked in on the methylation work and found that at some point
+    prior to lunchtime my terminal disconnected. I got to repeat the
+    erase/ rerun circle from yesterday.
+    -   Since I don't trust the option to close the browser and continue
+        the work, the humpback whale sanctuary in Hawaii has been
+        running any time I have to leave my computer to ensure the final
+        alignment runs and lets me move forward in the methylation
+        analysis. As of 1738, sample 95M has been running since
+        about 1345. Let's hope it will wrap up before the morning.
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Something...: 0 words
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 10,977 words**
+>
+> **Annual total to date: 32,672 words**
+>
+> **Annual target total to date: 46,000 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Will be determined tomorrow.
