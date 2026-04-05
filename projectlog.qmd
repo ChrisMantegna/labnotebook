@@ -15,5 +15,5 @@ listing:
 ![](img/ducks_in_row.jpeg){fig-align="center" width="445"}
 
 ::: {style="text-align:center"}
-Keeping my project working notes, decisions and process updates in a single place.
+Under construction as of 04.04.2026. The goal is to Keep my project working notes, decisions and process updates in a single place, rather than search my daily posts or Notion notes.
 :::

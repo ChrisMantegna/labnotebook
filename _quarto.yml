@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Progress Makes a PhD"
+  site-url: "https://chrismantegna.github.io/labnotebook/"
   navbar:
     right:
     - text: Home
