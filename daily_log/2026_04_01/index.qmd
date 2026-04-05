@@ -3,7 +3,7 @@ title: "No April Goal Setting"
 date: "2026-04-01"
 categories:
   - NWS Straits Symposium
-  - DNA Methylation
+  - Mussel Methylation
 execute:
   echo: false
   warning: false
@@ -97,7 +97,7 @@ editor:
 
 > **Today's total: 0 words**
 >
-> **Monthly total to date: 10,977 words**
+> **Monthly total to date: 0 words**
 >
 > **Annual total to date: 32,672 words**
 >

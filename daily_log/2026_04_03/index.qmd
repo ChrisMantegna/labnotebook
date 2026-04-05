@@ -2,7 +2,7 @@
 title: "Methylation Analysis"
 date: "2026-04-03"
 categories:
-  - DNA Methylation
+  - Mussel Methylation
 execute:
   echo: false
   warning: false
@@ -188,7 +188,7 @@ editor:
 
 > **Today's total: 368 words**
 >
-> **Monthly total to date: 11,918 words**
+> **Monthly total to date: 921 words**
 >
 > **Annual total to date: 33,593 words**
 >

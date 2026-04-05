@@ -2,7 +2,7 @@
 title: "April Showers for Sure"
 date: "2026-04-02"
 categories:
-  - DNA Methylation
+  - Mussel Methylation
   - Lab Notebook
 execute:
   echo: false
@@ -92,7 +92,7 @@ editor:
 
 > **Today's total: 553 words**
 >
-> **Monthly total to date: 11,550 words**
+> **Monthly total to date: 553 words**
 >
 > **Annual total to date: 33,225 words**
 >

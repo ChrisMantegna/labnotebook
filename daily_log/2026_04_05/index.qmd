@@ -1,0 +1,83 @@
+---
+title: "Why Easter Egg Hunts are Just Moshpits for Kids"
+date: "2026-04-05"
+categories:
+  - Mussel Methylation
+  - Mussel Biomarkers
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: March 30 - April 5, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   Moving forward.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Catch up on UW-RUA and NWS Poster~~
+>
+> ~~Tuesday - UW-RUA, No Science~~
+>
+> ~~Wednesday - Biomarker Manuscript~~
+>
+> ~~Thursday - Biomarker Manuscript~~
+>
+> ~~Friday - NWS Symposium~~
+>
+> ~~Saturday - Biomarker Manuscript~~
+>
+> Sunday - No Science
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   Keep the methylation analysis moving forward
+-   Something
+
+### Projects Touched Today
+
+-   DNA Methylation
+-   Mussel Biomarkers
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   I did things...
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Something: 0 words
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 921 words**
+>
+> **Annual total to date: 33,593 words**
+>
+> **Annual target total to date: 46,500 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Set April goals and attainment plan.
