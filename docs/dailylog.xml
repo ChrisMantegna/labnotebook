@@ -12,7 +12,7 @@
 <generator>quarto-1.5.57</generator>
 <lastBuildDate>Sun, 05 Apr 2026 07:00:00 GMT</lastBuildDate>
 <item>
-  <title>Why Easter Egg Hunts are Just Moshpits for Kids</title>
+  <title>Plotting</title>
   <link>https://chrismantegna.github.io/labnotebook/daily_log/2026_04_05/</link>
   <description><![CDATA[ 
 
@@ -47,7 +47,7 @@
 <h4 class="anchored" data-anchor-id="granular-level-task-list-to-accomplish-the-high--level-goal-outlined-above"><em>Granular level task list to accomplish the high- level goal outlined above</em></h4>
 <ul>
 <li>Keep the methylation analysis moving forward</li>
-<li>Something</li>
+<li>Biomarker visualizations</li>
 </ul>
 </section>
 </section>
@@ -62,28 +62,48 @@
 <section id="progress-notes" class="level3">
 <h3 class="anchored" data-anchor-id="progress-notes">Progress Notes</h3>
 <ul>
-<li>I did things…</li>
+<li>Today’s working window is limited because it is Easter and I have Easter bunny, Easter chef, Easter everything duties.</li>
+<li>First checked in on the methylation extractions. They’re still running and looking good for what I understand at this moment.&nbsp;
+<ul>
+<li>Tried to rsync and failed again- getting an error that my directory isn’t found. I triple checked the syntax, double checked my passwords, verified the location and paths, double checked gannet… I will check again when I’m less frustrated to make sure I’m not overlooking a simple error.&nbsp;</li>
+</ul></li>
+<li>Shifted over to the biomarker plots from yesterday.&nbsp;
+<ul>
+<li><p>I realized most of the plotting for the manuscript does not align with the narrative, so I prioritized the manuscript plots (IBR scores, contaminant indices, maps), identified the extraneous plots (transformed data before IBR creation, contaminant plots that are redundant because of the maps, radar plots), and moved over to the tables to do the same thing. The only two tables that are important are the correlation tables, the rest are supplementary.&nbsp;</p></li>
+<li><p>Worth note, because there are 74 sites, these plots are created at the reporting area level for ease of understanding and the larger take home message clarity. The non-map plots are all box and whisker plots with the individual site data indicated as points.&nbsp;</p></li>
+<li><p>First up, reviewing where I left off on the IBRs since I got the multi-panel layout setup but stopped before reviewing the axes, labels, take home message alignment.&nbsp;</p></li>
+<li><p>The goal of this plot is to keep the combined score front and center since the analysis is based on that, and then to show how the biomarkers and morphometrics contributed to the combined score.&nbsp;</p></li>
+<li><p>I didn’t mess with the labels because they are currently good enough for what I need.&nbsp;</p></li>
+<li><p>I will need some feedback on how to handle the outliers that are compressing the graphs themselves into negligible boxes.&nbsp;</p></li>
+</ul></li>
 </ul>
+<p>Shifting to the kable() package makes an easily formatted table with almost no effort, like the one below. Most notably, this table is important becasue of the variability in site number - it is something I have not spoken to re: manuscript, but will have to. Additionally, the outlier problem is clear in the IBR plot (below).</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/daily_log/2026_04_05/img/ra_site_summary.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="300"></p>
+</figure>
+</div>
+<p><img src="https://chrismantegna.github.io/labnotebook/daily_log/2026_04_05/img/Fig3_IBR_by_group.png" class="img-fluid"></p>
 <hr>
 </section>
 <section id="outcomes-products-word-count" class="level3">
 <h3 class="anchored" data-anchor-id="outcomes-products-word-count">Outcomes: Products &amp; Word Count</h3>
 <ul>
-<li>Something: 0 words</li>
+<li>Refining plots: 4 plots</li>
 </ul>
 <div>
 <blockquote class="blockquote">
 <p><strong>Today’s total: 0 words</strong></p>
 <p><strong>Monthly total to date: 921 words</strong></p>
 <p><strong>Annual total to date: 33,593 words</strong></p>
-<p><strong>Annual target total to date: 46,500 words</strong></p>
+<p><strong>Annual target total to date: 47,000 words</strong></p>
 </blockquote>
 </div>
 </section>
 <section id="next-up-tomorrows-plan" class="level3">
 <h3 class="anchored" data-anchor-id="next-up-tomorrows-plan">Next Up: Tomorrow’s Plan</h3>
 <ul>
-<li>Set April goals and attainment plan.</li>
+<li>Set April goals and attainment plan, begin to frame my 1v1 with Steven for Wednesday.</li>
 </ul>
 
 

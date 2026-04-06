@@ -98,14 +98,21 @@ editor:
     -   I will need some feedback on how to handle the outliers that are
         compressing the graphs themselves into negligible boxes. 
 
-Shifting to the kable() package makes an easily formatted table, like
-the one below.
+Shifting to the kable() package makes an easily formatted table with
+almost no effort, like the one below. Most notably, this table is
+important becasue of the variability in site number - it is something I
+have not spoken to re: manuscript, but will have to. Additionally, the
+outlier problem is clear in the IBR plot (below).
+
+![](img/ra_site_summary.png){fig-align="left" width="300"}
+
+![](img/Fig3_IBR_by_group.png)
 
 ------------------------------------------------------------------------
 
 ### Outcomes: Products & Word Count
 
--   Something: 0 words
+-   Refining plots: 4 plots
 
 <div>
 
@@ -115,10 +122,11 @@ the one below.
 >
 > **Annual total to date: 33,593 words**
 >
-> **Annual target total to date: 46,500 words**
+> **Annual target total to date: 47,000 words**
 
 </div>
 
 ### Next Up: Tomorrow's Plan
 
--   Set April goals and attainment plan.
+-   Set April goals and attainment plan, begin to frame my 1v1 with
+    Steven for Wednesday.
