@@ -146,14 +146,30 @@
 <section id="progress-notes" class="level3">
 <h3 class="anchored" data-anchor-id="progress-notes">Progress Notes</h3>
 <ul>
-<li>I did things…</li>
-</ul>
+<li>Returning to the biomarker visualizations in R, not just GIS, I had to review what I had, figure out if it was correct, and adjust what wasn’t.
+<ul>
+<li><p>First, reviewing the existing viz, I created many with gt(), this will not render beyond HTML - a thing I did not know until too much Googling put me on the right path. To have tables/ data visualizations render in a Word or PDF, the kable() package has to be used in place of the gt() call that is great for my lab notebook, but not for my outputs.&nbsp;</p></li>
+<li><p>Shifting to kable() also means a change in syntax that took waaaaaaaay too long - I have gotten into a rhythm with tidy and the html rendering since I add something to my digital notebook more often than adjusting my other work - so I focused on web- based rendering, instead of investigating the differences, this made the whole thing feel really silly.</p>
+<ul>
+<li><p>I took the existing code, used the <a href="https://rladies.org/">R-Ladies</a> platform that has been a huge help in other work, and compared based on output before fixing, getting CoPilot to help with syntax, and running the new part correctly.</p></li>
+<li><p>After that, I rendered the remaining plots in R before deciding what needed to be adjusted - don’t want to waste time. The tables, in manuscript and supplementary, needed to be reworked, along with the multi-faceted plots for the IBRs. I went to work on those.</p></li>
+<li><p>The base structures are good and can be adjusted once revisions are underway.&nbsp;</p></li>
+</ul></li>
+</ul></li>
+<li>For the methylation work, I checked in multiple times throughout the day to ensure my extractions were continuing to run properly.
+<ul>
+<li><p>By the end of the day, the extractions were about halfway completed.</p>
+<div>
 <hr>
+</div></li>
+</ul></li>
+</ul>
 </section>
 <section id="outcomes-products-word-count" class="level3">
 <h3 class="anchored" data-anchor-id="outcomes-products-word-count">Outcomes: Products &amp; Word Count</h3>
 <ul>
-<li>Something: 0 words</li>
+<li>Biomarker Plots: 1 multi-panel</li>
+<li>Biomarker Tables: 2 tables</li>
 </ul>
 <div>
 <blockquote class="blockquote">
@@ -167,7 +183,7 @@
 <section id="next-up-tomorrows-plan" class="level3">
 <h3 class="anchored" data-anchor-id="next-up-tomorrows-plan">Next Up: Tomorrow’s Plan</h3>
 <ul>
-<li>Set April goals and attainment plan.</li>
+<li>Tomorrow is Easter, so I have some cooking and family time ahead.</li>
 </ul>
 
 

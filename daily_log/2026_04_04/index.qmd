@@ -58,13 +58,52 @@ editor:
 
 ### Progress Notes
 
--   I did things...
+-   Returning to the biomarker visualizations in R, not just GIS, I had
+    to review what I had, figure out if it was correct, and adjust what
+    wasn’t.
+    -   First, reviewing the existing viz, I created many with gt(),
+        this will not render beyond HTML - a thing I did not know until
+        too much Googling put me on the right path. To have tables/ data
+        visualizations render in a Word or PDF, the kable() package has
+        to be used in place of the gt() call that is great for my lab
+        notebook, but not for my outputs. 
 
-------------------------------------------------------------------------
+    -   Shifting to kable() also means a change in syntax that took
+        waaaaaaaay too long - I have gotten into a rhythm with tidy and
+        the html rendering since I add something to my digital notebook
+        more often than adjusting my other work - so I focused on web-
+        based rendering, instead of investigating the differences, this
+        made the whole thing feel really silly.
+
+        -   I took the existing code, used the
+            [R-Ladies](https://rladies.org/) platform that has been a
+            huge help in other work, and compared based on output before
+            fixing, getting CoPilot to help with syntax, and running the
+            new part correctly.
+
+        -   After that, I rendered the remaining plots in R before
+            deciding what needed to be adjusted - don’t want to waste
+            time. The tables, in manuscript and supplementary, needed to
+            be reworked, along with the multi-faceted plots for the
+            IBRs. I went to work on those.
+
+        -   The base structures are good and can be adjusted once
+            revisions are underway. 
+-   For the methylation work, I checked in multiple times throughout the
+    day to ensure my extractions were continuing to run properly.
+    -   By the end of the day, the extractions were about halfway
+        completed.
+
+        <div>
+
+        ------------------------------------------------------------------------
+
+        </div>
 
 ### Outcomes: Products & Word Count
 
--   Something: 0 words
+-   Biomarker Plots: 1 multi-panel
+-   Biomarker Tables: 2 tables
 
 <div>
 
@@ -80,4 +119,4 @@ editor:
 
 ### Next Up: Tomorrow's Plan
 
--   Set April goals and attainment plan.
+-   Tomorrow is Easter, so I have some cooking and family time ahead.

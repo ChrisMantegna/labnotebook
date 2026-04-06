@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Daily Log – Progress Makes a PhD</title>
+<title>About – Progress Makes a PhD</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,73 +66,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Progress Makes a PhD" href="dailylog.xml" data-external="1"></head>
+</head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -153,7 +93,7 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -194,200 +134,161 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Daily Log</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(12)</span></div><div class="category" data-category="Lab Notebook">Lab Notebook <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mussel Biomarkers">Mussel Biomarkers <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Mussel Methylation">Mussel Methylation <span class="quarto-category-count">(5)</span></div><div class="category" data-category="NWS Straits Symposium">NWS Straits Symposium <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="img/labnotebookmeme.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="445"></p>
-</figure>
-</div>
-<div style="text-align:center">
-<p>It’s all fun and games until your adviser asks if you’ve updated your lab notebook!</p>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">About</h1>
 </div>
 
 
 
+<div class="quarto-title-meta column-page">
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Date
-</th>
-<th>
-Title
-</th>
-<th>
-Author
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="Mussel Methylation,Mussel Biomarkers" data-listing-date-sort="1775372400000" data-listing-file-modified-sort="1775415375234" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="144" data-listing-title-sort="Why Easter Egg Hunts are Just Moshpits for Kids" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Apr 5, 2026</span>
-</td>
-<td>
-<a href="./daily_log/2026_04_05/index.html" class="title listing-title">Why Easter Egg Hunts are Just Moshpits for Kids</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="1" data-categories="Mussel Methylation,Mussel Biomarkers" data-listing-date-sort="1775286000000" data-listing-file-modified-sort="1775492119525" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="703" data-listing-title-sort="Methylation and Biomarker Visualizations" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Apr 4, 2026</span>
-</td>
-<td>
-<a href="./daily_log/2026_04_04/index.html" class="title listing-title">Methylation and Biomarker Visualizations</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="2" data-categories="Mussel Methylation" data-listing-date-sort="1775199600000" data-listing-file-modified-sort="1775414762712" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1653" data-listing-title-sort="Methylation Analysis" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Apr 3, 2026</span>
-</td>
-<td>
-<a href="./daily_log/2026_04_03/index.html" class="title listing-title">Methylation Analysis</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="3" data-categories="Mussel Methylation,Lab Notebook" data-listing-date-sort="1775113200000" data-listing-file-modified-sort="1775414700105" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="494" data-listing-title-sort="April Showers for Sure" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Apr 2, 2026</span>
-</td>
-<td>
-<a href="./daily_log/2026_04_02/index.html" class="title listing-title">April Showers for Sure</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="4" data-categories="NWS Straits Symposium,Mussel Methylation" data-listing-date-sort="1775026800000" data-listing-file-modified-sort="1775414683427" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="622" data-listing-title-sort="No April Goal Setting" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Apr 1, 2026</span>
-</td>
-<td>
-<a href="./daily_log/2026_04_01/index.html" class="title listing-title">No April Goal Setting</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="5" data-listing-date-sort="1772352000000" data-listing-file-modified-sort="1775177639784" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="89" data-listing-word-count-sort="17722" data-listing-title-sort="2026 March Daily Posts" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Mar 1, 2026</span>
-</td>
-<td>
-<a href="./daily_log/2026_03/index.html" class="title listing-title">2026 March Daily Posts</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="6" data-listing-date-sort="1769932800000" data-listing-file-modified-sort="1773863344169" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="25" data-listing-word-count-sort="4911" data-listing-title-sort="2026 February Daily Posts" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Feb 1, 2026</span>
-</td>
-<td>
-<a href="./daily_log/2026_02/index.html" class="title listing-title">2026 February Daily Posts</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="7" data-listing-date-sort="1767254400000" data-listing-file-modified-sort="1770834306140" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="32" data-listing-word-count-sort="6348" data-listing-title-sort="2026 January Daily Posts" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Jan 1, 2026</span>
-</td>
-<td>
-<a href="./daily_log/2026_01/index.html" class="title listing-title">2026 January Daily Posts</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="8" data-listing-date-sort="1764576000000" data-listing-file-modified-sort="1770191069720" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1951" data-listing-title-sort="2025 December Daily Posts" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Dec 1, 2025</span>
-</td>
-<td>
-<a href="./daily_log/2025_12/index.html" class="title listing-title">2025 December Daily Posts</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="9" data-listing-date-sort="1761980400000" data-listing-file-modified-sort="1765316180495" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2325" data-listing-title-sort="2025 November Daily Posts" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Nov 1, 2025</span>
-</td>
-<td>
-<a href="./daily_log/2025_11/index.html" class="title listing-title">2025 November Daily Posts</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="10" data-listing-date-sort="1759302000000" data-listing-file-modified-sort="1765316178534" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="16" data-listing-word-count-sort="3149" data-listing-title-sort="2025 October Daily Posts" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Oct 1, 2025</span>
-</td>
-<td>
-<a href="./daily_log/2025_10/index.html" class="title listing-title">2025 October Daily Posts</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-<tr data-index="11" data-listing-date-sort="1756710000000" data-listing-file-modified-sort="1762900629256" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="898" data-listing-title-sort="2025 September Daily Posts" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">Sep 1, 2025</span>
-</td>
-<td>
-<a href="./daily_log/2025_09/index.html" class="title listing-title">2025 September Daily Posts</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="columns">
+<div class="column" style="width:35%;">
+<p><img src="img/20240623_FH2_211.jpg" class="img-fluid" style="width:90%; border-radius: 12px;" alt="Portrait of Chris Mantegna"></p>
+<div class="callout callout-style-simple callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-</div></main> <!-- /main -->
+<div class="callout-title-container flex-fill">
+Connect
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><a href="mailto:mantegna@uw.edu">Email</a><br>
+<a href="https://github.com/ChrisMantegna">GitHub</a><br>
+<a href="./labnotebook/">Lab Notebook</a><br>
+<a href="./content/chris-mantegna-cv.pdf">Download Full CV</a></p>
+</div>
+</div>
+</div><div class="column" style="width:65%;">
+<section id="hi-im-chris." class="level1">
+<h1>Hi, I’m Chris.</h1>
+<p>I am a marine scientist, educator, and community-engaged researcher working across ecotoxicology, environmental epigenetics, intertidal ecology, and science education. My work uses marine organisms and coastal systems to ask questions about contamination, biological response, biodiversity, and how we build more inclusive pathways into science.</p>
+<p>I am currently a PhD student in Aquatic and Fishery Sciences at the University of Washington, where my research connects biomarker and epigenetic approaches in mussels with broader questions about environmental stress, ecosystem health, and marine conservation. Alongside this work, I design and teach place-based marine science learning experiences that bring together research, mentorship, and public engagement.</p>
+<p>This site is a living lab notebook and professional home for my projects, field and analysis notes, teaching materials, and evolving ideas. I care deeply about science that is rigorous, collaborative, and useful beyond the academy.</p>
+</section>
+</div>
+</div>
+<section id="research-focus" class="level2">
+<h2 class="anchored" data-anchor-id="research-focus">Research Focus</h2>
+<div class="grid">
+<section id="environmental-epigenetics" class="level3 g-col-12 g-col-md-6">
+<h3 class="anchored" data-anchor-id="environmental-epigenetics">Environmental epigenetics</h3>
+<p>I am interested in how marine invertebrates respond to environmental stress through mechanisms such as DNA methylation, and how those responses can complement more traditional measures of organismal condition.</p>
+</section>
+<section id="biomarkers-and-contaminants" class="level3 g-col-12 g-col-md-6">
+<h3 class="anchored" data-anchor-id="biomarkers-and-contaminants">Biomarkers and contaminants</h3>
+<p>My research uses mussels and related biomarker approaches to assess contaminant exposure and biological response across Puget Sound and the Salish Sea.</p>
+</section>
+<section id="intertidal-ecology-and-edna" class="level3 g-col-12 g-col-md-6">
+<h3 class="anchored" data-anchor-id="intertidal-ecology-and-edna">Intertidal ecology and eDNA</h3>
+<p>I build projects that connect biodiversity monitoring, intertidal field ecology, and molecular tools to better understand nearshore ecosystems.</p>
+</section>
+<section id="teaching-and-access" class="level3 g-col-12 g-col-md-6">
+<h3 class="anchored" data-anchor-id="teaching-and-access">Teaching and access</h3>
+<p>I design marine science learning spaces that center mentorship, interdisciplinary thinking, and community connection.</p>
+</section>
+</div>
+</section>
+<section id="selected-experience" class="level2">
+<h2 class="anchored" data-anchor-id="selected-experience">Selected Experience</h2>
+<section id="education" class="level3">
+<h3 class="anchored" data-anchor-id="education">Education</h3>
+<ul>
+<li><strong>PhD, Aquatic &amp; Fishery Sciences</strong>, University of Washington<br>
+Expected December 2028</li>
+<li><strong>BSc, Marine Biology</strong>, University of Washington<br>
+June 2021</li>
+<li><strong>ASc-T, Biology</strong>, Green River College<br>
+May 2019</li>
+</ul>
+</section>
+<section id="selected-publications" class="level3">
+<h3 class="anchored" data-anchor-id="selected-publications">Selected Publications</h3>
+<ul>
+<li><strong>Mantegna, C.</strong> <em>Ecologists: don’t lose touch with the joy of fieldwork.</em> Nature World View. 2024.</li>
+<li><strong>Mantegna, C., Nordstrom, D., Langness, M., Roberts, S., &amp; Gardell, A.</strong> <em>Biochemical biomarker response in Mytilus trossulus across Puget Sound.</em> In prep. 2026.</li>
+</ul>
+</section>
+<section id="teaching-mentorship-and-public-engagement" class="level3">
+<h3 class="anchored" data-anchor-id="teaching-mentorship-and-public-engagement">Teaching, Mentorship, and Public Engagement</h3>
+<ul>
+<li><strong>Lead Instructor</strong>, Marine Ecology, Summit Public Schools &amp; Salish Sea Sciences</li>
+<li><strong>Lead Mentor</strong>, Yellow Island Intertidal Monitoring Program</li>
+<li><strong>Co-Facilitator</strong>, Intertidal Innovators</li>
+<li><strong>Co-Instructor</strong>, ENVIR 401: Analysis of Environmental Cases</li>
+<li><strong>Invited Speaker</strong>, Friday Harbor Labs Seminar Series</li>
+<li><strong>Presenter</strong>, Society for Integrative and Comparative Biology Conference</li>
+</ul>
+</section>
+<section id="awards-and-recognition" class="level3">
+<h3 class="anchored" data-anchor-id="awards-and-recognition">Awards and Recognition</h3>
+<ul>
+<li>National Science Foundation Graduate Research Fellowship</li>
+<li>EarthLab Innovation Grant</li>
+<li>The Nature Conservancy Salish Sea Research Grant</li>
+<li>Husky 100</li>
+</ul>
+</section>
+</section>
+<section id="current-tools-and-methods" class="level2">
+<h2 class="anchored" data-anchor-id="current-tools-and-methods">Current Tools and Methods</h2>
+<ul>
+<li>R and Quarto for reproducible analysis and communication</li>
+<li>QGIS and spatial analysis workflows</li>
+<li>Biomarker analysis in marine organisms</li>
+<li>Environmental epigenetics and WGBS workflow development</li>
+<li>Intertidal field survey design and biodiversity monitoring</li>
+<li>eDNA and community-based marine science education</li>
+</ul>
+</section>
+<section id="how-to-use-this-site" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-use-this-site">How to Use This Site</h2>
+<p>This notebook brings together several parts of my work:</p>
+<ul>
+<li><strong>Project pages</strong> for ongoing research and writing</li>
+<li><strong>Daily and archived lab notes</strong> documenting process and decision-making</li>
+<li><strong>Methods and workflow development</strong> for analysis and reproducibility</li>
+<li><strong>Public-facing reflections</strong> on science, teaching, and community-engaged work</li>
+</ul>
+</section>
+<section id="a-few-things-i-care-about" class="level2">
+<h2 class="anchored" data-anchor-id="a-few-things-i-care-about">A Few Things I Care About</h2>
+<ul>
+<li>Building rigorous science that remains accessible and useful</li>
+<li>Expanding who feels welcomed into marine and environmental science</li>
+<li>Connecting fieldwork, molecular methods, and community knowledge</li>
+<li>Keeping curiosity, joy, and care present in scientific practice</li>
+</ul>
+</section>
+<section id="contact" class="level2">
+<h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<p>I’m especially interested in connections around marine ecotoxicology, environmental epigenetics, intertidal ecology, inclusive STEM education, and collaborative public science.</p>
+<p>You can reach me at <a href="mailto:mantegna@uw.edu">mantegna@uw.edu</a>.</p>
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -480,7 +381,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/chrismantegna\.github\.io\/labnotebook\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
