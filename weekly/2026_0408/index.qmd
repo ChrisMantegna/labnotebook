@@ -19,6 +19,8 @@ editor:
     wrap: 72
 ---
 
+![](img/ducks_in_row.jpeg){fig-align="left"}
+
 # Agenda
 
 1.  Update on written deliverables outlined in Alert letter
@@ -49,7 +51,7 @@ editor:
 > The [visualization
 > folder](https://drive.google.com/drive/folders/1R0JdGaXCd9mbIvC50LE_isQUySmplZhu?usp=sharing)
 >
-> Next steps are...
+> Next steps are listed in Section 4.
 
 > **1.2 Mussel Methylation Manuscript** (Deliverable 3 of 3 in Academic
 > Alert)
@@ -127,7 +129,6 @@ editor:
 >     output with my tenure in the program to demonstrate progress per
 >     [policy
 >     3.7](https://grad.uw.edu/policies/3-7-academic-performance-and-progress/).
->
 >     -   As I understand it, progress in the policy is defined by 3
 >         metrics with the caveat that individual plan adaptation is
 >         also acceptable as long as it is applied equitably.
@@ -138,35 +139,27 @@ editor:
 >             feedback, evaluation and intervention are also included
 >
 >         -   Metric 3 - Milestone attainment per the department's
->             program requirements established in the enrollment
->             year (2021)
->
+>             program requirements established in the enrollment year
+>             (2021).
+
 > -   I entered, and continue, in the program with the expectation that
 >     I will (1) put myself in a position to bypass into PhD, and (2)
 >     will be able and capable of completing a PhD.
->
 >     -   With the understanding that timely manuscript production is a
 >         necessary component of the program, how are we defining
 >         progress and performance beyond manuscript production?
->
 > -   General Output Timeline to Date
->
 >     -   2021 - 22: Coursework
->
 >     -   2022 - 23: Yellow Island surveys and eDNA, Building and
 >         administering teaching/mentoring programs
->
 >     -   2023 - 24: WDFW Mussel Biomarkers, Yellow Island surveys and
 >         eDNA, administering teaching/ mentoring program, building and
 >         delivering interdisciplinary mentoring/ teaching program
->
 >     -   2024 - 25: WDFW Mussel Biomarkers, WDFW Mussel Methylation,
 >         Yellow Island surveys and eDNA, Kenya eDNA
->
 >     -   2025 - 2026: WDFW Mussel Biomarkers, WDFW Mussel Methylation,
 >         Yellow Island surveys and eDNA, developing PhD Proposal for
 >         bypass
->
 >         -   October 2025 pivot per committee meeting (re: bypass)
 >             removed all eDNA and program building/ teaching/ mentoring
 >             to narrow scope and focus to demonstrate increasing
@@ -184,15 +177,12 @@ editor:
 >                 Kenya projects moving forward to meet the 'parent
 >                 organizations' expectations for funding/ support
 >                 provided.
->
+
 > **4.2 Alert-defined Deliverables: Status**
 >
 > -   Academic Notification, November 4, 2025
->
 >     -   No expectations met prior to the end of Fall 2025
->
 > -   Academic Alert, January 7, 2026
->
 >     -   MS proposal submitted
 >
 >     -   Biomarker draft provided to Alison Gardell on January 23,
@@ -201,9 +191,7 @@ editor:
 >
 >     -   Mussel Methylation manuscript draft - complete draft due April
 >         17, 2026
->
 > -   Final Academic Alert, April 1, 2026
->
 >     -   Biomarker manuscript due April 17, 2026
 >
 >     -   Mussel Methylation manuscript draft due on May 1, 2026
@@ -211,43 +199,29 @@ editor:
 > **4.3 Moving Forward**
 >
 > -   Biomarker manuscript
->
 >     -   Complete results updating to include corrected spatial
 >         analysis results
->
 >     -   Write abstract
->
 >     -   Put visualizations directly into manuscript and shift the
 >         others to the supplement folder
->
 >     -   Complete edits/ revisions as received
->
 > -   Methylation manuscript
->
 >     -   Analysis is approximately 40% complete - the remaining 60% can
 >         be completed by May 1st
->
 >     -   Methods section and clearly outlined introduction and results
 >         sections can be completed by May 15th
->
 >     -   Complete coherent draft, that includes completed methods,
 >         results, discussion/ conclusion and preliminary visualizations
 >         can be completed by June 1st
->
 > -   Explanation for extended window
->
 >     -   I have 5 tide series of work on Yellow per the terms of
 >         funding provided by TNC
->
 >         -   This is pure work, not teaching/ mentoring
->
 >         -   Survey dates are as follows: April 18-22, May 14-21, May
 >             28-June 5, June 11-20, with the potential 5th series June
 >             25 - July 3
->
 >         -   There's power and WiFi on the island, so not off the grid,
 >             but primary focus shift
->
 >     -   I also have a Student Assistantship through the end of Spring
 >         quarter.
 >
