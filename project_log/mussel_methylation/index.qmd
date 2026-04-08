@@ -10,7 +10,7 @@ description: "Exploring epigenetic signals as early indicators of stress and con
 
 1.  Project repo
 
-2.  Process/ Workflow
+2.  Process & working notes
 
 3.  Literature
 

@@ -1,0 +1,81 @@
+---
+title: "Something"
+date: "2026-04-08"
+categories:
+  - Lab Meeting
+  - 1v1
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: April 6 - April 12, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week's plan is to continue to move forward with the methylation
+    analysis, refresh mutual goals, expectations and priorities with
+    Steven, and set goals for April.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Planning the week & Setting April Goals~~
+>
+> ~~Tuesday - UW-RUA, No Science~~
+>
+> Wednesday - Friday: Will Outline post Steven 1v1
+>
+> Saturday - No Science
+>
+> Sunday - Reading
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   Continue to move forward with the methylation analysis.
+-   Lab and 1v1 Meetings
+-   Determined by the outcome of the meetings and my capacity
+
+### Projects Touched Today
+
+-   Something
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   Today's plan is
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Something: 0 words
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 921 words**
+>
+> **Annual total to date: 33,593 words**
+>
+> **Annual target total to date: 48,500 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Something that will be clear by the end of the day...
