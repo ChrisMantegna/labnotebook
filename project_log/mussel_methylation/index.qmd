@@ -6,11 +6,13 @@ description: "Exploring epigenetic signals as early indicators of stress and con
 
 ### Project Overview & Purpose
 
+Not yet ready for our close-up! Trying on a new way to maintain pertinent information for a project in a singular place instead of across a few platforms. Last updated 4.8.26.
+
 ### Quick Links
 
-1.  Project repo
+1.  [Project repo](https://github.com/ChrisMantegna/wdfw_mussel_methylation)
 
-2.  Process & working notes
+2.  [Process & working notes](https://chrismantegna.github.io/labnotebook/project_log/mussel_methylation/process.html)
 
 3.  Literature
 
