@@ -426,11 +426,6 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="section-14" class="level5">
 <h5 class="anchored" data-anchor-id="section-14">2026-04-06</h5>
-</section>
-</section>
-</section>
-<section id="progress-notes" class="level3">
-<h3 class="anchored" data-anchor-id="progress-notes">Progress Notes</h3>
 <ul>
 <li>Today’s first priority was checking in on the methylation extractions; they were almost finished last night.
 <ul>
@@ -469,6 +464,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Fun fact, methylation in plants typically occurs at CG, CHG or CHH sites. Check out this <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8995044/"><em>Muyle et al</em></a>. paper from 2022 that explains it way better than me!</li>
 </ul></li>
 </ul>
+</section>
 <section id="section-15" class="level5">
 <h5 class="anchored" data-anchor-id="section-15">2026-04-07</h5>
 <ul>
@@ -477,8 +473,36 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="section-16" class="level5">
 <h5 class="anchored" data-anchor-id="section-16">2026-04-08</h5>
+<ul>
+<li>I shifted over to working on the methylKit markdown for the next steps in the methylation analysis.
+<ul>
+<li>Before getting to that, I looked up the DSS package that is the newer analysis package.
+<ul>
+<li>It is a package specifically (as far as I can see) for assessing DMLs and DMRs…</li>
+<li>Fun find- Roberts Lab alum, Professor Yaamini Venkataraman’s <a href="https://yaaminiv.github.io/Hawaii-Gigas-Methylation-Analysis-Part17/">lab notebook post</a> about using DSS for analysis.</li>
+<li>methylKit ‘DSS’ applications can be found <a href="https://rdrr.io/bioc/methylKit/man/calculateDiffMethDSS-methods.html">here</a>, and DSS applications can be found <a href="https://bioconductor.org/packages/release/bioc/html/DSS.html">here</a>.</li>
+<li>A paper outlining the application can be found <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8171293/">here</a>.</li>
+<li>I added both the package bookmark to my project bookmarks folder, and the paper to my bioinformatics library in Zotero before moving back to my methylKit work.</li>
+</ul></li>
+<li>In the process of looking at the DSS v methylKit packages, I came across a <a href="https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/methylationSeq/Seq_Tutorial.html">DNA Methylation workflow tutorial</a>. I haven’t really looked at it yet - that is a weekend task when I’m not trying to wrap my head around how to work through some of the other steps.</li>
+<li>Getting back on task, I started by building a proper metadata table. This didn’t take long, but is definitely important for this leg of the work.
+<ul>
+<li>I took my sample PAH classifications ranked from 1-6, the PAH concentrations, my site names, sample names, and then added treatment (0=low, 1=high) and a replicates column in case it will be needed later to existing data.</li>
+</ul></li>
+<li>Next I took the markdowns from the oly-repo in the lab handbook and created my methylkit files (4 total) following the same format and replacing the paths/ object names/ etc. that aren’t applicable.
+<ul>
+<li>Some of the parameter choices in the DML and DMR files are unclear at the moment and will be added to my running list of Steven questions. Nothing in the initial file import or qc work is unclear, so I’m going to go with it and annotate where I have questions after ensuring I have working code.</li>
+<li>Before I get really rolling, I need to add a few lines re: directory outputs for the objects and plots, so I did that in the console rather than in the markdowns.</li>
+</ul></li>
+<li>I made notes in the markdowns about what I need to do next, and will get back to it tomorrow.</li>
+</ul></li>
+</ul>
+</section>
+<section id="section-17" class="level5">
+<h5 class="anchored" data-anchor-id="section-17">2026-04-09</h5>
 
 
+</section>
 </section>
 </section>
 

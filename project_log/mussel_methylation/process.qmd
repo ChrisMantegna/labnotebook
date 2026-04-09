@@ -18,7 +18,7 @@ the only thing populated. The goal here is to create a singular place
 where I can access, workflow, decisions, knowledge gained, and questions
 I have throughout the process.
 
-### Quick Links 
+### Quick Links
 
 1.  Project repo
 
@@ -443,8 +443,6 @@ Correlate to contaminants \[\] Write
 
 ##### 2026-04-06
 
-### Progress Notes
-
 -   Today's first priority was checking in on the methylation
     extractions; they were almost finished last night.
     -   All sequences were completed by 0500. All reports from Bismark
@@ -506,3 +504,52 @@ width="400"}
     with my smaller files on Raven and called it a day!
 
 ##### 2026-04-08
+
+-   I shifted over to working on the methylKit markdown for the next
+    steps in the methylation analysis.
+    -   Before getting to that, I looked up the DSS package that is the
+        newer analysis package.
+        -   It is a package specifically (as far as I can see) for
+            assessing DMLs and DMRs...
+        -   Fun find- Roberts Lab alum, Professor Yaamini Venkataraman's
+            [lab notebook
+            post](https://yaaminiv.github.io/Hawaii-Gigas-Methylation-Analysis-Part17/)
+            about using DSS for analysis.
+        -   methylKit 'DSS' applications can be found
+            [here](https://rdrr.io/bioc/methylKit/man/calculateDiffMethDSS-methods.html),
+            and DSS applications can be found
+            [here](https://bioconductor.org/packages/release/bioc/html/DSS.html).
+        -   A paper outlining the application can be found
+            [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC8171293/).
+        -   I added both the package bookmark to my project bookmarks
+            folder, and the paper to my bioinformatics library in Zotero
+            before moving back to my methylKit work.
+    -   In the process of looking at the DSS v methylKit packages, I
+        came across a [DNA Methylation workflow
+        tutorial](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/methylationSeq/Seq_Tutorial.html).
+        I haven't really looked at it yet - that is a weekend task when
+        I'm not trying to wrap my head around how to work through some
+        of the other steps.
+    -   Getting back on task, I started by building a proper metadata
+        table. This didn't take long, but is definitely important for
+        this leg of the work.
+        -   I took my sample PAH classifications ranked from 1-6, the
+            PAH concentrations, my site names, sample names, and then
+            added treatment (0=low, 1=high) and a replicates column in
+            case it will be needed later to existing data.
+    -   Next I took the markdowns from the oly-repo in the lab handbook
+        and created my methylkit files (4 total) following the same
+        format and replacing the paths/ object names/ etc. that aren't
+        applicable.
+        -   Some of the parameter choices in the DML and DMR files are
+            unclear at the moment and will be added to my running list
+            of Steven questions. Nothing in the initial file import or
+            qc work is unclear, so I'm going to go with it and annotate
+            where I have questions after ensuring I have working code.
+        -   Before I get really rolling, I need to add a few lines re:
+            directory outputs for the objects and plots, so I did that
+            in the console rather than in the markdowns.
+    -   I made notes in the markdowns about what I need to do next, and
+        will get back to it tomorrow.
+
+##### 2026-04-09

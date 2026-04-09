@@ -12,7 +12,7 @@
 <generator>quarto-1.5.57</generator>
 <lastBuildDate>Wed, 08 Apr 2026 07:00:00 GMT</lastBuildDate>
 <item>
-  <title>Something</title>
+  <title>Meetings &amp; Methylation</title>
   <link>https://chrismantegna.github.io/labnotebook/daily_log/2026_04_08/</link>
   <description><![CDATA[ 
 
@@ -46,28 +46,56 @@
 <ul>
 <li>Continue to move forward with the methylation analysis.</li>
 <li>Lab and 1v1 Meetings</li>
-<li>Determined by the outcome of the meetings and my capacity</li>
 </ul>
 </section>
 </section>
 <section id="projects-touched-today" class="level3">
 <h3 class="anchored" data-anchor-id="projects-touched-today">Projects Touched Today</h3>
 <ul>
-<li>Something</li>
+<li>Mussel Methylation</li>
 </ul>
 <hr>
 </section>
 <section id="progress-notes" class="level3">
 <h3 class="anchored" data-anchor-id="progress-notes">Progress Notes</h3>
 <ul>
-<li>Today’s plan is</li>
+<li>Today started with lab meeting where we shared updates and discussed lab equipment that could be purchased.</li>
+<li>Next, I added the updated biomarker manuscript visuals to the shared Google Drive folder.</li>
+<li>I met with Steven and Chelsea to go over the a plan to put these alerts in the rearview.
+<ul>
+<li>I followed up with an email outlining what we discussed in the second half of the meeting.</li>
+<li>I set up 1- hour working blocks with Steven up through the week of May 11th.</li>
+<li>I put my project log together for the methylation analysis, so we had a jumping- off place beyond just an agenda of next steps.</li>
+</ul></li>
+<li>I shifted over to working on the methylKit markdown for the next steps in the methylation analysis.
+<ul>
+<li>Before getting to that, I looked up the DSS package that is the newer analysis package.
+<ul>
+<li>It is a package specifically (as far as I can see) for assessing DMLs and DMRs…</li>
+<li>Fun find- Roberts Lab alum, Professor Yaamini Venkataraman’s <a href="https://yaaminiv.github.io/Hawaii-Gigas-Methylation-Analysis-Part17/">lab notebook post</a> about using DSS for analysis.</li>
+<li>methylKit ‘DSS’ applications can be found <a href="https://rdrr.io/bioc/methylKit/man/calculateDiffMethDSS-methods.html">here</a>, and DSS applications can be found <a href="https://bioconductor.org/packages/release/bioc/html/DSS.html">here</a>.</li>
+<li>A paper outlining the application can be found <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8171293/">here</a>.</li>
+<li>I added both the package bookmark to my project bookmarks folder, and the paper to my bioinformatics library in Zotero before moving back to my methylKit work.</li>
+</ul></li>
+<li>In the process of looking at the DSS v methylKit packages, I came across a <a href="https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/methylationSeq/Seq_Tutorial.html">DNA Methylation workflow tutorial</a>. I haven’t really looked at it yet - that is a weekend task when I’m not trying to wrap my head around how to work through some of the other steps.</li>
+<li>Getting back on task, I started by building a proper metadata table. This didn’t take long, but is definitely important for this leg of the work.
+<ul>
+<li>I took my sample PAH classifications ranked from 1-6, the PAH concentrations, my site names, sample names, and then added treatment (0=low, 1=high) and a replicates column in case it will be needed later to existing data.</li>
+</ul></li>
+<li>Next I took the markdowns from the oly-repo in the lab handbook and created my methylkit files (4 total) following the same format and replacing the paths/ object names/ etc. that aren’t applicable.
+<ul>
+<li>Some of the parameter choices in the DML and DMR files are unclear at the moment and will be added to my running list of Steven questions. Nothing in the initial file import or qc work is unclear, so I’m going to go with it and annotate where I have questions after ensuring I have working code.</li>
+<li>Before I get really rolling, I need to add a few lines re: directory outputs for the objects and plots, so I did that in the console rather than in the markdowns.</li>
+</ul></li>
+<li>I made notes in the markdowns about what I need to do next, and will get back to it tomorrow.</li>
+</ul></li>
 </ul>
 <hr>
 </section>
 <section id="outcomes-products-word-count" class="level3">
 <h3 class="anchored" data-anchor-id="outcomes-products-word-count">Outcomes: Products &amp; Word Count</h3>
 <ul>
-<li>Something: 0 words</li>
+<li>methylKit markdowns: 4 scripts</li>
 </ul>
 <div>
 <blockquote class="blockquote">
@@ -90,6 +118,7 @@
  ]]></description>
   <category>Lab Meeting</category>
   <category>1v1</category>
+  <category>Mussel Methylation</category>
   <guid>https://chrismantegna.github.io/labnotebook/daily_log/2026_04_08/</guid>
   <pubDate>Wed, 08 Apr 2026 07:00:00 GMT</pubDate>
 </item>
