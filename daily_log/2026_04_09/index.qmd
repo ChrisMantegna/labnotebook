@@ -32,7 +32,11 @@ editor:
 >
 > ~~Tuesday - UW-RUA, No Science~~
 >
-> Wednesday - Friday: Will Outline post Steven 1v1
+> ~~Wednesday~~ - Friday: Will Outline post Steven 1v1
+>
+> Thursday - Task management
+>
+> Friday - Biomarker Manuscript - 'Clarify' edits
 >
 > Saturday - No Science
 >
@@ -125,7 +129,9 @@ editor:
     -   I attended Maya Groner's seminar and learned more about marine
         diseases than I thought! Some very interesting and 'pugilistic'-
         themed research going on in the Bering!
-    -   
+    -   Finally, I made a plan of attack for tomorrow's edits on the
+        Biomarker manuscript, identified the one report I want to review
+        this evening to dig into in the morning, and called it a day.
 
 ------------------------------------------------------------------------
 
@@ -135,11 +141,11 @@ editor:
 
 <div>
 
-> **Today's total: 0 words**
+> **Today's total: 800 words**
 >
-> **Monthly total to date: 921 words**
+> **Monthly total to date: 1721 words**
 >
-> **Annual total to date: 33,593 words**
+> **Annual total to date: 34,394 words**
 >
 > **Annual target total to date: 49,000 words**
 
@@ -147,4 +153,6 @@ editor:
 
 ### Next Up: Tomorrow's Plan
 
--   Something that will be clear by the end of the day...
+-   Biomarker manuscript. My goal is to work through the 'clarify' notes
+    and complete the research for the wdfw report I want to support with
+    not only the report, but the published research backing it.
