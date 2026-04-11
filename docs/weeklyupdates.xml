@@ -1,0 +1,1659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Progress Makes a PhD</title>
+<link>https://chrismantegna.github.io/labnotebook/weeklyupdates.html</link>
+<atom:link href="https://chrismantegna.github.io/labnotebook/weeklyupdates.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Sat, 11 Apr 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Pivot: Changing Tack to Plan, Prioritize, Progress, and Prevail</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0411/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0411/img/pivot.jpeg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
+</figure>
+</div>
+<p>It has been a minute since I did a proper recap, and since this week was all about planning and realigning myself with the work that will move me forward, it felt like a good time to start fresh. Since October’s pivot to tighten up the scope of my work, I have been playing catch up. It’s been a bit stagnant, so I had to go back to basics to get it together!</p>
+<section id="focus-for-the-week" class="level4">
+<h4 class="anchored" data-anchor-id="focus-for-the-week">Focus for the Week:</h4>
+<ol type="1">
+<li><p>Realign outcomes (or products), direction, and deliverables with Steven.</p></li>
+<li><p>TKO this Biomarker manuscript draft.</p></li>
+<li><p>Keep the methylation analysis moving forward.</p></li>
+</ol>
+</section>
+<section id="progress-made" class="level4">
+<h4 class="anchored" data-anchor-id="progress-made">Progress Made:</h4>
+<ol type="1">
+<li><p>Realignment. After a great meeting on Wednesday with Steven and Chelsea, the department GPC, I believe we have a solid working plan for alignment and moving forward.</p></li>
+<li><p>Biomarkers. I have completed the first step of critically reviewing the state of the draft, identified what can get it to committee- ready status, and began work on the first of 3 categories of refinement.</p>
+<ol type="1">
+<li><p>The three categories are writing, citing, and clarifying. I broke down the first major WDFW report I cite into it’s ‘backing’ scientific lit on Thursday and Friday.</p></li>
+<li><p>I then shifted to the clarification notes and began focusing on the argument and narrative breakdowns. This helped me identify that I was burying the lead - the big takeaway from this work is that while contamination is clearly characterized across Puget Sound, the biological outcomes were much more variable using traditional tools, so turning the monitoring program into a bio-monitoring program is more complex than anticipated despite having traditionally validated tools.</p></li>
+</ol></li>
+<li><p>Methylation analysis. Analysis up through methylKit is complete, and base scripts for the methylKit steps are 90% ready to go. Additionally, I created a project log and running questions list to help me prepare for my weekly working sessions with Steven.</p></li>
+</ol>
+</section>
+<section id="challenges" class="level4">
+<h4 class="anchored" data-anchor-id="challenges">Challenges:</h4>
+<p>The largest challenge this week was getting my To-Do list and my sense of overwhelm under control - I’ll explain a bit more about that below.</p>
+</section>
+<section id="synthesis" class="level4">
+<h4 class="anchored" data-anchor-id="synthesis">Synthesis:</h4>
+<p>Spending the time to really sit in the current ‘state of the union’ allowed me to think more critically about the work I’m engaged in, the supports I will need, and how to better benchmark my progress and day-to-day capacity.</p>
+</section>
+<section id="next-week" class="level4">
+<h4 class="anchored" data-anchor-id="next-week">Next Week:</h4>
+<p>Weekly working sessions with Steven start next week. This will help move the methylation analysis and manuscript forward so it doesn’t lag in the way the biomarkers manuscript has.</p>
+</section>
+<section id="so-how-exactly-are-we-making-the-realignment-stick" class="level3">
+<h3 class="anchored" data-anchor-id="so-how-exactly-are-we-making-the-realignment-stick">So, How Exactly are We Making the Realignment Stick?</h3>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0411/img/ferris_bueller.jpeg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
+</figure>
+</div>
+<p>Ferris Bueller’s Day Off is a quintessential 1980s movie most fondly summarized by the fun of playing hooky and driving around in a vintage convertible, and the lines, “Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.”</p>
+<p>This sentiment is easily translated to taking a break, but it also applies to gaining broader clarity and alignment with your goals and the process to achieve them; task overwhelm obscures the finish line, and we need to stop and look around at what we’re doing. I was reminded this week, that taking the time to just let it rip - write it all down, confront what is spiraling and do something about it - it the ultimate first step in <em>actually</em> getting the work done.</p>
+<p>For this whole thing to work, you have to know your goals and what life area you are trying to clarify progress around; obviously this is my lab notebook, so we’re focused on my Master’s work. You <strong>cannot</strong> successfully redesign every area of your life at one time, I don’t care how motivated you are at midnight on a Tuesday with a blank Notion landing page and YouTube waiting for you…</p>
+<p>My three major goals for Spring Quarter, in order of priority are:</p>
+<ol type="1">
+<li>Completed, polished draft of the biomarker manuscript.</li>
+<li>Completed, polished draft of the methylation manuscript.</li>
+<li>Clearly drafted introduction and a clearly outlined Chapter 3 &amp; 4 of my PhD proposal.</li>
+</ol>
+<p>Each of these will take multiple steps and even more tasks to complete; this is how I do that.</p>
+<p>Step 1 of 7 is to pick the two to three categories of one goal you want to prioritize first, and then one to two categories that will follow the completion of the first goal. The key to this being successful is extremely clear categories based on your hierarchical goal list. For example, a complete biomarker manuscript is my first goal, but not a clear category. The manuscript goal can be broken into three categories:</p>
+<ol type="1">
+<li>Line edit- level of my writing to assess for alignment with the key results and larger narrative.</li>
+<li>Critical review of citations (currently only 24 of the 67 papers I’ve read are in the draft) and their applicability to the manuscript. This to be done by major section (intro, methods, results, conclusion).</li>
+<li>Sufficient visualizations to tell the story, not overwhelm the manuscript. I think 3-5 plots/ maps is the target number based on the analysis and result.</li>
+</ol>
+<p>Step 2 of 7 is taking the time to just brain dump all that is swirling in your mind - even if it’s not goal- related; we’re multi-faceted, work with that and not against it. This parctice prevents tunnel vision, poor prioritization, and action paralysis (both the failure to start &amp; the narrowing of focus to minutia rather than broader task, a.k.a. tunnel vision).</p>
+<p>Step 3 of 7 is organizing that list into the categories you defined earlier - <strong><em>Do Not Create New Ones</em></strong> - this will help you separate the important from the peripheral. My biggest pitfall has been deciding on the categories after looking at the list, not beforehand. Most of my overwhelm and aspirational sense of productivity comes from making this mistake. We have identified the big priorities, stick to them! This part feels like you’re going backwards because the list grows wildly but it stops the lie you tell yourself that “it’s only three things, why can’t I get three things done.” In fact, it is 10 things slotted into a time block built for two things.&nbsp;</p>
+<p>Worth a pause and a callout - this is no place to let embarrassment, shame, or disappointment takeover. Get your Hercules on, wrangle that Cerberus, and get back to business. The energy wasted by chastising yourself is clouding your judgement. Instead, get into the practice of completing a post-mortem for goal or milestone achievement to help separate the story from the facts.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><a href="https://www.wulflund.com/cerberus-11cm-figurine"><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0411/img/cerberus.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" width="500" alt="Cerberus, the Hell Hound, rendered as a figurine by Wulfland."></a></p>
+</figure>
+</div>
+<figcaption>Cerberus, the Hell Hound, rendered as a figurine by Wulfland.</figcaption>
+</figure>
+</div>
+<p>Step 4 of 7. A mentor told me that only putting deadlines on your calendar, ones that you may or may not meet, is a surefire way to lose motivation because you are unintentionally reinforcing the narrative that you are a person who does not complete things. To combat that, take your expanded task list, assigned to your top goal and goal categories, and add the actual steps to your calendar along with the ‘big’ deadline. Now you have proof and reinforcement that you are a person who completes things - even if the major deadline is shifted.</p>
+<p>Step 5 of 7. Arguably more important than planning your process, is planning your inspriration. You will not always feel as ready to get it done as you do today, so plan for it. I take great inspiration from sports, sports theory, and coaches talks when I can’t get focused on the tasks in front of me. I find personal and creative inspiration by looking to writers, artists, and creators; typically as far away from obvious science as possible. I look to painters, sculptures, the fashion icons - designers and critics, mostly. The pursuit of translating the beauty of the human experience provides me both a grounding and an expansiveness that allows my brain to get to the outcome I’m seeking.</p>
+<p>Once you identify what motivates you and when, it’s important that you start putting together a few things you can read, a few you can see, and a few more that you can listen to depending on your preferred method. I have content in folders, digital bookmark lists, YouTube playlists, podcast lists, a couple of vision boards, and hand-written quotes from folks I admire. The key here is to put them where you can see them.</p>
+<p>Step 6 of 7. We’ve got our goals, assigned a date for the deliverables for each category, and added a motivation plan for when we need a little help; now we refine. The hardest of the steps is this one. Walk away from it, come back a few hours later and be honest with a side of grace - we cannot plan in a vacuum, which is what we just did. Take a realistic look at your schedule and start moving and shaking. For example, I know heavy meeting days present me two challenges, (1) re-engaging my focus as I shift tasks, and (2) getting into deep work when I know it’s on a timetable bounded by others.</p>
+<p>Creating plots and maps are multi-step things I can pick-up and drop without significant re-engagement time, so shifting my visualizations tasks to meeting days keeps my progress moving forward. The writing and clarifying tasks require significant engagement, and regular disruptions present progress paralysis for me, so I block morning or guaranteed non-meeting time to work on those. In addition, I don’t let my 3-hour time block, for example, to go unplanned. Typically, I plan the specifics just before starting the block, accounting for my mood and motivation. The big caveat being that the task category was defined on the calendar so I know the focus of the block. And, finally…</p>
+<p>Step 7 of 7 is to remember to reward yourself for the things you’ve completed. Give yourself a chance to look back and say, “I really have done well.” I have a physical jar, the Victory Jar, where once a day I add a ‘win’ of any size, across any area of my life. Once in awhile I re-read some of them, but once a quarter I put all of them together and read them when I do my quarterly post-mortem. This is the evidence that reinforces that I am exactly who I think I am.</p>
+<p>Hopefully this gave you a sense of my planning, motivation, and reinforcement practice, as well as maybe a takeaway or two. I thought it was a good time to share since I am making a large pivot and have to commit or end up really disappointed in myself when I finally stop to notice the opportunity passed me by.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0411/</guid>
+  <pubDate>Sat, 11 Apr 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Advisor 1v1: April 8, 2026</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0408/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0408/img/ducks_in_row.jpeg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
+</figure>
+</div>
+<section id="agenda" class="level1">
+<h1>Agenda</h1>
+<ol type="1">
+<li>Update on written deliverables outlined in Alert letter
+<ol type="1">
+<li>Biomarker manuscript</li>
+<li>WDFW Mussel methylation manuscript</li>
+</ol></li>
+<li>DNA Methylation analysis progress</li>
+<li>Stretch Goal: PhD Proposal</li>
+<li>GPC Meeting
+<ol type="1">
+<li>Expectations &amp; Alignments</li>
+<li>Status of deliverables in Alerts</li>
+<li>Moving Forward</li>
+<li>Decisions, Questions, Action Items</li>
+</ol></li>
+</ol>
+<hr>
+<section id="item-1-written-deliverables" class="level3">
+<h3 class="anchored" data-anchor-id="item-1-written-deliverables">Item 1: Written Deliverables</h3>
+<hr>
+<blockquote class="blockquote">
+<p><strong>1.1 Mussel Biomarker Manuscript</strong> (Deliverable 2 of 3 in Academic Alert)</p>
+<p>Deadline: Per Alert letter, April 17th.</p>
+<p>The <a href="https://docs.google.com/document/d/1xQPnED8yhB6x2JoCJHa0Yc5OewTkkgnT2B3yRjjQYTc/edit?usp=sharing">current draft</a></p>
+<p>The <a href="https://drive.google.com/drive/folders/1R0JdGaXCd9mbIvC50LE_isQUySmplZhu?usp=sharing">visualization folder</a></p>
+<p>Next steps are listed in Section 4.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p><strong>1.2 Mussel Methylation Manuscript</strong> (Deliverable 3 of 3 in Academic Alert)</p>
+<p>Deadline: Per Alert letter, May 1st.</p>
+<p>Status of manuscript: Nothing coherent currently. I’m reading and ‘brain dump’ style outlining, like <a href="https://docs.google.com/document/d/16nAc2tWBRlhLHobFN4HZ6ux-Y1yztOQRnXleWBvsCbs/edit?usp=sharing">this document</a>.</p>
+<p>Next Steps: Outlined below in Item 4, GPC meeting.</p>
+</blockquote>
+<hr>
+</section>
+<section id="item-2-dna-methylation-analysis-progress" class="level2">
+<h2 class="anchored" data-anchor-id="item-2-dna-methylation-analysis-progress">Item 2: DNA Methylation Analysis Progress</h2>
+<hr>
+<blockquote class="blockquote">
+<p>Analysis Status: Initial analysis up to methylation extraction, and generating coverage filtering, BedGraph, and QC files and reports up through the extraction.</p>
+<ul>
+<li>All files/ outputs backed up to Gannet as of 04/06/2026.</li>
+</ul>
+<p>Progress is outlined in the following daily posts:</p>
+<ul>
+<li><p><a href="https://chrismantegna.github.io/labnotebook/daily_log/2026_03/#mussel-methylation-analysis-return">March 20 - 31st</a></p></li>
+<li><p>April <a href="https://chrismantegna.github.io/labnotebook/daily_log/2026_04_01/">1st</a>, <a href="https://chrismantegna.github.io/labnotebook/daily_log/2026_04_02/">2nd</a>, <a href="https://chrismantegna.github.io/labnotebook/daily_log/2026_04_03/">3rd</a>, <a href="https://chrismantegna.github.io/labnotebook/daily_log/2026_04_04/">4th</a>, <a href="https://chrismantegna.github.io/labnotebook/daily_log/2026_04_05/">5th</a>, and <a href="https://chrismantegna.github.io/labnotebook/daily_log/2026_04_06/">6th</a>.</p></li>
+</ul>
+<p>Next steps are…</p>
+<ul>
+<li><p>The analysis process as I understand it is <a href="https://docs.google.com/document/d/1ncISLfYTCblXxXtktKaan1hPpetDttjap96lSJzQGaE/edit?usp=sharing">outlined here</a></p>
+<ul>
+<li>I am moving into step 5 once I understand my outputs.</li>
+</ul></li>
+</ul>
+</blockquote>
+<hr>
+</section>
+<section id="item-3-stretch-goal---phd-proposal-for-bypass" class="level2">
+<h2 class="anchored" data-anchor-id="item-3-stretch-goal---phd-proposal-for-bypass">Item 3: Stretch Goal - PhD Proposal for Bypass</h2>
+<hr>
+<blockquote class="blockquote">
+<p>PhD Proposal Status: Outlining and drafting in progress for Chapters 3 &amp; 4.</p>
+<p>Current process/ progress: Brainstorming manageable work for each chapter.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Chapter 3 - open source data to bring methylation and gene expression together to inform Chapter 4 and link Chapter 1 &amp; 2 outcomes to expansion.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Chapter 4 - lab-based experiment to test potential methylation biomarkers of stress in mussels. based on the outline/ process outlined in these earlier posts.</p>
+</blockquote>
+<hr>
+</section>
+<section id="item-4-gpc-advisor-me" class="level2">
+<h2 class="anchored" data-anchor-id="item-4-gpc-advisor-me">Item 4: GPC, Advisor &amp; Me</h2>
+<hr>
+<blockquote class="blockquote">
+<p><strong>4.1 Expectations &amp; Alignment</strong></p>
+<ul>
+<li>The expectation (as I understand it) is to align my work product output with my tenure in the program to demonstrate progress per <a href="https://grad.uw.edu/policies/3-7-academic-performance-and-progress/">policy 3.7</a>.
+<ul>
+<li><p>As I understand it, progress in the policy is defined by 3 metrics with the caveat that individual plan adaptation is also acceptable as long as it is applied equitably.</p>
+<ul>
+<li><p>Metric 1 - GPA at or above 3.0</p></li>
+<li><p>Metric 2 - Annual meetings for regular progress review and feedback, evaluation and intervention are also included</p></li>
+<li><p>Metric 3 - Milestone attainment per the department’s program requirements established in the enrollment year (2021).</p></li>
+</ul></li>
+</ul></li>
+</ul>
+</blockquote>
+<blockquote class="blockquote">
+<ul>
+<li>I entered, and continue, in the program with the expectation that I will (1) put myself in a position to bypass into PhD, and (2) will be able and capable of completing a PhD.
+<ul>
+<li>With the understanding that timely manuscript production is a necessary component of the program, how are we defining progress and performance beyond manuscript production?</li>
+</ul></li>
+<li>General Output Timeline to Date
+<ul>
+<li>2021 - 22: Coursework</li>
+<li>2022 - 23: Yellow Island surveys and eDNA, Building and administering teaching/mentoring programs</li>
+<li>2023 - 24: WDFW Mussel Biomarkers, Yellow Island surveys and eDNA, administering teaching/ mentoring program, building and delivering interdisciplinary mentoring/ teaching program</li>
+<li>2024 - 25: WDFW Mussel Biomarkers, WDFW Mussel Methylation, Yellow Island surveys and eDNA, Kenya eDNA</li>
+<li>2025 - 2026: WDFW Mussel Biomarkers, WDFW Mussel Methylation, Yellow Island surveys and eDNA, developing PhD Proposal for bypass
+<ul>
+<li><p>October 2025 pivot per committee meeting (re: bypass) removed all eDNA and program building/ teaching/ mentoring to narrow scope and focus to demonstrate increasing mastery from MS to PhD. The pivot required:</p>
+<ul>
+<li><p>A reading and lit review pivot from ecosystem- level integration into organismal impact, shift away from STEM pedagogy, interdisciplinary teaching of STEM- focused topics, and general invertebrate and coastal ecosystem research.</p></li>
+<li><p>Splitting focus between the MS proposal, the biomarker manuscript, pushing the methylation analysis forward, redistributing/ delegating work to keep the Yellow and Kenya projects moving forward to meet the ‘parent organizations’ expectations for funding/ support provided.</p></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</blockquote>
+<blockquote class="blockquote">
+<p><strong>4.2 Alert-defined Deliverables: Status</strong></p>
+<ul>
+<li>Academic Notification, November 4, 2025
+<ul>
+<li>No expectations met prior to the end of Fall 2025</li>
+</ul></li>
+<li>Academic Alert, January 7, 2026
+<ul>
+<li><p>MS proposal submitted</p></li>
+<li><p>Biomarker draft provided to Alison Gardell on January 23, 2026, and Steven on February 11, 2026 noting spatial analysis errors and needed results rewrite</p></li>
+<li><p>Mussel Methylation manuscript draft - complete draft due April 17, 2026</p></li>
+</ul></li>
+<li>Final Academic Alert, April 1, 2026
+<ul>
+<li><p>Biomarker manuscript due April 17, 2026</p></li>
+<li><p>Mussel Methylation manuscript draft due on May 1, 2026</p></li>
+</ul></li>
+</ul>
+<p><strong>4.3 Moving Forward</strong></p>
+<ul>
+<li>Biomarker manuscript
+<ul>
+<li>Complete results updating to include corrected spatial analysis results</li>
+<li>Write abstract</li>
+<li>Put visualizations directly into manuscript and shift the others to the supplement folder</li>
+<li>Complete edits/ revisions as received</li>
+</ul></li>
+<li>Methylation manuscript
+<ul>
+<li>Analysis is approximately 40% complete - the remaining 60% can be completed by May 1st</li>
+<li>Methods section and clearly outlined introduction and results sections can be completed by May 15th</li>
+<li>Complete coherent draft, that includes completed methods, results, discussion/ conclusion and preliminary visualizations can be completed by June 1st</li>
+</ul></li>
+<li>Explanation for extended window
+<ul>
+<li>I have 5 tide series of work on Yellow per the terms of funding provided by TNC
+<ul>
+<li>This is pure work, not teaching/ mentoring</li>
+<li>Survey dates are as follows: April 18-22, May 14-21, May 28-June 5, June 11-20, with the potential 5th series June 25 - July 3</li>
+<li>There’s power and WiFi on the island, so not off the grid, but primary focus shift</li>
+</ul></li>
+<li>I also have a Student Assistantship through the end of Spring quarter.</li>
+</ul></li>
+</ul>
+<p><strong>4.4 Decisions, Questions, Action Items</strong></p>
+</blockquote>
+<hr>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>1v1</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0408/</guid>
+  <pubDate>Tue, 07 Apr 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Advisor 1v1: February 11, 2026</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0210/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="agenda" class="level2">
+<h2 class="anchored" data-anchor-id="agenda">Agenda</h2>
+<ol type="1">
+<li>Update on written deliverables (MS proposal, PhD proposal, Biomarker manuscript)</li>
+<li>Mussel pilot experiment takeaways</li>
+<li>Mussel Experiment for Chapters 3 &amp; 4</li>
+<li>DNA Methylation Analysis</li>
+<li>NW CASC Fellowship</li>
+</ol>
+</section>
+<section id="updates" class="level2">
+<h2 class="anchored" data-anchor-id="updates">Updates</h2>
+<hr>
+<section id="written-deliverables" class="level3">
+<h3 class="anchored" data-anchor-id="written-deliverables">Written Deliverables</h3>
+<hr>
+<blockquote class="blockquote">
+<p><strong>MS Proposal</strong></p>
+<ul>
+<li>Submission deadline: February 20, 2026</li>
+<li>No committee feedback on the draft as of 2/10. Email reminder sent to committee on 2/10 extending the feedback window to 2/15.</li>
+<li>The draft can be found <a href="https://docs.google.com/document/d/1kOuJgcRgih1GedCxO9UKK3KyOk_-YP5IIkCxGqQ-Iz0/edit?usp=drive_link">at this link</a>.</li>
+</ul>
+</blockquote>
+<blockquote class="blockquote">
+<p><strong>PhD Proposal</strong></p>
+<ul>
+<li>No current submission deadline. The bypass window (2/15) is too close and no one but Alison has seen the manuscript (required in package).</li>
+<li>Goal: Have Bypass Package complete and submitted by March 13th, ahead of the May 15th deadline (next available).</li>
+<li>The draft can be found <a href="https://docs.google.com/document/d/1kOuJgcRgih1GedCxO9UKK3KyOk_-YP5IIkCxGqQ-Iz0/edit?usp=drive_link">at this link</a>.</li>
+</ul>
+</blockquote>
+<blockquote class="blockquote">
+<p><strong>Mussel Biomarker Manuscript</strong></p>
+<ul>
+<li>Submission Deadline to ICB: April 1, 2026 with preference for earlier if possible</li>
+<li>To be completed by February 15: Updated results with the corrected spatial analyses, and a complete abstract.</li>
+<li>Next steps (before committee receipt):
+<ul>
+<li><p>Add figures directly into draft</p></li>
+<li><p>Put together a ‘support’ folder of the manuscript figures, supplementary information, and results for review with a link to the code in the existing repo.</p></li>
+</ul></li>
+<li>The draft can be found <a href="https://docs.google.com/document/d/1xQPnED8yhB6x2JoCJHa0Yc5OewTkkgnT2B3yRjjQYTc/edit?usp=sharing">at this link</a>.</li>
+</ul>
+</blockquote>
+<hr>
+</section>
+</section>
+<section id="mussel-pilot-experiment-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="mussel-pilot-experiment-takeaways">Mussel Pilot Experiment Takeaways</h2>
+<hr>
+<p><strong>Summary Stats</strong></p>
+<ul>
+<li>Experiment Duration: 33 days (December 24, 2025 - January 25, 2026)</li>
+<li>Experiment Goal: Determine mussel’s in- lab thermal tolerance. Can the mussels survive for 30- days or more under chronic exposure to increasing temperatures.</li>
+</ul>
+<p><u>Experiment Setup</u></p>
+<ul>
+<li>75 mussels, bagged in groups of 15, acclimated to 11° C with no food for 7 days</li>
+<li>On Day 7, 45 mussels were moved to a 11° C treatment and 30 mussels were moved to a 15° C treatment; all were fed per Shellfish Diet 1800 instructions on Day 8.</li>
+<li>Daily water temperature, salinity and mortality checks were performed.</li>
+<li>Weekly water changes and feeding were performed
+<ul>
+<li>Water changes were PRN, no less than once a week, and became more frequent with 20° C and 22° C temperatures.</li>
+</ul></li>
+<li>Elevated temperature regime:
+<ul>
+<li><p>Day 7 - 15° C</p></li>
+<li><p>Day 14 - 18° C</p></li>
+<li><p>Day 21 - 20° C</p></li>
+<li><p>Day 27 - 22° C</p></li>
+</ul></li>
+</ul>
+<p>Experiment Outcome: 50% mortality reached in temp tx on Day 30, three days after 22° C exposure.</p>
+<p><u>Takeaways</u></p>
+<ul>
+<li>22° C after consistent exposure to elevated temperatures is too far</li>
+<li>20° C may be the maximum temperature</li>
+<li>Multi- stressor experiment may require a decrease to 18° C for longevity, or 20° C (or higher) temperatures in acute exposures instead of chronic exposure</li>
+</ul>
+<p><u>Next Steps</u></p>
+<ul>
+<li>Finish setting up the repo documentation.</li>
+<li>Complete the resazurin analysis.</li>
+</ul>
+<hr>
+</section>
+<section id="dna-methylation-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="dna-methylation-analysis">DNA Methylation Analysis</h2>
+<hr>
+<blockquote class="blockquote">
+<ul>
+<li>Status: On hold until MS Proposal submission and mussel experiment ordering/ setup is completed</li>
+<li>Anticipated Restart: February 20, 2026</li>
+<li>Plan of attack for March 15th Completion of the Steps Below:
+<ul>
+<li><p>Re-familiarize myself with where I left off in late 2025 and backup the large files.</p></li>
+<li><p>Move through the initial Bismark pipeline (which I believe I finished) into optimizing alignment parameters and using that outcome for subsequent steps.</p></li>
+<li><p>Quantify methylation levels and visualize using IGV or JBrowse.</p></li>
+<li><p>Get feedback on initial results from Steven and/or other lab members before moving into downstream analyses.</p></li>
+</ul></li>
+</ul>
+</blockquote>
+<hr>
+</section>
+<section id="mussel-experiment-for-chapters-3-4" class="level2">
+<h2 class="anchored" data-anchor-id="mussel-experiment-for-chapters-3-4">Mussel Experiment for Chapters 3 &amp; 4</h2>
+<hr>
+<p><u>Research Questions</u></p>
+<ul>
+<li><p>How does thermal stress modify mussel physiological responses to legacy contaminant or metal exposure across environmentally relevant temperature regimes?</p></li>
+<li><p>Which physiological and molecular mechanisms are associated with survival, stress tolerance, and sublethal impairment under combined legacy contaminant, metal and temperature stress?</p></li>
+<li><p>Does exposure to legacy contaminants and/ or metals under elevated temperature induce changes in DNA methylation, and are differentially methylated loci associated with genes involved in stress response, detoxification, or thermal tolerance?</p></li>
+</ul>
+<p><u>Setup and Methods Overview: Ideal</u></p>
+<ul>
+<li>Treatments (high, low and control, n=15)
+<ul>
+<li>Temperature - 11° C and 20° C
+<ul>
+<li>Based on pilot study thresholds</li>
+<li>Could be replaced with resazurin stress assay to simulate acute heat stress once a test run of full time to reach plateau is identified.</li>
+</ul></li>
+<li>Cadmium (metal) - low concentration &amp; 25% above environmentally found concentrations
+<ul>
+<li>Based on WDFW data from 2015 - 2022 and literature</li>
+</ul></li>
+<li>PAH mixture - low concentration &amp; 25% above environmentally found concentrations at sites like Elliott Bay and Commencement Bay versus those at Hood Canal
+<ul>
+<li>Based on WDFW data from 2015 - 2022 and literature</li>
+</ul></li>
+</ul></li>
+<li>Measurements to be Taken
+<ul>
+<li>Morphometrics - beginning and end only (LxWxH, △ weight as proxy for tissue weight)</li>
+<li>Respiration or metabolism - at timepoints defined below</li>
+<li>Biomarkers, P450 and SOD- at time points defined below</li>
+<li>Gill or mantle tissue dissection for molecular sequencing- at time points defined below</li>
+</ul></li>
+<li>Experiment Duration: Minimum 30 days, Ideal- 45-60 days which is approximately 1/2 of outplanting season</li>
+<li>Timepoints for Sampling (~7)
+<ul>
+<li>Day 0, 7, 14,21,28, 41 and end if exceeding 30 days</li>
+</ul></li>
+<li>Sample Requirement: ~14lb of mussels
+<ul>
+<li>2lbs yields ~70 mussels</li>
+<li>15 treatments requiring minimum 8 samples per timepoint (7) of destructive sampling
+<ul>
+<li><p>~840 mussels + 10% for initial condition and mortality</p></li>
+<li><p>~930 mussels (35 mussels/ lb)</p></li>
+</ul></li>
+</ul></li>
+</ul>
+<p><u>In Progress</u></p>
+<ul>
+<li><p>Lab risk assessment form from EH&amp;S. It’s diagnostic, not a requirement</p></li>
+<li><p>A summary of risk and physical mitigation techniques must be on file (only part not included in standard lab handbooks/ MSDS sheets/ existing ‘harmful agents’ exposure protocols</p></li>
+<li><p>Located chemical vendor for legacy contaminants &amp; potential ‘granting’ of chemicals</p>
+<ul>
+<li><p><a href="https://isotope.com/">Cambridge Isotope Laboratories</a></p>
+<ul>
+<li><p><a href="https://isotope.com/grant-program">Grant request application</a> (will complete regardless of choice)</p></li>
+<li><p>PAH contaminants range in price, for single agents to mixtures, from ~$200 - $2000 with the average mixtures running ~$1000.</p></li>
+<li><p>An option would be to get input from Alison and Mariko (WDFW) on maybe 1-3 specifics that would cost ~$450 (for 3).</p></li>
+<li><p>Alternatively, since PCBs are also a heavy- hitter, and skew slightly lower in price</p></li>
+</ul></li>
+<li><p><a href="https://www.thermofisher.com/search/browse/category/us/en/90347134">ThermoFisher</a> is the vendor for cadmium</p>
+<ul>
+<li><p>The formats (powder or foils?) unsure of the impact of difference</p></li>
+<li><p>No prices available without contact with them</p></li>
+</ul></li>
+</ul></li>
+</ul>
+<p><u>Next Steps</u></p>
+<ul>
+<li>Confirm design options and requirements for moving forward</li>
+<li>Connect with Jon W to assess physical setup and limitations</li>
+<li>Provide a budget, supply requirements for assessment</li>
+</ul>
+<hr>
+</section>
+<section id="nw-casc-fellowship" class="level2">
+<h2 class="anchored" data-anchor-id="nw-casc-fellowship">NW CASC Fellowship</h2>
+<hr>
+<blockquote class="blockquote">
+<ul>
+<li>A version of my Chapter 3 draft can be used for this, reasoning is below application specs.</li>
+<li>Deadline for submission: March 9, 2026 The Research Fellowship call is <a href="https://nwcasc.uw.edu/programs/research-fellowship-program/applying-for-the-research-fellowship-program/">at this link</a> and the pdf of the call overview is <a href="https://github.com/ChrisMantegna/labnotebook/blob/main/weekly/2026_0210/img/RFA_2026-27-NW-CASC-Research-Fellowship-Program.pdf">at this link</a>.</li>
+<li>Funding range: $5,000 - $65,000 with an averaged awarded amount of $30,000 for graduate students (not including tuition/ fees cost) for 1 year of fellowship.
+<ul>
+<li>Higher amounts go to Postdocs per the fellowship FAQ/ website</li>
+</ul></li>
+<li>Full proposal requires the following pieces:
+<ul>
+<li>Completed online application that identifies the NW CASC Actionable Science Agenda item being addressed, specific output/ outcomes of the work, identification of external partners, requested funding and budget, and leveraged support description.</li>
+<li>Proposal (3 page max, excluding references) with standard requirements + plan for interaction with NW CASC stakeholder (WDFW and UW-T for my thought)</li>
+<li>Budget + Justification</li>
+<li>Letter of support from PI</li>
+<li>Letter of application from prospective fellow (2 page max)</li>
+<li>Statement of Support from external partner (WDFW in accepted list)</li>
+<li>CV of prospective fellow</li>
+</ul></li>
+<li>NW CASC Actionable Science Alignment
+<ul>
+<li>Managing the Ecological Impacts of Extreme Heat in the Northwest (<a href="https://github.com/ChrisMantegna/labnotebook/blob/main/weekly/2026_0210/img/Managing-the-Ecological-Impacts-of-Extreme-Heat-in-the-Northwest.pdf"><em>ActionableScience Agenda<sup>5</sup></em></a>)
+<ul>
+<li><p><u>Key Research Needs</u>: Ranked from most applicable to least</p></li>
+<li><p>Characterize the interactive ecological effects of extreme heat and other anthropogenic, biotic and abiotic disturbances and stressors</p></li>
+<li><p>Assess and improve the effectiveness and accessibility of existing tools to measure and predict general and extreme heat exposure and impacts</p></li>
+<li><p>Understand the mechanisms and drivers of interspecific and intraspecific variation in sensitivity and adaptive capacity to extreme heat</p></li>
+<li><p><u>Key Capacity- building Needs</u>: Ranked from most applicable to least</p></li>
+<li><p>Improve, operationalize and expand the accessibility of existing tools and datasets</p></li>
+<li><p>Support long-term and post-event rapid ecological and microclimate monitoring</p></li>
+</ul></li>
+<li>Priority ecosystem: Coastal
+<ul>
+<li><u>Marine coastlines and nearshore habitats</u>, Rocky intertidal zones, Estuaries, Sandy coastlines</li>
+</ul></li>
+<li>Climate-Linked Drivers of Ecological Change
+<ul>
+<li><p>Increasing Temperatures: <u>Warmer winters, summer heat extremes and heat domes</u>, changes in growing seasons</p></li>
+<li><p>Land use changes and additional stressors categories may also apply</p></li>
+</ul></li>
+</ul></li>
+</ul>
+<p><u>Next Steps</u></p>
+<ul>
+<li>Info-session on Thursday 2/12- I am registered and will attend.</li>
+</ul>
+</blockquote>
+
+
+</section>
+
+ ]]></description>
+  <category>1v1</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0210/</guid>
+  <pubDate>Tue, 10 Feb 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Sundays are for Seahawks &amp; spending time with your favorite bivalve</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0125/</link>
+  <description><![CDATA[ 
+
+
+
+
+<blockquote class="blockquote">
+<blockquote class="blockquote">
+<p>Following the established protocols of the Resazurin Assay <a href="https://www.biorxiv.org/content/10.1101/2025.11.06.686367v1#:~:text=Abstract,as%20a%20measure%20of%20metabolism.">(Huffmyer et al., 2025)</a>, I modified the assay to support a trial run for <em>Mytilus trossulus</em>. This work had two goals:</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>First, test the metabolic response of mussels held for 30 days in progressively increased water temperatures.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Second, assess the efficacy of the standing protocol for my next mussel experiment, particularly since mussels are less robust than oysters in several ways.</p>
+</blockquote>
+</blockquote>
+<section id="established-protocol-adjustments" class="level3">
+<h3 class="anchored" data-anchor-id="established-protocol-adjustments">Established Protocol Adjustments</h3>
+<ol type="1">
+<li>Most of the mussels were on the larger side of the ‘large’ classification outlined in the protocol, so I measured using ImageJ as outlined, and used calipers to measure length, width, and height (in mm) to also proxy volume.</li>
+<li>The seawater used for the working solution was at a salinity of 27 psu, aligned with the target for the 30-day experiment. This is an adjustment for record- keeping rather than to the protocol itself.</li>
+<li>I purposefully selected mussels as follows:
+<ol type="1">
+<li>The heat treated mussels were similar in size, so one of the control treatment groups were specifically chosen to match size</li>
+<li>One exceptionally large mussel was chosen to see if size had an effect on the assay results</li>
+<li>All mussels used in a ‘seawater-only’ control for the assay were as identical in size as possible.</li>
+</ol></li>
+<li>I loaded a plate in triplicate for all values based on unclear expectations for the activity. In addition to that, the following changes to the plate load were:
+<ol type="1">
+<li>Two full rows of resazurin-only wells to ensure there was an accurate “blank” or control value to subtract background fluorescence from.</li>
+<li>Two full rows of seawater-only wells to verify any measured fluorescence from the seawater itself was negligible.</li>
+</ol></li>
+</ol>
+</section>
+<section id="setup" class="level3">
+<h3 class="anchored" data-anchor-id="setup">Setup</h3>
+<p>Before complete take- down of the 30- day survival experiment, mussels were collected (as seen below) and held in their respective tank water before being measured, photographed, and put into their assigned individual containers. A total of 12 mussels were assessed; the two remaining from the elevated temperature treatment and ten from the control temperature.</p>
+</section>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section"><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0125/img/inital_setup_c.png" class="img-fluid" width="800"></h3>
+<p>Mussels were measured two ways: first using calipers to measure width, height, and length, and second, was using ImageJ software. Mussels ranged in length from 46 mm to 96 mm with a median length of</p>
+<p>Total working solution volume was determined using three ways: first, using caliper measurements as a proxy for volume (length x width x height) and converted to cm<sup>3</sup> and summed for total mL; second, using the area measurement tool in ImageJ and converting the same as the first method; and finally, mechanical adding of water to a cup until the mussel was completely submerged, and then measuring that volume using a graduated cylinder. The first and third methods were closely aligned, the second was below required volume. I believe this was because I didn’t also measure width in ImageJ- this will be revisited post- analysis as a check for future experiments.</p>
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0125/img/measurements_c.png" class="img-fluid" width="800"></p>
+<p>Mussels were in their treatment solution at room temperature (20° C) for approximately 35 minutes before being placed in the cold room for T<sub>1</sub> and T<sub>2</sub> sampling.</p>
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0125/img/t0_and_t1_coldroom_c.png" class="img-fluid"></p>
+<p>Moving through the experiment, there was not much notable color change in the well plates (as seen in the plate image below). This could indicate a longer testing period, or that room- temperature incubation wasn’t as effective as using the incubator.</p>
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0125/img/plate2_t3_color_change_c.png" class="img-fluid" width="700"></p>
+<p>Since this was the first time Resazurin was used with mussels in the lab, I ran all samples in triplicate to see if there were any significant deviations in activity. There was some deviation, but two of the three measurements per time cycle were identical or near- identical, so I felt confident in the readings and will run samples in a single- load versus a duplicate or triplicate in future work.</p>
+<p>Finally, the plates at T<sub>5</sub> are below, as is a representative image of the color change observed in the sample cups.</p>
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0125/img/plates_1and3_fulltime_c.png" class="img-fluid" width="800"></p>
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0125/img/plates_2and4_fulltime_c.png" class="img-fluid" width="800"></p>
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0125/img/samples_6and7_ending_c.png" class="img-fluid"></p>
+</section>
+<section id="tl-dr---experiment-stats" class="level3">
+<h3 class="anchored" data-anchor-id="tl-dr---experiment-stats">TL; DR - Experiment Stats</h3>
+<ul>
+<li><p>12 total samples assessed across four 96-well plates. Each plate contained the following configuration:</p>
+<ul>
+<li><p>4 mussels in Resazurin (Rows A-D)</p></li>
+<li><p>2 mussels in seawater- only, no Resazurin (Rows E-F)</p></li>
+<li><p>2 Resazurin- only ‘blanks’, no mussels (Rows G-H)</p></li>
+<li><p>All samples loaded 180 µL in triplicate, this required four total plates</p></li>
+</ul></li>
+<li><p>Total experiment time (including setup and cleanup) was from 1120 - 1834</p>
+<ul>
+<li><p>Mussels ranged in length from 46 mm to 96 mm with a median size of 54 mm</p></li>
+<li><p>Total working solution (850 mL) was calculated based on the following volumes:</p>
+<ul>
+<li><p>9 of 12 mussels required ~50 mL solution for submersion</p></li>
+<li><p>1 of 12 mussels required 300 mL solution for submersion</p></li>
+<li><p>2 of 12 mussels required 0 mL solution since they were seawater- only controls</p></li>
+<li><p>2 of 2 Resazurin-only controls (no mussels) required 10 mL solution</p></li>
+<li><p>10% additional solution (~150 mL) for slightly larger mussels and in case of mistakes/ re-run potential</p></li>
+</ul></li>
+<li><p>Metabolic activity assessed from 1255 - 1757</p></li>
+<li><p>T<sub>0</sub> measured at 1255, T<sub>1</sub> - T<sub>4</sub> measured at hour intervals with the final T<sub>5</sub> measurement at 1757</p></li>
+<li><p>2 mussels from the increased temperature treatment (22° C)</p>
+<ul>
+<li><p>1 of 2 mussels didn’t survive (mortality at T<sub>3</sub>)</p></li>
+<li><p>1 of 2 mussels survived for the duration of the experiment</p></li>
+</ul></li>
+<li><p>10 mussels from the control temperature (11° C)</p>
+<ul>
+<li>10 out of 10 mussels survived for the duration of the experiment</li>
+</ul></li>
+</ul></li>
+<li><p>Noticeable color change didn’t occur in most samples despite increasing activity values from the plate reader</p></li>
+<li><p>Duration of experiment <em>may not</em> have reached an activity plateau indicating the need for longer experimental duration, increased incubation temperatures, or a combination to properly stress the organisms into increased or ‘maintained’ metabolic stress response.</p></li>
+<li><p>Next steps: clone the <a href="https://github.com/RobertsLab/resazurin-assay-development">training repo</a> and run the analysis and visualization scripts.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0125/</guid>
+  <pubDate>Sun, 25 Jan 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Week 1 of 52: Weekly Wrap Up Templates</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0103/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I’ve decided to stage some templates for my daily and weekly notebook posts to make it easier to pull my notes from Notion together into something cohesive. Below is the weekly wrap-up template I’ll be using going forward. The daily post template structure has also been setup, but I think that may need a bit more tweaking.</p>
+<ul>
+<li>Weekly Wrap Up Template:</li>
+</ul>
+<section id="focus-for-the-week-primary-goals-and-priorities-for-the-past-week." class="level4">
+<h4 class="anchored" data-anchor-id="focus-for-the-week-primary-goals-and-priorities-for-the-past-week.">Focus for the Week: Primary goals and priorities for the past week.</h4>
+</section>
+<section id="progress-made-what-moved-forward" class="level4">
+<h4 class="anchored" data-anchor-id="progress-made-what-moved-forward">Progress Made: What moved forward?</h4>
+</section>
+<section id="challenges-what-slowed-things-down" class="level4">
+<h4 class="anchored" data-anchor-id="challenges-what-slowed-things-down">Challenges: What slowed things down?</h4>
+</section>
+<section id="synthesis-how-does-this-week-connect-to-the-larger-project" class="level4">
+<h4 class="anchored" data-anchor-id="synthesis-how-does-this-week-connect-to-the-larger-project">Synthesis: How does this week connect to the larger project?</h4>
+</section>
+<section id="next-week-planned-tasks-and-questions." class="level4">
+<h4 class="anchored" data-anchor-id="next-week-planned-tasks-and-questions.">Next Week: Planned tasks and questions.</h4>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0103/</guid>
+  <pubDate>Sat, 03 Jan 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Epigenetics: A Playbook for Marine Survival</title>
+  <dc:creator>Chris Mantegna</dc:creator>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1202/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1201/img/epigentics_sports_field.png" class="img-fluid figure-img"></p>
+<figcaption>Infographic of my blog, Notebook LM</figcaption>
+</figure>
+</div>
+<section id="blog-reflection" class="level2">
+<h2 class="anchored" data-anchor-id="blog-reflection">Blog Reflection</h2>
+<section id="audience-framing-and-scientific-accuracy" class="level3">
+<h3 class="anchored" data-anchor-id="audience-framing-and-scientific-accuracy">Audience, Framing, and Scientific Accuracy</h3>
+<p>The primary goal of this communication project was to make the complexity of marine epigenetics accessible, engaging, and relatable to a non-expert audience. My intended audience includes community members, students, science-curious readers, and anyone who may not have a formal background in molecular biology but can follow sports narratives, metaphors, and archetypes.</p>
+<p>Because marine epigenetics involves dynamic regulatory processes that are challenging to visualize, one of the central decisions I made was to anchor the piece in cultural references that many readers understand; sports, athletes, coaching styles, game strategies, and player analogies. These provide a familiar cognitive framework for readers to map onto the scientific mechanisms. I chose sports specifically because they reflect systems-level coordination: teams, roles, strategies, adjustments, long-term development, and rapid response. These elements align naturally with epigenetic mechanisms such as DNA methylation, histone modifications, chromatin remodeling, and non-coding RNA regulation.</p>
+<p>Instead of overwhelming readers with terminology, the metaphors allow them to conceptualize these mechanisms as coaches, players, and scheme adjustments within a game. Sports also carry emotional resonance, making scientific concepts more memorable without diluting accuracy. Framing the narrative with my personal sports identity served two purposes. First, it grounded the post authentically in my voice. A personal anchor can strengthen public-facing science communication by establishing trust and relatability. Second, it created a throughline that “epigenetics is my Super Bowl” not just as a joke, but as a statement about how meaningful and exciting this field is to me. Enthusiasm can be infectious, especially when introducing complex scientific ideas.</p>
+<p>In terms of scientific accuracy, I intentionally maintained clarity around what epigenetics is and what it is not. Every metaphor was paired with a scientifically correct description: DNA methylation truly adds methyl groups to cytosines and typically reduces transcription; histone modifications genuinely change the accessibility of DNA wrapped around histone proteins; non-coding RNAs do in fact regulate gene expression post-transcriptionally; chromatin remodeling complexes physically reposition DNA in three-dimensional space. The sports metaphors were used to scaffold, not substitute, scientific detail. I was careful not to conflate acclimatization and adaptation, a common misconception in public discussions of environmental change. The blog post briefly touches on reversible, within-lifetime epigenetic adjustments (acclimatization) from longer-term, cross-generational changes that could contribute to adaptation. Scientific accuracy also guided my description of tools and methods used in marine epigenetics. Rather than implying that researchers “guess” at epigenetic states, I named the actual technologies and explained their relevance. Ultimately, while topical, there are a few places (Coach’s Challenges) where additional, higher- level information can be found. The inclusion of peer review and statistical rigor further reinforced scientific trustworthiness without derailing the storytelling.</p>
+<p>Finally, I wanted the post to end with a sense of momentum. Epigenetics is a rapidly evolving field, and framing future research directions as the rise of “expansion teams” and “rookie superstars” delivered a sense of growth and possibility. Ultimately, my goal was to create an engaging piece that communicates core concepts of marine epigenetics while honoring the complexity of the science. The sports theme provided the right balance of accessibility and creativity, and the final piece reflects a deliberate effort to maintain accuracy while reaching a broad public audience.</p>
+</section>
+</section>
+<section id="read-my-post-here." class="level2">
+<h2 class="anchored" data-anchor-id="read-my-post-here.">Read my post <a href="https://chrismantegna.github.io/labnotebook/weekly/2025_1201/">here</a>.</h2>
+</section>
+<section id="course-reflection" class="level2">
+<h2 class="anchored" data-anchor-id="course-reflection">Course Reflection</h2>
+<section id="learning-research-and-feedback" class="level3">
+<h3 class="anchored" data-anchor-id="learning-research-and-feedback">Learning, Research and Feedback</h3>
+<p>Over the past quarter, this course has deepened my understanding of the many physiological, ecological, and mechanistic processes that underlie aquatic organism function — especially for bivalves — and really put into context just how much remains to be discovered. Through our readings and discussions, I developed a much richer perspective of the multiple epigenetic mechanisms at work as well as the many ways environmental factors modulate those mechanisms. I came away with a clearer sense of not only <em>how</em> these mechanisms operate, but <em>why</em> even small differences among species or environmental context can lead to very different ecological outcomes.</p>
+<p>Much of my current and future projects already involve contaminants and fundamental physiology — but the conceptual scaffolding that this course provided gives me a clearer lens to add and interpret our findings in a physiological context through epigenetic analysis. Ultimately, the course’s emphasis on mechanisms gives me conceptual tools to better integrate physiology, ecology, and contaminant dynamics — strengthening the ecological relevance and interpretability of my data.</p>
+<p>Regarding course feedback, more notice on final course requirements and greater clarity on how many discussion questions are expected per class. I would have enjoyed participating a bit more in the personal research or ‘cool findings’ posts if I was clearer on the expectation. Moreover, while we read many papers, there was often little time for discussion. Given the complexity of the mechanisms we studied, I think the course would benefit from dedicating some class sessions to student-led discussions or presentations. For example, allowing a student to present one paper aligned with the week’s themes, followed by group discussion, might deepen engagement and understanding more than simply reading multiple articles on one’s own outside of class.</p>
+<p>In sum, the course enhanced my appreciation for the subtlety and complexity of epigenetic mechanisms. That deeper understanding has already started paying dividends in my research, helping me frame more nuanced hypotheses. With more transparent course structure and more opportunities for discussion or student-led synthesis, I believe the course could become even more effective.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1202/</guid>
+  <pubDate>Tue, 02 Dec 2025 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Epigenetics: A Playbook for Marine Survival</title>
+  <dc:creator>Chris Mantegna</dc:creator>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1201/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1202/img/me_sports.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="499"></p>
+</figure>
+</div>
+<p>If you’ve ever met me, you know I’m a sports girl. A true-blue (purple), tried and true sports fan. I ride for my <a href="https://www.baltimoreravens.com/">Baltimore Ravens</a>, I will alter the weather for my <a href="https://storm.wnba.com/">Seattle Storm</a>, and I freeze out those who don’t release the <a href="https://www.nhl.com/kraken/">Kraken</a> in the fall… but I’m also a molecular ecologist (in training) and epigenetics is my Super Bowl, my championship, my Stanley Cup; so let’s talk about it.</p>
+<p>Epigenetics is the discipline that studies changes to the genome that aren’t permanent; they’re the temporary modifications required to make life survivable. We see it in everything living from <em>Homo sapiens</em> to <a href="https://en.wikipedia.org/wiki/Abalone"><em>Haliotis</em> spp.</a>. Let’s break it down — how marine organisms use it to survive changing oceans, and why, if you can follow a game plan, a scoring drive, or a defensive breakdown, you can absolutely follow the world of epigenetic science.</p>
+<section id="welcome-to-the-arena-dna-101" class="level2">
+<h2 class="anchored" data-anchor-id="welcome-to-the-arena-dna-101">Welcome to the Arena: DNA 101</h2>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1202/img/chatgpt_dna_stadium.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="199"></p>
+</figure>
+</div>
+<p>Before any game begins, you need a field. In biology, that’s <a href="https://www.khanacademy.org/test-prep/mcat/biomolecules/dna/a/dna-structure-and-function#:~:text=DNA%20is%20the%20information%20molecule,segments%20of%20DNA%2C%20called%20genes">DNA</a>.</p>
+<p>DNA is a double-stranded playbook carrying every instruction an organism needs. Within it, genes are individual plays—schemes for building proteins, running the metabolism, repairing cells, and orchestrating life itself. But here’s the twist: just because a play exists in the book doesn’t mean the team uses it every game.</p>
+<p>And that is where epigenetics comes in.</p>
+</section>
+<section id="meet-the-coaching-staff-what-is-epigenetics" class="level2">
+<h2 class="anchored" data-anchor-id="meet-the-coaching-staff-what-is-epigenetics">Meet the Coaching Staff: What Is Epigenetics?</h2>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1202/img/epi_mech.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="433"></p>
+</figure>
+</div>
+<p><a href="https://www.merriam-webster.com/dictionary/epigenetics">Epigenetics</a> is the study of how organisms change gene expression without altering the DNA sequence itself. These changes are induced by the environment and allow organisms to remain <a href="https://fiveable.me/key-terms/cell-biology/plasticity">plastic</a>, flexible, and ready to win.</p>
+<div class="coach-challenge">
+<p><strong>Coach’s Challenge:</strong> Epigenetics goes far beyond what we’ll cover today. If you want a more in-depth read, check it out <a href="https://www.snexplores.org/article/explainer-what-epigenetics">here</a>; and if that didn’t put enough dip on your chip, check out even more <a href="https://www.activemotif.com/epigenetics-101">here</a>.</p>
+</div>
+<p>Think of it as the coaching staff deciding which plays to run, how often, and under what conditions. Just because Pete Carroll didn’t activate <a href="https://www.youtube.com/shorts/ArXx5lqCZS8">Beast Mode</a> in Super Bowl 49 doesn’t mean that Marshawn Lynch wasn’t ready to get the job done.</p>
+<p>Marine organisms live in environments that shift dramatically due to elevated water temperatures, ocean acidification, reduced oxygen, and pollution. Many are <a href="https://www.merriam-webster.com/dictionary/sessile">sessile</a> and can’t walk off the field or swap arenas, so instead, they rely on epigenetics to make on-the-fly adjustments. We’re going to focus on marine <a href="https://www.britannica.com/animal/invertebrate">invertebrates</a>, but if you want to know more, check out the Coach’s Challenges for where you can find more information.</p>
+<div class="coach-challenge">
+<p><strong>Coach’s Challenge:</strong> Plasticity is pretty cool — it lets organisms withstand environmental change by quickly shifting how they respond, just like calling an audible on the field. Read more about plasticity <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198268/">here</a>.</p>
+</div>
+<p>Let’s check out a few audibles available to our favorite marine organisms.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1202/img/coaches.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</section>
+<section id="nick-saban-defense-dna-methylation" class="level2">
+<h2 class="anchored" data-anchor-id="nick-saban-defense-dna-methylation">Nick Saban, Defense: DNA Methylation</h2>
+<p><a href="https://rolltide.com/sports/football/roster/coaches/nick-saban/545">Nick Saban</a> is famous for “the process” that has built a dynasty in Alabama: focus, precision, shutting down what doesn’t serve the system and elevating what brings the team together. That’s DNA methylation: chemical tags (a.k.a. methyl groups) get added to DNA like a defensive scheme, dictating whether genes are expressed or not.</p>
+<p>Oysters, mussels, and corals have used methylation to withstand environmental changes and alter their energy allocation during stressful events. It’s strict, strategic, and controlled. Most mammals have a ton of methylation in their genome—upwards of 70%—because we’re complex and biologically fussy, but marine invertebrates (like oysters, mussels, and corals) are just trying to meet the big basic biological goals: survive long enough to reproduce before you die. DNA methylation helps them do this.</p>
+</section>
+<section id="jessica-campbell-agility-histone-modifications" class="level2">
+<h2 class="anchored" data-anchor-id="jessica-campbell-agility-histone-modifications">Jessica Campbell, Agility: Histone Modifications</h2>
+<p>Histones are the proteins DNA wraps around; loosen them and gene expression can ramp up; tighten them and it can slow down. While <a href="https://www.nhl.com/kraken/team/coaching-staff/jessica-campbell">Jessica Campbell</a> may be the first woman coach in the NHL, she’s not new to this—she’s true to this. She’s fast, agile, and manipulates space in the barn better than most.</p>
+<p>She’s histone modification: creating openings you didn’t see coming, or locking down a play you thought was available. Histone modifications work the same way.</p>
+</section>
+<section id="geno-auriemma-court-vision-chromatin-remodeling" class="level2">
+<h2 class="anchored" data-anchor-id="geno-auriemma-court-vision-chromatin-remodeling">Geno Auriemma, Court Vision: Chromatin Remodeling</h2>
+<p>If DNA methylation is discipline and histones are agility, chromatin remodeling is pure coaching genius. If we’re talking about coaching genius, we must be talking about 12-time NCAA champion (and champion-maker), UCONN Women’s Basketball Head Coach Geno Auriemma. <a href="https://www.genoauriemma.com/">Coach Auriemma</a> doesn’t change who you are, he changes how the pieces are arranged so you shine; just ask the 45 WNBA players (26 went first pick) from his Huskies — see <a href="https://www.cbssports.com/womens-college-basketball/news/geno-auriemmas-uconn-career-by-the-numbers-legendary-coach-sets-ncaa-d-i-wins-record-in-latest-milestone/">Bird, Taurasi, and Moore et al.</a> for proof.</p>
+<p>Chromatin is the molecular complex made up of DNA and proteins in the nucleus of a cell. Remodeling physically shifts entire DNA regions by putting them in either zone or stacked play (spaced out or bunched together). Marine species use this when facing extreme stress, like heat waves; they restructure their genome’s landscape the way Geno restructures an offense.</p>
+<div class="coach-challenge">
+<p><strong>Coach’s Challenge:</strong> Histone modification is often linked to chromatin remodeling, but they are not the same — generally, histone modification is a chemical process and chromatin remodeling is a physical process.</p>
+</div>
+</section>
+<section id="the-utility-players-non-coding-rnas" class="level2">
+<h2 class="anchored" data-anchor-id="the-utility-players-non-coding-rnas">The Utility Players: Non-Coding RNAs</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1202/img/aja_ovi_updated.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>Non-coding RNAs are a little less well understood, but generally, they regulate gene expression by intercepting signals, amplifying others, or turning certain genes on or off at key moments. As the least studied mechanism of epigenetics, the sky is the limit for adding to our understanding of how this mechanism works.</p>
+<p>While not exactly coaches, think about non-coding RNAs like <a href="https://www.wnba.com/player/1628932/aja-wilson">A’ja Wilson</a> and <a href="https://www.nhl.com/capitals/player/alex-ovechkin-8471214">Alex Ovechkin</a>: players who are leaders, versatile, impactful, impossible to ignore. They do the gritty work that changes the outcome of the game.</p>
+<div class="coach-challenge">
+<p><strong>Coach’s Challenge:</strong> All of these mechanisms work together in supporting the survival of marine invertebrates—kind of like the <a href="https://www.teamusa.com/hall-of-fame/hall-of-fame-members/1992-us-olympic-mens-basketball-team">1992 Olympic Dream Team</a>.</p>
+</div>
+</section>
+<section id="training-camp-environmental-stressors" class="level2">
+<h2 class="anchored" data-anchor-id="training-camp-environmental-stressors">Training Camp: Environmental Stressors</h2>
+<p>Coach Saban says your environment shapes your commitment. Marine organisms live that reality more literally than any athlete ever will. Since the epigenetic mechanisms we covered earlier are largely induced by the environment, their “training camps” look like marine heatwaves, ocean acidification, and pollution exposure.</p>
+<p>These pressures trigger epigenetic responses that help organisms survive the moment or prepare their young for upcoming challenges.</p>
+</section>
+<section id="in-season-adjustments-vs-building-a-new-team-acclimatization-vs-adaptation" class="level2">
+<h2 class="anchored" data-anchor-id="in-season-adjustments-vs-building-a-new-team-acclimatization-vs-adaptation">In-Season Adjustments vs Building a New Team: Acclimatization vs Adaptation</h2>
+<p>Acclimatization is a short-term change, like <a href="https://www.formula1.com/en/drivers/lewis-hamilton">Lewis Hamilton</a> switching from medium compound tires to inters for rain on the track in Miami—we all know Florida rain only lasts a brief stint. Adaptation is long-term, across generations, like Ferrari designing an entirely new car concept for the next season.</p>
+<p>Epigenetics sits between these:</p>
+<ul>
+<li>Sometimes it’s reversible, like changing tires in a race (acclimatization)<br>
+</li>
+<li>Sometimes it influences offspring—think F2 and F3 drivers moving into F1 seats (parental effects)<br>
+</li>
+<li>Sometimes it persists across generations—think <a href="https://www.espn.com/f1/story/_/id/31120583/f1-rookie-mick-schumacher-dad-surname-why-fazed-it">Schumacher</a> and <a href="https://www.formula1.com/en/latest/article/ferrari-give-sainz-and-his-rally-champion-father-special-send-off-with-f1.5XNR5JV4bZeyPF0AGh22GP">Sainz</a> (transgenerational inheritance)</li>
+</ul>
+<p>Marine species often “preload” offspring with epigenetic cues so they’re ready for warming waters or increased acidity. It’s like when <a href="https://www.espn.com/nba/player/_/id/1966/lebron-james">LeBron</a> sends a plume of chalk into the air before a game or you hear those opening notes of <a href="https://www.youtube.com/watch?v=CD-E-LDc384"><em>Enter Sandman</em></a> at a <a href="https://apnews.com/article/virginia-tech-enter-sandman-4799104bef2def1decc2a638f37a1619">Virginia Tech football game</a>; the ritual signals what’s to come and, just like sport, we may not always win, but we can’t win if we aren’t prepared.</p>
+</section>
+<section id="when-does-acclimatization-become-adaptation" class="level2">
+<h2 class="anchored" data-anchor-id="when-does-acclimatization-become-adaptation">When Does Acclimatization Become Adaptation?</h2>
+<p>I’m sure you’re asking: if epigenetics keeps making the same play, at what point does it become a permanent part of the playbook?</p>
+<p>There are plenty of reasons why we would expect epigenetics to be part of the answer to how marine organisms withstand environmental changes, but there is so much more to understand before we can make such a blanket statement—I mean, there are still <a href="https://www.dallascowboys.com/">Dallas Cowboy</a> fans despite evidence that they won’t see a Super Bowl anytime soon.</p>
+<div class="coach-challenge">
+<p><strong>Coach’s Challenge:</strong> Acclimatization and adaptation feel a bit muddy because we want to think about them as distinct and different, but they are more like siblings. Think Venus and Serena Williams: <a href="https://www.espn.com/tennis/player/_/id/403/venus-williams">Venus</a> is adaptation, full-court strategy, while <a href="https://www.womenshistory.org/education-resources/biographies/serena-williams">Serena</a> is acclimatization, explosive baseline power and immediate reaction. Check out what acclimatization versus adaptation looks like in <a href="https://evokeendurance.com/resources/the-epigenetics-of-acclimatization-and-adaptations-to-high-altitude/">mountaineering</a>.</p>
+</div>
+</section>
+<section id="game-time-analytics-officiating" class="level2">
+<h2 class="anchored" data-anchor-id="game-time-analytics-officiating">Game Time: Analytics &amp; Officiating</h2>
+<section id="in-the-booth-how-we-know-whats-happening" class="level3">
+<h3 class="anchored" data-anchor-id="in-the-booth-how-we-know-whats-happening">In the Booth: How We Know What’s Happening</h3>
+<p>Researchers use powerful tools to understand and assess each of the epigenetic mechanisms. This gets complicated quickly, so check out the Coach’s Challenge for the full debrief.</p>
+<ul>
+<li><strong>DNA methylation</strong> – Genome-wide <a href="https://youtu.be/WKAUtJQ69n8?si=K9xWKSNxAh8h62JK">sequencing</a> to see where those methyl groups are added or missing<br>
+</li>
+<li><strong>Histone modifications</strong> – <a href="https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:atomic-structure-and-properties/x2eef969c74e0d802:mass-spectrometry-of-elements/v/mass-spectrometry">Mass spectrometry</a> or <a href="https://youtu.be/7_-Or4ARyH0?si=mbAeT9PEoO6ZkoVJ">ChIP</a> to show us where the modified histones sit along the genome<br>
+</li>
+<li><strong>Chromatin remodeling</strong> – Sequencing or bespoke <a href="https://youtu.be/gHpKL0edPLg?si=PXRt_0FgElhBTwHK">assays</a> to show where DNA is tightly or loosely packed<br>
+</li>
+<li><strong>Non-coding RNAs</strong> – <a href="https://youtu.be/o6DrLU46pRo?si=SvqwKnoMOu76iLht">RNA sequencing</a> to help us identify which RNAs influence gene expression</li>
+</ul>
+<div class="coach-challenge">
+<p><strong>Coach’s Challenge:</strong> Want to deep dive on the tools? See what’s really going on in the booth by exploring <a href="https://link.springer.com/article/10.1186/s11658-021-00290-9#Sec2">reviews</a> on the methods used to understand marine systems.</p>
+</div>
+</section>
+<section id="can-we-trust-the-call-officiating-call-confirmation" class="level3">
+<h3 class="anchored" data-anchor-id="can-we-trust-the-call-officiating-call-confirmation">Can We Trust the Call?: Officiating &amp; Call Confirmation</h3>
+<p>Researchers work together for more than just the field work or data analysis. We also submit our evidence (papers) for review and confirmation. Just like NFL officials calling New York to review a call on the field, researchers rely on other researchers with an outside perspective to confirm our call (results) by:</p>
+<ul>
+<li>double-checking evidence<br>
+</li>
+<li>questioning interpretation<br>
+</li>
+<li>ensuring accuracy<br>
+</li>
+<li>reproducing results</li>
+</ul>
+<div class="coach-challenge">
+<p><strong>Coach’s Challenge:</strong> Just like refs, reviewers aren’t perfect, but the system keeps the science accountable. Learn more about how we make science open, accessible, and reproducible by exploring resources on peer review, open data, and reproducibility initiatives <a href="https://www.cos.io/">here</a>.</p>
+</div>
+</section>
+</section>
+<section id="the-expansion-era-where-epigenetics-is-heading" class="level2">
+<h2 class="anchored" data-anchor-id="the-expansion-era-where-epigenetics-is-heading">The Expansion Era: Where Epigenetics Is Heading</h2>
+<p>Epigenetics isn’t static; it’s evolving like sports themselves. We’re entering a future of innovation in data collection methods, even more open-source data from around the globe, and innovative analysis techniques. The future is as bright as <a href="https://sports.mynorthwest.com/brock-and-salk/seattle-mariners-gm-josh-naylor-trade-came-together/1830299">Josh Naylor’s</a> with the Mariners!</p>
+<p>This is the age of the rookies: <a href="https://www.espn.com/nfl/player/_/id/4360423/michael-penix-jr">Michael Penix Jr.</a> (#GoDawgs), <a href="https://www.espn.com/fantasy/hockey/story/_/id/46872457/espn-nhl-fantasy-hockey-rookie-watch-add-drop-stash">Matthew Schaefer</a>, <a href="https://www.espn.com/wnba/player/_/id/4433730/paige-bueckers">Paige Bueckers</a>, <a href="https://www.formula1.com/en/drivers/kimi-antonelli">Kimi Antonelli</a> — athletes rewriting their sports in real time. Epigenetics is undergoing that same explosive transformation.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1202/img/rookie_updated.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>Add new tools, <a href="https://en.wikipedia.org/wiki/Third-generation_sequencing">third-generation sequencing</a>, and a wealth of open-source data—that’s just like electronic line judging in tennis (except for the <a href="https://www.rolandgarros.com/en-us/">French Open</a>), the new concussion helmets in the NFL, and more investment in youth sports across the US.</p>
+<p>We are rewriting our understanding of resilience, inheritance, vulnerability, and survival. Marine organisms are already doing it. Now, science is catching up.</p>
+<p>Because when it comes to life on a changing planet, epigenetics isn’t just a game. It’s the whole season, the draft, the practice, the film, and the long, hard work that lets life show up ready to play when the whistle blows.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1201/</guid>
+  <pubDate>Mon, 01 Dec 2025 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Weekly Advisor Meeting</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1113/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1113/img/michaelscott.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" width="200"></p>
+</figure>
+</div>
+<p>Today’s goal is to recap what I’ve been up to for the last 2 weeks and work through the validation chapter</p>
+<section id="recap-since-october-23rd" class="level3">
+<h3 class="anchored" data-anchor-id="recap-since-october-23rd">Recap since October 23rd</h3>
+<ol type="1">
+<li>Gave the guest lecture on November 3rd to Alison’s ecotoxicology class</li>
+<li>Gave the guest lecture on Noveber 7th to Eli &amp; Kristi’s ENV 100 class</li>
+<li>Found my original MS thesis proposal and started cleaning it up.
+<ol type="1">
+<li>It contains the Biomarker &amp; Yellow Island eDNA projects.</li>
+<li>Can I keep it like that, or should I adjust it to Biomarkers &amp; DNA Methylation?</li>
+</ol></li>
+<li>In compliance with the SAFS warning letter, I will have my draft MS proposal to the committee by end of day Friday, Nov 14th</li>
+</ol>
+</section>
+<section id="current-work" class="level3">
+<h3 class="anchored" data-anchor-id="current-work">Current Work</h3>
+<section id="dna-methylation-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="dna-methylation-analysis">DNA Methylation Analysis</h4>
+<ol type="1">
+<li><p>Currently on Raven working through a stripped down version of the code from your project-mytilus repo.</p>
+<ol type="1">
+<li><p>There a ton of sequences that I don’t know where they came from - what are they?</p></li>
+<li><p>Process is trimming and aligning with Bismark is next - will hopefully be able to start that today. Should I move that part of the process to Klone?</p></li>
+<li><p>Related, I ran a single sample (239/ low PAH) up through Bismark, but I don’t really understand the report.</p></li>
+</ol></li>
+</ol>
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1113/img/bismark_report_sample_239.png" class="img-fluid"></p>
+<ol start="2" type="1">
+<li>Experimental design.
+<ol type="1">
+<li>Ariana &amp; I walked through building a lab based experiment that would be cool, but after thinking through it further it doesn’t align with the goal to validate the novel biomarkers.</li>
+<li>Chatted with Alison on Nov 3rd and it is possible that if I identify a handful of sites to go pick up the samples, WDFW may be able to give me their extras from the February 2026 pickup. Not a guarantee.</li>
+<li>What would it take to get a field- based exposure experiment up and running? Is it possible to pilot 1-3 local sites this winter (December - February)?</li>
+</ol></li>
+</ol>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>1v1</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1113/</guid>
+  <pubDate>Thu, 13 Nov 2025 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Weekly Advisor Meeting</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1023/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Today’s Meeting is all about mussel reproduction, environmentally induced sex determinants and whatever is up with maternal and <em>paternal</em> mtDNA… cool stuff.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1023/img/mytilus_genome_pictogram.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="400"></p>
+</figure>
+</div>
+<hr>
+<section id="here-are-the-questions-chapters-we-were-kicking-around-last-meeting" class="level3">
+<h3 class="anchored" data-anchor-id="here-are-the-questions-chapters-we-were-kicking-around-last-meeting">Here are the questions/ chapters we were kicking around last meeting:</h3>
+<section id="the-overarching-theme-is-exploring-xenobiotic-effects-and-consequences-in-mussels-to-mussel-physiology" class="level4">
+<h4 class="anchored" data-anchor-id="the-overarching-theme-is-exploring-xenobiotic-effects-and-consequences-in-mussels-to-mussel-physiology">The overarching theme is: Exploring xenobiotic effects and consequences in mussels (to mussel physiology)</h4>
+<ul>
+<li><p>Chapters 1 &amp; 2 (my MS work) remain the biomarker and DNA methylation work, respectively</p>
+<ul>
+<li><p>Can the mussels from the WDFW Nearshore Monitoring Program be used to assess the impact of contaminants on the mussels using traditional biomarkers?</p></li>
+<li><p>Can epigenetics (DNA Methylation) be used to identify novel biomarkers of PAH exposure in mussels?</p></li>
+</ul></li>
+<li><p>Chapter 3 is lab testing the results of the Chapter 2</p>
+<ul>
+<li><p>Utilize ‘new’ mussels to test the outcomes of the mussels that show differential methylation from Chapter 2.</p></li>
+<li><p>Short- term (1-3 month) and longer term (3-6 month) lab- based exposure and response experiments designed to characterize the metabolic threshold of mussels exposed to known contaminant mixtures that mimic those in Puget Sound.</p>
+<ul>
+<li>Clarify stress induced DMLs and their pathways. Do they align with the DMLs in Chapter 2?</li>
+</ul></li>
+</ul></li>
+<li><p>Chapter 4 is a larger synthesis of the knowledge gained in Chapters 2 and 3.</p>
+<ul>
+<li><p>What are the contaminants inducing in mussels that can have broader population or ecosystem implications?</p>
+<ul>
+<li><p>This can be assessed through a variety of field- based experiments</p>
+<ul>
+<li><p>Outplanting primed and non-primed mussels to assess response at sites with higher or lower contaminant burdens.</p></li>
+<li><p>Reciprocal outplanting - mussels outplanted at high contaminant sites are moved to sites with low contamination and vice versa.</p></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="larger-questions-were-kicking-around-to-use-as-guides-in-creating-the-initial-proposal-in-addition-to-those-above" class="level4">
+<h4 class="anchored" data-anchor-id="larger-questions-were-kicking-around-to-use-as-guides-in-creating-the-initial-proposal-in-addition-to-those-above">Larger questions we’re kicking around to use as guides in creating the initial proposal (in addition to those above)</h4>
+<ul>
+<li><p>Do epigenetics play a role in creating a phenotypic buffer that supports mussel acclimation/ resilience in the face of climate change drivers (xenobiotic exposure)?</p></li>
+<li><p>Can we define a tipping- point in mussel’s physiology and/ or their role in ecosystem health?</p>
+<ul>
+<li><p>If there is a tipping point, to what degree does prior exposure create phenotypic response?</p></li>
+<li><p>What are the ecosystem- level consequences of foundational organisms reaching tipping points?</p></li>
+<li><p>What mechanisms control phenotypic response to prior exposures (aka epigenetic memory)?</p></li>
+</ul></li>
+<li><p>Do we actually have methylation described in mussels? What resources/ information is out there to support putting that picture together?</p></li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="new-to-me-literature" class="level3">
+<h3 class="anchored" data-anchor-id="new-to-me-literature">New (to me) Literature</h3>
+<p>Reviewing <em>Mytilus trossulus</em> genome literature, I came across a ton of cool papers that I want to discuss in the context of pollutant work, resilience, and hitting a knowledge gap that isn’t a chasm or a dead end. The 3 below are just a few that are interesting to me.</p>
+<ul>
+<li>[Paper 1: Breton et al.&nbsp;(2006) Comparative analysis of gender-associated complete mtDNA genomes in marine mussels] (https://github.com/ChrisMantegna/labnotebook/blob/main/resources/Breton%20et%20al.%20-%202006%20-%20Comparative%20Analysis%20of%20Gender-Associated%20Complete%20Mitochondrial%20Genomes%20in%20Marine%20Mussels%20(%20Myti.pdf)</li>
+<li><a href="https://github.com/ChrisMantegna/labnotebook/blob/main/resources/Breton%20et%20al.%20-%202022%20-%20Did%20doubly%20uniparental%20inheritance%20(DUI)%20of%20mtDNA%20originate%20as%20a%20cytoplasmic%20male%20sterility%20(CMS)%20sy.pdf">Paper 2: Breton et al.&nbsp;(2021) Did doubly uniparental inheritance (DUI) of mtDNA originate as a cytoplasmic male sterility (CMS) system?</a></li>
+<li><a href="https://github.com/ChrisMantegna/labnotebook/blob/main/resources/Chelyadina%20et%20al.%20-%202022%20-%20Effects%20of%20heavy%20metals%20on%20sex%20inversion%20of%20the%20mussel%20Mytilus%20galloprovincialis%20Lam.%2C%201819%20in%20coast.pdf">Paper 3: Chelyadina et al.&nbsp;(2022) Effects of heavy metals on sex inversion of the mussel <em>Mytilus galloprovincialis</em> in coastal zone of the Black Sea</a></li>
+</ul>
+<hr>
+<section id="some-questions-that-are-coming-up" class="level4">
+<h4 class="anchored" data-anchor-id="some-questions-that-are-coming-up">Some questions that are coming up</h4>
+<ul>
+<li>Do we know why the paternal mtDNA is more degraded than the maternal mtDNA and found dominantly in male offspring?</li>
+<li>Have we seen anything to indicate the population ratios around PS during or after the marine heat waves?</li>
+<li>Is it ethical (assuming they live long enough) to expose mussels to contaminants (heavy metals maybe) induce spawning and sex change and see if there is a difference in methylation patterns?</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>1v1</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1023/</guid>
+  <pubDate>Thu, 23 Oct 2025 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <dc:creator>FISH 510  |  October 2025  |  Chris Mantegna</dc:creator>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1021/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1021/</guid>
+  <pubDate>Tue, 21 Oct 2025 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Weekly Advisor Meeting</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1016/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Today’s goal is to recap last week’s committee meeting and review the scaffolding for re-working the PhD proposal.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1016/img/mapping_phd_chapters.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<section id="post--meeting-notes" class="level3">
+<h3 class="anchored" data-anchor-id="post--meeting-notes">Post- Meeting Notes</h3>
+<p>Steven and I discussed framing my PhD proposal and have settled on this path to explore. We’ll refine as we move forward, and as I learn to read my own handwriting a little better!</p>
+<p>The overarching theme is: Exploring xenobiotic effects and consequences in mussels (to mussel physiology)</p>
+<ul>
+<li><p>Chapters 1 &amp; 2 (my MS work) remain the biomarker and DNA methylation work, respectively</p>
+<ul>
+<li><p>Can the mussels from the WDFW Nearshore Monitoring Program be used to assess the impact of contaminants on the mussels using traditional biomarkers?</p></li>
+<li><p>Can epigenetics (DNA Methylation) be used to identify novel biomarkers of PAH exposure in mussels?</p></li>
+</ul></li>
+<li><p>Chapter 3 is lab testing the results of the Chapter 2</p>
+<ul>
+<li><p>Utilize ‘new’ mussels to test the outcomes of the mussels that show differential methylation from Chapter 2.</p></li>
+<li><p>Short- term (1-3 month) and longer term (3-6 month) lab- based exposure and response experiments designed to characterize the metabolic threshold of mussels exposed to known contaminant mixtures that mimic those in Puget Sound.</p>
+<ul>
+<li>Clarify stress induced DMLs and their pathways. Do they align with the DMLs in Chapter 2?</li>
+</ul></li>
+</ul></li>
+<li><p>Chapter 4 is a larger synthesis of the knowledge gained in Chapters 2 and 3.</p>
+<ul>
+<li><p>What are the contaminants inducing in mussels that can have broader population or ecosystem implications?</p>
+<ul>
+<li><p>This can be assessed through a variety of field- based experiments</p>
+<ul>
+<li><p>Outplanting primed and non-primed mussels to assess response at sites with higher or lower contaminant burdens.</p></li>
+<li><p>Reciprocal outplanting - mussels outplanted at high contaminant sites are moved to sites with low contamination and vice versa.</p></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+<section id="larger-questions-were-kicking-around-to-use-as-guides-in-creating-the-initial-proposal-in-addition-to-those-above" class="level4">
+<h4 class="anchored" data-anchor-id="larger-questions-were-kicking-around-to-use-as-guides-in-creating-the-initial-proposal-in-addition-to-those-above">Larger questions we’re kicking around to use as guides in creating the initial proposal (in addition to those above)</h4>
+<ul>
+<li><p>Do epigenetics play a role in creating a phenotypic buffer that supports mussel acclimation/ resilience in the face of climate change drivers (xenobiotic exposure)?</p></li>
+<li><p>Can we define a tipping- point in mussel’s physiology and/ or their role in ecosystem health?</p>
+<ul>
+<li><p>If there is a tipping point, to what degree does prior exposure create phenotypic response?</p></li>
+<li><p>What are the ecosystem- level consequences of foundational organisms reaching tipping points?</p></li>
+<li><p>What mechanisms control phenotypic response to prior exposures (aka epigenetic memory)?</p></li>
+</ul></li>
+<li><p>Do we actually have methylation described in mussels? What resources/ information is out there to support putting that picture together?</p></li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>1v1</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1016/</guid>
+  <pubDate>Thu, 16 Oct 2025 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Introduction to Notion</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1011/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.notion.com"><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1011/img/notion_logo.png" class="img-fluid" width="150"></a></p>
+<p>Notion has been a management and organization tool that I have been using on and off for the last 6 years, and finally this year I have hit my stride with the platform. This week’s wrap-up is about how I use Notion to manage my day to day responsibilities and how to avoid some of the mistakes I’ve made along the way.</p>
+<p>Most important to remember about the platform is that it is a tool that is typically aligned with productivity and project management, but the thousands of users and the seemingly unlimited customization abilities of Notion can make it whatever you want from a whole life management tool to a simple task manager.</p>
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1011/img/productivity_books.png" class="img-fluid" width="400"></p>
+<div class="{callout-note}">
+<p>Since most folks use it as a life or project management tool, the setups align with a few titans in the productivity space. I’ve listed a few of them and their books below.</p>
+</div>
+<p><a href="https://bookshop.org/p/books/getting-things-done-the-art-of-stress-free-productivity-david-allen/a75ff7d4feeb1930?ean=9780143126560&amp;next=t"><strong><em>Getting Things Done (GTD)</em></strong></a> — <em>David Allen</em></p>
+<p><a href="https://bookshop.org/p/books/building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential-tiago-forte/9a88c9248cc60371?ean=9781982167387&amp;next=t"><strong><em>Building a Second Brain</em></strong></a> — <em>Tiago Forte</em></p>
+<p><a href="https://bookshop.org/p/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-james-clear/072529306f5772fe?ean=9780735211292&amp;next=t"><strong><em>Atomic Habits</em></strong></a> — <em>James Clear</em></p>
+<p><a href="https://bookshop.org/p/books/deep-work-rules-for-focused-success-in-a-distracted-world-cal-newport/9a219b4ccc99d60b?ean=9781455586691&amp;next=t"><strong><em>Deep Work</em></strong></a> — <em>Cal Newport</em></p>
+<p><a href="https://bookshop.org/p/books/the-bullet-journal-method-track-the-past-order-the-present-design-the-future-ryder-carroll/449785cc380dde6e?ean=9780525533337&amp;next=t"><strong><em>The Bullet Journal Method</em></strong></a> — <em>Ryder Carroll</em></p>
+<p><a href="https://bookshop.org/p/books/the-12-week-year-get-more-done-in-12-weeks-than-others-do-in-12-months-brian-p-moran/155bb8e9ae584609?ean=9781118509234&amp;next=t"><strong><em>The 12-Week Year</em></strong></a> — <em>Brian Moran &amp; Michael Lennington</em></p>
+<p>You may notice that the productivity space that guides a lot of this is male- dominated… do not be fooled the Notion girlies (and our non-binary builders) are what turns a simple system from a rigid practice to a flexible tool with a little pizzazz to keep you coming back to using it! More impactful, I found several of the concepts in the books to be less intuitive than I would like and the Notion girlies came through with great ways to help me think about adapting the systems to how my life works.</p>
+<p>Getting started on the platform is free and 99% of the platform’s functionality is available at the free tier. There are paid tiers and a free pro account if you are a student. I believe the limitation between a free versus paid account is in the storage space, but I haven’t encountered a problem. In addition, there are tons of free templates to get you rolling if you want some inspiration before building your own pages.</p>
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1011/img/cluttered_board.jpeg" class="img-fluid"></p>
+<div class="{callout-Important}">
+<p>There are a few things to consider before you go down the rabbit hole, and those are having a clear vision of what you want to use Notion for, identifying what in your current system is and is not aligned, and finally, how can Notion support you in meeting your goals rather than create a distraction or friction point in your process. Let me explain what I mean.</p>
+</div>
+<p><strong>First</strong>, you have to decide is what you want to use Notion to do - is it replacing other management software, consolidating a multi-tool workflow that isn’t working, or do you want it to integrate into a system you are already using? I use it as the single place I operate my day-to-day from; multiple responsibilities for me means multiple ways I can lose myself in task switching and that tanks my productivity. I was looking for a way to help me integrate the parts of my workflow that were working and help me set up a place where I could manage the pieces that weren’t. For example, I love to use my Notes app to keep running to-do lists, drop thoughts or ideas, or make quick reminders to myself. The problem is that there’s no tracking, connection to the larger project the idea or task relates to, and no way to see if I’ve already dropped this brain bit into its project or calendar or whatever and that is frustrating. It felt like I was doing triple work just to get everything aligned and that led to task overwhelm and progress stunting.</p>
+<p><strong>Second</strong>, think about your working style. Notion can be as standardized or bespoke as you’d like it to be - everyone has some new way to get it done, and if you aren’t sure what you’re trying to do and how you work, you will surely create something that creates more work than it is worth. For example, I keep a working log of notes in my Google Drive for each project and I thought maybe I would transition it to the Notion projects I built - it was more hassle than it was worth since it upended the habit I built by not matching the functionality or flexibility I need for that task. To combat making that mistake repeatedly, it helped me to sketch out what I needed to see and do everyday in one place. In Notion, that’s your dashboard(s) and databases. What do you need to see to get after it?</p>
+<p><strong>Third</strong>, if you’re like me and want to have a space to be focused on the work but also a space to see your short and long term plans, it helps to make sure your end goals are clear. Once you know what you need and how you work, what are you doing this for? I needed a streamlined way to map out my day, ensure I was focused on the important or priority items, and a place to close out my day with a review and setup for the next day. This is important for two reasons; first, because having a daily start and stop ritual allows me to quiet my brain, and second, setting up the next day means I don’t spend time debating over where to get started and I can just start. Both of these things are crucial for me to make the progress towards the goals I want to achieve.</p>
+<p>Now that we’ve thought about what we want to get out of the Notion, their learning &amp; resources content is extensive but YouTube is your best friend when setting up Notion. I’ve linked some of my favorite folks below - they are straight forward, scaffold from the easiest entry points up to more complex builds.</p>
+<p>I recommend watching some of the content from these creators to get started or learn more about some of Notion’s coolest features.&nbsp;</p>
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1011/img/notion_youtubers.png" class="img-fluid"> Their pages: <a href="https://www.youtube.com/@ThomasFrankExplains">Frank Thomas Explains</a>, <a href="https://www.youtube.com/@JeffSu">Jeff Su</a>, <a href="https://www.youtube.com/@BetterCreating">Better Creating</a>, and <a href="https://www.youtube.com/@myrairl">Myra_irl</a></p>
+<section id="dos-donts" class="level3">
+<h3 class="anchored" data-anchor-id="dos-donts">Do’s &amp; Dont’s</h3>
+<blockquote class="blockquote">
+<p>DO start with the most basic setup you need to get started</p>
+<blockquote class="blockquote">
+<p>DON’T sink a ton of time world- building before you’ve tested it out</p>
+</blockquote>
+<p>DO spend time sketching out what you need</p>
+<blockquote class="blockquote">
+<p>DON’T buy templates unless they are absolutely everything you’ve ever wanted</p>
+</blockquote>
+<p>DO build a main dashboard and 1-2 pages to begin</p>
+<blockquote class="blockquote">
+<p>DON’T create a new page for everything or you’ll never find it properly again</p>
+</blockquote>
+<p>DO explore the automations and connections that can be made to your existing tools</p>
+<blockquote class="blockquote">
+<p>DON’T try to make everything fit into Notion</p>
+</blockquote>
+</blockquote>
+<blockquote class="blockquote">
+<p>DO set a trial period so you can assess what is working and what isn’t</p>
+<blockquote class="blockquote">
+<p>DON’T only open Notion to create the tool or tweak the tool</p>
+</blockquote>
+</blockquote>
+<p>Give Notion a test drive and tell me what you think! What do you like, dislike, or want to know more about?</p>
+
+
+</section>
+
+ ]]></description>
+  <category>productivity tools</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1011/</guid>
+  <pubDate>Sat, 11 Oct 2025 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>October Committee Meeting</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1009/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<section id="goals-for-todays-meeting" class="level3">
+<h3 class="anchored" data-anchor-id="goals-for-todays-meeting">Goals for Today’s Meeting</h3>
+<ul>
+<li><p>Overview of work to date</p>
+<ul>
+<li>MS research progress</li>
+</ul></li>
+<li><p>Review requirements for MS to PhD bypass</p>
+<ul>
+<li><p>Review current research</p></li>
+<li><p>Review places of expansion from MS to PhD</p></li>
+<li><p>Discuss potential to bypass</p></li>
+</ul></li>
+<li><p>Bypass requirements</p>
+<ul>
+<li>Deliverables &amp; Asks</li>
+</ul></li>
+<li><p>My academic year goals</p></li>
+</ul>
+<hr>
+</section>
+<section id="committee-members" class="level3">
+<h3 class="anchored" data-anchor-id="committee-members">Committee Members</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1009/img/committee.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="what-ive-been-up-to" class="level3">
+<h3 class="anchored" data-anchor-id="what-ive-been-up-to">What I’ve been up to</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1009/img/2025_me.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="900"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="ms-research-questions" class="level3">
+<h3 class="anchored" data-anchor-id="ms-research-questions">MS Research Questions</h3>
+<div class="callout-Focus">
+<p>Leveraging existing biomonitoring programs to assess organismal response to legacy contaminants and heavy metals in Puget Sound.</p>
+</div>
+<blockquote class="blockquote">
+<p>Main Question: Can long-running mussel outplant data from WDFW’s Nearshore Monitoring Program be leveraged to link contaminant exposure to physiological and epigenetic responses in <em>Mytilus trossulus</em>?</p>
+<blockquote class="blockquote">
+<p>Do established biomarkers in <em>M. trossulus</em> show reproducible exposure–response associations with site-level contaminant burdens and classes?</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Which exposure-associated methylation signatures and pathways in <em>M. trossulus</em> could inform the development of candidate molecular biomarkers?</p>
+</blockquote>
+</blockquote>
+<hr>
+</section>
+<section id="current-research" class="level3">
+<h3 class="anchored" data-anchor-id="current-research">Current Research</h3>
+<section id="biomarkers" class="level4">
+<h4 class="anchored" data-anchor-id="biomarkers">Biomarkers</h4>
+<div class="{callout-Question}">
+<p>Do established biomarkers in <em>M. trossulus</em> show reproducible exposure–response associations with site-level contaminant burdens and classes?</p>
+</div>
+<blockquote class="blockquote">
+<p><strong>Project Status:</strong> Manuscript drafting</p>
+<p><strong>Results Outcome:</strong> The biomarker and morphometric measurements were inconsistent with the contaminant profiles at each site, most likely due to a combination of post-retrieval handling and temporal scale.</p>
+</blockquote>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1009/img/biomarker_plot.png" class="img-fluid figure-img"></p>
+<figcaption>L: Biomarker evaluation sites grouped by Reporting Area. R: Integrated Biomarker Response results by Reporting Area, Penn Cove Reference site indicated by the triangle</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+<section id="dna-methylation" class="level4">
+<h4 class="anchored" data-anchor-id="dna-methylation">DNA Methylation</h4>
+<div class="{callout-Question}">
+<p>Which exposure-associated methylation signatures and pathways in <em>M. trossulus</em> could inform the development of candidate molecular biomarkers?</p>
+</div>
+<blockquote class="blockquote">
+<p><strong>Project Status:</strong> Analysis in progress</p>
+<p><strong>Project Goals:</strong> Discover exposure-associated methylation signatures and pathway enrichments that prioritize targets for next-generation biomarkers.</p>
+</blockquote>
+</section>
+</section>
+<section id="l-ibr-of-chosen-sites-for-further-analysis.-r-gene-track-snippet-showing-potential-differential-methylation-between-high-and-low-pah-exposed-mussels" class="level2">
+<h2 class="anchored" data-anchor-id="l-ibr-of-chosen-sites-for-further-analysis.-r-gene-track-snippet-showing-potential-differential-methylation-between-high-and-low-pah-exposed-mussels"><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1009/img/dna_meth_setup.png" class="img-fluid" alt="L: IBR of chosen sites for further analysis. R: Gene track snippet showing potential differential methylation between ‘high’ and ‘low’ PAH exposed mussels"></h2>
+<section id="expansion-to-phd" class="level3">
+<h3 class="anchored" data-anchor-id="expansion-to-phd">Expansion to PhD</h3>
+<section id="research-questions" class="level4">
+<h4 class="anchored" data-anchor-id="research-questions">Research Questions</h4>
+<div class="{callout-Focus}">
+<p>Conservation Ecology encompasses diverse expertise, methodologies, and perspectives, yet the integration of these knowledge systems remains a persistent challenge. Centered on the nearshore ecosystems of Puget Sound, my research examines both the ecological responses of foundational species to legacy contaminants and the human systems shaping conservation practice and knowledge exchange. I aim to link biological and socio-cultural data to understand how interdisciplinary frameworks can strengthen conservation outcomes and training.</p>
+</div>
+<blockquote class="blockquote">
+<p>Main Question: How can multiple knowledge systems (scientific, community based, and traditional) be more effectively woven together to improve conservation efficacy in nearshore ecosystems?</p>
+<blockquote class="blockquote">
+<p>What are the patterns of community composition and species interactions in Puget Sound’s nearshore ecosystems, and how are these shaped by gradients of contamination and habitat condition?</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>How do legacy contaminants and heavy metals influence the physiological and epigenetic resilience of foundational nearshore organisms? (Answered w/ MS work)</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>How can data-driven insights and interdisciplinary frameworks be mobilized to train and empower the next generation of conservation ecologists?</p>
+</blockquote>
+</blockquote>
+<hr>
+</section>
+<section id="yellow-island-experiential-learning-edna" class="level4">
+<h4 class="anchored" data-anchor-id="yellow-island-experiential-learning-edna">Yellow Island Experiential Learning &amp; eDNA</h4>
+<div class="{callout-Question}">
+<p>What are the patterns of community composition and species interactions in Puget Sound’s nearshore ecosystems, and how are these shaped by gradients of contamination and habitat condition?</p>
+</div>
+<blockquote class="blockquote">
+<p><strong>Purpose:</strong> Connect molecular and physiological indicators to community-level processes showing that contaminants influence not just individual organisms but ecological structure and function. Yellow Island is a difficult to access nature preserve with marine reserve status that influences the boating, fishing and recreation on the island; it is a case study-esqe location that</p>
+<p><strong>Project Objectives:</strong> Compare traditional quadrat/ transect data with eDNA from 2023 - 2025 to build intertidal community profile, assess the efficacy of experiential learning in a field setting.</p>
+<p><strong>Project Status:</strong> Data collected, analysis in progress for quadrat/ transect data, and bench work prep for 2024-25 eDNA samples</p>
+<p><strong>Possible Projected Outcomes:</strong> It is expected that species abundance and diversity is more robust than those on surrounding islands. Additionally, it is expected that the eDNA results will clarify the quadrat/ transect results. Both data sources will support an assessment on the skill, teaching, or knowledge gaps with teaching in this program.</p>
+</blockquote>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1009/img/edna.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="conservation-ecology" class="level4">
+<h4 class="anchored" data-anchor-id="conservation-ecology">Conservation Ecology</h4>
+<div class="{callout-Question}">
+<blockquote class="blockquote">
+<p>How can data-driven insights and interdisciplinary frameworks be mobilized to train and empower the next generation of conservation ecologists?</p>
+</blockquote>
+</div>
+<blockquote class="blockquote">
+<p><strong>Purpose:</strong> Create a practical link between my research and conservation capacity-building by connecting ecological monitoring, pedagogy, and community partnership.</p>
+<p><strong>Project Objectives:</strong> Bringing in the human aspect to the organism and ecosystem work to</p>
+<p><strong>Project Status:</strong> Developing</p>
+<p><strong>Projected Outcomes:</strong> Survey and interview based results around the general thoughts, impressions, expertise, and skills necessary to perform conservation work as well as opportunities to identify ways to bridge expert and novice conservationists.</p>
+</blockquote>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1009/img/yellowTeam.JPG" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</section>
+<section id="kenya-edna" class="level4">
+<h4 class="anchored" data-anchor-id="kenya-edna">Kenya eDNA</h4>
+<div class="{callout-Focus}">
+<p><em>This project has not been explicitly included in the research questions above.</em></p>
+</div>
+<div class="{callout-Question}">
+<p>Questions: What is the community composition of Lake Victoria during the dry season? Are there differences in diet amongst mormyrids in the lake and in the estuaries that feed into the lake?</p>
+</div>
+<blockquote class="blockquote">
+<p>Objective: Supporting the overarching research into mormyrid morphology, evolution and trophic niche in Lake Victoria, Kenya. In addition, I am applying eDNA techniques adapted to the challenges of the marine environment to freshwater systems.</p>
+<p>Project Status: Sample collection completed in August 2025, bench work begins in October 2025.</p>
+<p>Project Deliverables: eDNA metabarcoding analysis of water and sediment samples to create a picture of the trophic landscape, and gut content metabarcoding analysis to support species diet comparisons in the lake and the rivers that feed into the lake.</p>
+</blockquote>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1009/img/kenya_4pack_photo.png" class="img-fluid figure-img"></p>
+<figcaption>Team of ichthyologists (and me) from the Kenya National Museums &amp; the University of Minnesota</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+</section>
+<section id="pitfalls-potential-perfection" class="level3">
+<h3 class="anchored" data-anchor-id="pitfalls-potential-perfection">Pitfalls, Potential… Perfection?!?</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1009/img/blue_angels_diamond_formation.jpg" class="img-fluid figure-img" width="600"></p>
+<figcaption>Blue Angels. Photo Credit: USN Mass Communications</figcaption>
+</figure>
+</div>
+<hr>
+<hr>
+</section>
+<section id="transitioning-to-phd" class="level3">
+<h3 class="anchored" data-anchor-id="transitioning-to-phd">Transitioning to PhD</h3>
+<section id="process-deliverables" class="level4">
+<h4 class="anchored" data-anchor-id="process-deliverables">Process &amp; deliverables</h4>
+<blockquote class="blockquote">
+<p>Bypass requires the pieces listed in the table below as well as a year of funding remaining/ available.</p>
+<blockquote class="blockquote">
+<p><em>Package due to the graduate school by November 15th for a Winter Quarter PhD student status.</em></p>
+</blockquote>
+</blockquote>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Completed</strong></th>
+<th><strong>In Progress</strong></th>
+<th><strong>Done at Submission</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>[x] Identify MS Committee Members</td>
+<td>[ ] PhD Funding &amp; Timeline</td>
+<td>[ ] Chair Confirmation Statement</td>
+</tr>
+<tr class="even">
+<td>[x] Unofficial Transcript</td>
+<td>[ ] MS Research Proposal</td>
+<td>[ ] MS research cover letter</td>
+</tr>
+<tr class="odd">
+<td>[x] MS Plan of Study</td>
+<td>[ ] Accepted Manuscript</td>
+<td>[ ] My CV</td>
+</tr>
+<tr class="even">
+<td>[x] Complete 45 course hours</td>
+<td>[ ] PhD Proposal</td>
+<td>[ ] Committee confirmation Docusign</td>
+</tr>
+</tbody>
+</table>
+<blockquote class="blockquote">
+<p>In progress items to be delivered for review, editing support, and approval as follows</p>
+<blockquote class="blockquote">
+<p>Biomarker Manuscript Draft - 10/10</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>MS Thesis Proposal - 10/17</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>PhD Proposal - 10/24</p>
+</blockquote>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>2025 -26 AY Goals</p>
+<blockquote class="blockquote">
+<p>Bypass - Winter 2026</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Written Exam - late Winter 2026</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Oral Exam - Spring 2026</p>
+</blockquote>
+</blockquote>
+
+
+</section>
+</section>
+</section>
+
+ ]]></description>
+  <category>committee meeting</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1009/</guid>
+  <pubDate>Tue, 07 Oct 2025 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Weekly Adviser Meeting</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1002/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1002/img/advisor.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="275"></p>
+</figure>
+</div>
+<p>The goal today is to work through building my committee meeting presentation and ending with a recap of activities from the week.<br>
+</p>
+<section id="last-week-recap" class="level3">
+<h3 class="anchored" data-anchor-id="last-week-recap">Last week recap</h3>
+<ul>
+<li><p>Milestones form updated</p>
+<ul>
+<li><p>Please sign the Docusign form sent via email so I can update the tracker</p></li>
+<li><p>Committee meeting set of October 9th at 12pm</p></li>
+<li><p>Only remaining ‘overdue’ milestone is my MS proposal, will become a moot point when I submit my bypass</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="new-this-week" class="level3">
+<h3 class="anchored" data-anchor-id="new-this-week">New this week</h3>
+<ul>
+<li>Biomarker paper update
+<ul>
+<li>Working the plotting through Friday (10/3)</li>
+<li>Drafting discussion/ intro through Monday (10/5)</li>
+<li>Goal - draft to you and Alison by committee meeting on 10/9
+<ul>
+<li>Not as a part of the meeting</li>
+</ul></li>
+</ul></li>
+<li>Bypass package scope refinement
+<ul>
+<li>Not sure how to really package this, so I need so help thinking through scoping the work. The research assumptions and questions below are where I think it works.</li>
+<li>My goal is to have a working presentation to you for review by COB on 10/07.
+<ul>
+<li>Will build based on how we adjust the questions/ assumptions below</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="research-questions" class="level3">
+<h3 class="anchored" data-anchor-id="research-questions">Research Questions</h3>
+<ol type="1">
+<li><p>What is the community composition of the nearshore ecosystem in Puget Sound?</p>
+<ol type="1">
+<li><p>Are there any temporal similarities or differences across the sound? Anything not expected?</p></li>
+<li><p>Can we identify any trends that point toward resilience or adverse response to human impacts?&nbsp;</p></li>
+</ol></li>
+<li><p>What is the impact of legacy contaminants and heavy metals on foundational nearshore organisms?</p>
+<ol type="1">
+<li><p>How does regional (and nationally established and backed) biennial monitoring support conservation strategy development in Puget Sound?</p></li>
+<li><p>Can that monitoring model be leveraged to also infer organismal impact?</p>
+<ol type="1">
+<li>If so, does organismal impact align with the contamination profiles at each monitored site?</li>
+</ol></li>
+</ol></li>
+<li><p>How do we identify data-driven opportunities in conservation ecology and utilize those to prepare the next generation of conservation ecologists?</p>
+<ol type="1">
+<li><p>What is the current state of conservation ecology? Is it effective? How do we know?</p>
+<ol type="1">
+<li><p>Scoped to historical efficacy, collegiate preparation and inclusion, and new data techniques to bring together all the pertinent information to make decisions.</p></li>
+<li><p>Looking through the data and practitioners - not policy even though I will have to address&nbsp;</p></li>
+</ol></li>
+<li><p>What teaching methods will support the learning and research for the next group of conservationists?</p></li>
+<li><p>Where are the new and the established conservationists aligned or mismatched with current conservation professionals?</p>
+<ol type="1">
+<li><p>Social expectation - changes in workload versus personal time, work ethic?, compensation, and societal acceptance or celebration of the work</p></li>
+<li><p>Educational expectation - what skills are new folks coming in with, is it mismatched to what is needed, how does the UG degree provide (or not) the skills to be successful, and is there commentary on how that has changed over time?</p></li>
+<li><p>Urgency - efficacy is the question of the hour as we are losing time to ‘reverse’ or ‘stop’ change. Can we stop it, should we stop it, and how does multiple knowledge systems’ incorporation into the application of the data (and how its gathered) alter or confirm the future of conservation?</p></li>
+</ol></li>
+</ol></li>
+</ol>
+</section>
+<section id="research-assumptions" class="level3">
+<h3 class="anchored" data-anchor-id="research-assumptions">Research Assumptions</h3>
+<ul>
+<li><p>Assessing the nearshore environment from ecosystem level to organismal impact is thorough but incomplete without considering how the human element impacts the ecosystem.</p></li>
+<li><p>Conservation Ecology is the end focus - what can my work do to bring together/ or bridge the existing data, identify where data is incomplete, or support the folks who want data-driven actions/ solutions to conservation</p></li>
+<li><p>We are <strong>not</strong> working with micro-plastics. Contamination work is the only axis of alteration we are assessing directly.</p></li>
+</ul>
+</section>
+<section id="things-to-consider" class="level3">
+<h3 class="anchored" data-anchor-id="things-to-consider">Things to Consider</h3>
+<ul>
+<li><p>Where are the gaps in my approach?</p></li>
+<li><p>Can I launch an eDNA bio blitz where WDFW is outplanting the mussels if we find interesting correlations from the biomarker work and the DNA methylation work?</p></li>
+<li><p>What are the other axes of human impact in conservation ecology that I’m overlooking OR need to address?</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>1v1</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1002/</guid>
+  <pubDate>Thu, 02 Oct 2025 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>October Goals</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1001/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_1001/img/monthly_goals.jpeg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
+</figure>
+</div>
+<p>I have one overarching goal this month and that is to complete the draft of my bypass package and get it to my committee for review by the close of business on October 31st.&nbsp;</p>
+<p>To accomplish this goal I must complete/ submit the following<br>
+- [x] Identify MS Committee Members&nbsp;</p>
+<p>- [ ] Obtain Chair Confirmation Statement&nbsp;</p>
+<p>- [x] Unofficial Transcript&nbsp;</p>
+<p>- [x] MS Plan of Study&nbsp;</p>
+<p>- [x] Complete 45 course hours, including assigned FISH courses&nbsp;</p>
+<p>- [ ] MS Research Statement/ cover letter&nbsp;</p>
+<p>- [ ] MS Research Proposal&nbsp;</p>
+<p>- [ ] Accepted Manuscript&nbsp;</p>
+<p>- [ ] PhD Proposal&nbsp;</p>
+<p>- [ ] PhD Timeline&nbsp;</p>
+<p>- [ ] PhD Funding Mechanism&nbsp;</p>
+<p>- [ ] CV</p>
+
+
+
+ ]]></description>
+  <category>biomarkers</category>
+  <category>bypass package</category>
+  <category>committee meeting</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1001/</guid>
+  <pubDate>Wed, 01 Oct 2025 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Weekly Adviser Meeting</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_0927/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_0927/img/will_smith_advisor_meme.jpeg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
+</figure>
+</div>
+<p>Agenda for 09.25.2025 Meeting</p>
+<ul>
+<li><p>Milestones review (SAFS form)</p></li>
+<li><p>Big 3 goals for the quarter * Submit Bypass Package by Nov 15th * Prepare for written exam in Jan/Feb 2026 * Get Yellow &amp; Kenya eDNA samples out</p></li>
+<li><p>Bypass package status</p>
+<ul>
+<li>Big piece timeline
+<ul>
+<li>Includes biomarker manuscript (submit between 10/1/25 - 3/1/2026)</li>
+</ul></li>
+<li>Current completion percentage - 30%</li>
+<li>Where I need help</li>
+<li>Scheduling a committee meeting</li>
+</ul></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>1v1</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_0927/</guid>
+  <pubDate>Wed, 24 Sep 2025 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Kenya 2025</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_0831/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_0831/img/lake_victoria.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>I had the great fortune of collaborating with the University of Minnesota (UMN) and the National Museums of Kenya (KMN) in July and August to conduct field work that supported expanding our limited academic knowledge of Mormyrids, a weakly electric fish with a population in Lake Victoria, Kenya. Under the guidance of PI Kassie Ford, UMN Professor and Bell Museum Curator, we worked in direct collaboration with the ichthyologists at KMN to procure samples of as many species of mormyrids as we could for addition to the KMN fish collection and further projects amongst our respective institutions. My role, as the only non-ichthyologist, was to collect water and sediment samples for eDNA analysis to build a snapshot of the trophic composition of Lake Victoria and it’s estuaries along with collecting stomach contents from multiple species at each site to support the mormyrid diet analysis assesment of MS student Kassi Price.</p>
+<p>We spent over a month visiting sites around the lake between the Tanzanian and Ugandan border (as well as the rivers that fed into the lake) collecting samples and assessing basic water quality (temperature, pH, salinity, etc), habitat differences, and watching over our shoulders for crocodiles and hippos! Ultimately, we used a variety of techniques and employed the support of local fishermen to expand our limited knowledge and help us reach our sampling goals.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_0831/img/equator.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="900"></p>
+</figure>
+</div>
+<p>At every single location we were greeted by people who were interested in our work. Dominantly children, but plenty of adults that helped us gain knowledge about the area, where to find certain fishes, and the best places to avoid conflict with wildlife. It was an incredibly welcoming and enthusiastic environment to work in. Most hilarious was the constant shouts of ‘Mzungu’ when local folks saw us in our vehicle or in the rivers or lake. It loosely means ‘European person’, but as we soon found out it essentially means anyone who is not from Kenya. It was really fun to talk with everyone as they were as interested in us as we were in them - it made long field days that much more enjoyable.</p>
+<p>As we wrapped up our work and headed back to Nairobi, we parted ways with our KNM collaborators and closed our trip with a 3 day safari in Masai Mara National Park. To say it is as magical as you expect and more is an understatement. I know everyone loves the big cats, but my favorites were the zebras and the wildebeests.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_0831/img/safari.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="1000"></p>
+</figure>
+</div>
+<p>We saw so many animals I had only seen in books or in zoos! Truth be told, the fish were cool, but this was a bucket list, once in a lifetime opportunity that I cannot get over. I am excited to be contributing to the body of knowledge around Lake Victoria by providing a baseline community composition in the dry season; something that doesn’t exist for any season, but I am most proud of the relationships we’re building, the future collaborations to come, and another opportunity to visit Kenya.</p>
+
+
+
+ ]]></description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_0831/</guid>
+  <pubDate>Sun, 31 Aug 2025 07:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
