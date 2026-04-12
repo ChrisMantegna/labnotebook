@@ -1,0 +1,137 @@
+---
+title: "Continuing Prioritization/ Task Management & Biomarkers"
+date: "2026-04-10"
+categories:
+  - Planning
+  - Task Management
+  - Mussel Biomarkers
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: April 6 - April 12, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week's plan is to continue to move forward with the methylation
+    analysis, refresh mutual goals, expectations and priorities with
+    Steven, and set goals for April.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Planning the week & Setting April Goals~~
+>
+> ~~Tuesday - UW-RUA, No Science~~
+>
+> ~~Wednesday~~ - Friday: Will Outline post Steven 1v1
+>
+> ~~Thursday - Task management~~
+>
+> Friday - Biomarker Manuscript - 'Clarify' edits
+>
+> Saturday - No Science
+>
+> Sunday - Reading
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   Pull the individual manuscripts from the WDFW reports to identify
+    the original work, not the synthesis.
+-   Start working through the 'Clarify' list of edits on the biomarker
+    draft
+
+### Projects Touched Today
+
+-   Mussel Biomarkers
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   Working through the 2021-22 WDFW and 2014 and 2016 reports is the
+    first task of the day.
+    -   I skimmed through the sections I was most interested in, matched
+        what I could to the references in the reports, and made a list
+        of topics/ writing within the reports where the citations may
+        not be enough for what I need.
+        -   The goal here is to cite the original papers alongside the
+            report for any sentences in the manuscript that incorporate
+            more than just the 'outcome' of that section of the report.
+        -   For example, the sections that talk about mussel biology and
+            their role as a monitoring tool is basic organism biology,
+            so the report is not aligned with that as a citation. I have
+            used Gosling's tome on mussels, but Puget Sound specific
+            information should include the papers that have come out of
+            here.
+        -   The further I went with this, the more my side-notes running
+            doc was populating with better, cleaner ideas to translate
+            the biomarker work. I shifted to working on the edits and
+            put the citation work aside.
+-   Moving over to the clarify list of editing needs, my goal was to
+    identify the quick fixes over the more complex ones.
+    -   Right out of the gate, the overall narrative of the manuscript
+        was everywhere but where it should have been. I found myself
+        asking what I was trying to convey and I did the damn work. So I
+        forced myself to write out what I wanted to say, a single (maybe
+        two) sentence that explains the most important part of each
+        section.
+    -   That was harder than it sounded...
+        -   Introduction: We tested integrating contaminant
+            concentration data and paired, traditional (and validated)
+            biomarker response to evaluate the extent to which
+            biomarkers can inform ecological interpretation of
+            contaminant data.
+        -   Method: This part is solid!
+        -   Results: The contaminants, by class, were highly spatially
+            correlated, however the biomarker response and IBR were less
+            only moderately correlated.
+        -   Discussion: The complexity of biological impact requires
+            multiple levels of assessment, including the traditional
+            biomarkers, to clarify the contaminant- organism
+            relationship. Adding molecular, and environmental layers of
+            evaluation can improve the capacity of existing monitoring
+            programs.
+    -   By the end of all of this, I managed to get a drafted abstract,
+        a few bits for the introduction, and a few bits for the
+        discussion of the P450 and SOD biomarker responses in contrast
+        to the contaminant indices.
+        -   I was also able to identify my lack of enforcement around
+            the choice to use an IBR, and my lackluster discussion of
+            potential confounding or collaborative effects of the
+            contaminant mixtures in the biomarker responses.
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Biomarker drafting: 1078 words
+
+<div>
+
+> **Today's total: 1078 words**
+>
+> **Monthly total to date: 2799 words**
+>
+> **Annual total to date: 35,472 words**
+>
+> **Annual target total to date: 49,500 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Saturday is a day off.

@@ -1,0 +1,133 @@
+---
+title: "Weekly Wrap-Up & Biomarkers"
+date: "2026-04-11"
+categories:
+  - Planning
+  - Task Management
+  - Mussel Biomarkers
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: April 6 - April 12, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week's plan is to continue to move forward with the methylation
+    analysis, refresh mutual goals, expectations and priorities with
+    Steven, and set goals for April.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Planning the week & Setting April Goals~~
+>
+> ~~Tuesday - UW-RUA, No Science~~
+>
+> ~~Wednesday~~ - Friday: Will Outline post Steven 1v1
+>
+> ~~Thursday - Task management~~
+>
+> ~~Friday - Biomarker Manuscript - 'Clarify' edits~~
+>
+> Saturday - No Science
+>
+> Sunday - Reading
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   Saturday offers a few bonus hours of working time as I was able to
+    wrap–up some of my other obligations earlier than expected.
+    -   Goal 1- get a [weekly
+        wrap-up](https://chrismantegna.github.io/labnotebook/weekly/2026_0411/)
+        post knocked out.
+        -   Summarize the week's activities, put the priority dates on
+            my physical wall calendar, and start to layer-in the weekly
+            plan for the methylation manuscript.
+    -   Goal 2- review my writing updates on the biomarker manuscript
+        and either update the manuscript or make notes on what can be
+        improved.
+
+### Projects Touched Today
+
+-   Mussel Biomarkers
+-   Mussel Methylation
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   I started by writing my weekly wrap-up post.
+    -   I have gotten out of the habit of reviewing the past week in
+        totality, identifying what did and did not work, and using it to
+        build the plan for the upcoming week, so this helped me return
+        to the practice.
+    -   It also made it clear that my process may be helpful to others
+        who are struggling to balance multiple priorities, so I included
+        it as I worked it.
+    -   Finally, doing this helped me with the schedule review I
+        typically do on Sunday. It's a short week, next week, because
+        I'll be heading up to Yellow for my first tide series. I have to
+        make sure I don't overload it!
+-   Next, while working through my planning process, I created the list
+    of weekly tasks/ deliverables for the writing portion of the
+    methylation work.
+    -   It's still a little loosey-goosey, but I'm getting closer to
+        something with manageable momentum.
+    -   The only constant right now is the reading load. Unlike how I
+        was reading for biomarkers, I am going to add an annotated
+        bibliography. I spent way too much time reviewing my notes over
+        and over, so rather than have to do that every time I sit down
+        to write, I'm going to add a column for the annotation to the
+        lit table that makes it much easier to only review the papers I
+        need for the portion I'm working on rather than using the tag-
+        system to choose.
+-   Returning to the biomarker manuscript, I didn't realize that the
+    draft and visuals were in my personal Google Drive rather than my UW
+    one. I set those up properly before reviewing my writing from
+    yesterday.
+    -   The new link to the products is
+        [here](https://drive.google.com/drive/folders/1se75vO0siKTq4Bu4R7wSmX-Aa72IUh2V?usp=sharing).
+    -   I took a look at my newer pieces, my current existing draft, and
+        fought with my brain a bit to keep it on track. A good chunk of
+        my drafting yesterday is a bit elementary in structure and word
+        choice, so rather than fight with it, I made notes as to which
+        lines in each section the sentences supported and 'struck out'
+        what was already covered in the full draft.
+    -   That was the extent of it. Fresh brain in the morning = fresh
+        writing and incorporation.
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Weekly wrap-up post: 1621 words
+
+<div>
+
+> **Today's total: 1621 words**
+>
+> **Monthly total to date: 4420 words**
+>
+> **Annual total to date: 37,093 words**
+>
+> **Annual target total to date: 50,000 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Back at the biomarker draft.
