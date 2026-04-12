@@ -1,0 +1,100 @@
+---
+title: "Mussels, Mussels, and More Mussels"
+date: "2026-04-12"
+categories:
+  - Mussel Biomarkers
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: April 6 - April 12, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week's plan is to continue to move forward with the methylation
+    analysis, refresh mutual goals, expectations and priorities with
+    Steven, and set goals for April.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Planning the week & Setting April Goals~~
+>
+> ~~Tuesday - UW-RUA, No Science~~
+>
+> ~~Wednesday~~ - Friday: Will Outline post Steven 1v1
+>
+> ~~Thursday - Task management~~
+>
+> ~~Friday - Biomarker Manuscript - 'Clarify' edits~~
+>
+> ~~Saturday - No Science~~
+>
+> Sunday - Reading
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   Sunday's original goal was to catch up on my reading re: methylation
+    papers, but based on my upcoming week, I will shift to working on
+    the biomarker manuscript and methylation analysis today instead.
+
+### Projects Touched Today
+
+-   Mussel Biomarkers
+-   Mussel Methylation
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   I started by updating the Methylation Project Log to include a page
+    dedicated to [questions and
+    clarifications](https://chrismantegna.github.io/labnotebook/project_log/mussel_methylation/questions.html).
+    -   This is in conjunction with the rest of the project
+        documentation to date. That project log can be found
+        [here](https://chrismantegna.github.io/labnotebook/project_log/mussel_methylation/).
+    -   The big goal is to keep as much documentation together as
+        possible, so this is a test run for how it may operate.
+-   Next, I set up the Agenda outline for my working session with Steven
+    for Wednesday.
+    -   The Agenda is
+        [here](https://chrismantegna.github.io/labnotebook/weekly/2026_0414/) -
+        but definitely will not be complete until Tuesday.
+-   I moved over to cleaning up and running the first methylKit script
+    (06.0) to see if I know what I'm doing...
+    -   
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Something: 0 words
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 4420 words**
+>
+> **Annual total to date: 37,093 words**
+>
+> **Annual target total to date: 50,500 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Something will be clear...

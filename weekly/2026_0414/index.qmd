@@ -1,0 +1,74 @@
+---
+title: "Advisor Working Session: April 15, 2026"
+date: "2026-04-14"
+categories:
+  - 1v1
+  - Working Session
+execute:
+  echo: false
+  warning: false
+  message: false
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+    code-fold: true
+---
+
+------------------------------------------------------------------------
+
+### Agenda
+
+------------------------------------------------------------------------
+
+1.  Updates
+
+    1.  Shifting 4/21 meeting (1030-1130) to Wednesday or Thursday of the same week
+
+    2.  Biomarker Manuscript
+
+    3.  Plan for Methylation Manuscript completion NLT June 10, 2026
+
+    4.  Committee email re: status update
+
+2.  Methylation Analysis Resources
+
+3.  Today's Goals for Working Session
+
+------------------------------------------------------------------------
+
+### Agenda Topic 1
+
+------------------------------------------------------------------------
+
+> **Something**
+
+------------------------------------------------------------------------
+
+## Agenda Topic 2
+
+------------------------------------------------------------------------
+
+**Something**
+
+------------------------------------------------------------------------
+
+## Agenda Topic 3
+
+------------------------------------------------------------------------
+
+> **Something**
+
+------------------------------------------------------------------------
+
+## Agenda Topic 4
+
+------------------------------------------------------------------------
+
+**Something**
+
+------------------------------------------------------------------------
+
+## For Next Week:

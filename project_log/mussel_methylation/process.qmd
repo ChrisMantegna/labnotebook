@@ -552,4 +552,9 @@ width="400"}
     -   I made notes in the markdowns about what I need to do next, and
         will get back to it tomorrow.
 
-##### 2026-04-xx
+##### 2026-04-10
+
+-   I set up the project log - a complete place for all notes with quick
+    links to the work. I'm trying to keep everything a project needs in
+    the same place rather than spread out over multiple platforms. We'll
+    test and see if we're effective or complicating the current process.

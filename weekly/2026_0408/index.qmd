@@ -11,7 +11,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: false
+    toc: true
     page-layout: full
     code-fold: true
 editor: 

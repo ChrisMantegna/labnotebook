@@ -14,7 +14,7 @@ Not yet ready for our close-up! Trying on a new way to maintain pertinent inform
 
 2.  [Process & working notes](https://chrismantegna.github.io/labnotebook/project_log/mussel_methylation/process.html)
 
-3.  Literature
+3.  [Working Questions](https://chrismantegna.github.io/labnotebook/project_log/mussel_methylation/questions.html)
 
 4.  Methods & Protocols
 
