@@ -39,36 +39,98 @@ format:
 
 ------------------------------------------------------------------------
 
-### Agenda Topic 1
+### Updates: 1.1 - Shift April 21st Working Session
 
 ------------------------------------------------------------------------
 
-> **Something**
+> Due to a scheduling conflict with boat transportation from Yellow to the ferry, the current time of 10:30 am - 11:30 am on 4/21 will not work. Can we shift to any of the following:
+>
+> Wednesday, April 22nd at or after 1:00 pm
+>
+> Thursday, April 23rd between 10:30a - 2:00 pm
 
 ------------------------------------------------------------------------
 
-## Agenda Topic 2
+### Updates: 1.2 - Biomarker Manuscript Draft
 
 ------------------------------------------------------------------------
 
-**Something**
+> The correct link to the draft and visualizations is here. I shifted from personal Google Drive to UW Google Drive.
+>
+> Status: Need to review current draft and request edits.
+>
+> Deadline: April 17th.
 
 ------------------------------------------------------------------------
 
-## Agenda Topic 3
+### Updates 1.3: Mussel Methylation Manuscript Weekly Plan
 
 ------------------------------------------------------------------------
 
-> **Something**
+> Current project status: Moving into methylKit analysis prior to annotation and enrichment.
+>
+> Week of April 12th:
+>
+> Week of April 19th:
+>
+> Week of April 26th:
+>
+> Week of May 3rd:
+>
+> Week of May 10th:
+>
+> Week of May 17th:
+>
+> Week of May 24th:
+>
+> Week of May 31st:
+>
+> Week of June 10th:
 
 ------------------------------------------------------------------------
 
-## Agenda Topic 4
+### Updates 1.4: Committee Update Email
 
 ------------------------------------------------------------------------
 
-**Something**
+> Here is the draft of the status update for the committee.
+>
+> Goal is to send out today (April 15th) with the biomarker draft attached.
 
 ------------------------------------------------------------------------
 
-## For Next Week:
+### Item 2: Methylation Analysis Resources
+
+------------------------------------------------------------------------
+
+> Here are the links to:
+>
+> -   Repo
+>
+> -   Gannet
+>
+> -   Progress Log
+>
+> -   Questions
+
+------------------------------------------------------------------------
+
+### Item 4: Goals for Today
+
+------------------------------------------------------------------------
+
+> My goals for today's working session are:
+>
+> 1\.
+>
+> 2\.
+>
+> 3\.
+
+------------------------------------------------------------------------
+
+### Goals for next week
+
+------------------------------------------------------------------------
+
+> Prior to next week's working session:

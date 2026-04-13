@@ -2,7 +2,7 @@
 title: "Mussels, Mussels, and More Mussels"
 date: "2026-04-12"
 categories:
-  - Mussel Biomarkers
+  - Mussel Methylation
 execute:
   echo: false
   warning: false
@@ -53,7 +53,6 @@ editor:
 
 ### Projects Touched Today
 
--   Mussel Biomarkers
 -   Mussel Methylation
 
 ------------------------------------------------------------------------
@@ -133,17 +132,15 @@ editor:
             -   None of that worked - I have literally tanked it at all
                 troubleshooting or installation or whatever. That feels
                 like time to take a break.
-        -   
         -   Following that, I'm going to put the DML and DMR code
             together into a single script, and then follow up with the
             tiles markdown.
-        -   
 
 ------------------------------------------------------------------------
 
 ### Outcomes: Products & Word Count
 
--   Something: 0 words
+-   Updated methylKit scripts: 3
 
 <div>
 
@@ -159,4 +156,4 @@ editor:
 
 ### Next Up: Tomorrow's Plan
 
--   Something will be clear...
+-   Biomarkers and methylation analysis.
