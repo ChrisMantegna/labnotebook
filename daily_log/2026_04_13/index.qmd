@@ -1,0 +1,100 @@
+---
+title: "Patience Please..."
+date: "2026-04-13"
+categories:
+  - Mussel Methylation
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: April 6 - April 12, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   Update this!
+
+------------------------------------------------------------------------
+
+<div>
+
+> Monday -
+>
+> Tuesday - UW-RUA, Minimal Science
+>
+> Wednesday -
+>
+> Thursday -
+>
+> Friday - Task management & ferry to FH/ Yellow
+>
+> Saturday - Yellow Island Surveys
+>
+> Sunday - Yellow Island Surveys
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+![](img/office_space.jpeg){fig-align="left"}
+
+#### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   My primary goals for today are as follows:
+    -   Fix my RStudio/ R updates that crashes my local machine before
+        it gets the printer treatment...
+    -   Get methylKit loaded in Raven or open an issue for help
+    -   Biomarker drafting
+
+### Projects Touched Today
+
+-   Mussel Methylation
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   I left off yesterday making a mess in R and RStudio. My local
+    machine caught me slipping and I updated the working R version when
+    switching between projects. Cue the BS.
+    -   To add insult to injury, I was already making an installation
+        mess in Raven, so I wrapped up, made my notes, and considered
+        leaving my laptop out in the rain...
+    -   A little sleep and a timer made all of the difference. First, I
+        uninstalled and then re-installed R and then RStudio and fixed
+        my local machine issue.
+    -   I also disabled my .RData and any .Rprofile docs temporarily
+        until I can figure out what I setup that keeps making a mess in
+        my stuff!
+-   I pivoted to some UW-RUA traveler tasks that are time sensitive
+    before returning to fixing my software.
+-   
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Something: 0 words
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 4420 words**
+>
+> **Annual total to date: 37,093 words**
+>
+> **Annual target total to date: 50,500 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   UW-RUA and biomarker edits.
