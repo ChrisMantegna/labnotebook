@@ -28,7 +28,7 @@ This is where I keep my running list of questions about anything related to the 
 -   Should I separate the treatments into 0.1, 0.2, 0.3 and 1.1, 1.2, 1.3 instead of the 0=Low and 1= High? Since there is a significant difference in the PAH concentrations.
 
 | Sample IDs | PAH Concentration (ng/g) | Treatment (current ID) | Site Name |
-|----------------------|---------------------------|------------|------------|
+|----|----|----|----|
 | 69M - 72M | 12078.42 | 1 | Elliot Bay, Myrtle Edwards |
 | 92M - 95M | 7153.28 | 1 | Smith Cove, Terminal 91 |
 | 78M - 81M | 3304.96 | 1 | Seattle Aquarium, Pier 59 |

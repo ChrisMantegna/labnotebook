@@ -75,7 +75,68 @@ editor:
         but definitely will not be complete until Tuesday.
 -   I moved over to cleaning up and running the first methylKit script
     (06.0) to see if I know what I'm doing...
-    -   
+    -   Before that, I added the context column to the metadata table
+    -   I had a feeling that I misinterpreted the methylKit code files
+        from their original repos, and I was correct. So, I am going to
+        make the following adjustments that match my current workflow
+        without duplicating effort in any single script.
+        -   Up first, the most basic is to fix the titles of each script
+            so that they are formatted properly.
+        -   Next, I'm going to adjust the setup. In
+            6.0-methylKit_import_and_qc, I'm going to also add the
+            'unite' step and PCA creation to put anything 'data prep' in
+            the same script.
+        -   I put that together and started- or so I thought- I had to
+            install methylkit first. Using Bioconductor and the
+            documentation from the [package
+            site](https://bioconductor.org/packages/release/bioc/html/methylKit.html),
+            it was a nice reminder that a perfect script doesn't exist
+            and you should probably check your tools as well! The time
+            it takes to load the tools you could be working on the
+            script.
+        -   That failed repeatedly because of the R version, the
+            data.table package version, and a whole host of other issues
+            that me & ChatGPT worked through, so I went to the GitHub
+            install of methylKit via the [al2na Github
+            repo](https://github.com/al2na/methylKit).
+            -   To do that, I had to install devtools - I feel like I'm
+                constantly installing this - this is a sign that I need
+                to do a little investigation at another time.
+            -   After devtools install and call, a whole host of things
+                needed updating and then methylKit gave me hope...
+            -   Once this failed, I took a step back, rethought through
+                the actual problem, and while staring at my screen was
+                reminded that I built an environment to start work on my
+                home device rather than the remote - it's a container
+                based in conda.
+            -   Pivoting to my existing environment, I tried to activate
+                my conda environment - nothing, I tried mamba instead
+                thinking I just forgot - wrong.
+            -   So, rather than fight the tide and keep trying to find
+                these package version mismatches - which BTW were only
+                the beginning problem - I am trying to remove the
+                conflicts by 'containing' the work environment.
+            -   In terminal, I checked for both mamba and conda again,
+                came up empty, and installed minimamba to go back to the
+                controlled environment to try and install methylKit.
+                It's taking a bit, but once that is finished, I have a
+                complete environment that should allow me to load
+                methylKit- fingers crossed.
+            -   I lost it because I restarted R because renv() prompted
+                it - this is uncool. Found it again, downloaded
+                BiocManager again with the correct version. Got to
+                methylKit - it failed.
+            -   This time the dependencies were the cause- PROGRESS!
+            -   I installed the other packages: c( "GenomicRanges",
+                "GenomeInfoDb", "Rsamtools", "fastseg", "rtracklayer",
+                "Rhtslib") and tried again.
+            -   
+        -   then I worked my way through the updated import and explore
+            markdown.
+        -   Following that, I'm going to put the DML and DMR code
+            together into a single script, and then follow up with the
+            tiles markdown.
+        -   
 
 ------------------------------------------------------------------------
 
