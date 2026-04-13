@@ -130,9 +130,10 @@ editor:
             -   I installed the other packages: c( "GenomicRanges",
                 "GenomeInfoDb", "Rsamtools", "fastseg", "rtracklayer",
                 "Rhtslib") and tried again.
-            -   
-        -   then I worked my way through the updated import and explore
-            markdown.
+            -   None of that worked - I have literally tanked it at all
+                troubleshooting or installation or whatever. That feels
+                like time to take a break.
+        -   
         -   Following that, I'm going to put the DML and DMR code
             together into a single script, and then follow up with the
             tiles markdown.
