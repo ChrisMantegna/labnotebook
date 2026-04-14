@@ -55,7 +55,7 @@ format:
 
 ------------------------------------------------------------------------
 
-> The correct link to the draft and visualizations is here. I shifted from personal Google Drive to UW Google Drive.
+> The correct link to the draft and visualizations is [here](https://drive.google.com/drive/folders/1se75vO0siKTq4Bu4R7wSmX-Aa72IUh2V?usp=drive_link). I shifted from personal Google Drive to UW Google Drive.
 >
 > Status: Need to review current draft and request edits.
 >
@@ -67,25 +67,25 @@ format:
 
 ------------------------------------------------------------------------
 
-> Current project status: Moving into methylKit analysis prior to annotation and enrichment.
+> Current project status: Moving into `methylKit` analysis prior to annotation and enrichment. Goals for the week are listed below with the steps in [this doc](https://docs.google.com/document/d/1SS7A_QtXSo6sVQVn8HDAZNxIL5ok56xbxIspe0jR-8s/edit?usp=sharing).
 >
-> Week of April 12th:
+> Week of April 12th: Reliably run `methylKit` and know the inputs are correct
 >
-> Week of April 19th:
+> Week of April 19th: Analysis focus: Unite, QC and PCAs
 >
-> Week of April 26th:
+> Week of April 26th: Understanding DMLs/ DMRs
 >
-> Week of May 3rd:
+> Week of May 3rd: Annotation + Biology
 >
-> Week of May 10th:
+> Week of May 10th: Integrating Methylation, Biology and Contaminants
 >
-> Week of May 17th:
+> Week of May 17th: Figures and Rough Draft
 >
-> Week of May 24th:
+> Week of May 24th: Refinement and Gaps
 >
-> Week of May 31st:
+> Week of May 31st: Polish and Committee Prep
 >
-> Week of June 10th:
+> Week of June 7th: Final-ish Review and Submission to Committee for Feedback
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ format:
 
 > Here is the draft of the status update for the committee.
 >
-> Goal is to send out today (April 15th) with the biomarker draft attached.
+> Goal is to send out on April 17th with the biomarker draft attached.
 
 ------------------------------------------------------------------------
 
@@ -105,13 +105,13 @@ format:
 
 > Here are the links to:
 >
-> -   Repo
+> -   [Repo](https://github.com/ChrisMantegna/wdfw_mussel_methylation)
 >
-> -   Gannet
+> -   [Gannet](https://gannet.fish.washington.edu:5001/?launchApp=SYNO.SDS.App.FileStation3.Instance&launchParam=openfile%3D%252Fhome%252Fwdfw_mussel_methylation%252F&SynoToken=eqHazyiMJX42w "Access Link")
 >
-> -   Progress Log
+> -   [Progress Log](https://chrismantegna.github.io/labnotebook/project_log/mussel_methylation/process.html)
 >
-> -   Questions
+> -   [Questions](https://chrismantegna.github.io/labnotebook/project_log/mussel_methylation/questions.html)
 
 ------------------------------------------------------------------------
 
