@@ -9,8 +9,175 @@
 <link>https://chrismantegna.github.io/labnotebook/dailylog.html</link>
 <atom:link href="https://chrismantegna.github.io/labnotebook/dailylog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Sun, 12 Apr 2026 07:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Mon, 13 Apr 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Patience Please…</title>
+  <link>https://chrismantegna.github.io/labnotebook/daily_log/2026_04_13/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="plan-of-the-week-april-6---april-12-2026" class="level3">
+<h3 class="anchored" data-anchor-id="plan-of-the-week-april-6---april-12-2026">Plan of the Week: April 6 - April 12, 2026</h3>
+<section id="high--level-outline-for-the-week.-adjusted-daily-to-reflect-progress-of-the-day-before" class="level4">
+<h4 class="anchored" data-anchor-id="high--level-outline-for-the-week.-adjusted-daily-to-reflect-progress-of-the-day-before"><em>High- level outline for the week. Adjusted daily to reflect progress of the day before</em></h4>
+<ul>
+<li>This week is all about biomarkers and methylation.</li>
+</ul>
+<hr>
+<div>
+<blockquote class="blockquote">
+<p>Monday - Methylation, <code>methylKit</code> run</p>
+<p>Tuesday - UW-RUA, biomarkers</p>
+<p>Wednesday - Biomarkers</p>
+<p>Thursday - Biomarkers</p>
+<p>Friday - Task management &amp; ferry to FH/ Yellow</p>
+<p>Saturday - Yellow Island Surveys</p>
+<p>Sunday - Yellow Island Surveys</p>
+</blockquote>
+</div>
+<hr>
+</section>
+</section>
+<section id="plan-of-the-day" class="level3">
+<h3 class="anchored" data-anchor-id="plan-of-the-day">Plan of the Day</h3>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/daily_log/2026_04_13/img/office_space.jpeg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
+</figure>
+</div>
+<section id="granular-level-task-list-to-accomplish-the-high--level-goal-outlined-above" class="level4">
+<h4 class="anchored" data-anchor-id="granular-level-task-list-to-accomplish-the-high--level-goal-outlined-above"><em>Granular level task list to accomplish the high- level goal outlined above</em></h4>
+<ul>
+<li>My primary goals for today are as follows:
+<ul>
+<li>Fix my RStudio/ R updates that crashes my local machine before it gets the printer treatment…</li>
+<li>Get <code>methylKit</code> loaded in Raven or open an issue for help</li>
+<li>Biomarker drafting</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="projects-touched-today" class="level3">
+<h3 class="anchored" data-anchor-id="projects-touched-today">Projects Touched Today</h3>
+<ul>
+<li>Mussel Methylation</li>
+</ul>
+<hr>
+</section>
+<section id="progress-notes" class="level3">
+<h3 class="anchored" data-anchor-id="progress-notes">Progress Notes</h3>
+<ul>
+<li>I left off yesterday making a mess in R and RStudio. My local machine caught me slipping and I updated the working R version when switching between projects. Cue the BS.
+<ul>
+<li>To add insult to injury, I was already making an installation mess in Raven, so I wrapped up, made my notes, and considered leaving my laptop out in the rain…</li>
+<li>A little sleep and a timer made all of the difference. First, I uninstalled and then re-installed R and then RStudio and fixed my local machine issue.</li>
+<li>I also disabled my <code>.RData</code> and any <code>.Rprofile</code> docs temporarily until I can figure out what I setup that keeps making a mess in my stuff!</li>
+</ul></li>
+<li>I pivoted to some UW-RUA traveler tasks that are time sensitive before returning to fixing my software.</li>
+<li>Returning to Raven and the <code>methylKit</code> install from hell…
+<ul>
+<li>During my working block with KPJ, I decided to go back with fresh reasoning and install <code>methylKit</code> since I’d done some clear- headed thinking about the issues and Kristin is a great resource for coding conundrums.</li>
+<li>First, working through all of the options back to back yesterday clouded my goal. The goal is to get the correct versions of <code>BiocManager</code> and <code>methylKit</code> installed so I can keep moving forward with the analysis.</li>
+<li>I verified I was in my <code>bio-cli</code> environment to prevent competing versions of R, and maximize capabilities in my micromamba ‘container’ of sorts, aka <code>bio-cli</code>. Once I activated that, I navigated to R in terminal, verified the version (4.3.3), verified where my R libraries are located, and my working directory:</li>
+</ul></li>
+</ul>
+<blockquote class="blockquote">
+<p><code>[1]"/home/shared/8TB_HDD_02/cnmntgna/R/x86_64-pc-linux-gnu-library/4.2"</code> <code>[2]"/home/shared/8TB_HDD_02/cnmntgna/micromamba/envs/bio-cli/lib/R/library"</code></p>
+<p><code>[1] "/home/shared/8TB_HDD_02/cnmntgna"</code></p>
+</blockquote>
+<ul>
+<li>I then went back to the BiocManager documentation, verified the version should be 3.18, not 3.16 (which I was trying yesterday) for R versions 4.3.x. I then crossed my fingers and watched the install…</li>
+</ul>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Warning
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Trying to solve an installation or actual coding problem 99.999999999999% requires me to take a step back and identify - out loud - what I am actually trying to do before accessing the internet! I lost a few hours yesterday trying to jump into the middle to fix something I already laid a foundation for. Go back to the basics…</p>
+</div>
+</div>
+<p>Moving on…</p>
+<ul>
+<li><p><code>BiocManager</code> installed and version 3.18 verified.</p>
+<ul>
+<li><p><code>methylKit</code> failed. <code>Error: object ‘key&lt;-’ is not exported by 'namespace:data.table' Execution halted</code></p></li>
+<li><p>Remembering to go back to the basics… I checked my paths, my working directories, and the <code>methylKit</code> documentation in the <a href="https://github.com/al2na/methylKit/issues/350">al2na GitHub repo</a>. Even in my updated environment, R version 4.2 is overrunning 4.3 - what a bully. So I will fix that, and then the <code>data.table</code> issue.</p></li>
+<li><p>Working with KPJ, I created new directories in my environment that are exactly the same except they terminal in 4.3 instead of 4.2, and re-pointed my environment to chose the newer libraries…</p></li>
+<li><p>Next hurdle - the <code>data.table</code> package is too new- it is 1.18.2.1. Installed the older 1.16.4 version successfully.</p></li>
+</ul></li>
+</ul>
+<p><code>find.package("data.table") packageVersion("data.table")</code></p>
+<p><code>[1] "/home/shared/8TB_HDD_02/cnmntgna/R/x86_64-pc-linux-gnu-library/4.3/data.table" [1] ‘1.16.4’</code></p>
+<ul>
+<li><p>Now, for <code>methylKit</code>… to fail. Segmentation fault (core dumped)… sounds egregious. More troubleshooting.</p></li>
+<li><p>Halfway through trying to understand the error message, Kristin and I remembered we have this really nice conda/ mamba environment. So, I found the <a href="https://bioconda.github.io/recipes/bioconductor-methylkit/README.html">Bioconda GitHub</a> page with instructions to install via my <code>micromamba</code> environment.</p>
+<ul>
+<li><p>Helpful within that is the compatible versions list of the gazillion packages needed for this program.</p></li>
+<li><p><code>rtracklayer</code> was the next culprit, so installing and loading that, version 1.62.0, finally opened the door to <code>methylkit version 1.28.0</code>. I am rating this escape room 0/10.</p></li>
+</ul></li>
+<li><p>Now for the true test- the code in the markdown.</p>
+<ul>
+<li>Which failed.</li>
+</ul></li>
+<li><p>After knocking out some UW-RUA tasks, I returned with a fresh set of eyes.</p>
+<ul>
+<li><p>Problem 1 - no matter how many times (or ways) I set my working directory or activate my working environment, the markdown is fighting me.</p></li>
+<li><p>Problem 2 - my launch/ <code>.Renviron</code> / <code>.Rhistory</code> files are in a fight to pull me into insanity.</p></li>
+<li><p>Fixing problem 2 first will hopefully solve have the fight.</p>
+<ul>
+<li><p>I became a recursive remover with impunity! I suspect the repeat attempts and fails created a bunch of mixed signals.</p></li>
+<li><p>I did that because in my documentation perusal, I found that while <code>conda</code> and <code>mamba</code> are discussed kind of interchangeably, they are companions, not options - this helped me clarify my primary conflict - several ‘environments’ that could be one.</p></li>
+<li><p>Once I renamed my old history and environment files, I changed my global options in R to stop loading from the previous session, restarted and followed the bioconda instructions to get my tools in one environment.</p></li>
+</ul></li>
+<li><p>I now have a <code>wgbs</code> environment - outside of the methylation project - that I can use for this work and all subsequent projects. The environment includes the QC and alignment tools as well. I am very pleased!</p>
+<ul>
+<li>It did activate within the markdown once I rendered the markdown as quarto &amp; now my next step is to fix the actual coding errors I have created by modifying the chunks to test against the other environments and workarounds I attempted earlier today.</li>
+</ul></li>
+</ul></li>
+</ul>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/daily_log/2026_04_13/img/wgbs_env_success.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="600"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="outcomes-products-word-count" class="level3">
+<h3 class="anchored" data-anchor-id="outcomes-products-word-count">Outcomes: Products &amp; Word Count</h3>
+<ul>
+<li>WGBS environment!</li>
+</ul>
+<div>
+<blockquote class="blockquote">
+<p><strong>Today’s total: 0 words</strong></p>
+<p><strong>Monthly total to date: 4420 words</strong></p>
+<p><strong>Annual total to date: 37,093 words</strong></p>
+<p><strong>Annual target total to date: 50,500 words</strong></p>
+</blockquote>
+</div>
+</section>
+<section id="next-up-tomorrows-plan" class="level3">
+<h3 class="anchored" data-anchor-id="next-up-tomorrows-plan">Next Up: Tomorrow’s Plan</h3>
+<ul>
+<li>UW-RUA and biomarker edits.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Mussel Methylation</category>
+  <guid>https://chrismantegna.github.io/labnotebook/daily_log/2026_04_13/</guid>
+  <pubDate>Mon, 13 Apr 2026 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Mussels, Mussels, and More Mussels</title>
   <link>https://chrismantegna.github.io/labnotebook/daily_log/2026_04_12/</link>

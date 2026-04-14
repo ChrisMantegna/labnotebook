@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,15 +32,17 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1ac49dc45d461ba7e3f4755605d38e4c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -112,7 +114,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -131,13 +133,15 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 <link rel="alternate" type="application/rss+xml" title="Progress Makes a PhD" href="weeklyupdates.xml" data-external="1"></head>
 
-<body class="nav-fixed">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Progress Makes a PhD</span>
     </a>
@@ -215,7 +219,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(18)</span></div><div class="category" data-category="1v1">1v1 <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Working Session">Working Session <span class="quarto-category-count">(1)</span></div><div class="category" data-category="biomarkers">biomarkers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bypass package">bypass package <span class="quarto-category-count">(1)</span></div><div class="category" data-category="committee meeting">committee meeting <span class="quarto-category-count">(2)</span></div><div class="category" data-category="productivity tools">productivity tools <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(18)</span></div><div class="category" data-category="MXYx">1v1 <span class="quarto-category-count">(8)</span></div><div class="category" data-category="YmlvbWFya2Vycw==">biomarkers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YnlwYXNzJTIwcGFja2FnZQ==">bypass package <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29tbWl0dGVlJTIwbWVldGluZw==">committee meeting <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cHJvZHVjdGl2aXR5JTIwdG9vbHM=">productivity tools <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V29ya2luZyUyMFNlc3Npb24=">Working Session <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -234,12 +238,12 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="1v1,Working Session" data-listing-date-sort="1776150000000" data-listing-file-modified-sort="1776024982929" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
-<div class="thumbnail">
-<p><a href="./weekly/2026_0414/index.html" class="no-external"></a></p><a href="./weekly/2026_0414/index.html" class="no-external">
+<div class="quarto-post image-right" data-index="0" data-categories="MXYxJTJDV29ya2luZyUyMFNlc3Npb24=" data-listing-date-sort="1776150000000" data-listing-file-modified-sort="1776095217725" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="294">
+<div class="thumbnail"><a href="./weekly/2026_0414/index.html" class="no-external">
+
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./weekly/2026_0414/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2026_0414/index.html" class="no-external">Advisor Working Session: April 15, 2026</a>
@@ -248,16 +252,15 @@ window.Quarto = {
 <a href="./weekly/2026_0414/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('1v1'); return false;">
-1v1
+
+<div class="listing-category" onclick="window.quartoListingCategory('MXYx'); return false;">1v1</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('V29ya2luZyUyMFNlc3Npb24='); return false;">Working Session</div>
+
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Working Session'); return false;">
-Working Session
-</div>
-</div>
-<div class="listing-description">
-<a href="./weekly/2026_0414/index.html" class="no-external">Updates</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2026_0414/index.html" class="no-external">
+Updates
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2026_0414/index.html" class="no-external">
@@ -268,11 +271,11 @@ Apr 14, 2026
 </div>
 </div>
 <div class="quarto-post image-right" data-index="1" data-listing-date-sort="1775890800000" data-listing-file-modified-sort="1775947467736" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1758">
-<div class="thumbnail">
-<p><a href="./weekly/2026_0411/index.html" class="no-external"></a></p><a href="./weekly/2026_0411/index.html" class="no-external">
+<div class="thumbnail"><a href="./weekly/2026_0411/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2026_0411/img/pivot.jpeg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2026_0411/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2026_0411/index.html" class="no-external">Pivot: Changing Tack to Plan, Prioritize, Progress, and Prevail</a>
@@ -280,9 +283,9 @@ Apr 14, 2026
 <div class="listing-subtitle">
 <a href="./weekly/2026_0411/index.html" class="no-external"></a>
 </div>
-<div class="listing-description">
-<a href="./weekly/2026_0411/index.html" class="no-external">It has been a minute since I did a proper recap, and since this week was all about planning and realigning myself with the work that will move me forward, it felt like a…</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2026_0411/index.html" class="no-external">
+It has been a minute since I did a proper recap, and since this week was all about planning and realigning myself with the work that will move me forward, it felt like a…
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2026_0411/index.html" class="no-external">
@@ -292,12 +295,12 @@ Apr 11, 2026
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="1v1" data-listing-date-sort="1775545200000" data-listing-file-modified-sort="1776094214021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1822">
-<div class="thumbnail">
-<p><a href="./weekly/2026_0408/index.html" class="no-external"></a></p><a href="./weekly/2026_0408/index.html" class="no-external">
+<div class="quarto-post image-right" data-index="2" data-categories="MXYx" data-listing-date-sort="1775545200000" data-listing-file-modified-sort="1776094214021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1822">
+<div class="thumbnail"><a href="./weekly/2026_0408/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2026_0408/img/ducks_in_row.jpeg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2026_0408/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2026_0408/index.html" class="no-external">Advisor 1v1: April 8, 2026</a>
@@ -306,13 +309,13 @@ Apr 11, 2026
 <a href="./weekly/2026_0408/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('1v1'); return false;">
-1v1
+
+<div class="listing-category" onclick="window.quartoListingCategory('MXYx'); return false;">1v1</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="./weekly/2026_0408/index.html" class="no-external"><strong>1.1 Mussel Biomarker Manuscript</strong> (Deliverable 2 of 3 in Academic Alert)</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2026_0408/index.html" class="no-external">
+<strong>1.1 Mussel Biomarker Manuscript</strong> (Deliverable 2 of 3 in Academic Alert)
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2026_0408/index.html" class="no-external">
@@ -322,12 +325,12 @@ Apr 7, 2026
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="1v1" data-listing-date-sort="1770710400000" data-listing-file-modified-sort="1772663566956" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1876">
-<div class="thumbnail">
-<p><a href="./weekly/2026_0210/index.html" class="no-external"></a></p><a href="./weekly/2026_0210/index.html" class="no-external">
+<div class="quarto-post image-right" data-index="3" data-categories="MXYx" data-listing-date-sort="1770710400000" data-listing-file-modified-sort="1772663566956" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1876">
+<div class="thumbnail"><a href="./weekly/2026_0210/index.html" class="no-external">
+
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./weekly/2026_0210/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2026_0210/index.html" class="no-external">Advisor 1v1: February 11, 2026</a>
@@ -336,13 +339,13 @@ Apr 7, 2026
 <a href="./weekly/2026_0210/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('1v1'); return false;">
-1v1
+
+<div class="listing-category" onclick="window.quartoListingCategory('MXYx'); return false;">1v1</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="./weekly/2026_0210/index.html" class="no-external"><strong>MS Proposal</strong></a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2026_0210/index.html" class="no-external">
+<strong>MS Proposal</strong>
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2026_0210/index.html" class="no-external">
@@ -353,11 +356,11 @@ Feb 10, 2026
 </div>
 </div>
 <div class="quarto-post image-right" data-index="4" data-listing-date-sort="1769328000000" data-listing-file-modified-sort="1770149947080" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1102">
-<div class="thumbnail">
-<p><a href="./weekly/2026_0125/index.html" class="no-external"></a></p><a href="./weekly/2026_0125/index.html" class="no-external">
+<div class="thumbnail"><a href="./weekly/2026_0125/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2026_0125/img/inital_setup_c.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2026_0125/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2026_0125/index.html" class="no-external">Sundays are for Seahawks &amp; spending time with your favorite bivalve</a>
@@ -365,9 +368,9 @@ Feb 10, 2026
 <div class="listing-subtitle">
 <a href="./weekly/2026_0125/index.html" class="no-external">Testing Mytilus response to resazurin assays</a>
 </div>
-<div class="listing-description">
-<a href="./weekly/2026_0125/index.html" class="no-external">Following the established protocols of the Resazurin Assay (Huffmyer et al., 2025), I modified the assay to support a trial run for <em>Mytilus trossulus</em>. This work had two goals:</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2026_0125/index.html" class="no-external">
+Following the established protocols of the Resazurin Assay (Huffmyer et al., 2025), I modified the assay to support a trial run for <em>Mytilus trossulus</em>. This work had two goals:
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2026_0125/index.html" class="no-external">
@@ -378,11 +381,11 @@ Jan 25, 2026
 </div>
 </div>
 <div class="quarto-post image-right" data-index="5" data-listing-date-sort="1767427200000" data-listing-file-modified-sort="1770160440676" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
-<div class="thumbnail">
-<p><a href="./weekly/2026_0103/index.html" class="no-external"></a></p><a href="./weekly/2026_0103/index.html" class="no-external">
+<div class="thumbnail"><a href="./weekly/2026_0103/index.html" class="no-external">
+
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./weekly/2026_0103/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2026_0103/index.html" class="no-external">Week 1 of 52: Weekly Wrap Up Templates</a>
@@ -390,9 +393,9 @@ Jan 25, 2026
 <div class="listing-subtitle">
 <a href="./weekly/2026_0103/index.html" class="no-external"></a>
 </div>
-<div class="listing-description">
-<a href="./weekly/2026_0103/index.html" class="no-external">I’ve decided to stage some templates for my daily and weekly notebook posts to make it easier to pull my notes from Notion together into something cohesive. Below is the…</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2026_0103/index.html" class="no-external">
+I’ve decided to stage some templates for my daily and weekly notebook posts to make it easier to pull my notes from Notion together into something cohesive. Below is the…
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2026_0103/index.html" class="no-external">
@@ -403,11 +406,11 @@ Jan 3, 2026
 </div>
 </div>
 <div class="quarto-post image-right" data-index="6" data-listing-date-sort="1764662400000" data-listing-file-modified-sort="1765236886014" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="876">
-<div class="thumbnail">
-<p><a href="./weekly/2025_1202/index.html" class="no-external"></a></p><a href="./weekly/2025_1202/index.html" class="no-external">
+<div class="thumbnail"><a href="./weekly/2025_1202/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2025_1201/img/epigentics_sports_field.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2025_1202/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2025_1202/index.html" class="no-external">Epigenetics: A Playbook for Marine Survival</a>
@@ -415,9 +418,9 @@ Jan 3, 2026
 <div class="listing-subtitle">
 <a href="./weekly/2025_1202/index.html" class="no-external">Reflections</a>
 </div>
-<div class="listing-description">
-<a href="./weekly/2025_1202/index.html" class="no-external">The primary goal of this communication project was to make the complexity of marine epigenetics accessible, engaging, and relatable to a non-expert audience. My intended…</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2025_1202/index.html" class="no-external">
+The primary goal of this communication project was to make the complexity of marine epigenetics accessible, engaging, and relatable to a non-expert audience. My intended…
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2025_1202/index.html" class="no-external">
@@ -431,11 +434,11 @@ Chris Mantegna
 </div>
 </div>
 <div class="quarto-post image-right" data-index="7" data-listing-date-sort="1764576000000" data-listing-file-modified-sort="1765236970208" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1733">
-<div class="thumbnail">
-<p><a href="./weekly/2025_1201/index.html" class="no-external"></a></p><a href="./weekly/2025_1201/index.html" class="no-external">
+<div class="thumbnail"><a href="./weekly/2025_1201/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2025_1202/img/me_sports.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2025_1201/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2025_1201/index.html" class="no-external">Epigenetics: A Playbook for Marine Survival</a>
@@ -443,9 +446,9 @@ Chris Mantegna
 <div class="listing-subtitle">
 <a href="./weekly/2025_1201/index.html" class="no-external">How Marine Organisms Run the Ultimate Game Plan</a>
 </div>
-<div class="listing-description">
-<a href="./weekly/2025_1201/index.html" class="no-external">If you’ve ever met me, you know I’m a sports girl. A true-blue (purple), tried and true sports fan. I ride for my Baltimore Ravens, I will alter the weather for my Seattle…</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2025_1201/index.html" class="no-external">
+If you’ve ever met me, you know I’m a sports girl. A true-blue (purple), tried and true sports fan. I ride for my Baltimore Ravens, I will alter the weather for my Seattle…
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2025_1201/index.html" class="no-external">
@@ -458,12 +461,12 @@ Chris Mantegna
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="1v1" data-listing-date-sort="1763020800000" data-listing-file-modified-sort="1763058797718" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="339">
-<div class="thumbnail">
-<p><a href="./weekly/2025_1113/index.html" class="no-external"></a></p><a href="./weekly/2025_1113/index.html" class="no-external">
+<div class="quarto-post image-right" data-index="8" data-categories="MXYx" data-listing-date-sort="1763020800000" data-listing-file-modified-sort="1763058797718" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="339">
+<div class="thumbnail"><a href="./weekly/2025_1113/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2025_1113/img/michaelscott.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2025_1113/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2025_1113/index.html" class="no-external">Weekly Advisor Meeting</a>
@@ -472,13 +475,13 @@ Chris Mantegna
 <a href="./weekly/2025_1113/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('1v1'); return false;">
-1v1
+
+<div class="listing-category" onclick="window.quartoListingCategory('MXYx'); return false;">1v1</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="./weekly/2025_1113/index.html" class="no-external">Today’s goal is to recap what I’ve been up to for the last 2 weeks and work through the validation chapter</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2025_1113/index.html" class="no-external">
+Today’s goal is to recap what I’ve been up to for the last 2 weeks and work through the validation chapter
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2025_1113/index.html" class="no-external">
@@ -488,12 +491,12 @@ Nov 13, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="1v1" data-listing-date-sort="1761202800000" data-listing-file-modified-sort="1761179930501" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="672">
-<div class="thumbnail">
-<p><a href="./weekly/2025_1023/index.html" class="no-external"></a></p><a href="./weekly/2025_1023/index.html" class="no-external">
+<div class="quarto-post image-right" data-index="9" data-categories="MXYx" data-listing-date-sort="1761202800000" data-listing-file-modified-sort="1761179930501" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="672">
+<div class="thumbnail"><a href="./weekly/2025_1023/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2025_1023/img/mytilus_genome_pictogram.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2025_1023/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2025_1023/index.html" class="no-external">Weekly Advisor Meeting</a>
@@ -502,13 +505,13 @@ Nov 13, 2025
 <a href="./weekly/2025_1023/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('1v1'); return false;">
-1v1
+
+<div class="listing-category" onclick="window.quartoListingCategory('MXYx'); return false;">1v1</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="./weekly/2025_1023/index.html" class="no-external">Today’s Meeting is all about mussel reproduction, environmentally induced sex determinants and whatever is up with maternal and <em>paternal</em> mtDNA… cool stuff.</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2025_1023/index.html" class="no-external">
+Today’s Meeting is all about mussel reproduction, environmentally induced sex determinants and whatever is up with maternal and <em>paternal</em> mtDNA… cool stuff.
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2025_1023/index.html" class="no-external">
@@ -519,11 +522,11 @@ Oct 23, 2025
 </div>
 </div>
 <div class="quarto-post image-right" data-index="10" data-listing-date-sort="1761030000000" data-listing-file-modified-sort="1761251315044" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="477">
-<div class="thumbnail">
-<p><a href="./weekly/2025_1021/index.html" class="no-external"></a></p><a href="./weekly/2025_1021/index.html" class="no-external">
+<div class="thumbnail"><a href="./weekly/2025_1021/index.html" class="no-external">
+
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./weekly/2025_1021/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2025_1021/index.html" class="no-external">Epigenetics &amp; Ecotoxicology</a>
@@ -531,9 +534,9 @@ Oct 23, 2025
 <div class="listing-subtitle">
 <a href="./weekly/2025_1021/index.html" class="no-external">Exploring Epigenetics as a Tool for Ecotoxicological Work</a>
 </div>
-<div class="listing-description">
-<a href="./weekly/2025_1021/index.html" class="no-external"></a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2025_1021/index.html" class="no-external">
+
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2025_1021/index.html" class="no-external">
@@ -546,12 +549,12 @@ FISH 510 | October 2025 | Chris Mantegna
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="1v1" data-listing-date-sort="1760598000000" data-listing-file-modified-sort="1760897974433" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="496">
-<div class="thumbnail">
-<p><a href="./weekly/2025_1016/index.html" class="no-external"></a></p><a href="./weekly/2025_1016/index.html" class="no-external">
+<div class="quarto-post image-right" data-index="11" data-categories="MXYx" data-listing-date-sort="1760598000000" data-listing-file-modified-sort="1760897974433" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="496">
+<div class="thumbnail"><a href="./weekly/2025_1016/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2025_1016/img/mapping_phd_chapters.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2025_1016/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2025_1016/index.html" class="no-external">Weekly Advisor Meeting</a>
@@ -560,13 +563,13 @@ FISH 510 | October 2025 | Chris Mantegna
 <a href="./weekly/2025_1016/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('1v1'); return false;">
-1v1
+
+<div class="listing-category" onclick="window.quartoListingCategory('MXYx'); return false;">1v1</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="./weekly/2025_1016/index.html" class="no-external">Today’s goal is to recap last week’s committee meeting and review the scaffolding for re-working the PhD proposal.</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2025_1016/index.html" class="no-external">
+Today’s goal is to recap last week’s committee meeting and review the scaffolding for re-working the PhD proposal.
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2025_1016/index.html" class="no-external">
@@ -576,12 +579,12 @@ Oct 16, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="productivity tools" data-listing-date-sort="1760166000000" data-listing-file-modified-sort="1760828039061" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1144">
-<div class="thumbnail">
-<p><a href="./weekly/2025_1011/index.html" class="no-external"></a></p><a href="./weekly/2025_1011/index.html" class="no-external">
+<div class="quarto-post image-right" data-index="12" data-categories="cHJvZHVjdGl2aXR5JTIwdG9vbHM=" data-listing-date-sort="1760166000000" data-listing-file-modified-sort="1760828039061" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1144">
+<div class="thumbnail"><a href="./weekly/2025_1011/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2025_1011/img/notion_logo.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2025_1011/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2025_1011/index.html" class="no-external">Introduction to Notion</a>
@@ -590,13 +593,13 @@ Oct 16, 2025
 <a href="./weekly/2025_1011/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('productivity tools'); return false;">
-productivity tools
+
+<div class="listing-category" onclick="window.quartoListingCategory('cHJvZHVjdGl2aXR5JTIwdG9vbHM='); return false;">productivity tools</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="./weekly/2025_1011/index.html" class="no-external">Notion has been a management and organization tool that I have been using on and off for the last 6 years, and finally this year I have hit my stride with the platform. This…</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2025_1011/index.html" class="no-external">
+Notion has been a management and organization tool that I have been using on and off for the last 6 years, and finally this year I have hit my stride with the platform. This…
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2025_1011/index.html" class="no-external">
@@ -606,12 +609,12 @@ Oct 11, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="committee meeting" data-listing-date-sort="1759820400000" data-listing-file-modified-sort="1760245905959" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1075">
-<div class="thumbnail">
-<p><a href="./weekly/2025_1009/index.html" class="no-external"></a></p><a href="./weekly/2025_1009/index.html" class="no-external">
+<div class="quarto-post image-right" data-index="13" data-categories="Y29tbWl0dGVlJTIwbWVldGluZw==" data-listing-date-sort="1759820400000" data-listing-file-modified-sort="1760245905959" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1075">
+<div class="thumbnail"><a href="./weekly/2025_1009/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2025_1009/img/committee.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2025_1009/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2025_1009/index.html" class="no-external">October Committee Meeting</a>
@@ -620,13 +623,13 @@ Oct 11, 2025
 <a href="./weekly/2025_1009/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('committee meeting'); return false;">
-committee meeting
+
+<div class="listing-category" onclick="window.quartoListingCategory('Y29tbWl0dGVlJTIwbWVldGluZw=='); return false;">committee meeting</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="./weekly/2025_1009/index.html" class="no-external">Overview of work to date</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2025_1009/index.html" class="no-external">
+Overview of work to date
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2025_1009/index.html" class="no-external">
@@ -636,12 +639,12 @@ Oct 7, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="1v1" data-listing-date-sort="1759388400000" data-listing-file-modified-sort="1760295421774" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="789">
-<div class="thumbnail">
-<p><a href="./weekly/2025_1002/index.html" class="no-external"></a></p><a href="./weekly/2025_1002/index.html" class="no-external">
+<div class="quarto-post image-right" data-index="14" data-categories="MXYx" data-listing-date-sort="1759388400000" data-listing-file-modified-sort="1760295421774" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="789">
+<div class="thumbnail"><a href="./weekly/2025_1002/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2025_1002/img/advisor.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2025_1002/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2025_1002/index.html" class="no-external">Weekly Adviser Meeting</a>
@@ -650,14 +653,14 @@ Oct 7, 2025
 <a href="./weekly/2025_1002/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('1v1'); return false;">
-1v1
+
+<div class="listing-category" onclick="window.quartoListingCategory('MXYx'); return false;">1v1</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="./weekly/2025_1002/index.html" class="no-external">The goal today is to work through building my committee meeting presentation and ending with a recap of activities from the week.<br>
-</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2025_1002/index.html" class="no-external">
+The goal today is to work through building my committee meeting presentation and ending with a recap of activities from the week.<br>
+
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2025_1002/index.html" class="no-external">
@@ -667,12 +670,12 @@ Oct 2, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="biomarkers,bypass package,committee meeting" data-listing-date-sort="1759302000000" data-listing-file-modified-sort="1760246139843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
-<div class="thumbnail">
-<p><a href="./weekly/2025_1001/index.html" class="no-external"></a></p><a href="./weekly/2025_1001/index.html" class="no-external">
+<div class="quarto-post image-right" data-index="15" data-categories="YmlvbWFya2VycyUyQ2J5cGFzcyUyMHBhY2thZ2UlMkNjb21taXR0ZWUlMjBtZWV0aW5n" data-listing-date-sort="1759302000000" data-listing-file-modified-sort="1760246139843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
+<div class="thumbnail"><a href="./weekly/2025_1001/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2025_1001/img/monthly_goals.jpeg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2025_1001/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2025_1001/index.html" class="no-external">October Goals</a>
@@ -681,19 +684,17 @@ Oct 2, 2025
 <a href="./weekly/2025_1001/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('biomarkers'); return false;">
-biomarkers
+
+<div class="listing-category" onclick="window.quartoListingCategory('YmlvbWFya2Vycw=='); return false;">biomarkers</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('YnlwYXNzJTIwcGFja2FnZQ=='); return false;">bypass package</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Y29tbWl0dGVlJTIwbWVldGluZw=='); return false;">committee meeting</div>
+
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('bypass package'); return false;">
-bypass package
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('committee meeting'); return false;">
-committee meeting
-</div>
-</div>
-<div class="listing-description">
-<a href="./weekly/2025_1001/index.html" class="no-external">I have one overarching goal this month and that is to complete the draft of my bypass package and get it to my committee for review by the close of business on October 31st.&nbsp;</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2025_1001/index.html" class="no-external">
+I have one overarching goal this month and that is to complete the draft of my bypass package and get it to my committee for review by the close of business on October 31st.&nbsp;
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2025_1001/index.html" class="no-external">
@@ -703,12 +704,12 @@ Oct 1, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="1v1" data-listing-date-sort="1758697200000" data-listing-file-modified-sort="1760246071994" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
-<div class="thumbnail">
-<p><a href="./weekly/2025_0927/index.html" class="no-external"></a></p><a href="./weekly/2025_0927/index.html" class="no-external">
+<div class="quarto-post image-right" data-index="16" data-categories="MXYx" data-listing-date-sort="1758697200000" data-listing-file-modified-sort="1760246071994" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
+<div class="thumbnail"><a href="./weekly/2025_0927/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2025_0927/img/will_smith_advisor_meme.jpeg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2025_0927/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2025_0927/index.html" class="no-external">Weekly Adviser Meeting</a>
@@ -717,13 +718,13 @@ Oct 1, 2025
 <a href="./weekly/2025_0927/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('1v1'); return false;">
-1v1
+
+<div class="listing-category" onclick="window.quartoListingCategory('MXYx'); return false;">1v1</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="./weekly/2025_0927/index.html" class="no-external">Agenda for 09.25.2025 Meeting</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2025_0927/index.html" class="no-external">
+Agenda for 09.25.2025 Meeting
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2025_0927/index.html" class="no-external">
@@ -734,11 +735,11 @@ Sep 24, 2025
 </div>
 </div>
 <div class="quarto-post image-right" data-index="17" data-listing-date-sort="1756623600000" data-listing-file-modified-sort="1760246256093" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="499">
-<div class="thumbnail">
-<p><a href="./weekly/2025_0831/index.html" class="no-external"></a></p><a href="./weekly/2025_0831/index.html" class="no-external">
+<div class="thumbnail"><a href="./weekly/2025_0831/index.html" class="no-external">
+
 <p class="card-img-top"><img src="weekly/2025_0831/img/lake_victoria.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./weekly/2025_0831/index.html" class="no-external"></a></p>
-</div>
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./weekly/2025_0831/index.html" class="no-external">Kenya 2025</a>
@@ -746,9 +747,9 @@ Sep 24, 2025
 <div class="listing-subtitle">
 <a href="./weekly/2025_0831/index.html" class="no-external"></a>
 </div>
-<div class="listing-description">
-<a href="./weekly/2025_0831/index.html" class="no-external">I had the great fortune of collaborating with the University of Minnesota (UMN) and the National Museums of Kenya (KMN) in July and August to conduct field work that…</a>
-</div>
+<div class="delink listing-description"><a href="./weekly/2025_0831/index.html" class="no-external">
+I had the great fortune of collaborating with the University of Minnesota (UMN) and the National Museums of Kenya (KMN) in July and August to conduct field work that…
+</a></div>
 </div>
 <div class="metadata">
 <a href="./weekly/2025_0831/index.html" class="no-external">
@@ -759,244 +760,246 @@ Aug 31, 2025
 </div>
 </div>
 </div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
+<div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
-    }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
       }
+      return false;
     }
-    return false;
-  }
-  const onCopySuccess = function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
       }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
       for (const childEl of codeEl.children) {
         if (isCodeAnnotation(childEl)) {
           childEl.remove();
         }
       }
       return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
-  });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
     });
-    clipboardModal.on('success', onCopySuccess);
-  }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/chrismantegna\.github\.io\/labnotebook\/");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
     }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/chrismantegna\.github\.io\/labnotebook\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-    const config = {
-      allowHTML: true,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start',
-    };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
           }
         }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
         }
-        return container.innerHTML
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
       } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
         if (window.Quarto?.typesetMath) {
           window.Quarto.typesetMath(note);
         }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      // TODO in 1.5, we should make sure this works without a callout special case
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
       }
     }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
           }
         } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
+            const note = htmlDoc.querySelector('main.content');
             if (note !== null) {
-              const html = processXRef(id, note);
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -1004,185 +1007,161 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            div.style.left = 0;
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+      }, function(instance) {
       });
     }
-  }
-});
-</script>
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
 </div> <!-- /content -->
 
 
