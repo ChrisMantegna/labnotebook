@@ -1,0 +1,88 @@
+---
+title: "Working Session"
+date: "2026-04-15"
+categories:
+  - 1v1
+  - Mussel Methylation
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: April 6 - April 12, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week is all about biomarkers and methylation.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Methylation, `methylKit` run~~
+>
+> ~~Tuesday - UW-RUA, biomarkers~~
+>
+> Wednesday - Biomarkers
+>
+> Thursday - Biomarkers
+>
+> Friday - Task management & ferry to FH/ Yellow
+>
+> Saturday - Yellow Island Surveys
+>
+> Sunday - Yellow Island Surveys
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   My primary goals for today are as follows:
+    -   Continue working through the biomarker draft updates
+    -   1v1 with Steven
+
+### Projects Touched Today
+
+-   Something
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   I started the day by making ferry reservations up through my 4th
+    tide series. Holding off on the 5th series until I know if I need
+    it.
+-   I wrapped up UW-RUA tasks I couldn't get to yesterday.
+-   
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Something: 0 words
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 4420 words**
+>
+> **Annual total to date: 37,093 words**
+>
+> **Annual target total to date: 51,000 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Will be determined after 1v1, but will definitely include biomarker
+    draft work.

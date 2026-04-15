@@ -127,8 +127,14 @@ format:
 
 ------------------------------------------------------------------------
 
-### Goals for next week
+### Session Wrap-Up & Goals for Next Week
 
 ------------------------------------------------------------------------
 
-> Prior to next week's working session:
+> Updates post-session
+>
+> 1.  April 21st meeting moved to a virtual meeting on April 20th at 9:30a due to my tide schedule limitations.
+> 2.  Committee email w/ biomarker draft on April 17th solely focused on the biomarker work; request feedback and edits before 5/8. Will followup on 5/8 with next steps.
+> 3.  Adjusting the methylation manuscript plan is to use [this DML table](https://github.com/RobertsLab/project-mytilus-methylation/blob/main/output/11-methylkit-klone/myDiff_1055p.tab), determine the number of DMLs (17), the number of DMLs that are annotated, and have a drafted methods and results prepared for out 4/20 meeting.
+>     1.  Agenda with the deliverables will be prepared and sent to Steven no later than Sunday morning, 4/19.
+> 4.  Next week during our working session we will review the drafted methods and results, choose the key result, and start framing the discussion.
