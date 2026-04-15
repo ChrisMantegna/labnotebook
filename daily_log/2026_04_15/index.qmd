@@ -1,9 +1,11 @@
 ---
-title: "Working Session"
+title: "Working Session & Re-Focusing"
 date: "2026-04-15"
 categories:
   - 1v1
   - Mussel Methylation
+  - Mussel Biomarkers
+  - Yellow Island
 execute:
   echo: false
   warning: false
@@ -49,10 +51,14 @@ editor:
 -   My primary goals for today are as follows:
     -   Continue working through the biomarker draft updates
     -   1v1 with Steven
+    -   Verify my supplies, working gear, and transportation are set for
+        Yellow.
 
 ### Projects Touched Today
 
--   Something
+-   Mussel Biomarkers
+-   Mussel Methylation
+-   Yellow Island
 
 ------------------------------------------------------------------------
 
@@ -62,7 +68,10 @@ editor:
     tide series. Holding off on the 5th series until I know if I need
     it.
 -   I wrapped up UW-RUA tasks I couldn't get to yesterday.
--   
+-   Returned to Yellow work by verifying my survey sheets, guides, gear,
+    and Rite in the Rain paper are all good to go for the last
+    preparation steps on Thursday.
+    -   Have to check the
 
 ------------------------------------------------------------------------
 
