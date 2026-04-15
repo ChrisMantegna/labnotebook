@@ -93,9 +93,9 @@ format:
 
 ------------------------------------------------------------------------
 
-> Here is the draft of the status update for the committee.
+> Goal: Send out an update on April 17th with the biomarker draft attached.
 >
-> Goal is to send out on April 17th with the biomarker draft attached.
+> Email should include new timeline for methylation manuscript, tentative timeline for PhD proposal/ bypass package, what else?
 
 ------------------------------------------------------------------------
 
@@ -121,11 +121,9 @@ format:
 
 > My goals for today's working session are:
 >
-> 1\.
->
-> 2\.
->
-> 3\.
+> 1.  Identify how these sessions should go. What is the best use of the time, how can I be prepared for subsequent sessions? What pieces are most useful to provide to Steven in advance of the meeting?
+> 2.  Discuss and refine the plan for the methylation manuscript.
+> 3.  Gain some clarity around daily check-in practice.
 
 ------------------------------------------------------------------------
 
