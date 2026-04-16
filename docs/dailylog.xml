@@ -71,21 +71,56 @@
 <li>I wrapped up UW-RUA tasks I couldn’t get to yesterday.</li>
 <li>Returned to Yellow work by verifying my survey sheets, guides, gear, and Rite in the Rain paper are all good to go for the last preparation steps on Thursday.
 <ul>
-<li>Have to check the</li>
+<li>Have to check the boxes in the office to see if I am out after this series.</li>
 </ul></li>
+<li>Met with Steven for our first of this new style of working session. The key takeaways are:
+<ul>
+<li>Biomarker draft to committee on 4/17 with a feedback deadline of 5/8.</li>
+<li>Shifting the methylation manuscript timeline to to use <a href="https://github.com/RobertsLab/project-mytilus-methylation/blob/main/output/11-methylkit-klone/myDiff_1055p.tab">this DML table</a>, determine the number of DMLs (17), the number of DMLs that are annotated, and have a drafted methods and results prepared for out 4/20 meeting.</li>
+<li>An agenda with the deliverables will be prepared and sent to Steven no later than Sunday morning, 4/19.</li>
+<li>Next week during our working session we will review the drafted methods and results, choose the key result, and start framing the discussion.</li>
+</ul></li>
+<li>Next up, I did a quick review of the DML table and associated outputs to ensure I have what I need to move forward with our plan.
+<ul>
+<li>There are 17 DMLs using 55% difference and a q-value = 0.01.
+<ul>
+<li>Difference= mean methylation of tx 0 - mean methylation of tx 1</li>
+<li>Q-value = false discovery rate</li>
+</ul></li>
+<li>When you put these parameters together, at these levels, we get biologically meaningful (%) and statistically sound (q) results.</li>
+<li>A later task is to play around with both to see what is the same, different, defensible.</li>
+<li>The annotated gene list is in <a href="https://sr320.github.io/tumbling-oysters/posts/36-merry/">Steven’s notebook post</a>. A quick review shows the following:
+<ul>
+<li>12 of 17 DMLs mapped to genes that are hypo-, hyper- methylated, or both.</li>
+<li>4 are hyper-methylated, 6 are hypo-methylated, and 2 have both instances.</li>
+<li>The magnitudes of methylation in either direction are the same.</li>
+<li>10/12 have a characterized gene function, and 2/10 are uncharacterized.</li>
+</ul></li>
+<li>A task for Friday will be to dig into the result a little deeper to understand what I am seeing.</li>
+</ul></li>
+<li>I shifted to editing and reworking some of the results of the biomarker paper with a focus on:
+<ul>
+<li>Shifting the results section from a laundry list to a key result, supporting results, and a brief section of non-results that were anticipated.</li>
+<li>Next, aligning the discussion with both the key results and the introduction.
+<ul>
+<li>This was a bit surface as I already worked on aligning it with the introduction; fresh eyes and a critical editing pass will fix this tomorrow morning.</li>
+</ul></li>
+<li>I flagged a few pieces of information that will support a coherent read of the paper and deeper look should the committee decide. Since that was not the focus, or a strict necessity for the draft, only a list of notes was created before moving back to reinforcing the citations with the annotated pieces I took from the WDFW reports last week.</li>
+</ul></li>
+<li>Finally, I wrapped up the day by making a priority list of ‘first to tackle’ edits for tomorrow morning, updated this post, and shifted to making sure my deliverables for tomorrow’s meetings were ready so I didn’t derail the morning by already running behind.</li>
 </ul>
 <hr>
 </section>
 <section id="outcomes-products-word-count" class="level3">
 <h3 class="anchored" data-anchor-id="outcomes-products-word-count">Outcomes: Products &amp; Word Count</h3>
 <ul>
-<li>Something: 0 words</li>
+<li>Biomarker edits to results: 274 words</li>
 </ul>
 <div>
 <blockquote class="blockquote">
-<p><strong>Today’s total: 0 words</strong></p>
-<p><strong>Monthly total to date: 4420 words</strong></p>
-<p><strong>Annual total to date: 37,093 words</strong></p>
+<p><strong>Today’s total: 274 words</strong></p>
+<p><strong>Monthly total to date: 4694 words</strong></p>
+<p><strong>Annual total to date: 37,367 words</strong></p>
 <p><strong>Annual target total to date: 51,000 words</strong></p>
 </blockquote>
 </div>
@@ -93,7 +128,7 @@
 <section id="next-up-tomorrows-plan" class="level3">
 <h3 class="anchored" data-anchor-id="next-up-tomorrows-plan">Next Up: Tomorrow’s Plan</h3>
 <ul>
-<li>Will be determined after 1v1, but will definitely include biomarker draft work.</li>
+<li>Biomarkers, biomarkers, biomarkers!</li>
 </ul>
 
 
