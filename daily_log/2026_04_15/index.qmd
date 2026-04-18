@@ -16,7 +16,7 @@ editor:
     wrap: 72
 ---
 
-### Plan of the Week: April 6 - April 12, 2026
+### Plan of the Week: April 13 - April 19, 2026
 
 #### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
 
