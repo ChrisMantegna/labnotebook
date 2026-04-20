@@ -91,3 +91,20 @@ format:
 ### Issue with DML Result Write-up
 
 1.  No sample IDs or clear files to figure it out without going through an generating for myself.
+
+------------------------------------------------------------------------
+
+### Deliverables for Next Week
+
+------------------------------------------------------------------------
+
+> Next Meeting: April 28th @ 10am
+>
+> Items:
+>
+> 1.  Treat DMLs as hyper= high PAH, hypo= low PAH when writing the results
+> 2.  Curate the supporting papers and add a link to the Zotero folder to the agenda
+>     1.  Focus is dominantly in oysters re: DMLs
+>     2.  Supporting evidence is within other bivalves re: immune function, pesticide and microplastic exposure,
+> 3.  NSF Activity Report and GSAR ready for next week
+> 4.  Consider using the extracted DNA from these samples for my first Promethion run once the equipment is up and running.
