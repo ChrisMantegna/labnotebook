@@ -1,0 +1,93 @@
+---
+title: "Advisor Working Session: April 15, 2026"
+date: "2026-04-14"
+categories:
+  - 1v1
+  - Working Session
+execute:
+  echo: false
+  warning: false
+  message: false
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    code-fold: true
+---
+
+------------------------------------------------------------------------
+
+### Agenda
+
+------------------------------------------------------------------------
+
+1.  Updates
+
+    1.  Biomarker Manuscript
+
+2.  Methylation Results and Methods Drafting
+
+------------------------------------------------------------------------
+
+### Updates 1: Biomarker Manuscript
+
+------------------------------------------------------------------------
+
+> Status: Emailed draft on 4/18 to Steven only
+>
+> Added to Google Drive on 4.19.26 when the WiFi was stable
+
+------------------------------------------------------------------------
+
+### Item 2: Methylation Methods Drafting
+
+------------------------------------------------------------------------
+
+> This is the [link to the drafted Methods Section](https://docs.google.com/document/d/1nSLnD8NJy9VPjAOi8iKxrFMQQo67Cwf2/edit?usp=sharing&ouid=117330698960206374690&rtpof=true&sd=true).
+>
+> Status: Initial draft
+
+------------------------------------------------------------------------
+
+### Item 2: Methylation Results Drafting
+
+------------------------------------------------------------------------
+
+> I put together the table of DMLs from your 1055.tab file.
+>
+> The quick stats are below from my 4/15 Daily Post
+>
+> -   The annotated gene list is in [Steven's notebook post](https://sr320.github.io/tumbling-oysters/posts/36-merry/). A quick review shows the following:
+>     -   12 of 17 DMLs mapped to genes that are hypo-, hyper- methylated, or both.
+>     -   4 are hyper-methylated, 6 are hypo-methylated, and 2 have both instances.
+>     -   The magnitudes of methylation in either direction are the same.
+>     -   10/12 have a characterized gene function, and 2/10 are uncharacterized.
+
+------------------------------------------------------------------------
+
+### DML Table
+
+------------------------------------------------------------------------
+
+> | DML_ID | Chromosome | Start | End | p_value | q_value | Meth_Diff | Methylation_Status | Sample_ID | Gene_ID | Functional_Annotation |
+> |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+> | 517209 | NC_086373.1 | 90626338 | 90626340 | 3.96E-16 | 1.16E-11 | 56.32 | Hypermethylated |  | LOC134690221 | GRAM domain-containing protein 4-like; membrane-associated signaling or vesicle trafficking |
+> | 606937 | NC_086373.1 | 105503509 | 105503511 | 2.40E-19 | 4.17E-14 | -57.86 | Hypomethylated |  | LOC134695637 | Otoferlin-like; vesicle-mediated transport and sensory signaling |
+> | 907320 | NC_086374.1 | 34742951 | 34742953 | 8.09E-19 | 1.10E-13 | 58.27 | Hypermethylated |  | LOC134707074 | Receptor-type tyrosine-protein phosphatase N2-like; cell signaling and differentiation |
+> | 1500842 | NC_086375.1 | 31938079 | 31938081 | 6.89E-24 | 8.98E-18 | -60.69 | Both |  | LOC134711256 | Cancer-related nucleoside-triphosphatase homolog; DNA/RNA metabolism and stress response |
+> | 1551568 | NC_086375.1 | 43581688 | 43581690 | 3.47E-25 | 6.02E-19 | 58.20 | Both |  | LOC134711256 | Cancer-related nucleoside-triphosphatase homolog; DNA/RNA metabolism and stress response |
+> | 1859027 | NC_086375.1 | 90876604 | 90876606 | 1.04E-18 | 1.32E-13 | 55.88 | Hypermethylated |  | LOC134712818 | Uncharacterized protein |
+> | 1914146 | NC_086376.1 | 5631156 | 5631158 | 3.19E-18 | 2.92E-13 | 59.00 | Hypermethylated |  | LOC134714536 | Coatomer subunit epsilon-like; intracellular vesicle trafficking |
+> | 2751840 | NC_086378.1 | 6633121 | 6633123 | 1.21E-17 | 7.20E-13 | -55.24 | Hypomethylated |  | LOC134720671 | Roundabout homolog 1-like; cell migration and guidance signaling |
+> | 3165089 | NC_086379.1 | 1603830 | 1603832 | 4.36E-22 | 2.52E-16 | -60.82 | Hypomethylated |  | LOC134724475 | Uncharacterized protein |
+> | 3382604 | NC_086379.1 | 47961734 | 47961736 | 3.43E-19 | 5.77E-14 | 56.45 | Both |  | LOC134725187 | Membrane protein BRI3-like; signaling and membrane dynamics |
+> | 3464660 | NC_086379.1 | 64017640 | 64017642 | 3.94E-28 | 1.72E-21 | -63.60 | Both |  | LOC134725187 | Membrane protein BRI3-like; signaling and membrane dynamics |
+> | 3940870 | NC_086381.1 | 21212100 | 21212102 | 1.86E-17 | 1.06E-12 | -56.07 | Hypomethylated |  | LOC134685297 | Tumor protein p53-inducible protein 11-like; stress response and apoptosis |
+
+------------------------------------------------------------------------
+
+### Issue with DML Result Write-up
+
+1.  No sample IDs or clear files to figure it out without going through an generating for myself.

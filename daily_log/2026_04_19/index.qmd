@@ -1,0 +1,100 @@
+---
+title: "Yellow Island & Methylation"
+date: "2026-04-19"
+categories:
+  - Mussel Biomarkers
+  - Yellow Island
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: April 13 - April 19, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week is all about biomarkers and methylation.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Methylation, `methylKit` run~~
+>
+> ~~Tuesday - UW-RUA, biomarkers~~
+>
+> ~~Wednesday - Biomarkers~~
+>
+> ~~Thursday - Biomarkers~~
+>
+> ~~Friday - Task management & ferry to FH/ Yellow~~
+>
+> ~~Saturday - Yellow Island Surveys~~
+>
+> Sunday - Yellow Island Surveys
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   My primary goals for today are as follows:
+    -   Complete first round surveys during the low tide (MLLW \@
+        12:15pm)
+    -   Finish methylation results and put together notes on DML results
+
+### Projects Touched Today
+
+-   Yellow Island
+-   Mussel Methylation
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   Started the day going over the plan of attack, prepping my data
+    sheets, and then working on the mussel methylation methods drafting.
+-   Started surveys at 10:40am and completed them at 5:00pm when reports
+    of orcas passing off the northwest side of the island.
+    -   4 transients, one large male and 3 little ones passed by.
+    -   I completed a total of 52 low and mid- tide level quadrats.
+-   Post orca excitement - I QC'd my data sheets and set up the plan for
+    tomorrow.
+-   After wrapping up surveys, I returned to the methylation writing and
+    put together the agenda for tomorrow's working session with Steven.
+
+Today's stars... a Gould's chiton, a leather star, and of course, the
+male orca (T123? maybe).
+
+![](img/sunday_yellow.png){fig-align="left" width="700"}
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   52 quadrats of low and mid- tide species and algal counts
+-   Methylation methods draft: 547 words
+
+<div>
+
+> **Today's total: 547 words**
+>
+> **Monthly total to date: 6683 words**
+>
+> **Annual total to date: 39,356 words**
+>
+> **Annual target total to date: 53,000 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Surveys on Yellow and Steven working session.

@@ -90,7 +90,7 @@ editor:
 -   Next up, I did a quick review of the DML table and associated
     outputs to ensure I have what I need to move forward with our plan.
     -   There are 17 DMLs using 55% difference and a q-value = 0.01.
-        -   Difference= mean methylation of tx 0  - mean methylation of
+        -   Difference= mean methylation of tx 0 - mean methylation of
             tx 1
         -   Q-value = false discovery rate
     -   When you put these parameters together, at these levels, we get

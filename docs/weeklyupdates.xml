@@ -13,6 +13,273 @@
 <lastBuildDate>Tue, 14 Apr 2026 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Advisor Working Session: April 15, 2026</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0419/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<section id="agenda" class="level3">
+<h3 class="anchored" data-anchor-id="agenda">Agenda</h3>
+<hr>
+<ol type="1">
+<li><p>Updates</p>
+<ol type="1">
+<li>Biomarker Manuscript</li>
+</ol></li>
+<li><p>Methylation Results and Methods Drafting</p></li>
+</ol>
+<hr>
+</section>
+<section id="updates-1-biomarker-manuscript" class="level3">
+<h3 class="anchored" data-anchor-id="updates-1-biomarker-manuscript">Updates 1: Biomarker Manuscript</h3>
+<hr>
+<blockquote class="blockquote">
+<p>Status: Emailed draft on 4/18 to Steven only</p>
+<p>Added to Google Drive on 4.19.26 when the WiFi was stable</p>
+</blockquote>
+<hr>
+</section>
+<section id="item-2-methylation-methods-drafting" class="level3">
+<h3 class="anchored" data-anchor-id="item-2-methylation-methods-drafting">Item 2: Methylation Methods Drafting</h3>
+<hr>
+<blockquote class="blockquote">
+<p>This is the <a href="https://docs.google.com/document/d/1nSLnD8NJy9VPjAOi8iKxrFMQQo67Cwf2/edit?usp=sharing&amp;ouid=117330698960206374690&amp;rtpof=true&amp;sd=true">link to the drafted Methods Section</a>.</p>
+<p>Status: Initial draft</p>
+</blockquote>
+<hr>
+</section>
+<section id="item-2-methylation-results-drafting" class="level3">
+<h3 class="anchored" data-anchor-id="item-2-methylation-results-drafting">Item 2: Methylation Results Drafting</h3>
+<hr>
+<blockquote class="blockquote">
+<p>I put together the table of DMLs from your 1055.tab file.</p>
+<p>The quick stats are below from my 4/15 Daily Post</p>
+<ul>
+<li>The annotated gene list is in <a href="https://sr320.github.io/tumbling-oysters/posts/36-merry/">Steven’s notebook post</a>. A quick review shows the following:
+<ul>
+<li>12 of 17 DMLs mapped to genes that are hypo-, hyper- methylated, or both.</li>
+<li>4 are hyper-methylated, 6 are hypo-methylated, and 2 have both instances.</li>
+<li>The magnitudes of methylation in either direction are the same.</li>
+<li>10/12 have a characterized gene function, and 2/10 are uncharacterized.</li>
+</ul></li>
+</ul>
+</blockquote>
+<hr>
+</section>
+<section id="dml-table" class="level3">
+<h3 class="anchored" data-anchor-id="dml-table">DML Table</h3>
+<hr>
+<blockquote class="blockquote">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+<col style="width: 9%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>DML_ID</th>
+<th>Chromosome</th>
+<th>Start</th>
+<th>End</th>
+<th>p_value</th>
+<th>q_value</th>
+<th>Meth_Diff</th>
+<th>Methylation_Status</th>
+<th>Sample_ID</th>
+<th>Gene_ID</th>
+<th>Functional_Annotation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>517209</td>
+<td>NC_086373.1</td>
+<td>90626338</td>
+<td>90626340</td>
+<td>3.96E-16</td>
+<td>1.16E-11</td>
+<td>56.32</td>
+<td>Hypermethylated</td>
+<td></td>
+<td>LOC134690221</td>
+<td>GRAM domain-containing protein 4-like; membrane-associated signaling or vesicle trafficking</td>
+</tr>
+<tr class="even">
+<td>606937</td>
+<td>NC_086373.1</td>
+<td>105503509</td>
+<td>105503511</td>
+<td>2.40E-19</td>
+<td>4.17E-14</td>
+<td>-57.86</td>
+<td>Hypomethylated</td>
+<td></td>
+<td>LOC134695637</td>
+<td>Otoferlin-like; vesicle-mediated transport and sensory signaling</td>
+</tr>
+<tr class="odd">
+<td>907320</td>
+<td>NC_086374.1</td>
+<td>34742951</td>
+<td>34742953</td>
+<td>8.09E-19</td>
+<td>1.10E-13</td>
+<td>58.27</td>
+<td>Hypermethylated</td>
+<td></td>
+<td>LOC134707074</td>
+<td>Receptor-type tyrosine-protein phosphatase N2-like; cell signaling and differentiation</td>
+</tr>
+<tr class="even">
+<td>1500842</td>
+<td>NC_086375.1</td>
+<td>31938079</td>
+<td>31938081</td>
+<td>6.89E-24</td>
+<td>8.98E-18</td>
+<td>-60.69</td>
+<td>Both</td>
+<td></td>
+<td>LOC134711256</td>
+<td>Cancer-related nucleoside-triphosphatase homolog; DNA/RNA metabolism and stress response</td>
+</tr>
+<tr class="odd">
+<td>1551568</td>
+<td>NC_086375.1</td>
+<td>43581688</td>
+<td>43581690</td>
+<td>3.47E-25</td>
+<td>6.02E-19</td>
+<td>58.20</td>
+<td>Both</td>
+<td></td>
+<td>LOC134711256</td>
+<td>Cancer-related nucleoside-triphosphatase homolog; DNA/RNA metabolism and stress response</td>
+</tr>
+<tr class="even">
+<td>1859027</td>
+<td>NC_086375.1</td>
+<td>90876604</td>
+<td>90876606</td>
+<td>1.04E-18</td>
+<td>1.32E-13</td>
+<td>55.88</td>
+<td>Hypermethylated</td>
+<td></td>
+<td>LOC134712818</td>
+<td>Uncharacterized protein</td>
+</tr>
+<tr class="odd">
+<td>1914146</td>
+<td>NC_086376.1</td>
+<td>5631156</td>
+<td>5631158</td>
+<td>3.19E-18</td>
+<td>2.92E-13</td>
+<td>59.00</td>
+<td>Hypermethylated</td>
+<td></td>
+<td>LOC134714536</td>
+<td>Coatomer subunit epsilon-like; intracellular vesicle trafficking</td>
+</tr>
+<tr class="even">
+<td>2751840</td>
+<td>NC_086378.1</td>
+<td>6633121</td>
+<td>6633123</td>
+<td>1.21E-17</td>
+<td>7.20E-13</td>
+<td>-55.24</td>
+<td>Hypomethylated</td>
+<td></td>
+<td>LOC134720671</td>
+<td>Roundabout homolog 1-like; cell migration and guidance signaling</td>
+</tr>
+<tr class="odd">
+<td>3165089</td>
+<td>NC_086379.1</td>
+<td>1603830</td>
+<td>1603832</td>
+<td>4.36E-22</td>
+<td>2.52E-16</td>
+<td>-60.82</td>
+<td>Hypomethylated</td>
+<td></td>
+<td>LOC134724475</td>
+<td>Uncharacterized protein</td>
+</tr>
+<tr class="even">
+<td>3382604</td>
+<td>NC_086379.1</td>
+<td>47961734</td>
+<td>47961736</td>
+<td>3.43E-19</td>
+<td>5.77E-14</td>
+<td>56.45</td>
+<td>Both</td>
+<td></td>
+<td>LOC134725187</td>
+<td>Membrane protein BRI3-like; signaling and membrane dynamics</td>
+</tr>
+<tr class="odd">
+<td>3464660</td>
+<td>NC_086379.1</td>
+<td>64017640</td>
+<td>64017642</td>
+<td>3.94E-28</td>
+<td>1.72E-21</td>
+<td>-63.60</td>
+<td>Both</td>
+<td></td>
+<td>LOC134725187</td>
+<td>Membrane protein BRI3-like; signaling and membrane dynamics</td>
+</tr>
+<tr class="even">
+<td>3940870</td>
+<td>NC_086381.1</td>
+<td>21212100</td>
+<td>21212102</td>
+<td>1.86E-17</td>
+<td>1.06E-12</td>
+<td>-56.07</td>
+<td>Hypomethylated</td>
+<td></td>
+<td>LOC134685297</td>
+<td>Tumor protein p53-inducible protein 11-like; stress response and apoptosis</td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+<hr>
+</section>
+<section id="issue-with-dml-result-write-up" class="level3">
+<h3 class="anchored" data-anchor-id="issue-with-dml-result-write-up">Issue with DML Result Write-up</h3>
+<ol type="1">
+<li>No sample IDs or clear files to figure it out without going through an generating for myself.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>1v1</category>
+  <category>Working Session</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0419/</guid>
+  <pubDate>Tue, 14 Apr 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Advisor Working Session: April 15, 2026</title>
   <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0414/</link>
   <description><![CDATA[ 
 
