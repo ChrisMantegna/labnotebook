@@ -1,0 +1,86 @@
+---
+title: "UW-RUA Professional Development Programming"
+date: "2026-04-24"
+categories:
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: April 20 - April 26, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week is all about intertidal invertebrates, mussel methylation
+    and pulling off the UW-RUA professional development programming
+    series.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - 1v1 & Yellow Surveys~~
+>
+> ~~Tuesday - Yellow Surveys~~
+>
+> ~~Wednesday - UW-RUA & Event Prep~~
+>
+> ~~Thursday - UW-RUA Events & Methylation~~
+>
+> Friday - UW-RUA Professional Development Full Day
+>
+> Saturday - Methylation
+>
+> Sunday - Methylation
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   My primary goals for today are as follows:
+    -   Facilitate the full day of UW-RUA professional development
+        programming with our Stanford facilitators.
+
+### Projects Touched Today
+
+-   None
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   Today's Design Your Postdoc & Creating a Writing Habit - facilitated
+    by Sofie & Robin from Stanford.
+
+    -   No science today, all UW-RUA
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Nothing science related.
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 6683 words**
+>
+> **Annual total to date: 39,356 words**
+>
+> **Annual target total to date: 54,500 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Will be deterimined in the morning.
