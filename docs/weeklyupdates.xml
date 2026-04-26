@@ -10,7 +10,127 @@
 <atom:link href="https://chrismantegna.github.io/labnotebook/weeklyupdates.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 14 Apr 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Apr 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Advisor Working Session: April 28, 2026</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0427/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<section id="agenda" class="level3">
+<h3 class="anchored" data-anchor-id="agenda">Agenda</h3>
+<hr>
+<ol type="1">
+<li><p>Updates</p>
+<ol type="1">
+<li>Biomarker Manuscript</li>
+</ol></li>
+<li><p>Methylation Results and Methods Drafting</p></li>
+</ol>
+<hr>
+</section>
+<section id="updates-1-biomarker-manuscript" class="level3">
+<h3 class="anchored" data-anchor-id="updates-1-biomarker-manuscript">Updates 1: Biomarker Manuscript</h3>
+<hr>
+<blockquote class="blockquote">
+<p>Status: Emailed draft on 4/18 to Steven only</p>
+<p>Added to Google Drive on 4.19.26 when the WiFi was stable</p>
+</blockquote>
+<hr>
+</section>
+<section id="item-2-methylation-methods-drafting" class="level3">
+<h3 class="anchored" data-anchor-id="item-2-methylation-methods-drafting">Item 2: Methylation Methods Drafting</h3>
+<hr>
+<blockquote class="blockquote">
+<p>This is the <a href="https://docs.google.com/document/d/1nSLnD8NJy9VPjAOi8iKxrFMQQo67Cwf2/edit?usp=sharing&amp;ouid=117330698960206374690&amp;rtpof=true&amp;sd=true">link to the drafted Methods Section</a>.</p>
+<p>Status: Initial draft</p>
+</blockquote>
+<hr>
+</section>
+<section id="item-2-methylation-results-drafting" class="level3">
+<h3 class="anchored" data-anchor-id="item-2-methylation-results-drafting">Item 2: Methylation Results Drafting</h3>
+<hr>
+<blockquote class="blockquote">
+<p>I put together the table of DMLs from your 1055.tab file.</p>
+<p>The quick stats are below from my 4/15 Daily Post</p>
+<ul>
+<li>The annotated gene list is in <a href="https://sr320.github.io/tumbling-oysters/posts/36-merry/">Steven’s notebook post</a>. A quick review shows the following:
+<ul>
+<li>12 of 17 DMLs mapped to genes that are hypo-, hyper- methylated, or both.</li>
+<li>4 are hyper-methylated, 6 are hypo-methylated, and 2 have both instances.</li>
+<li>The magnitudes of methylation in either direction are the same.</li>
+<li>10/12 have a characterized gene function, and 2/10 are uncharacterized.</li>
+</ul></li>
+</ul>
+</blockquote>
+<hr>
+</section>
+<section id="item-2" class="level3">
+<h3 class="anchored" data-anchor-id="item-2">Item 2…</h3>
+<hr>
+<p>Things about the topic</p>
+<hr>
+</section>
+<section id="item-3" class="level3">
+<h3 class="anchored" data-anchor-id="item-3">Item 3…</h3>
+<hr>
+</section>
+<section id="deliverables-for-next-week" class="level3">
+<h3 class="anchored" data-anchor-id="deliverables-for-next-week">Deliverables for Next Week</h3>
+<hr>
+<blockquote class="blockquote">
+<p>Next Meeting: May 5th @ 10:30am</p>
+</blockquote>
+
+
+</section>
+
+ ]]></description>
+  <category>1v1</category>
+  <category>Working Session</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0427/</guid>
+  <pubDate>Mon, 27 Apr 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>National DNA Day</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0425/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This week’s wrap-up is more a celebration of DNA as it is National DNA Day, a.k.a. World DNA Day due to the advancements in global understanding of DNA.</p>
+<p><a href="https://www.genome.gov/dna-day#:~:text=National%20DNA%20Day%20is%20celebrated%20on%20April,to%20host%20events%20from%20January%20through%20May.">National DNA Day</a> is celebrated to commemorate the discovery of DNA’s structure in 1953, and to recognize the completion of the <a href="https://www.genome.gov/human-genome-project">Human Genome Project</a> in 2003. Both very cool milestones in the field of genetics and molecular biology. But, in honor of the day, I’m going to touch on the human and shift…</p>
+<p>The discovery of the double helix is one of the most significant scientific discoveries of the 20th century. Initiated by x-ray imaging work done by Rosalind Franklin, the discovery of the structure of DNA was a awarded a Nobel Prize in 1962; the prize was awarded to other scientists in the group, James Watson, Francis Crick, and Maurice Wilkins. Pictured below are Franklin, the double helix, and Watson and Crick.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0425/img/double_franklin_crick.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="500"></p>
+</figure>
+</div>
+<blockquote class="blockquote">
+<p><em>The discovery of the double helix structure of DNA provided a fundamental understanding of how genetic information is stored and transmitted in living organisms.</em></p>
+</blockquote>
+<p>I remember when the Human Genome Project launched… in 1990, for two reasons, (1) I couldn’t believe that a fully sequenced human genome didn’t exist, and (2) I didn’t actually know what that meant.</p>
+<p>Fast forward some 36 years later, and I can confidently say that (1) I can completely understand how we didn’t have that information in 1990, and (2) the more I learn, the more I don’t know. DNA is dope.</p>
+<p>In between 1990 and today, I have learned a ton - with tons more to go! <a href="https://www.genome.gov/genetics-glossary/Central-Dogma">The Central Dogma</a>, as developed by Francis Crick in 1958, is the reason the world is alight currently with the potential for that to be amended <a href="https://www.science.org/content/article/scientists-stunned-fundamentally-new-way-life-produces-dna">courtesy of bacteria in 2026</a>… While these are by no means the only breakthroughs in genetics in the last 30+ years, it is a wonderful reminder that, just like space exploration, DNA has always captured our curiosity and fascination.</p>
+<p>To celebrate the day, I went back to my copy of The Selfish Gene by Richard Dawkins, a book I read early-on in undergrad, and just looked at my notes, my questions, the things that interested me. I definitely knew I was not as interested in evolution (or the evolution of social behaviors) as I was in other genetic/ genomic areas of study, but there is something really fascinating about making genes the main characters… I guess that’s why I ended up doing what I’m doing.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2026_0425/img/selfish-gene.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" width="200"></p>
+</figure>
+</div>
+<p>That time was a particular storm of old knowledge and new, colliding in my head; some information mis-remembered, other bits fresh enough to be accurate, all crafting my curiosity. I went back to what I learned growing up - the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4727787/">Sanger method</a> of DNA sequencing and I will reach AARP status really close together - the flux of information, the updates, debates, and eventual steps to access a, “<em>knowledge of sequences could contribute much to our understanding of living matter.” -Sanger</em></p>
+<p>Here we are, just a few bench lengths down, trying to understand epigenetic mechanisms in bivalves. What a wonderfully lovely place to be. From ecosystem- level inputs, to parental ‘priming’ and back again; what we do could not be done without the fundamental search to understand ourselves. Very cool.</p>
+
+
+
+ ]]></description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0425/</guid>
+  <pubDate>Sat, 25 Apr 2026 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Advisor Working Session: April 15, 2026</title>
   <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0419/</link>
@@ -2042,41 +2162,6 @@
   <category>1v1</category>
   <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_0927/</guid>
   <pubDate>Wed, 24 Sep 2025 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Kenya 2025</title>
-  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_0831/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_0831/img/lake_victoria.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-<p>I had the great fortune of collaborating with the University of Minnesota (UMN) and the National Museums of Kenya (KMN) in July and August to conduct field work that supported expanding our limited academic knowledge of Mormyrids, a weakly electric fish with a population in Lake Victoria, Kenya. Under the guidance of PI Kassie Ford, UMN Professor and Bell Museum Curator, we worked in direct collaboration with the ichthyologists at KMN to procure samples of as many species of mormyrids as we could for addition to the KMN fish collection and further projects amongst our respective institutions. My role, as the only non-ichthyologist, was to collect water and sediment samples for eDNA analysis to build a snapshot of the trophic composition of Lake Victoria and it’s estuaries along with collecting stomach contents from multiple species at each site to support the mormyrid diet analysis assesment of MS student Kassi Price.</p>
-<p>We spent over a month visiting sites around the lake between the Tanzanian and Ugandan border (as well as the rivers that fed into the lake) collecting samples and assessing basic water quality (temperature, pH, salinity, etc), habitat differences, and watching over our shoulders for crocodiles and hippos! Ultimately, we used a variety of techniques and employed the support of local fishermen to expand our limited knowledge and help us reach our sampling goals.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_0831/img/equator.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="900"></p>
-</figure>
-</div>
-<p>At every single location we were greeted by people who were interested in our work. Dominantly children, but plenty of adults that helped us gain knowledge about the area, where to find certain fishes, and the best places to avoid conflict with wildlife. It was an incredibly welcoming and enthusiastic environment to work in. Most hilarious was the constant shouts of ‘Mzungu’ when local folks saw us in our vehicle or in the rivers or lake. It loosely means ‘European person’, but as we soon found out it essentially means anyone who is not from Kenya. It was really fun to talk with everyone as they were as interested in us as we were in them - it made long field days that much more enjoyable.</p>
-<p>As we wrapped up our work and headed back to Nairobi, we parted ways with our KNM collaborators and closed our trip with a 3 day safari in Masai Mara National Park. To say it is as magical as you expect and more is an understatement. I know everyone loves the big cats, but my favorites were the zebras and the wildebeests.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_0831/img/safari.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="1000"></p>
-</figure>
-</div>
-<p>We saw so many animals I had only seen in books or in zoos! Truth be told, the fish were cool, but this was a bucket list, once in a lifetime opportunity that I cannot get over. I am excited to be contributing to the body of knowledge around Lake Victoria by providing a baseline community composition in the dry season; something that doesn’t exist for any season, but I am most proud of the relationships we’re building, the future collaborations to come, and another opportunity to visit Kenya.</p>
-
-
-
- ]]></description>
-  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_0831/</guid>
-  <pubDate>Sun, 31 Aug 2025 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
