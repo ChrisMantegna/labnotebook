@@ -60,19 +60,28 @@ editor:
 
 ### Projects Touched Today
 
--   None
+-   Mussel Methylation
 
 ------------------------------------------------------------------------
 
 ### Progress Notes
 
--   I did things...
+-   I built the basic agenda format for my 1v1 with Steven, but have to
+    go back and fill it in.
+-   I have been reading and looking for support around my genes (from
+    the DML table), but realized I have been doing way more than this
+    stage requires, and to boot - my brain will not retain what I'm
+    reading despite taking notes.
+    -   Throwing in the towel today and starting fresh tomorrow.
+        Definitely going back to handwriting notes rather than typing
+        them directly into my Notion table, the thoughts aren't
+        connecting.
 
 ------------------------------------------------------------------------
 
 ### Outcomes: Products & Word Count
 
--   Something: 0 words
+-   Nothing today.
 
 <div>
 

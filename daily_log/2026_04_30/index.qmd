@@ -1,0 +1,91 @@
+---
+title: "Tasks, Tasks, and More Tasks"
+date: "2026-04-30"
+categories:
+  - Task Management
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: April 27 - May 3, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week is all about making progress in my writing deliverables.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - UW-RUA~~
+>
+> ~~Tuesday - Finishing my Annual Evals~~
+>
+> ~~Wednesday - Methylation & Biomarkers~~
+>
+> Thursday - Methylation
+>
+> Friday - Methylation and Biomarkers
+>
+> Saturday - No Science
+>
+> Sunday - Methylation
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   My primary goals for today are as follows:
+    -   Catch up with my own tasks, comms, and deliverables management
+
+### Projects Touched Today
+
+-   None
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   Today was dominantly focused on emptying inboxes, taking care of
+    some personal responsibilities, and then finally attending the UW
+    Lecture Series event (virtually).
+    -   I have been so behind on planning out my days/ tasks/
+        deliverables, that I have spent most of the week underwater.
+        Fortunately, after some morning obligations, I was able to spend
+        the day knocking out meetings, tasks that are blocking larger
+        progress, and smaller tasks that will help me either free up
+        physical time or headspace to stop splitting my focus between
+        the anxiety of being behind and the small things that can
+        unblock other from their next steps.
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   No overt products
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 8489 words**
+>
+> **Annual total to date: 41,162 words**
+>
+> **Annual target total to date: 58,000 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Will be determined tomorrow.

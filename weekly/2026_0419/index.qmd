@@ -72,7 +72,7 @@ format:
 ------------------------------------------------------------------------
 
 > | DML_ID | Chromosome | Start | End | p_value | q_value | Meth_Diff | Methylation_Status | Sample_ID | Gene_ID | Functional_Annotation |
-> |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+> |----|----|----|----|----|----|----|----|----|----|----|
 > | 517209 | NC_086373.1 | 90626338 | 90626340 | 3.96E-16 | 1.16E-11 | 56.32 | Hypermethylated |  | LOC134690221 | GRAM domain-containing protein 4-like; membrane-associated signaling or vesicle trafficking |
 > | 606937 | NC_086373.1 | 105503509 | 105503511 | 2.40E-19 | 4.17E-14 | -57.86 | Hypomethylated |  | LOC134695637 | Otoferlin-like; vesicle-mediated transport and sensory signaling |
 > | 907320 | NC_086374.1 | 34742951 | 34742953 | 8.09E-19 | 1.10E-13 | 58.27 | Hypermethylated |  | LOC134707074 | Receptor-type tyrosine-protein phosphatase N2-like; cell signaling and differentiation |
@@ -98,7 +98,7 @@ format:
 
 ------------------------------------------------------------------------
 
-> Next Meeting: April 28th @ 10am
+> Next Meeting: April 28th \@ 10am
 >
 > Items:
 >
