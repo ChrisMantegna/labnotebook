@@ -22,7 +22,7 @@ date: 2026-05-04
 
 ------------------------------------------------------------------------
 
-> Status: Updated figures for the manuscript have been either created or identified. They can be found in this notebook post.
+> Status: Updated figures for the manuscript have been either created or identified. They can be found in this [notebook post](https://chrismantegna.github.io/labnotebook/daily_log/2026_05_02/).
 >
 > Next Steps: I'm working on the results re-write and then the discussion.
 
