@@ -1,0 +1,122 @@
+---
+title: "New Month, Same Mission"
+date: "2026-05-01"
+categories:
+  - Planning
+  - Task Management
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: April 27 - May 3, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week is all about making progress in my writing deliverables.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - UW-RUA~~
+>
+> ~~Tuesday - Finishing my Annual Evals~~
+>
+> ~~Wednesday - Methylation & Biomarkers~~
+>
+> ~~Thursday - Methylation~~
+>
+> Friday - Methylation and Biomarkers
+>
+> Saturday - No Science
+>
+> Sunday - Methylation
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   My primary goals for today are as follows:
+    -   Get my NSF Activities Report submitted
+    -   Work on biomarker visualizations
+    -   Define May goals and strategy to complete them
+
+### Projects Touched Today
+
+-   Mussel Biomarkers
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   The first thing I did was to complete my NSF activities report and
+    send it to Steven to sign before I upload it.
+-   An unexpected surprise came from PoE opening a call for pre-doc
+    candidates to teach some of their courses as the Instructor of
+    Record - I will be submitting my application before the May 18th
+    deadline.
+    -   I did reach out to a few folks to confirm I can use them as my
+        references, and put the rest of the app on the task list for
+        next week.
+-   I had to shift to knocking out some UW-RUA tasks so I could focus on
+    my own work for the rest of the day.
+-   Moving over to biomarkers, my first step is to make a list of
+    figures that support the main result and manuscript narrative, then
+    I will review what I have and determine what I need before jumping
+    in to create that.
+    -   The main takeaway is that the spatial results of the
+        contaminants are highly correlated, but the biomarkers are not;
+        neither the normalized (to the reference) value nor the
+        composite IBR score reflect a consistent significant correlation
+        between the contaminant profiles and the biomarker response at
+        the site nor the reporting area level.
+    -   In addition, the contaminant profile at the reference site
+        indicated a high SOD response that may be related to many
+        factors outside of the contaminant profile.
+-   While reviewing biomarkers, I had to break to meet with the TNC
+    folks re: Yellow.
+    -   We have to spend the balance of the funding before the end of
+        the 2026 fiscal year, so since the quote left some room
+        remaining for additional sequences, I'm going to head up to
+        Yellow on Sunday to take eDNA samples and head home. Not ideal,
+        but so be it.
+        -   Because of the shift in plans, I had some restructuring of
+            the remainder of Friday through Sunday to do's.
+        -   I shifted my Saturday tasks to Friday, opening Saturday for
+            work that was slated for Sunday/ Monday.
+        -   I paused today's work to get through my personal obligations
+            since I'm almost out of the woods and back on track with
+            manageable daily workloads.
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   No tangible products
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 0 words**
+>
+> **Annual total to date: 41,162 words**
+>
+> **Annual target total to date: 58,500 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Biomarker figures and result re-working.
+-   Methylation results and discussion framing.

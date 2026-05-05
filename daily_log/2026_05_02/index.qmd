@@ -1,0 +1,158 @@
+---
+title: "Saturday Sunshine will have to Wait!"
+date: "2026-05-02"
+categories:
+  - Mussel Biomarkers
+  - Mussel Methylation
+  - Monthly Goals
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: April 27 - May 3, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week is all about making progress in my writing deliverables.
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - UW-RUA~~
+>
+> ~~Tuesday - Finishing my Annual Evals~~
+>
+> ~~Wednesday - Methylation & Biomarkers~~
+>
+> ~~Thursday - Methylation~~
+>
+> ~~Friday - Methylation and Biomarkers~~
+>
+> Saturday - No Science
+>
+> Sunday - Methylation
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   My primary goals for today are as follows:
+    -   Work on biomarker visualizations and results
+    -   Define May goals and strategy to complete them
+    -   Methylation results and discussion points
+
+### Projects Touched Today
+
+-   Mussel Biomarkers
+-   Yellow Island
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   The first thing I did was to brain dump the tasks related to the
+    mussel work - biomarkers and methylation.
+    -   One of my goals for May is to get the biomarker manuscript out
+        to my committee and WDFW
+    -   Another May goal is to have a complete, semi-polished draft of
+        the methylation work
+    -   My last goal for May is to frame Chapters 3 & 4 for my proposal
+        and build those with Steven as the other work progresses. The
+        point here is logical, doable, chapters that build on the first
+        two while (1) creating new knowledge with what we already have,
+        and (2) validating that new knowledge.
+    -   My point here, of veering toward my May goals, is to help me
+        define my weekly and then daily tasks to complete what is in
+        front of my while maximizing my efforts (in lit review
+        especially) to keep my focus forward. This helps me not get
+        stuck in trying to perfect what I cannot perfect alone.
+    -   My non-science May goal is to share the crappy drafts, share the
+        messy plan, share before I feel like I am ready. This has always
+        been a problem for me, I want things to be the best I can make
+        them before asking for feedback, but it has proven (repeatedly)
+        to be an unnecessary time suck. I do not have the time to fork
+        over - I need it to sit with the lit, the analysis results, the
+        thoughts need room to breathe - they can't do that if I'm always
+        trying to put a shine on \$h1+...
+-   Back to Biomarkers.
+    -   I am ignoring the exploratory plots for this exercise.
+        -   The only ones that may illustrate the biomarker- only values
+            and the IBR scores are the radars for the reference site and
+            any other site for comparison.
+        -   All others are designed with the supplementary information
+            in mind.
+    -   The main figures should illustrate where we worked, what we
+        found, how what we found relates (or doesn't) contaminant
+        concentrations and mussel response.
+        -   Map of the sampling sites color coded by reporting area.
+        -   A 2 panel plot that shows the site-level P450 values in one
+            panel and the SOD values in the next. Color coded by
+            reporting area, symbol size = activity level.
+        -   A 3 panel box plot of the IBR scores, biomarkers only,
+            morphometrics only, and then the combined. For a clean plot,
+            it will have to be at reporting area level, maybe a
+            site-level one can be in the supplement to show the
+            intra-site variability.
+        -   A 3 panel map of the contaminant class spatial analysis
+            (likely PAH and PCB) next to the combined IBR scores. All
+            color coded by reporting area with symbol size = magnitude
+
+I think the plots below illustrate what I outlined above, noting that
+polishing the viz will come during edits/ writing revisions.
+
+![Figure 1. Sample Sites (will update colors to match R-based
+plots)](img/biomarker_sampling_ra_color_coded.png){fig-align="left"
+width="500"}
+
+![Figure 2. Measured metric values before IBR
+creation.](img/Fig_measured_metrics_4panel_by_reporting_area.png){fig-align="left"
+width="500"}
+
+![Figure 3. IBR Score by Reporting
+Area.](img/Fig_ibr_combined_by_reporting_area.png){fig-align="left"
+width="500"}
+
+![Table 1. Significant Spearman's (will remove IBRs and combine with
+Kendall's
+results)](img/Table_spearman_significant_metric_correlations.png){fig-align="left"
+width="400"}
+
+![Table 2. Kendall's Tau significant correlations (same note as table
+1)](img/Table_kendall_significant_metric_correlations.png){fig-align="left"
+width="400"}
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Biomarker visualization and justification & captions: 150 words
+    -   5 plots, maps or tables produced
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 0 words**
+>
+> **Annual total to date: 41,162 words**
+>
+> **Annual target total to date: 59,000 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Yellow eDNA sampling.
+-   Map out bench work schedule to send to Cole for the DNA extractions
+    and QC.

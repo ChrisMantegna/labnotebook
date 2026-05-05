@@ -1,0 +1,61 @@
+---
+title: "May Goals"
+date: "2026-05-02"
+categories:
+  - Monthly Goals
+execute:
+  echo: false
+  warning: false
+  message: false
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    code-fold: true
+---
+
+------------------------------------------------------------------------
+
+### Goals for May 2026
+
+------------------------------------------------------------------------
+
+1. Biomarkers: polished manuscript out to WDFW
+2. Methylation: complete, semi-polished draft of the methylation work 
+3. PhD Proposal: frame Chapters 3 & 4 with Steven, building on the first two while (1) creating new knowledge with what we already have, and (2) validating that new knowledge
+
+------------------------------------------------------------------------
+
+### Goal 1 Plan: Biomarker Manuscript
+
+------------------------------------------------------------------------
+
+> Status:
+>
+> Steps to meet the goal:
+
+------------------------------------------------------------------------
+
+### Goal 2 Plan: Methylation Manuscript
+
+------------------------------------------------------------------------
+
+> Status:
+>
+> Steps to meet the goal:
+
+------------------------------------------------------------------------
+
+### Goal 3 Plan: PhD Proposal
+
+------------------------------------------------------------------------
+
+> Status:
+>
+> Steps to meet the goal:
+
+
+
+

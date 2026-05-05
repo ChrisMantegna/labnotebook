@@ -10,10 +10,10 @@
 <atom:link href="https://chrismantegna.github.io/labnotebook/weeklyupdates.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 27 Apr 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 07:00:00 GMT</lastBuildDate>
 <item>
-  <title>Advisor Working Session: April 29, 2026</title>
-  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0427/</link>
+  <title>Advisor Working Session: May 5, 2026</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0505/</link>
   <description><![CDATA[ 
 
 
@@ -24,75 +24,129 @@
 <h3 class="anchored" data-anchor-id="agenda">Agenda</h3>
 <hr>
 <ol type="1">
-<li><p>Updates</p>
+<li>Updates
 <ol type="1">
-<li>Biomarker Manuscript</li>
+<li>Biomarker manuscript</li>
+<li>Methylation results and discussion</li>
+<li>Instructor of Record App - PoE</li>
+<li>UG support for bench work</li>
 </ol></li>
-<li><p>Methylation Results and Methods Drafting</p></li>
+<li>GSAR</li>
 </ol>
 <hr>
 </section>
-<section id="updates-1-biomarker-manuscript" class="level3">
-<h3 class="anchored" data-anchor-id="updates-1-biomarker-manuscript">Updates 1: Biomarker Manuscript</h3>
+<section id="update-1.1-biomarker-manuscript" class="level3">
+<h3 class="anchored" data-anchor-id="update-1.1-biomarker-manuscript">Update 1.1: Biomarker manuscript</h3>
 <hr>
 <blockquote class="blockquote">
-<p>Status: Emailed draft on 4/18 to Steven only</p>
-<p>Added to Google Drive on 4.19.26 when the WiFi was stable</p>
+<p>Status: Updated figures for the manuscript have been either created or identified. They can be found in this notebook post.</p>
+<p>Next Steps: I’m working on the results re-write and then the discussion.</p>
 </blockquote>
 <hr>
 </section>
-<section id="item-2-methylation-methods-drafting" class="level3">
-<h3 class="anchored" data-anchor-id="item-2-methylation-methods-drafting">Item 2: Methylation Methods Drafting</h3>
+<section id="update-1.3-poe-instructor-application" class="level3">
+<h3 class="anchored" data-anchor-id="update-1.3-poe-instructor-application">Update 1.3: PoE Instructor Application</h3>
 <hr>
 <blockquote class="blockquote">
-<p>This is the <a href="https://docs.google.com/document/d/1nSLnD8NJy9VPjAOi8iKxrFMQQo67Cwf2/edit?usp=sharing&amp;ouid=117330698960206374690&amp;rtpof=true&amp;sd=true">link to the drafted Methods Section</a>.</p>
-<p>Status: Initial draft</p>
+<p>Status: Secured references, identified courses with the highest likelihood of teaching, and building my application now.The <a href="https://drive.google.com/file/d/1lX1NiGxdNeK33BTqFN2VbKbjPbmqcrQf/view?usp=sharing">application call</a> was sent to SAFS as a general message.</p>
+<p>Next Steps: Application is due May 18, 2026 at 5:00 pm with a provisional notice of June 1. If chosen, will teach rather than continue with RUA. In addition, I submitted for the open TA positions.</p>
 </blockquote>
 <hr>
 </section>
-<section id="item-2-methylation-results-drafting" class="level3">
-<h3 class="anchored" data-anchor-id="item-2-methylation-results-drafting">Item 2: Methylation Results Drafting</h3>
+<section id="update-1.2-methylation-results-and-discussion" class="level3">
+<h3 class="anchored" data-anchor-id="update-1.2-methylation-results-and-discussion">Update 1.2: Methylation results and discussion</h3>
 <hr>
 <blockquote class="blockquote">
-<p>I put together the table of DMLs from your 1055.tab file.</p>
-<p>The quick stats are below from my 4/15 Daily Post</p>
-<ul>
-<li>The annotated gene list is in <a href="https://sr320.github.io/tumbling-oysters/posts/36-merry/">Steven’s notebook post</a>. A quick review shows the following:
-<ul>
-<li>12 of 17 DMLs mapped to genes that are hypo-, hyper- methylated, or both.</li>
-<li>4 are hyper-methylated, 6 are hypo-methylated, and 2 have both instances.</li>
-<li>The magnitudes of methylation in either direction are the same.</li>
-<li>10/12 have a characterized gene function, and 2/10 are uncharacterized.</li>
-</ul></li>
-</ul>
+<p>Status: Added <a href="https://docs.google.com/document/d/16nAc2tWBRlhLHobFN4HZ6ux-Y1yztOQRnXleWBvsCbs/edit?usp=sharing">result ‘write-up’</a>to the methods write-up, and added some discussion points.</p>
+<p>Next Steps:Clean-up, support, and write- out in full.</p>
 </blockquote>
 <hr>
 </section>
-<section id="item-2" class="level3">
-<h3 class="anchored" data-anchor-id="item-2">Item 2…</h3>
+<section id="update-1.3-ug-support-for-bench-work-yellow" class="level3">
+<h3 class="anchored" data-anchor-id="update-1.3-ug-support-for-bench-work-yellow">Update 1.3: UG support for bench work/ Yellow</h3>
 <hr>
-<p>Things about the topic</p>
+<blockquote class="blockquote">
+<p>Status: Shared a Google calendar with Cole on May 1st. We are aligning availability for training. An additional, unplanned trip to Yellow on Sunday, May 3rd was a bit derailing but ultimately go the samples together that we needed.</p>
+<p>Next Steps: Verify what training the UGs need to work in the lab, and then get Cole setup with the protocols and a schedule.</p>
+</blockquote>
 <hr>
 </section>
-<section id="item-3" class="level3">
-<h3 class="anchored" data-anchor-id="item-3">Item 3…</h3>
+<section id="item-2-gsar" class="level3">
+<h3 class="anchored" data-anchor-id="item-2-gsar">Item 2: GSAR</h3>
+<hr>
+<blockquote class="blockquote">
+<p>Status: Completed the student portion. The file can be <a href="https://drive.google.com/drive/folders/1vSi5NLuvWfwmx2eTGe_QD9ukGDyk0jGY?usp=sharing">found here</a>.</p>
+<p>Next Steps: Review with you and submit via the instructions indicated on the form.</p>
+</blockquote>
 <hr>
 </section>
 <section id="deliverables-for-next-week" class="level3">
 <h3 class="anchored" data-anchor-id="deliverables-for-next-week">Deliverables for Next Week</h3>
 <hr>
 <blockquote class="blockquote">
-<p>Next Meeting: May 5th @ 10:30am</p>
+<p>Item Status:</p>
+<p>Next Steps:</p>
 </blockquote>
 
 
 </section>
 
  ]]></description>
-  <category>1v1</category>
-  <category>Working Session</category>
-  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0427/</guid>
-  <pubDate>Mon, 27 Apr 2026 07:00:00 GMT</pubDate>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0505/</guid>
+  <pubDate>Mon, 04 May 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>May Goals</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0502/</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<section id="goals-for-may-2026" class="level3">
+<h3 class="anchored" data-anchor-id="goals-for-may-2026">Goals for May 2026</h3>
+<hr>
+<ol type="1">
+<li>Biomarkers: polished manuscript out to WDFW</li>
+<li>Methylation: complete, semi-polished draft of the methylation work</li>
+<li>PhD Proposal: frame Chapters 3 &amp; 4 with Steven, building on the first two while (1) creating new knowledge with what we already have, and (2) validating that new knowledge</li>
+</ol>
+<hr>
+</section>
+<section id="goal-1-plan-biomarker-manuscript" class="level3">
+<h3 class="anchored" data-anchor-id="goal-1-plan-biomarker-manuscript">Goal 1 Plan: Biomarker Manuscript</h3>
+<hr>
+<blockquote class="blockquote">
+<p>Status:</p>
+<p>Steps to meet the goal:</p>
+</blockquote>
+<hr>
+</section>
+<section id="goal-2-plan-methylation-manuscript" class="level3">
+<h3 class="anchored" data-anchor-id="goal-2-plan-methylation-manuscript">Goal 2 Plan: Methylation Manuscript</h3>
+<hr>
+<blockquote class="blockquote">
+<p>Status:</p>
+<p>Steps to meet the goal:</p>
+</blockquote>
+<hr>
+</section>
+<section id="goal-3-plan-phd-proposal" class="level3">
+<h3 class="anchored" data-anchor-id="goal-3-plan-phd-proposal">Goal 3 Plan: PhD Proposal</h3>
+<hr>
+<blockquote class="blockquote">
+<p>Status:</p>
+<p>Steps to meet the goal:</p>
+</blockquote>
+
+
+</section>
+
+ ]]></description>
+  <category>Monthly Goals</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0502/</guid>
+  <pubDate>Sat, 02 May 2026 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>National DNA Day</title>
@@ -2126,42 +2180,6 @@
   <category>committee meeting</category>
   <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1001/</guid>
   <pubDate>Wed, 01 Oct 2025 07:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Weekly Adviser Meeting</title>
-  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_0927/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><img src="https://chrismantegna.github.io/labnotebook/weekly/2025_0927/img/will_smith_advisor_meme.jpeg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
-</figure>
-</div>
-<p>Agenda for 09.25.2025 Meeting</p>
-<ul>
-<li><p>Milestones review (SAFS form)</p></li>
-<li><p>Big 3 goals for the quarter * Submit Bypass Package by Nov 15th * Prepare for written exam in Jan/Feb 2026 * Get Yellow &amp; Kenya eDNA samples out</p></li>
-<li><p>Bypass package status</p>
-<ul>
-<li>Big piece timeline
-<ul>
-<li>Includes biomarker manuscript (submit between 10/1/25 - 3/1/2026)</li>
-</ul></li>
-<li>Current completion percentage - 30%</li>
-<li>Where I need help</li>
-<li>Scheduling a committee meeting</li>
-</ul></li>
-</ul>
-
-
-
- ]]></description>
-  <category>1v1</category>
-  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_0927/</guid>
-  <pubDate>Wed, 24 Sep 2025 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
