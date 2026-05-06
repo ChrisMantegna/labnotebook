@@ -1,0 +1,87 @@
+---
+title: "Meetings & Networking"
+date: "2026-05-05"
+categories:
+  - 1v1
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: May 4 - May 10, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week is all about getting biomarkers out!
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Catching up & weekly planning~~
+>
+> Tuesday - Steven Working Session & UW-RUA
+>
+> Wednesday - Biomarkers & UG Bench Prep
+>
+> Thursday - Biomarkers & Bench Work
+>
+> Friday - Biomarkers & Bench
+>
+> Saturday - Biomarkers
+>
+> Sunday - Afternoon Methylation Work
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   My goals for today are:
+    -   Meet with Steven
+    -   Pull off the last UW-RUA event!
+
+### Projects Touched Today
+
+-   Mussel Methylation
+-   Mussel Biomarkers
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   Today is a meeting/ event heavy day.
+    -   First up, my weekly 1v1 with Steven.
+        -   Deliverables for next week include updates to both mussel
+            manuscripts
+    -   The remainder of the day was UW-RUA tasks and events.
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   No products
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 386 words**
+>
+> **Annual total to date: 41,548 words**
+>
+> **Annual target total to date: 60,500 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Will be made in the AM.

@@ -1,0 +1,104 @@
+---
+title: "Monday Catch-Up"
+date: "2026-05-04"
+categories:
+  - Planning
+  - Mussel Methylation
+  - Mussel Biomarkers
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: May 4 - May 10, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week is all about getting biomarkers out!
+
+------------------------------------------------------------------------
+
+<div>
+
+> Monday - Catching up & weekly planning
+>
+> Tuesday - Steven Working Session & UW-RUA
+>
+> Wednesday - Biomarkers & UG Bench Prep
+>
+> Thursday - Biomarkers & Bench Work
+>
+> Friday - Biomarkers & Bench
+>
+> Saturday - Biomarkers
+>
+> Sunday - Afternoon Methylation Work
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   My goals for today are:
+    -   Wrap-up my GSAR and Steven 1v1 Agenda for Tuesday
+    -   Continue the methylation results and discussion framing
+    -   Plan T-F with specific tasks
+
+### Projects Touched Today
+
+-   Mussel Methylation
+-   Mussel Biomarkers
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   Mondays are email/ task/ planning days
+    -   I took a look at my upcoming deliverables, knocked out comms,
+        and started building a plan for the week. My primary focus is on
+        getting my mussel manuscripts out for review and editing.
+    -   I also have a flurry of tasks for the last UW-RUA professional
+        development programming event that takes place tomorrow.
+-   I looked at what is on the agenda for tomorrow with Steven and
+    started by knocking out my half of the GSAR. Not a morale booster,
+    that's for sure.
+    -   Turning to biomarkers - I added the notebook post with updated
+        figures.
+    -   I spent time writing out specific tasks to update the writing.
+    -   Shifting to methylation, I took my handwritten notes and added a
+        lose framing to both the results and discussion sections.
+    -   I added the progress for 2026-27 AY funding options.
+    -   Added the update on getting Cole into the lab.
+-   I shifted over to knocking out UW-RUA tasks for tomorrow before
+    meeting with Yen-Chu to discuss the PoE teaching positions at the
+    end of the day.
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Drafting methylation: 386 words
+
+<div>
+
+> **Today's total: 386 words**
+>
+> **Monthly total to date: 386 words**
+>
+> **Annual total to date: 41,548 words**
+>
+> **Annual target total to date: 60,000 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Will be made during weekly set-up.
