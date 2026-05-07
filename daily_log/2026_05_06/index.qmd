@@ -1,0 +1,106 @@
+---
+title: "On Wednesdays We Write in Pink"
+date: "2026-05-06"
+categories:
+  - Mussel Biomarkers
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: May 4 - May 10, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week is all about getting biomarkers out!
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Catching up & weekly planning~~
+>
+> ~~Tuesday - Steven Working Session & UW-RUA~~
+>
+> Wednesday - Biomarkers & UG Bench Prep
+>
+> Thursday - Biomarkers & Bench Work
+>
+> Friday - Biomarkers & Bench
+>
+> Saturday - Biomarkers
+>
+> Sunday - Afternoon Methylation Work
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   My goals for today are:
+    -   Wrap-up biomarkers results and discussion
+    -   Clean up the biomarker manuscript folder to include in review
+    -   Prep for UG bench support on Thursday
+
+### Projects Touched Today
+
+-   Mussel Biomarkers
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   Today started with a daily planning session, prep for the handful of
+    meetings I have, and outlining the biomarker results re-work.
+    -   First up was task dumping and daily prep, today's working block
+        will focus on re-working the results section of the biomarker
+        paper by:
+        -   Reorganizing the order results are delivered, spatial first,
+            followed by biomarker activity and IBR scores.
+    -   Next was lab meeting where we did a check-in and supported an
+        undergrad in preparing for the presentation of their work.
+-   I printed the draft visuals for the biomarker paper to help me keep
+    the bigger picture in mind and ensure the narrative the viz tells is
+    aligned with what I write.
+-   I met with folks from Puget Sound Partnership to discuss an upcoming
+    conservation event.
+-   Turning back to biomarkers, I drafted a high level outline of topic
+    sentences that match the results to the discussion.
+    -   After re-reading what I have already written, I was able to
+        re-work most of what was already there, by stripping it down to
+        elementary- level sentences and removing any interpretation.
+    -   Next I did the same with the discussion and then the last 3
+        paragraphs of the introduction. The doc looks crazy, but it
+        helps me see the narrative clearer.
+-   I wrapped up the day by attending the professional development
+    programming postmortem with the academic affairs team.
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Drafting biomarker revisions: 431 words
+
+<div>
+
+> **Today's total: 431 words**
+>
+> **Monthly total to date: 817 words**
+>
+> **Annual total to date: 41,979 words**
+>
+> **Annual target total to date: 61,000 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Continue biomarker work and prep for getting Cole setup in the lab.
