@@ -1,4 +1,4 @@
 month,goal_id,goal,target,completed,unit
-2026-10,environmental_qc,Complete environmental data QC,10,0,milestones
-2026-10,manuscript,Draft manuscript revisions,20,0,milestones
-2026-10,undergraduate,Develop undergraduate research plan,20,0,milestones
+2026-10,biometh_manuscript,Complete first draft of the BioMeth manuscript,7,1,milestones
+2026-10,teaching_302,Teaching 302,20,18,milestones
+2026-10,phd_milestones,PhD milestones and written exam prep,14,4,milestones
