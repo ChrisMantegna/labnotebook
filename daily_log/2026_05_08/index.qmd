@@ -1,0 +1,49 @@
+---
+title: "Groundhogs Day Times A Thousand"
+date: '2026-03-04'
+categories:
+  - writing
+  - visualizations
+  - mussel biomarkers
+  - time management
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+### Plan of the Week: March 2 - 8, 2026
+#### Daily Focus
+
+- Thursday: No science work
+- Friday: Biomarker Manuscript
+- Saturday: No science work
+- Sunday: Biomarker Manuscript
+
+### Plan of the Day
+
+- Based on the list of biomarker manuscript deliverables, my first task is to update my Results section to include the corrected spatial analyses. Second task is to update Figures 1 and 2.
+- Finally, my current task management communication set-up is not effective. Moving forward, general weekly plans will be added to Monday notebook posts with specific daily tasks and outcome determined in the daily notebook posts. This will allow for more flexibility in task management and better communication of progress and plans.
+
+### Projects Touched Today
+
+- 
+
+### Progress Notes
+
+
+### Products & Word Count
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 0 words**
+>
+> **Annual total to date: 20,747 words**
+
+</div>
+
+### Tomorrow's Plan
+
+- No science focus on Thursday.

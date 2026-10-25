@@ -1,0 +1,99 @@
+---
+title: "Bench Work & Biomarkers"
+date: "2026-05-07"
+categories:
+  - Mussel Biomarkers
+  - Yellow Island
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+### Plan of the Week: May 4 - May 10, 2026
+
+#### *High- level outline for the week. Adjusted daily to reflect progress of the day before*
+
+-   This week is all about getting biomarkers out!
+
+------------------------------------------------------------------------
+
+<div>
+
+> ~~Monday - Catching up & weekly planning~~
+>
+> ~~Tuesday - Steven Working Session & UW-RUA~~
+>
+> ~~Wednesday - Biomarkers & UG Bench Prep~~
+>
+> Thursday - Biomarkers & Bench Work
+>
+> Friday - Biomarkers & Bench
+>
+> Saturday - Biomarkers
+>
+> Sunday - Afternoon Methylation Work
+
+</div>
+
+------------------------------------------------------------------------
+
+### Plan of the Day
+
+### *Granular level task list to accomplish the high- level goal outlined above*
+
+-   My goals for today are:
+    -   Continue with the biomarker re-work
+    -   Get Cole through lab 'onboarding' tasks
+
+### Projects Touched Today
+
+-   Mussel Biomarkers
+
+------------------------------------------------------------------------
+
+### Progress Notes
+
+-   Today started with wrapping up some UW-RUA tasks and then moved into
+    prep for the NWStraits fundraiser.
+    -   Met with Don and Mary Margaret to go over the plan for the
+        cruise, and left with a few action items to prepare for the May
+        15th event.
+-   I transitioned to preparing the print materials for Cole that I
+    gathered yesterday.
+    -   Protocols, lab safety forms, and skill inventory and schedule
+        are ready to go for this afternoon.
+-   I finally took my notes for my [May
+    goals](https://chrismantegna.github.io/labnotebook/weekly/2026_0502/)
+    and added the steps to complete them noting the goal for Chapters 3
+    & 4 will continue into June.
+-   I started my biomarker work block by reviewing what I completed
+    yesterday, and chose to focus the first 45 minutes on creating the
+    spatial analysis maps.
+    -   
+
+------------------------------------------------------------------------
+
+### Outcomes: Products & Word Count
+
+-   Something: 0 words
+
+<div>
+
+> **Today's total: 0 words**
+>
+> **Monthly total to date: 817 words**
+>
+> **Annual total to date: 41,979 words**
+>
+> **Annual target total to date: 61,500 words**
+
+</div>
+
+### Next Up: Tomorrow's Plan
+
+-   Mussels x ∞.
