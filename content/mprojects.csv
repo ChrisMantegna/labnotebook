@@ -1,0 +1,4 @@
+﻿title,src,url,description
+Biomarkers,img/biomarker_hex.png,https://github.com/ChrisMantegna/WDFWmussels,Utilizing Mytilus trossulus to validate traditional biomarkers in biomonitoring
+DNA Methylation,img/methylation.png,https://github.com/ChrisMantegna/WDFWmussels_epigenetics,Assessing epigenetic response in Mytilus trossulus to PAHs
+Environmental Conditions,,https://github.com/ChrisMantegna/mytilus_ec,Gathering and analyzing open source  biotic and abiotic conditions that influence  mussel response to stressors 
