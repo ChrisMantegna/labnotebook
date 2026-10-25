@@ -10,14 +10,16 @@ website:
     - text: Home
       href: index.qmd
     - about.qmd
-    - text: Projects
+    - text: The Mighty Mytilus
       menu:
-      - projectlog.qmd
-      - projects.qmd
+      - mytilusprojects.qmd
+      - nonmytilusprojects.qmd
     - text: Lab Notebook
       menu:
+      - connections.qmd
       - dailylog.qmd
       - weeklyupdates.qmd
+      - weeklyagendas.qmd
 exclude:
   - daily_log/archive/
 format:

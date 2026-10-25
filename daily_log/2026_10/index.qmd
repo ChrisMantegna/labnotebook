@@ -1,0 +1,11 @@
+---
+title: "Example daily log (replace date)"
+date: 2026-10-25
+categories: [Lab Notebook]
+writing_words: 553
+goal_progress:
+  environmental_qc: 1
+  manuscript: 2
+---
+
+Your normal daily entry begins here. The goal_progress section is optional.

@@ -1,6 +1,6 @@
 ---
-title: Current Projects
-description: My active research projects
+title: All Other Projects
+description: My non-dissertation projects
 execute: 
   echo: false
   message: false
