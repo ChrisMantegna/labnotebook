@@ -1,6 +1,6 @@
 ---
 title: All Other Projects
-description: My non-dissertation projects
+description: My non-dissertation focused projects
 execute: 
   echo: false
   message: false

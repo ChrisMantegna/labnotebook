@@ -65,5 +65,23 @@
       "/project_log/mussel_methylation/index.html",
       "/project_log/yellow_island/index.html"
     ]
+  },
+  {
+    "listing": "/weeklya.html",
+    "items": [
+      "/weeklya/2026_0505/index.html",
+      "/weeklya/2026_0502/index.html",
+      "/weeklya/2026_0419/index.html",
+      "/weeklya/2026_0414/index.html",
+      "/weeklya/2026_0408/index.html",
+      "/weeklya/2026_0210/index.html",
+      "/weeklya/2025_1113/index.html",
+      "/weeklya/2025_1023/index.html",
+      "/weeklya/2025_1016/index.html",
+      "/weeklya/2025_1009/index.html",
+      "/weeklya/2025_1002/index.html",
+      "/weeklya/2025_1001/index.html",
+      "/weeklya/2025_0927/index.html"
+    ]
   }
 ]

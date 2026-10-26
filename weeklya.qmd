@@ -1,0 +1,16 @@
+---
+title: "Weekly Meetings"
+subtitle: "Weekly Meeting Agendas & Monthly Goals"
+page-layout: full
+title-block-banner: true
+listing:
+  contents: weeklya
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  feed: true
+---
+
+![](img/ducks_in_row.jpeg){fig-align="left" width="700"}

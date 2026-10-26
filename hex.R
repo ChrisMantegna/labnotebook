@@ -57,6 +57,17 @@ prez_hex<-sticker(image, package="Presentations", p_size=14,
                        filename="img/prez_hex.png",h_fill="#32006e",h_color = "#32006e")
 print(prez_hex)
 
+# nearshore environment
+image<- image_read("img/nearshore_from_psi.jpeg")
+
+environment_hex<-sticker(image, package="Environmental Stressors", p_size=9.5,
+                       p_y = 1.5,
+                       s_x=1, s_y=0.8, s_width=1.1,
+                       s_height = 14,
+                       filename="img/environment_hex.png",h_fill="#32006e",h_color = "#32006e")
+
+print(environment_hex)
+
 ## Making hex stickers for committee members
 # steven
 image<- image_read("img/steven.jpg")

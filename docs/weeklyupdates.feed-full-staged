@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Progress Makes a PhD</title>
+<link>https://chrismantegna.github.io/labnotebook/weeklyupdates.html</link>
+<atom:link href="https://chrismantegna.github.io/labnotebook/weeklyupdates.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Sat, 25 Apr 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/weekly/2026_0425/index.html}</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0425/</link>
+  <description>{B4F502887207:/weekly/2026_0425/index.html}</description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0425/</guid>
+  <pubDate>Sat, 25 Apr 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/weekly/2026_0411/index.html}</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0411/</link>
+  <description>{B4F502887207:/weekly/2026_0411/index.html}</description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0411/</guid>
+  <pubDate>Sat, 11 Apr 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/weekly/2026_0125/index.html}</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0125/</link>
+  <description>{B4F502887207:/weekly/2026_0125/index.html}</description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0125/</guid>
+  <pubDate>Sun, 25 Jan 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/weekly/2026_0103/index.html}</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2026_0103/</link>
+  <description>{B4F502887207:/weekly/2026_0103/index.html}</description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2026_0103/</guid>
+  <pubDate>Sat, 03 Jan 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/weekly/2025_1202/index.html}</title>
+  <dc:creator>Chris Mantegna</dc:creator>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1202/</link>
+  <description>{B4F502887207:/weekly/2025_1202/index.html}</description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1202/</guid>
+  <pubDate>Tue, 02 Dec 2025 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/weekly/2025_1201/index.html}</title>
+  <dc:creator>Chris Mantegna</dc:creator>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1201/</link>
+  <description>{B4F502887207:/weekly/2025_1201/index.html}</description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1201/</guid>
+  <pubDate>Mon, 01 Dec 2025 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/weekly/2025_1021/index.html}</title>
+  <dc:creator>FISH 510  |  October 2025  |  Chris Mantegna</dc:creator>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1021/</link>
+  <description>{B4F502887207:/weekly/2025_1021/index.html}</description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1021/</guid>
+  <pubDate>Tue, 21 Oct 2025 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/weekly/2025_1011/index.html}</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_1011/</link>
+  <description>{B4F502887207:/weekly/2025_1011/index.html}</description>
+  <category>productivity tools</category>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_1011/</guid>
+  <pubDate>Sat, 11 Oct 2025 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/weekly/2025_0831/index.html}</title>
+  <link>https://chrismantegna.github.io/labnotebook/weekly/2025_0831/</link>
+  <description>{B4F502887207:/weekly/2025_0831/index.html}</description>
+  <guid>https://chrismantegna.github.io/labnotebook/weekly/2025_0831/</guid>
+  <pubDate>Sun, 31 Aug 2025 07:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

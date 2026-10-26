@@ -1,6 +1,6 @@
 ---
-title: All Other Projects
-description: My non-dissertation projects
+title: Mytilus Research
+description: Investigating marine mussels' response mechanisms to biotic, abiotic, and xenobiotic exposures across biological scales
 execute: 
   echo: false
   message: false
@@ -14,7 +14,7 @@ format:
 
 library(dplyr)
 
-readr::read_csv(here::here("content", "projects.csv")) %>% 
+readr::read_csv(here::here("content", "mprojects.csv")) %>% 
   #select(-tags) %>% 
   bs4cards::cards(
     title = title,
