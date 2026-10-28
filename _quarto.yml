@@ -19,7 +19,7 @@ website:
       - connections.qmd
       - dailylog.qmd
       - weeklyupdates.qmd
-      - weeklyagendas.qmd
+      - weeklya.qmd
 exclude:
   - daily_log/archive/
 format:
