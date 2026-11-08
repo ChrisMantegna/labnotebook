@@ -7,4 +7,24 @@ goal_progress:
   quals: 1
 ---
 
-Today I completed my scheduled meetings and those shifted from Monday, submitted my Plan of Study to my committee for confirmation, and created my reading plan for physiology. I completed that plan by inventorying what I have already read, curating what I believe is most relevant, and brain dumping what I know and what kinds of questions I believe I will need to be able to answer.
+### Completed Work
+
+- I completed my scheduled meetings and those shifted from Monday
+- Submitted my Plan of Study to my committee for confirmation
+
+### Degree Milestone Progress
+
+- Created my reading plan for physiology. I completed that plan by
+  inventorying what I have already read, curated what I believe is most
+  relevant, and brain dumping what I know and what kinds of questions I
+  believe I will need to be able to answer.
+- As I continue reading, I spend about 20 minutes a week asking myself
+  the following questions:
+  - What do I know?
+  - What do I want to know?
+  - How can I answer the questions about what I want to know?
+  - What questions do I have that require help or context beyond my
+    readings?
+- The benefit of this exercise is that I reinforce that I know more than
+  I think I do and talking through this same sequence helps me identify
+  knowledge gaps and departures from the main focus of my work.

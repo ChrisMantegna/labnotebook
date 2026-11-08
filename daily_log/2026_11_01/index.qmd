@@ -11,6 +11,6 @@ goal_progress:
 - [November goal
   setting](https://chrismantegna.github.io/labnotebook/weekly/2026_1101/)
   and October goal progress reflection
-- Researching hemolypmph extraction techniques and related protocols and
+- Researching hemolymph extraction techniques and related protocols and
   assessment metrics
 - Setting up my lecture and lecture slides for tomorrow's class

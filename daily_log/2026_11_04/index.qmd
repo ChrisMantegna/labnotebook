@@ -7,4 +7,17 @@ goal_progress:
   teaching: 1
 ---
 
-Today I held office hours, lectured in class, and returned to assessing my reading and synthesis assessment in preparation for writtens. I created a setup for aquatic toxicology that mirrors the setup for physiology. Additionally, I curated a list of content to discuss with Alison next week, created a mindmap of where toxicology, physiology and epigenetics overlap so that I am clear on my own knowledge gaps and where to ask questions.
+### Teaching
+
+- I held office hours, class, and spent time preparing for the next
+  major course module \### Written Exam Prep
+- I continued building my reading and synthesis assessment.
+- I created a setup for aquatic toxicology that mirrors the setup for
+  physiology.
+- Additionally, I curated a list of content to discuss with Alison next
+  week.
+- While doing that, I realized that some of my spinning was with what to
+  categorize papers and concepts that overlap, so I made my version of a
+  mindmap (an unhinged list with a few boxes and a spatially stunted
+  layout) where toxicology, physiology and epigenetics overlap so that I
+  am clear on my own knowledge gaps and where to ask questions.

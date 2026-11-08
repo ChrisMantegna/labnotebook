@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/dailylog.html</loc>
-    <lastmod>2026-10-25T19:08:31.660Z</lastmod>
+    <lastmod>2026-11-08T20:16:25.044Z</lastmod>
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/projectlog.html</loc>
@@ -243,5 +243,49 @@
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/weekly/2026_1101/index.html</loc>
     <lastmod>2026-11-08T17:03:16.550Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_08/index.html</loc>
+    <lastmod>2026-11-08T21:28:48.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_03/index.html</loc>
+    <lastmod>2026-11-08T19:47:03.606Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_05/index.html</loc>
+    <lastmod>2026-11-08T19:24:16.165Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_06/index.html</loc>
+    <lastmod>2026-11-08T20:19:43.177Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/weeklya/2026_1101/index.html</loc>
+    <lastmod>2026-11-08T17:03:16.550Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_01/index.html</loc>
+    <lastmod>2026-11-08T21:32:12.938Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_07/index.html</loc>
+    <lastmod>2026-11-08T22:07:51.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_02/index.html</loc>
+    <lastmod>2026-11-08T19:41:24.995Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_04/index.html</loc>
+    <lastmod>2026-11-08T19:54:06.281Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/mytilusprojects.html</loc>
+    <lastmod>2026-10-26T00:17:31.759Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/nonmytilusprojects.html</loc>
+    <lastmod>2026-10-25T22:14:37.036Z</lastmod>
   </url>
 </urlset>

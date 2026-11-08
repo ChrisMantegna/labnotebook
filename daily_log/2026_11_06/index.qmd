@@ -6,7 +6,10 @@ writing_words: 788
 goal_progress:
 ---
 
-Today was a purely reading and writing day. I reviewed my progress in
-the epigenetics readings and synthesis, added the remaining unread
-papers to my calendar reading schedule, and then really dug into
-*Mytilus trossulus* biology across scales.
+### Written Exam Prep
+
+- Today was a purely reading and writing day.
+- After reviewing my progress in the epigenetics readings and synthesis,
+  I added the remaining unread papers to my Google calendar reading
+  schedule, and then really dug into *Mytilus trossulus* biology across
+  organizational scales.

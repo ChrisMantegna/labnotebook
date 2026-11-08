@@ -6,5 +6,38 @@ writing_words: 351
 goal_progress:
 ---
 
+### Manuscript Writing
 
-I re-familiarized myself with the combined BioMeth manuscript, assessed the high-level results versus analysis workflow, reviewed the statistical outputs, and made a list of questions that I need to address to move forward with the writing. I also mocked-up a preliminary re-run of the biomarker activity EDA to help me assess the values I either imputed or removed. My notes are incomplete in my progress log for the biomarker analysis, and if that isn't a reminder to WRITE IT DOWN CLEARLY - not in shorthand, I do not know what is.
+- Started by re-familiarizing myself with where I left off on the
+  combined BioMeth manuscript.
+- First, I refined the Introduction setup to balance the biomarker
+  design and the methylation work to stop treating methylation like a
+  pilot- experiment based on feedback from Steven.
+- Second, I turned to the presentation of the results (to mirror the
+  narrative shift in the introduction), and assessed the high-level
+  takeaways.
+  - I shifted the results section to frame the results like a funnel:
+    geographic contaminant profiles and spatial analyses, reporting area
+    and site-level trends/ any significance, individual biomarker
+    results, the indices and then methylation.
+  - This framing sets the stage for the work, illustrates what could and
+    could not be answered at the larger reporting area/ site-level
+    scale, and then describes the individual sample responses and their
+    variability to reinforce the results outcomes in the geography.
+- Third, I detoured from the plan a bit to look further into a result
+  that felt inconsistent to me. My primary concern is that while I
+  separated the contaminant classes into presence/ absence and
+  concentration gradients for the spatial analyses, I cannot confirm
+  that I did that in the correlations or site-level comparisons.
+  - This is a problem because sites with heavy presence/ absence indices
+    will show false- positives for significant correlations.
+  - Looking at the repo, I made a note of questions that I need to
+    answer before I move forward with writing this section.
+- Finally, when looking through the repo, I noticed I left the worst
+  shorthand notes and comments on the values I imputed or removed before
+  creating the IBR.
+  - Before revieing the correlations, I am going to go back and walk
+    through the data cleaning code and verify, clearly document, and
+    make any necessary adjustments.
+  - If that isn't a reminder to [**WRITE IT DOWN
+    CLEARLY**]{.underline} - not in shorthand, I do not know what is.
