@@ -1,11 +1,26 @@
 ---
+title: November Goal Setting
+date: 2026-11-01 
+page-layout: full
+title-block-banner: true
+format:
+  html:
+       toc: true
+       toc-location: right
+       number-sections: false
+       smooth-scroll: true
+       css: daily-dashboard.css
+execute:
+  echo: false
+  warning: false
+  message: false
 
+editor:
+  markdown:
+    wrap: 72
 ---
 
-![](img/aint_nobody.jpg){width="300"}---
-title: “November Goal Setting”
-date: “November 1, 2026”
----
+![](img/aint_nobody.jpg){width="200"}
 
 # “Ain’t Nobody Got Time for Dat”
 
@@ -13,20 +28,20 @@ The theme of the month is that if there is not a direct connection
 between my degree or teaching progress, I do not have time for it. Get
 somebody else to do it.
 
-## October Goal Recap
+# October Goal Recap
 
 I set three goals for October that will be adjusted and moving forward
 with me into November. I have broken down each goal into its milestones
 and briefly recapped the progress below.
 
-### Goal 1: BioMeth Manuscript to Steven and Alison
+## Goal 1: BioMeth Manuscript to Steven and Alison
 
 - Goal milestone description: All written sections (n‎ = 5), figure
   recreation and captioning, and supplementary file list development.\
 - Total number of milestones: 7\
 - Milestones met: 1 (introduction drafted)
 
-### Goal 2: Teaching 302
+## Goal 2: Teaching 302
 
 - Goal milestone description: Learn material, develop and deliver
   lectures (n‎ = 8), grade within 48 hours (n=4), weekly canvas
@@ -36,7 +51,7 @@ and briefly recapped the progress below.
 - Milestones met: 18 (lubna, learn material, lectures-8, grades-2,
   canvas-3, OH-3)
 
-### Goal 3: Degree Progress
+## Goal 3: Degree Progress
 
 - Goal milestone description: Form and submit PhD committee forms,
   schedule and deliver Autumn committee meeting, confirm ability to
@@ -48,7 +63,7 @@ and briefly recapped the progress below.
 - Milestones met: 9.5 (committee, meeting, expertise, confirm moving to
   writtens, 1v1s scheduled, Plan of Study under review)
 
-## Reflection & Next Steps
+# October Reflection & Next Steps
 
 I made strong progress in both the teaching and degree progress goals,
 and significantly less in the manuscript goal. Both of the first goals
@@ -90,9 +105,9 @@ procrastinate on if I plan on graduating before the next century! While
 most milestones are completed, this goal will carry into November as a
 sub-goal of preparing for my written exam.
 
-## November Goals
+# November Goals
 
-### Goal 1: BioMeth Manuscript to Steven and Alison
+## Goal 1: BioMeth Manuscript to Steven and Alison
 
 - Goal milestone description: All written sections (n‎ = 5), figure
   recreation and captioning (n=5), and supplementary file list
@@ -100,15 +115,15 @@ sub-goal of preparing for my written exam.
 - Total number of milestones: 12\
 - Milestones met: 0
 
-### Goal 2: Teaching 302
+## Goal 2: Teaching 302
 
 - Goal milestone description: Maintain grading within 48 hours (n=4),
   weekly canvas improvement (n‎ = 4), meet with lubna for 1v1s (n=3), and
   implement midterm eval suggestions for improvement (n=2)\
-- Total number of milestones: 13\
+- Total number of milestones: 12\
 - Milestones met: 0
 
-### Goal 3: Written Exam Preparation & Degree Progress
+## Goal 3: Written Exam Preparation & Degree Progress
 
 - Goal milestone description: Maintain weekly reading and writing plan
   (n=8), make a weekly synthesis post to support the discipline

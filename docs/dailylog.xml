@@ -10,7 +10,24 @@
 <atom:link href="https://chrismantegna.github.io/labnotebook/dailylog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Thu, 07 May 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Example daily log (replace date)</title>
+  <link>https://chrismantegna.github.io/labnotebook/daily_log/2026_1025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Your normal daily entry begins here. The goal_progress section is optional.</p>
+
+
+
+ ]]></description>
+  <category>Lab Notebook</category>
+  <guid>https://chrismantegna.github.io/labnotebook/daily_log/2026_1025/</guid>
+  <pubDate>Sun, 25 Oct 2026 07:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Bench Work &amp; Biomarkers</title>
   <link>https://chrismantegna.github.io/labnotebook/daily_log/2026_05_07/</link>
@@ -1005,7 +1022,7 @@
 <li><p>Next snag- the sorted BAM files are not in an order recognized…&nbsp;</p>
 <ul>
 <li><p>Error message in the log for 105M:</p></li>
-<li><p>“The IDs of Read 1 (LH00469:254:22HGFVLT4:2:2361:52054:3816_1:N:0:GTTACGCA+ATGGCGAT) and Read 2 (LH00469:254:22HGFVLT4:2:2441:28449:5398_1:N:0:GTTACGCA+ATGGCGAT) are not the same. This might be the result of sorting the paired-end SAM/BAM files by chromosomal position which is not compatible with correct methylation extraction. Please use an unsorted file instead or sort the file using ‘samtools sort -n’ (by read name). This may also occur using samtools merge as it does not guarantee the read order. To properly merge files please use ‘samtools merge -n’ or ‘samtools cat’.”</p></li>
+<li><p>“The IDs of Read 1 (LH00469:254:22HGFVLT4:2:2361:52054:3816_1:N:0:GTTACGCA+ATGGCGAT) and Read 2 (LH00469:254:22HGFVLT4:2:2441:28449:5398_1:N:0:GTTACGCA+ATGGCGAT) are not the same. This might be the result of sorting the paired-end SAM/BAM files by chromosomal position which is not compatible with correct methylation extraction. Please use an unsorted file instead or sort the file using ‘samtools sort -n’ (by read name). This may also occur using samtools merge as it does not guarantee the read order. To properly merge files please use ‘samtools merge -n’ or ’samtools cat’.”</p></li>
 </ul></li>
 <li><p>Remember: Bismark methylation extractor requires R1 and R2 to remain adjacent; sorted BAMS are not going to work.</p></li>
 <li><p>I fixed the script to pull the unsorted BAM files, and once it began working, I left it to get ready to go.</p></li>
