@@ -1,11 +1,10 @@
 ---
-title: "Example daily log (replace date)"
-date: 2026-10-25
-categories: [Lab Notebook]
-writing_words: 553
+title: "Manusript Focused"
+date: 2026-11-07
+categories:
+writing_words: 351
 goal_progress:
-  environmental_qc: 1
-  manuscript: 2
 ---
 
-Your normal daily entry begins here. The goal_progress section is optional.
+
+I re-familiarized myself with the combined BioMeth manuscript, assessed the high-level results versus analysis workflow, reviewed the statistical outputs, and made a list of questions that I need to address to move forward with the writing. I also mocked-up a preliminary re-run of the biomarker activity EDA to help me assess the values I either imputed or removed. My notes are incomplete in my progress log for the biomarker analysis, and if that isn't a reminder to WRITE IT DOWN CLEARLY - not in shorthand, I do not know what is.

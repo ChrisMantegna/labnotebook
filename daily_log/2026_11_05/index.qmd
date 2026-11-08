@@ -1,11 +1,16 @@
 ---
-title: "Example daily log (replace date)"
-date: 2026-10-25
-categories: [Lab Notebook]
-writing_words: 553
+title: "Grading and Environmental Data"
+date: 2026-11-05
+categories:
+writing_words: 140
 goal_progress:
-  environmental_qc: 1
-  manuscript: 2
+  teaching: 1
 ---
 
-Your normal daily entry begins here. The goal_progress section is optional.
+Today's work was dominantly catching up with grading and building
+rubrics for the upcoming major deliverables through the end of the
+quarter. I finished the day by reviewing the environmental data I
+received from EIM and adding the metadata to my running data dictionary
+to determine if this requested information is supportive of my [current
+project](https://github.com/ChrisMantegna/mytilus_ec) or if I need to
+put it to the side temporarily.

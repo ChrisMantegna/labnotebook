@@ -1,11 +1,12 @@
 ---
-title: "Example daily log (replace date)"
-date: 2026-10-25
-categories: [Lab Notebook]
-writing_words: 553
+title: "Nothing but Mytilus"
+date: 2026-11-06
+categories:
+writing_words: 789
 goal_progress:
-  environmental_qc: 1
-  manuscript: 2
 ---
 
-Your normal daily entry begins here. The goal_progress section is optional.
+Today was a purely reading and writing day. I reviewed my progress in
+the epigenetics readings and synthesis, added the remaining unread
+papers to my calendar reading schedule, and then really dug into
+*Mytilus trossulus* biology across scales.

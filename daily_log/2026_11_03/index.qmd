@@ -1,11 +1,10 @@
 ---
-title: "Example daily log (replace date)"
-date: 2026-10-25
-categories: [Lab Notebook]
-writing_words: 553
+title: "Degree Milestones & Meetings"
+date: 2026-11-03
+categories:
+writing_words: 410
 goal_progress:
-  environmental_qc: 1
-  manuscript: 2
+  quals: 1
 ---
 
-Your normal daily entry begins here. The goal_progress section is optional.
+Today I completed my scheduled meetings and those shifted from Monday, submitted my Plan of Study to my committee for confirmation, and created my reading plan for physiology. I completed that plan by inventorying what I have already read, curating what I believe is most relevant, and brain dumping what I know and what kinds of questions I believe I will need to be able to answer.

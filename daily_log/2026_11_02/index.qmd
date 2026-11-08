@@ -1,11 +1,8 @@
 ---
-title: "Example daily log (replace date)"
-date: 2026-10-25
-categories: [Lab Notebook]
-writing_words: 553
-goal_progress:
-  environmental_qc: 1
-  manuscript: 2
+title: "Conference Crud"
+date: 2026-11-02
+categories:
+writing_words: 0
 ---
 
-Your normal daily entry begins here. The goal_progress section is optional.
+The perfect storm of no sleep, air travel and conference fun has left me with the crud; sick enough to make everything difficult, but not sick enough for anything but Tylenol and time to fix. I completed the 5-slide summary of my completed and proposed dissertation work for my GSR meeting tomorrow. 

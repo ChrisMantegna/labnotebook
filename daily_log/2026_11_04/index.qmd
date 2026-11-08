@@ -1,11 +1,10 @@
 ---
-title: "Example daily log (replace date)"
-date: 2026-10-25
-categories: [Lab Notebook]
-writing_words: 553
+title: "Teaching & Catching Up"
+date: 2026-11-04
+categories:
+writing_words: 229
 goal_progress:
-  environmental_qc: 1
-  manuscript: 2
+  teaching: 1
 ---
 
-Your normal daily entry begins here. The goal_progress section is optional.
+Today I held office hours, lectured in class, and returned to assessing my reading and synthesis assessment in preparation for writtens. I created a setup for aquatic toxicology that mirrors the setup for physiology. Additionally, I curated a list of content to discuss with Alison next week, created a mindmap of where toxicology, physiology and epigenetics overlap so that I am clear on my own knowledge gaps and where to ask questions.

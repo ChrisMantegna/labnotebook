@@ -19,7 +19,6 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
-  feed: true
 ---
 
 ![](img/at_gc_funny_notebook_cover.jpeg){fig-align="center" width="450"}
