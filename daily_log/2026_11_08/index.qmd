@@ -7,4 +7,4 @@ goal_progress:
 
 ---
 
-Fixing things and writing things, update when i wrapup for the day
+Fixing things and writing things, update when i wrap-up for the day
