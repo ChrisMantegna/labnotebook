@@ -2,7 +2,7 @@
 title: "Nothing but Mytilus"
 date: 2026-11-06
 categories:
-writing_words: 789
+writing_words: 788
 goal_progress:
 ---
 
