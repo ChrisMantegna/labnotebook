@@ -1,0 +1,16 @@
+/* Scoped to .resource-* elements so the site theme remains in control. */
+.resource-back { display:inline-block; margin: 0 0 1rem; font-size:.9rem; }
+.resource-hero { padding: clamp(1.25rem, 3vw, 2.5rem); border-radius:1.1rem; background:var(--bs-secondary-bg, #edf2ef); margin-bottom:2rem; }
+.resource-hero h2 { margin-top:0; border-bottom:0; }
+.resource-cta { display:inline-block; margin-top:.75rem; padding:.6rem 1rem; border:1px solid currentColor; border-radius:2rem; font-weight:650; text-decoration:none; }
+.resource-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr)); gap:1rem; margin:1.25rem 0 2rem; }
+.resource-card { border:1px solid var(--bs-border-color,#d6d9d8); border-radius:.9rem; padding:1.1rem 1.15rem; min-height:155px; transition:transform .15s ease, box-shadow .15s ease; }
+.resource-card:hover {transform:translateY(-2px); box-shadow:0 5px 20px rgba(0,0,0,.07);}
+.resource-card h3 {margin:.5rem 0; font-size:1.08rem;}
+.resource-card h3 a {text-decoration:none;}
+.resource-card p {font-size:.93rem; margin-bottom:0;}
+.resource-eyebrow {font-size:.73rem; letter-spacing:.07em; text-transform:uppercase; color:var(--bs-secondary-color,#69726f); font-weight:700;}
+.resource-intro,.resource-feature {border-left:4px solid var(--bs-primary,#446c60); padding:1rem 1.2rem; margin:1.2rem 0 1.8rem; background:var(--bs-tertiary-bg,#f5f6f5); border-radius:0 .6rem .6rem 0;}
+.resource-feature h3 {margin-top:0;}
+.resource-footer {padding-top:1rem; margin-top:2rem; border-top:1px solid var(--bs-border-color,#ddd); font-size:.9rem;}
+@media (prefers-reduced-motion:reduce){.resource-card{transition:none;}.resource-card:hover{transform:none;}}

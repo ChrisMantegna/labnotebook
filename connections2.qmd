@@ -1,0 +1,133 @@
+---
+title: "Mighty Mytilus"
+title-block-style: none
+page-layout: full
+css: connections.css
+toc: false
+---
+
+::: {.mighty-page}
+
+::: {.mm-hero}
+<p class="mm-eyebrow">A living research connections journal</p>
+
+# Mighty Mytilus
+
+<p class="mm-lede">Where mussel biology meets the bigger picture. Notes and connections across scientific literature, experimental research, coastal ecosystems, and the people working to understand and protect them.</p>
+:::
+
+<nav class="mm-topic-nav" aria-label="Explore Mighty Mytilus sections">
+  <a href="#featured">Featured connection</a>
+  <a href="#explore">Explore by perspective</a>
+  <a href="#archive">Recent connections</a>
+</nav>
+
+## Featured connection {#featured .mm-section-title}
+
+::: {.mm-feature}
+<p class="mm-type">Research synthesis · Featured idea</p>
+
+## What does a healthy mussel look like?
+
+Mytilus physiology connects molecular responses to an organism's ability to survive, grow, reproduce, and respond to environmental change. This is a place to trace those connections, without assuming that any single biomarker tells the whole story.
+
+**What we know:** Physiological endpoints capture different aspects of an organism's response.
+
+**Why it matters:** Translating cellular changes into ecological meaning requires attention to context, timescale, and organism-level function.
+
+**What I'm connecting it to:** My research on biomarker responses, DNA methylation, and the development of more integrative measures of mussel health.
+
+<p class="mm-meta">Working feature — replace or link to a full post when ready.</p>
+:::
+
+## Explore by perspective {#explore .mm-section-title}
+
+<p class="mm-section-intro">Four entry points into the same set of scientific questions. Use themes such as physiology, ecotoxicology, and epigenetics as cross-cutting tags.</p>
+
+::: {.mm-card-grid}
+
+::: {.mm-card}
+<p class="mm-type">Read & synthesize</p>
+
+### Literature connections
+
+Follow an idea across studies: where findings converge, where they conflict, and what questions remain open.
+
+<p class="mm-card-footer"><a href="#archive">Browse connections →</a></p>
+:::
+
+::: {.mm-card}
+<p class="mm-type">Experiment & reflect</p>
+
+### From the lab
+
+Connect experiments, methods, and dissertation chapters to the broader biological questions they help address.
+
+<p class="mm-card-footer"><a href="#archive">Browse connections →</a></p>
+:::
+
+::: {.mm-card}
+<p class="mm-type">Observe & contextualize</p>
+
+### Ecosystem dispatches
+
+Explore environmental changes, relevant news, and coastal monitoring through a mussel-centered lens.
+
+<p class="mm-card-footer"><a href="#archive">Browse connections →</a></p>
+:::
+
+::: {.mm-card}
+<p class="mm-type">Collaborate & share</p>
+
+### Community currents
+
+Highlight community-led projects, conservation initiatives, and participatory approaches to science.
+
+<p class="mm-card-footer"><a href="#archive">Browse connections →</a></p>
+:::
+
+:::
+
+## Recent connections {#archive .mm-section-title}
+
+<p class="mm-section-intro">A chronological index for individual posts. These examples are prompts, not published articles; replace them with your own links as you write.</p>
+
+::: {.mm-archive}
+
+::: {.mm-archive-item}
+<p class="mm-meta">POST IDEA</p>
+
+::: {}
+**From biomarker signals to physiological interpretation**
+
+<p>Literature connection · Physiology, ecotoxicology</p>
+:::
+:::
+
+::: {.mm-archive-item}
+<p class="mm-meta">POST IDEA</p>
+
+::: {}
+**What might tissue-specific methylation add to monitoring?**
+
+<p>From the lab · Epigenetics, monitoring</p>
+:::
+:::
+
+::: {.mm-archive-item}
+<p class="mm-meta">POST IDEA</p>
+
+::: {}
+**Connecting local coastal observations with collaborative science**
+
+<p>Community currents · Ecosystems, public science</p>
+:::
+:::
+
+:::
+
+::: {.mm-note}
+**Editorial principle:** Each new entry should make the connection explicit: *What do we know? Why does it matter? What am I connecting it to?* Add a citation or source link whenever you discuss a specific study, report, news item, or community project.
+:::
+
+:::

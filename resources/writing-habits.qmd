@@ -1,0 +1,54 @@
+---
+title: "Developing a Writing Habit"
+subtitle: "Build a sustainable practice of making ideas visible, revisiting them, and making progress."
+description: "Build a sustainable practice of making ideas visible, revisiting them, and making progress."
+category: "Writing"
+reading_time: "8 min"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    css: resources.css
+---
+
+[← All foundational skills](index.qmd) {.resource-back}
+
+::: {.resource-intro}
+**The essential idea:** Writing consistently is a way to think, not simply to produce polished text. A useful habit has a small starting step, a repeatable cue, and a way to capture what comes next.
+:::
+
+## Core practices
+
+### Separate drafting from editing
+
+Use a short exploratory draft to discover ideas. Reserve later sessions for reorganizing and refining them.
+
+### Choose a workable unit
+
+Try a 15-minute session, one paragraph, or one question answered. A daily word count can be helpful, but is not the only measure of progress.
+
+### Leave a restart note
+
+End each session by noting the next sentence, question, or source to consult.
+
+## A simple workflow
+
+Before writing, name one purpose: explore an idea, explain evidence, revise a claim, or edit for clarity. Set a manageable session length and stop by recording your next action.
+
+## In context
+
+::: {.callout-example}
+A student developing a shoreline restoration proposal spends 15 minutes listing what is known, what is uncertain, and which readers need the explanation. The session produces questions, not a perfect introduction.
+:::
+
+## Keep in mind
+
+A sustainable practice includes rest and flexibility. Missing a session is information about your schedule, not evidence that you cannot write.
+
+## Practice this skill
+
+Find the corresponding self-guided activity in [Practicing the Skills](practicing.qmd#writing-habits).
+
+::: {.resource-footer}
+[Browse all guides](index.qmd) · [Practice activities](practicing.qmd)
+:::

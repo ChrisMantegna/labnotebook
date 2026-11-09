@@ -1,0 +1,54 @@
+---
+title: "Reference Managers"
+subtitle: "Keep a verifiable, searchable record of sources and citations."
+description: "Keep a verifiable, searchable record of sources and citations."
+category: "Research"
+reading_time: "8 min"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    css: resources.css
+---
+
+[← All foundational skills](index.qmd) {.resource-back}
+
+::: {.resource-intro}
+**The essential idea:** A reference manager such as Zotero stores bibliographic records and can connect them to PDFs, notes, and drafts. It does not replace careful reading or citation verification.
+:::
+
+## Core practices
+
+### Capture the record
+
+Save a source with its DOI or stable URL and check author names, title, publication, date, and source type.
+
+### Organize for retrieval
+
+Use collections for projects and a small, consistent set of tags for themes or reading status.
+
+### Cite carefully
+
+Use your word processor’s citation integration, then verify that the output matches the required style and the underlying source.
+
+## A simple workflow
+
+Create a project collection; import one source from a scholarly database and another from a DOI; inspect both metadata records; attach or link the full text where permitted; add a note on why each source matters.
+
+## In context
+
+::: {.callout-example}
+A collaborative coastal monitoring project uses one shared collection for approved references and personal notes for interpretation, reducing duplicate downloads without conflating different researchers’ conclusions.
+:::
+
+## Keep in mind
+
+Back up or sync your library appropriately and respect copyright and access conditions when sharing PDFs.
+
+## Practice this skill
+
+Find the corresponding self-guided activity in [Practicing the Skills](practicing.qmd#reference-managers).
+
+::: {.resource-footer}
+[Browse all guides](index.qmd) · [Practice activities](practicing.qmd)
+:::

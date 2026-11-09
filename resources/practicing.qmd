@@ -1,0 +1,130 @@
+---
+title: "Practicing the Skills"
+subtitle: "Independent exercises and reusable working templates"
+description: "Self-directed practice across the foundational skills library."
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    css: resources.css
+---
+
+[← All foundational skills](index.qmd) {.resource-back}
+
+::: {.resource-intro}
+**How to use this module:** Each activity takes approximately 10–25 minutes, with longer optional extensions. Choose an activity that fits your current work; you do not need to complete them in order. Keep your outputs in a notebook or project folder so your decisions remain traceable.
+:::
+
+[Download the blank practice log](templates/practice-log.csv) · [Download the literature search log](templates/literature-search-log.csv) · [Download the synthesis matrix](templates/synthesis-matrix.csv)
+
+## A seven-session writing experiment {#writing-habits}
+
+**Connected guide:** [Developing a Writing Habit](writing-habits.qmd)
+
+**Task:** Choose a low-pressure writing unit (for example 10 minutes). Before each session, record your purpose; after, record what you produced and the next action. At the end, assess which cues and conditions worked.
+
+**Suggested record:** Session date | Purpose | Time or output | What helped | Next action.
+
+**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+
+---
+
+## Compare note-taking approaches {#note-taking}
+
+**Connected guide:** [Purposeful Note Taking](note-taking.qmd)
+
+**Task:** Read a short environmental article twice. On the first pass, use Cornell-style notes; on the second, annotate claims and limitations. Compare what each approach helped you notice.
+
+**Suggested record:** Source | Reading purpose | Factual notes | Questions | Interpretation.
+
+**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+
+---
+
+## Reverse-outline a draft {#outlining}
+
+**Connected guide:** [Outlining and Reverse Outlining](outlining.qmd)
+
+**Task:** Select 5–8 consecutive paragraphs from your own draft or an openly available article. Write a one-line job description for each. Mark repetition or gaps and propose a better order.
+
+**Suggested record:** Paragraph | Main job | Evidence used | Move / revise / keep.
+
+**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+
+---
+
+## Audit five citations {#reference-managers}
+
+**Connected guide:** [Reference Managers](reference-managers.qmd)
+
+**Task:** Import five sources into a reference manager. Verify each record against the source itself, group the items in a collection, and create a bibliography. Check the exported citations.
+
+**Suggested record:** Source identifier | Metadata verified? | Collection / tags | Correction made.
+
+**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+
+---
+
+## Run three documented search iterations {#literature-search}
+
+**Connected guide:** [Reproducible Literature Searching](literature-search.qmd)
+
+**Task:** State a focused question. Run three searches, changing just one element per iteration; log exact queries, platform, date, filters, and screening decisions.
+
+**Suggested record:** Date | Database | Exact query | Filters | Results | Change and reason.
+
+**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+
+---
+
+## Move from a matrix to a paragraph {#literature-synthesis}
+
+**Connected guide:** [Synthesizing Literature](literature-synthesis.qmd)
+
+**Task:** Read three sources addressing one shared question. Compare evidence and methods, identify a pattern and a limitation, then write one synthesis paragraph with citations.
+
+**Suggested record:** Source | Context | Method | Finding | Limitation | Connection.
+
+**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+
+---
+
+## Translate for two audiences {#science-communication}
+
+**Connected guide:** [Communicating with Non-Expert Audiences](science-communication.qmd)
+
+**Task:** Take one clearly supported scientific claim and rewrite it for a community meeting and for an interdisciplinary research team. Compare choices about vocabulary, emphasis, uncertainty, and format.
+
+**Suggested record:** Audience | Goal | Key message | Terms to explain | Evidence / uncertainty.
+
+**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+
+---
+
+## Feedback to revision plan {#peer-review}
+
+**Connected guide:** [Peer Review and Revision](peer-review.qmd)
+
+**Task:** Use a short draft. Ask a peer for one reader takeaway, two substantive comments, and one unanswered question. Convert feedback into prioritized revision actions.
+
+**Suggested record:** Feedback | Location | Priority | Planned action | Reason.
+
+**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+
+---
+
+## Trace a claim and audit tool use {#research-ethics}
+
+**Connected guide:** [Ethical Research, Writing, and AI Use](research-ethics.qmd)
+
+**Task:** Select one paragraph and one image from a draft. Verify provenance, permissions, citation, and accuracy. Record any assisted tools and whether the material could be shared safely.
+
+**Suggested record:** Item | Source / permission | Verification | Risk | Action.
+
+**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+
+---
+
+## Practice reflection
+
+After any activity, record three things: what you tried, what you noticed, and what you will do next. The goal is a usable process, not a perfect worksheet.

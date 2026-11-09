@@ -1,0 +1,9 @@
+---
+title: "The Mighty Mytilus"
+description: "B-side threads of connection amongst the mighty blue mussel complex"
+title-block-style: none
+page-layout: full
+css: connections.css
+toc: false
+---
+

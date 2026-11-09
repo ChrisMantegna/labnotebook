@@ -1,0 +1,54 @@
+---
+title: "Reproducible Literature Searching"
+subtitle: "Make the path from question to source selection understandable and repeatable."
+description: "Make the path from question to source selection understandable and repeatable."
+category: "Research"
+reading_time: "9 min"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    css: resources.css
+---
+
+[← All foundational skills](index.qmd) {.resource-back}
+
+::: {.resource-intro}
+**The essential idea:** A transparent literature search records where, when, and how you searched, as well as why sources were included or excluded. It supports defensible decisions even when the search evolves.
+:::
+
+## Core practices
+
+### Scope the question
+
+Identify topic, population or system, context, and type of evidence needed.
+
+### Construct search strings
+
+Combine synonyms with OR and different concepts with AND; check each database’s syntax.
+
+### Log your decisions
+
+Record search date, database, exact query, filters, results, changes, and screening reasons.
+
+## A simple workflow
+
+Run an initial search, record its exact settings and result count, inspect a manageable sample, then revise one search element at a time. Document the revision and why it was made.
+
+## In context
+
+::: {.callout-example}
+For a question about eelgrass restoration and sediment, a student searches two databases, logs the two different query syntaxes, and records why studies focused only on terrestrial grasses were excluded.
+:::
+
+## Keep in mind
+
+A documented search is not automatically a systematic review. Systematic and scoping reviews require additional design, reporting, and quality controls.
+
+## Practice this skill
+
+Find the corresponding self-guided activity in [Practicing the Skills](practicing.qmd#literature-search).
+
+::: {.resource-footer}
+[Browse all guides](index.qmd) · [Practice activities](practicing.qmd)
+:::

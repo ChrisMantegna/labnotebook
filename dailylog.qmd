@@ -1,5 +1,5 @@
 ---
-title: "Daily Overview"
+title: "Daily Working Log"
 page-layout: full
 title-block-banner: true
 format:

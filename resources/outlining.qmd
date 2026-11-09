@@ -1,0 +1,54 @@
+---
+title: "Outlining and Reverse Outlining"
+subtitle: "Plan ideas before drafting and diagnose structure after drafting."
+description: "Plan ideas before drafting and diagnose structure after drafting."
+category: "Writing"
+reading_time: "7 min"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    css: resources.css
+---
+
+[← All foundational skills](index.qmd) {.resource-back}
+
+::: {.resource-intro}
+**The essential idea:** An outline is a map of intended ideas; a reverse outline is a map of what an existing text actually does. Both reveal relationships between claims and evidence.
+:::
+
+## Core practices
+
+### Forward outline
+
+Write the central question or purpose, then arrange sections and the evidence each requires.
+
+### Reverse outline
+
+For each existing paragraph, write a one-sentence description of its main job.
+
+### Revise the architecture
+
+Move, combine, split, or remove sections when their order does not support the reader.
+
+## A simple workflow
+
+For a reverse outline, number paragraphs; write each paragraph’s point in the margin; inspect the sequence for repetition, gaps, unsupported transitions, and paragraphs doing too many jobs.
+
+## In context
+
+::: {.callout-example}
+A draft about coastal erosion describes land-use history in three separated paragraphs. A reverse outline makes the repetition visible and suggests consolidating the history before comparing management responses.
+:::
+
+## Keep in mind
+
+An outline is a flexible hypothesis about organization, not a rule that prevents new thinking.
+
+## Practice this skill
+
+Find the corresponding self-guided activity in [Practicing the Skills](practicing.qmd#outlining).
+
+::: {.resource-footer}
+[Browse all guides](index.qmd) · [Practice activities](practicing.qmd)
+:::

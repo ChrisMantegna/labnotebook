@@ -1,0 +1,54 @@
+---
+title: "Communicating with Non-Expert Audiences"
+subtitle: "Make complex environmental information useful without erasing nuance."
+description: "Make complex environmental information useful without erasing nuance."
+category: "Communication"
+reading_time: "8 min"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    css: resources.css
+---
+
+[← All foundational skills](index.qmd) {.resource-back}
+
+::: {.resource-intro}
+**The essential idea:** Good communication begins with a specific audience and purpose. Translation changes language, structure, and format while protecting the meaning and limits of the evidence.
+:::
+
+## Core practices
+
+### Know the audience
+
+Ask what readers already know, what matters to them, and what decisions they may face.
+
+### Lead with meaning
+
+State the central takeaway early, define necessary terms, and choose concrete examples.
+
+### Match the medium
+
+Use a report, brief, infographic, talk, blog, or other genre because it fits the audience and message.
+
+## A simple workflow
+
+Write a one-sentence takeaway, identify its intended audience, then replace or explain specialized terms. Check that the rewritten message retains the conditions and uncertainty of the original finding.
+
+## In context
+
+::: {.callout-example}
+For a community shoreline meeting, “hypoxia” becomes “low oxygen in the water,” followed by a concrete explanation of what that condition can mean for aquatic organisms.
+:::
+
+## Keep in mind
+
+Avoid deficit assumptions about community knowledge; consider accessibility, cultural context, values, and whose expertise is represented.
+
+## Practice this skill
+
+Find the corresponding self-guided activity in [Practicing the Skills](practicing.qmd#science-communication).
+
+::: {.resource-footer}
+[Browse all guides](index.qmd) · [Practice activities](practicing.qmd)
+:::

@@ -12,14 +12,38 @@ website:
     - about.qmd
     - text: The Mighty Mytilus
       menu:
+      - connections.qmd
       - mytilusprojects.qmd
       - nonmytilusprojects.qmd
     - text: Lab Notebook
       menu:
-      - connections.qmd
       - dailylog.qmd
       - weeklyupdates.qmd
       - weeklya.qmd
+    - text: "Resources"
+      menu:
+      - text: "Foundational Skills: Home"
+        href: resources/index.qmd
+      - text: "Writing Habits"
+        href: resources/writing-habits.qmd
+      - text: "Note Taking"
+        href: resources/note-taking.qmd
+      - text: "Outlining & Reverse Outlining"
+        href: resources/outlining.qmd
+      - text: "Reference Managers"
+        href: resources/reference-managers.qmd
+      - text: "Literature Searching"
+        href: resources/literature-search.qmd
+      - text: "Literature Synthesis"
+        href: resources/literature-synthesis.qmd
+      - text: "Non-Expert Communication"
+        href: resources/science-communication.qmd
+      - text: "Peer Review & Revision"
+        href: resources/peer-review.qmd
+      - text: "Ethics & AI"
+        href: resources/research-ethics.qmd
+      - text: "Practicing the Skills"
+        href: resources/practicing.qmd
 exclude:
   - daily_log/archive/
 format:

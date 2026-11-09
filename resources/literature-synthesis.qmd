@@ -1,0 +1,54 @@
+---
+title: "Synthesizing Literature"
+subtitle: "Turn a collection of sources into a connected account of what is known."
+description: "Turn a collection of sources into a connected account of what is known."
+category: "Research"
+reading_time: "9 min"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    css: resources.css
+---
+
+[← All foundational skills](index.qmd) {.resource-back}
+
+::: {.resource-intro}
+**The essential idea:** Synthesis compares evidence across sources to explain patterns, disagreements, limitations, and open questions. It is more than a sequence of article summaries.
+:::
+
+## Core practices
+
+### Build a comparison matrix
+
+Track questions, methods, settings, findings, limitations, and relevance in consistent columns.
+
+### Look across rows
+
+Group studies by their shared claim, divergent result, method, scale, or context.
+
+### Write from a claim
+
+Begin a paragraph with a supported cross-study observation, then use individual studies as evidence and explain any important differences.
+
+## A simple workflow
+
+Choose three related studies. Complete a matrix with comparable fields. Identify one agreement and one apparent disagreement, then investigate whether design, site, population, or measurement explains the difference.
+
+## In context
+
+::: {.callout-example}
+Three urban heat studies may report different magnitudes of cooling from tree cover. A synthesis asks which outcomes were measured and in which climates before concluding that the findings conflict.
+:::
+
+## Keep in mind
+
+Do not treat a small number of studies as field-wide consensus. Distinguish evidence, interpretation, and uncertainty.
+
+## Practice this skill
+
+Find the corresponding self-guided activity in [Practicing the Skills](practicing.qmd#literature-synthesis).
+
+::: {.resource-footer}
+[Browse all guides](index.qmd) · [Practice activities](practicing.qmd)
+:::

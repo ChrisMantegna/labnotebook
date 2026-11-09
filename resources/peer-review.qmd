@@ -1,0 +1,54 @@
+---
+title: "Peer Review and Revision"
+subtitle: "Give useful feedback and make intentional revision decisions."
+description: "Give useful feedback and make intentional revision decisions."
+category: "Communication"
+reading_time: "8 min"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    css: resources.css
+---
+
+[← All foundational skills](index.qmd) {.resource-back}
+
+::: {.resource-intro}
+**The essential idea:** Peer review is collaborative inquiry into whether a piece works for its purpose and audience. Revision rethinks meaning and structure; copyediting improves expression after the larger decisions are sound.
+:::
+
+## Core practices
+
+### Begin with the writer’s goal
+
+Ask what the writer wants readers to understand and what kind of feedback is most useful now.
+
+### Prioritize substantive issues
+
+Comment first on focus, evidence, organization, audience, and argument; address sentence-level details later.
+
+### Document choices
+
+Convert comments into a short revision plan and record why you accepted, adapted, or declined key suggestions.
+
+## A simple workflow
+
+Read once without marking. Summarize the main message in your own words. On a second pass, note one strength, one significant question, and one specific revision suggestion tied to a location in the draft.
+
+## In context
+
+::: {.callout-example}
+A reviewer notices that a restoration proposal introduces its recommendation before showing evidence. Instead of “reorganize,” they identify the relevant paragraphs and suggest an evidence-first sequence.
+:::
+
+## Keep in mind
+
+Feedback is information, not an instruction to obey every suggestion. The writer remains responsible for the final piece.
+
+## Practice this skill
+
+Find the corresponding self-guided activity in [Practicing the Skills](practicing.qmd#peer-review).
+
+::: {.resource-footer}
+[Browse all guides](index.qmd) · [Practice activities](practicing.qmd)
+:::

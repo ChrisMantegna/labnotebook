@@ -1,0 +1,54 @@
+---
+title: "Ethical Research, Writing, and AI Use"
+subtitle: "Build trustworthy practices for attribution, representation, and responsible tool use."
+description: "Build trustworthy practices for attribution, representation, and responsible tool use."
+category: "Practice"
+reading_time: "9 min"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    css: resources.css
+---
+
+[← All foundational skills](index.qmd) {.resource-back}
+
+::: {.resource-intro}
+**The essential idea:** Ethical communication requires accurate attribution, honest representation of evidence, care for collaborators and communities, and transparency about tools used in producing work.
+:::
+
+## Core practices
+
+### Attribute appropriately
+
+Cite sources for ideas, data, images, and language; distinguish your analysis from others’ work.
+
+### Respect people and materials
+
+Protect personal, sensitive, confidential, and community-controlled information; follow consent and data-use restrictions.
+
+### Use AI critically
+
+Verify all claims and citations independently; do not share restricted content with tools; disclose use when required by the relevant setting.
+
+## A simple workflow
+
+For a draft, audit each factual claim and visual: locate its source, check whether it is represented fairly, document permissions or attribution, and write a brief record of any AI assistance and independent checks.
+
+## In context
+
+::: {.callout-example}
+A student preparing a public map of ecological observations asks whether disclosing precise coordinates could expose sensitive species or culturally significant sites; they choose an appropriate geographic scale.
+:::
+
+## Keep in mind
+
+Course, journal, institutional, funder, and community protocols may differ. Follow the requirements of the specific project and seek guidance when obligations conflict.
+
+## Practice this skill
+
+Find the corresponding self-guided activity in [Practicing the Skills](practicing.qmd#research-ethics).
+
+::: {.resource-footer}
+[Browse all guides](index.qmd) · [Practice activities](practicing.qmd)
+:::

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/dailylog.html</loc>
-    <lastmod>2026-11-08T20:16:25.044Z</lastmod>
+    <lastmod>2026-11-08T22:09:54.726Z</lastmod>
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/projectlog.html</loc>
@@ -250,7 +250,7 @@
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_03/index.html</loc>
-    <lastmod>2026-11-08T19:47:03.606Z</lastmod>
+    <lastmod>2026-11-08T21:37:43.756Z</lastmod>
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_05/index.html</loc>
@@ -258,7 +258,7 @@
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_06/index.html</loc>
-    <lastmod>2026-11-08T20:19:43.177Z</lastmod>
+    <lastmod>2026-11-08T21:46:39.532Z</lastmod>
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/weeklya/2026_1101/index.html</loc>
@@ -274,11 +274,11 @@
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_02/index.html</loc>
-    <lastmod>2026-11-08T19:41:24.995Z</lastmod>
+    <lastmod>2026-11-08T21:33:09.246Z</lastmod>
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_04/index.html</loc>
-    <lastmod>2026-11-08T19:54:06.281Z</lastmod>
+    <lastmod>2026-11-08T21:42:09.187Z</lastmod>
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/mytilusprojects.html</loc>
@@ -286,6 +286,66 @@
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/nonmytilusprojects.html</loc>
-    <lastmod>2026-10-25T22:14:37.036Z</lastmod>
+    <lastmod>2026-11-08T22:11:06.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/resources/index.html</loc>
+    <lastmod>2026-11-09T05:40:08.115Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/resources/science-communication.html</loc>
+    <lastmod>2026-11-09T08:37:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/resources/literature-synthesis.html</loc>
+    <lastmod>2026-11-09T08:37:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/resources/reference-managers.html</loc>
+    <lastmod>2026-11-09T08:37:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/resources/research-ethics.html</loc>
+    <lastmod>2026-11-09T08:37:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/resources/writing-habits.html</loc>
+    <lastmod>2026-11-09T08:37:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/weeklya/2025_1023/index.html</loc>
+    <lastmod>2026-11-09T00:44:53.862Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/connections.html</loc>
+    <lastmod>2026-11-08T22:30:00.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/connections2.html</loc>
+    <lastmod>2026-11-08T22:25:35.222Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/resources/literature-search.html</loc>
+    <lastmod>2026-11-09T08:37:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/resources/note-taking.html</loc>
+    <lastmod>2026-11-09T08:37:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/resources/practicing.html</loc>
+    <lastmod>2026-11-09T08:37:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/resources/outlining.html</loc>
+    <lastmod>2026-11-09T08:37:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/resources/peer-review.html</loc>
+    <lastmod>2026-11-09T08:37:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_05/index.html</loc>
+    <lastmod>2026-11-08T21:44:50.346Z</lastmod>
   </url>
 </urlset>

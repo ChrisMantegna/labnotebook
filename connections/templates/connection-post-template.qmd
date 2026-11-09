@@ -1,0 +1,31 @@
+---
+title: "Replace with a specific, compelling title"
+date: today
+description: "A one- or two-sentence description for listing cards and search results."
+categories: ["Literature connections", "Physiology"]
+draft: true
+---
+
+## The connection in one sentence
+
+What idea connects the source, your scientific question, and the broader environment?
+
+## What we know
+
+Summarize the evidence, scope, and limitations. Link or cite the actual sources.
+
+## Why it matters
+
+Explain the biological or ecological significance to readers outside your subfield.
+
+## What I'm connecting it to
+
+Explain the relationship to your research, another paper, coastal news, or community work.
+
+## Open questions
+
+What remains uncertain, or what will you look for next?
+
+## Sources and further reading
+
+- Add original paper/report/community project links here.

@@ -1,0 +1,87 @@
+---
+title: "Foundational Skills"
+subtitle: "Field guides for reading, researching, writing, and communicating"
+format:
+  html:
+    toc: false
+    css: resources.css
+---
+
+::: {.resource-hero}
+## Learn a skill. Put it to work.
+
+These concise field guides offer practical starting points for independent learning, research, and public communication. Each guide provides a core idea, a few habits to adopt, and a worked example. The separate **Practicing the Skills** module provides exercises and templates.
+
+[Explore practice activities](practicing.qmd) {.resource-cta}
+:::
+
+## Browse the field guides
+
+:::: {.resource-grid}
+::: {.resource-card}
+<span class="resource-eyebrow">Writing</span>
+### [Developing a Writing Habit](writing-habits.qmd)
+
+Build a sustainable practice of making ideas visible, revisiting them, and making progress.
+:::
+::: {.resource-card}
+<span class="resource-eyebrow">Reading</span>
+### [Purposeful Note Taking](note-taking.qmd)
+
+Take notes that support understanding, inquiry, and future reuse.
+:::
+::: {.resource-card}
+<span class="resource-eyebrow">Writing</span>
+### [Outlining and Reverse Outlining](outlining.qmd)
+
+Plan ideas before drafting and diagnose structure after drafting.
+:::
+::: {.resource-card}
+<span class="resource-eyebrow">Research</span>
+### [Reference Managers](reference-managers.qmd)
+
+Keep a verifiable, searchable record of sources and citations.
+:::
+::: {.resource-card}
+<span class="resource-eyebrow">Research</span>
+### [Reproducible Literature Searching](literature-search.qmd)
+
+Make the path from question to source selection understandable and repeatable.
+:::
+::: {.resource-card}
+<span class="resource-eyebrow">Research</span>
+### [Synthesizing Literature](literature-synthesis.qmd)
+
+Turn a collection of sources into a connected account of what is known.
+:::
+::: {.resource-card}
+<span class="resource-eyebrow">Communication</span>
+### [Communicating with Non-Expert Audiences](science-communication.qmd)
+
+Make complex environmental information useful without erasing nuance.
+:::
+::: {.resource-card}
+<span class="resource-eyebrow">Communication</span>
+### [Peer Review and Revision](peer-review.qmd)
+
+Give useful feedback and make intentional revision decisions.
+:::
+::: {.resource-card}
+<span class="resource-eyebrow">Practice</span>
+### [Ethical Research, Writing, and AI Use](research-ethics.qmd)
+
+Build trustworthy practices for attribution, representation, and responsible tool use.
+:::
+::::
+
+## Apply what you learn
+
+::: {.resource-feature}
+### [Practicing the Skills](practicing.qmd)
+
+Nine exercises, reflection prompts, and blank templates provide a place to try techniques on your own work. Activities are independent: start anywhere.
+:::
+
+## Who these resources are for
+
+These guides are written for advanced undergraduate learners and early-career researchers working across environmental fields. They are not tied to a course, assignment, discipline, laboratory, or required software package.

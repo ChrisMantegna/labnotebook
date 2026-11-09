@@ -4377,7 +4377,7 @@
   {
     "objectID": "dailylog.html#daily-entries",
     "href": "dailylog.html#daily-entries",
-    "title": "Daily Overview",
+    "title": "Daily Working Log",
     "section": "Daily entries",
     "text": "Daily entries\n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nNov 8, 2026\n\n\nLab Notebook & Manuscript Writing\n\n\n \n\n\n\n\n\n\nNov 7, 2026\n\n\nManusript Focused\n\n\n \n\n\n\n\n\n\nNov 6, 2026\n\n\nNothing but Mytilus\n\n\n \n\n\n\n\n\n\nNov 5, 2026\n\n\nGrading and Environmental Data\n\n\n \n\n\n\n\n\n\nNov 4, 2026\n\n\nTeaching & Catching Up\n\n\n \n\n\n\n\n\n\nNov 3, 2026\n\n\nDegree Milestones & Meetings\n\n\n \n\n\n\n\n\n\nNov 2, 2026\n\n\nConference Crud\n\n\n \n\n\n\n\n\n\nNov 1, 2026\n\n\nNovember Set-up\n\n\n \n\n\n\n\n\n\nMay 1, 2026\n\n\n2026 May Daily Posts\n\n\n \n\n\n\n\n\n\nApr 1, 2026\n\n\n2026 April Daily Posts\n\n\n \n\n\n\n\n\n\nMar 1, 2026\n\n\n2026 March Daily Posts\n\n\n \n\n\n\n\n\n\nFeb 1, 2026\n\n\n2026 February Daily Posts\n\n\n \n\n\n\n\n\n\nJan 1, 2026\n\n\n2026 January Daily Posts\n\n\n \n\n\n\n\n\n\nDec 1, 2025\n\n\n2025 December Daily Posts\n\n\n \n\n\n\n\n\n\nNov 1, 2025\n\n\n2025 November Daily Posts\n\n\n \n\n\n\n\n\n\nOct 1, 2025\n\n\n2025 October Daily Posts\n\n\n \n\n\n\n\n\n\nSep 1, 2025\n\n\n2025 September Daily Posts\n\n\n \n\n\n\n\n\n\nNo matching items"
   },
@@ -4435,14 +4435,14 @@
     "href": "daily_log/2026_11_03/index.html",
     "title": "Degree Milestones & Meetings",
     "section": "",
-    "text": "Today I completed my scheduled meetings and those shifted from Monday, submitted my Plan of Study to my committee for confirmation, and created my reading plan for physiology. I completed that plan by inventorying what I have already read, curating what I believe is most relevant, and brain dumping what I know and what kinds of questions I believe I will need to be able to answer."
+    "text": "Completed Work\n\nI completed my scheduled meetings and those shifted from Monday\nSubmitted my Plan of Study to my committee for confirmation\n\n\n\nDegree Milestone Progress\n\nCreated my reading plan for physiology. I completed that plan by inventorying what I have already read, curated what I believe is most relevant, and brain dumping what I know and what kinds of questions I believe I will need to be able to answer.\nAs I continue reading, I spend about 20 minutes a week asking myself the following questions:\n\nWhat do I know?\nWhat do I want to know?\nHow can I answer the questions about what I want to know?\nWhat questions do I have that require help or context beyond my readings?\n\nThe benefit of this exercise is that I reinforce that I know more than I think I do and talking through this same sequence helps me identify knowledge gaps and departures from the main focus of my work."
   },
   {
     "objectID": "daily_log/2026_11_06/index.html",
     "href": "daily_log/2026_11_06/index.html",
     "title": "Nothing but Mytilus",
     "section": "",
-    "text": "Today was a purely reading and writing day. I reviewed my progress in the epigenetics readings and synthesis, added the remaining unread papers to my calendar reading schedule, and then really dug into Mytilus trossulus biology across scales."
+    "text": "Written Exam Prep\n\nToday was a purely reading and writing day.\nAfter reviewing my progress in the epigenetics readings and synthesis, I added the remaining unread papers to my Google calendar reading schedule, and then really dug into Mytilus trossulus biology across organizational scales."
   },
   {
     "objectID": "weeklya/2026_1101/index.html#goal-1-biometh-manuscript-to-steven-and-alison",
@@ -4512,14 +4512,14 @@
     "href": "daily_log/2026_11_02/index.html",
     "title": "Conference Crud",
     "section": "",
-    "text": "The perfect storm of no sleep, air travel and conference fun has left me with the crud; sick enough to make everything difficult, but not sick enough for anything but Tylenol and time to fix. I completed the 5-slide summary of my completed and proposed dissertation work for my GSR meeting tomorrow."
+    "text": "The perfect storm of no sleep, air travel and conference fun has left me with the crud; sick enough to make everything difficult, but not sick enough for anything but Tylenol and time to fix.\n\nDegree Milestone Progress\n\nI completed the 5-slide summary of my completed and proposed dissertation work for my GSR meeting tomorrow."
   },
   {
     "objectID": "daily_log/2026_11_04/index.html",
     "href": "daily_log/2026_11_04/index.html",
     "title": "Teaching & Catching Up",
     "section": "",
-    "text": "Today I held office hours, lectured in class, and returned to assessing my reading and synthesis assessment in preparation for writtens. I created a setup for aquatic toxicology that mirrors the setup for physiology. Additionally, I curated a list of content to discuss with Alison next week, created a mindmap of where toxicology, physiology and epigenetics overlap so that I am clear on my own knowledge gaps and where to ask questions."
+    "text": "Teaching\n\nI held office hours, class, and spent time preparing for the next major course module ### Written Exam Prep\nI continued building my reading and synthesis assessment.\nI created a setup for aquatic toxicology that mirrors the setup for physiology.\nAdditionally, I curated a list of content to discuss with Alison next week.\nWhile doing that, I realized that some of my spinning was with what to categorize papers and concepts that overlap, so I made my version of a mindmap (an unhinged list with a few boxes and a spatially stunted layout) where toxicology, physiology and epigenetics overlap so that I am clear on my own knowledge gaps and where to ask questions."
   },
   {
     "objectID": "mytilusprojects.html",
@@ -4531,8 +4531,540 @@
   {
     "objectID": "nonmytilusprojects.html",
     "href": "nonmytilusprojects.html",
-    "title": "All Other Projects",
+    "title": "Selected non-Mytilus Projects",
     "section": "",
     "text": "Lake Victoria\n\nCharacterizing the community composition of Lake Victoria, Kenya with eDNA\n\n\n\n\n\n\n\n\nYellow Island\n\nLong term nearshore monitoring program utilizing traditional and novel methods\n\n\n\n\n\n\n\n\nPresentations\n\nSelected presentations & workshops I've delivered over my graduate career"
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Foundational Skills",
+    "section": "",
+    "text": "These concise field guides offer practical starting points for independent learning, research, and public communication. Each guide provides a core idea, a few habits to adopt, and a worked example. The separate Practicing the Skills module provides exercises and templates.\nExplore practice activities {.resource-cta}"
+  },
+  {
+    "objectID": "resources/index.html#learn-a-skill.-put-it-to-work.",
+    "href": "resources/index.html#learn-a-skill.-put-it-to-work.",
+    "title": "Foundational Skills",
+    "section": "",
+    "text": "These concise field guides offer practical starting points for independent learning, research, and public communication. Each guide provides a core idea, a few habits to adopt, and a worked example. The separate Practicing the Skills module provides exercises and templates.\nExplore practice activities {.resource-cta}"
+  },
+  {
+    "objectID": "resources/index.html#browse-the-field-guides",
+    "href": "resources/index.html#browse-the-field-guides",
+    "title": "Foundational Skills",
+    "section": "Browse the field guides",
+    "text": "Browse the field guides\n\n\nWriting ### Developing a Writing Habit\nBuild a sustainable practice of making ideas visible, revisiting them, and making progress.\n\n\nReading ### Purposeful Note Taking\nTake notes that support understanding, inquiry, and future reuse.\n\n\nWriting ### Outlining and Reverse Outlining\nPlan ideas before drafting and diagnose structure after drafting.\n\n\nResearch ### Reference Managers\nKeep a verifiable, searchable record of sources and citations.\n\n\nResearch ### Reproducible Literature Searching\nMake the path from question to source selection understandable and repeatable.\n\n\nResearch ### Synthesizing Literature\nTurn a collection of sources into a connected account of what is known.\n\n\nCommunication ### Communicating with Non-Expert Audiences\nMake complex environmental information useful without erasing nuance.\n\n\nCommunication ### Peer Review and Revision\nGive useful feedback and make intentional revision decisions.\n\n\nPractice ### Ethical Research, Writing, and AI Use\nBuild trustworthy practices for attribution, representation, and responsible tool use."
+  },
+  {
+    "objectID": "resources/index.html#apply-what-you-learn",
+    "href": "resources/index.html#apply-what-you-learn",
+    "title": "Foundational Skills",
+    "section": "Apply what you learn",
+    "text": "Apply what you learn\n\nPracticing the Skills\nNine exercises, reflection prompts, and blank templates provide a place to try techniques on your own work. Activities are independent: start anywhere."
+  },
+  {
+    "objectID": "resources/index.html#who-these-resources-are-for",
+    "href": "resources/index.html#who-these-resources-are-for",
+    "title": "Foundational Skills",
+    "section": "Who these resources are for",
+    "text": "Who these resources are for\nThese guides are written for advanced undergraduate learners and early-career researchers working across environmental fields. They are not tied to a course, assignment, discipline, laboratory, or required software package."
+  },
+  {
+    "objectID": "resources/science-communication.html",
+    "href": "resources/science-communication.html",
+    "title": "Communicating with Non-Expert Audiences",
+    "section": "",
+    "text": "← All foundational skills {.resource-back}"
+  },
+  {
+    "objectID": "resources/science-communication.html#core-practices",
+    "href": "resources/science-communication.html#core-practices",
+    "title": "Communicating with Non-Expert Audiences",
+    "section": "Core practices",
+    "text": "Core practices\n\nKnow the audience\nAsk what readers already know, what matters to them, and what decisions they may face.\n\n\nLead with meaning\nState the central takeaway early, define necessary terms, and choose concrete examples.\n\n\nMatch the medium\nUse a report, brief, infographic, talk, blog, or other genre because it fits the audience and message."
+  },
+  {
+    "objectID": "resources/science-communication.html#a-simple-workflow",
+    "href": "resources/science-communication.html#a-simple-workflow",
+    "title": "Communicating with Non-Expert Audiences",
+    "section": "A simple workflow",
+    "text": "A simple workflow\nWrite a one-sentence takeaway, identify its intended audience, then replace or explain specialized terms. Check that the rewritten message retains the conditions and uncertainty of the original finding."
+  },
+  {
+    "objectID": "resources/science-communication.html#in-context",
+    "href": "resources/science-communication.html#in-context",
+    "title": "Communicating with Non-Expert Audiences",
+    "section": "In context",
+    "text": "In context\n\nFor a community shoreline meeting, “hypoxia” becomes “low oxygen in the water,” followed by a concrete explanation of what that condition can mean for aquatic organisms."
+  },
+  {
+    "objectID": "resources/science-communication.html#keep-in-mind",
+    "href": "resources/science-communication.html#keep-in-mind",
+    "title": "Communicating with Non-Expert Audiences",
+    "section": "Keep in mind",
+    "text": "Keep in mind\nAvoid deficit assumptions about community knowledge; consider accessibility, cultural context, values, and whose expertise is represented."
+  },
+  {
+    "objectID": "resources/science-communication.html#practice-this-skill",
+    "href": "resources/science-communication.html#practice-this-skill",
+    "title": "Communicating with Non-Expert Audiences",
+    "section": "Practice this skill",
+    "text": "Practice this skill\nFind the corresponding self-guided activity in Practicing the Skills.\n\nBrowse all guides · Practice activities"
+  },
+  {
+    "objectID": "resources/literature-synthesis.html",
+    "href": "resources/literature-synthesis.html",
+    "title": "Synthesizing Literature",
+    "section": "",
+    "text": "← All foundational skills {.resource-back}"
+  },
+  {
+    "objectID": "resources/literature-synthesis.html#core-practices",
+    "href": "resources/literature-synthesis.html#core-practices",
+    "title": "Synthesizing Literature",
+    "section": "Core practices",
+    "text": "Core practices\n\nBuild a comparison matrix\nTrack questions, methods, settings, findings, limitations, and relevance in consistent columns.\n\n\nLook across rows\nGroup studies by their shared claim, divergent result, method, scale, or context.\n\n\nWrite from a claim\nBegin a paragraph with a supported cross-study observation, then use individual studies as evidence and explain any important differences."
+  },
+  {
+    "objectID": "resources/literature-synthesis.html#a-simple-workflow",
+    "href": "resources/literature-synthesis.html#a-simple-workflow",
+    "title": "Synthesizing Literature",
+    "section": "A simple workflow",
+    "text": "A simple workflow\nChoose three related studies. Complete a matrix with comparable fields. Identify one agreement and one apparent disagreement, then investigate whether design, site, population, or measurement explains the difference."
+  },
+  {
+    "objectID": "resources/literature-synthesis.html#in-context",
+    "href": "resources/literature-synthesis.html#in-context",
+    "title": "Synthesizing Literature",
+    "section": "In context",
+    "text": "In context\n\nThree urban heat studies may report different magnitudes of cooling from tree cover. A synthesis asks which outcomes were measured and in which climates before concluding that the findings conflict."
+  },
+  {
+    "objectID": "resources/literature-synthesis.html#keep-in-mind",
+    "href": "resources/literature-synthesis.html#keep-in-mind",
+    "title": "Synthesizing Literature",
+    "section": "Keep in mind",
+    "text": "Keep in mind\nDo not treat a small number of studies as field-wide consensus. Distinguish evidence, interpretation, and uncertainty."
+  },
+  {
+    "objectID": "resources/literature-synthesis.html#practice-this-skill",
+    "href": "resources/literature-synthesis.html#practice-this-skill",
+    "title": "Synthesizing Literature",
+    "section": "Practice this skill",
+    "text": "Practice this skill\nFind the corresponding self-guided activity in Practicing the Skills.\n\nBrowse all guides · Practice activities"
+  },
+  {
+    "objectID": "resources/reference-managers.html",
+    "href": "resources/reference-managers.html",
+    "title": "Reference Managers",
+    "section": "",
+    "text": "← All foundational skills {.resource-back}"
+  },
+  {
+    "objectID": "resources/reference-managers.html#core-practices",
+    "href": "resources/reference-managers.html#core-practices",
+    "title": "Reference Managers",
+    "section": "Core practices",
+    "text": "Core practices\n\nCapture the record\nSave a source with its DOI or stable URL and check author names, title, publication, date, and source type.\n\n\nOrganize for retrieval\nUse collections for projects and a small, consistent set of tags for themes or reading status.\n\n\nCite carefully\nUse your word processor’s citation integration, then verify that the output matches the required style and the underlying source."
+  },
+  {
+    "objectID": "resources/reference-managers.html#a-simple-workflow",
+    "href": "resources/reference-managers.html#a-simple-workflow",
+    "title": "Reference Managers",
+    "section": "A simple workflow",
+    "text": "A simple workflow\nCreate a project collection; import one source from a scholarly database and another from a DOI; inspect both metadata records; attach or link the full text where permitted; add a note on why each source matters."
+  },
+  {
+    "objectID": "resources/reference-managers.html#in-context",
+    "href": "resources/reference-managers.html#in-context",
+    "title": "Reference Managers",
+    "section": "In context",
+    "text": "In context\n\nA collaborative coastal monitoring project uses one shared collection for approved references and personal notes for interpretation, reducing duplicate downloads without conflating different researchers’ conclusions."
+  },
+  {
+    "objectID": "resources/reference-managers.html#keep-in-mind",
+    "href": "resources/reference-managers.html#keep-in-mind",
+    "title": "Reference Managers",
+    "section": "Keep in mind",
+    "text": "Keep in mind\nBack up or sync your library appropriately and respect copyright and access conditions when sharing PDFs."
+  },
+  {
+    "objectID": "resources/reference-managers.html#practice-this-skill",
+    "href": "resources/reference-managers.html#practice-this-skill",
+    "title": "Reference Managers",
+    "section": "Practice this skill",
+    "text": "Practice this skill\nFind the corresponding self-guided activity in Practicing the Skills.\n\nBrowse all guides · Practice activities"
+  },
+  {
+    "objectID": "resources/research-ethics.html",
+    "href": "resources/research-ethics.html",
+    "title": "Ethical Research, Writing, and AI Use",
+    "section": "",
+    "text": "← All foundational skills {.resource-back}"
+  },
+  {
+    "objectID": "resources/research-ethics.html#core-practices",
+    "href": "resources/research-ethics.html#core-practices",
+    "title": "Ethical Research, Writing, and AI Use",
+    "section": "Core practices",
+    "text": "Core practices\n\nAttribute appropriately\nCite sources for ideas, data, images, and language; distinguish your analysis from others’ work.\n\n\nRespect people and materials\nProtect personal, sensitive, confidential, and community-controlled information; follow consent and data-use restrictions.\n\n\nUse AI critically\nVerify all claims and citations independently; do not share restricted content with tools; disclose use when required by the relevant setting."
+  },
+  {
+    "objectID": "resources/research-ethics.html#a-simple-workflow",
+    "href": "resources/research-ethics.html#a-simple-workflow",
+    "title": "Ethical Research, Writing, and AI Use",
+    "section": "A simple workflow",
+    "text": "A simple workflow\nFor a draft, audit each factual claim and visual: locate its source, check whether it is represented fairly, document permissions or attribution, and write a brief record of any AI assistance and independent checks."
+  },
+  {
+    "objectID": "resources/research-ethics.html#in-context",
+    "href": "resources/research-ethics.html#in-context",
+    "title": "Ethical Research, Writing, and AI Use",
+    "section": "In context",
+    "text": "In context\n\nA student preparing a public map of ecological observations asks whether disclosing precise coordinates could expose sensitive species or culturally significant sites; they choose an appropriate geographic scale."
+  },
+  {
+    "objectID": "resources/research-ethics.html#keep-in-mind",
+    "href": "resources/research-ethics.html#keep-in-mind",
+    "title": "Ethical Research, Writing, and AI Use",
+    "section": "Keep in mind",
+    "text": "Keep in mind\nCourse, journal, institutional, funder, and community protocols may differ. Follow the requirements of the specific project and seek guidance when obligations conflict."
+  },
+  {
+    "objectID": "resources/research-ethics.html#practice-this-skill",
+    "href": "resources/research-ethics.html#practice-this-skill",
+    "title": "Ethical Research, Writing, and AI Use",
+    "section": "Practice this skill",
+    "text": "Practice this skill\nFind the corresponding self-guided activity in Practicing the Skills.\n\nBrowse all guides · Practice activities"
+  },
+  {
+    "objectID": "resources/writing-habits.html",
+    "href": "resources/writing-habits.html",
+    "title": "Developing a Writing Habit",
+    "section": "",
+    "text": "← All foundational skills {.resource-back}"
+  },
+  {
+    "objectID": "resources/writing-habits.html#core-practices",
+    "href": "resources/writing-habits.html#core-practices",
+    "title": "Developing a Writing Habit",
+    "section": "Core practices",
+    "text": "Core practices\n\nSeparate drafting from editing\nUse a short exploratory draft to discover ideas. Reserve later sessions for reorganizing and refining them.\n\n\nChoose a workable unit\nTry a 15-minute session, one paragraph, or one question answered. A daily word count can be helpful, but is not the only measure of progress.\n\n\nLeave a restart note\nEnd each session by noting the next sentence, question, or source to consult."
+  },
+  {
+    "objectID": "resources/writing-habits.html#a-simple-workflow",
+    "href": "resources/writing-habits.html#a-simple-workflow",
+    "title": "Developing a Writing Habit",
+    "section": "A simple workflow",
+    "text": "A simple workflow\nBefore writing, name one purpose: explore an idea, explain evidence, revise a claim, or edit for clarity. Set a manageable session length and stop by recording your next action."
+  },
+  {
+    "objectID": "resources/writing-habits.html#in-context",
+    "href": "resources/writing-habits.html#in-context",
+    "title": "Developing a Writing Habit",
+    "section": "In context",
+    "text": "In context\n\nA student developing a shoreline restoration proposal spends 15 minutes listing what is known, what is uncertain, and which readers need the explanation. The session produces questions, not a perfect introduction."
+  },
+  {
+    "objectID": "resources/writing-habits.html#keep-in-mind",
+    "href": "resources/writing-habits.html#keep-in-mind",
+    "title": "Developing a Writing Habit",
+    "section": "Keep in mind",
+    "text": "Keep in mind\nA sustainable practice includes rest and flexibility. Missing a session is information about your schedule, not evidence that you cannot write."
+  },
+  {
+    "objectID": "resources/writing-habits.html#practice-this-skill",
+    "href": "resources/writing-habits.html#practice-this-skill",
+    "title": "Developing a Writing Habit",
+    "section": "Practice this skill",
+    "text": "Practice this skill\nFind the corresponding self-guided activity in Practicing the Skills.\n\nBrowse all guides · Practice activities"
+  },
+  {
+    "objectID": "weeklya/2025_1023/index.html",
+    "href": "weeklya/2025_1023/index.html",
+    "title": "Weekly Advisor Meeting",
+    "section": "",
+    "text": "Today’s Meeting is all about mussel reproduction, environmentally induced sex determinants and whatever is up with maternal and paternal mtDNA… cool stuff.\n\n\n\n\n\n\n\nHere are the questions/ chapters we were kicking around last meeting:\n\nThe overarching theme is: Exploring xenobiotic effects and consequences in mussels (to mussel physiology)\n\nChapters 1 & 2 (my MS work) remain the biomarker and DNA methylation work, respectively\n\nCan the mussels from the WDFW Nearshore Monitoring Program be used to assess the impact of contaminants on the mussels using traditional biomarkers?\nCan epigenetics (DNA Methylation) be used to identify novel biomarkers of PAH exposure in mussels?\n\nChapter 3 is lab testing the results of the Chapter 2\n\nUtilize ‘new’ mussels to test the outcomes of the mussels that show differential methylation from Chapter 2.\nShort- term (1-3 month) and longer term (3-6 month) lab- based exposure and response experiments designed to characterize the metabolic threshold of mussels exposed to known contaminant mixtures that mimic those in Puget Sound.\n\nClarify stress induced DMLs and their pathways. Do they align with the DMLs in Chapter 2?\n\n\nChapter 4 is a larger synthesis of the knowledge gained in Chapters 2 and 3.\n\nWhat are the contaminants inducing in mussels that can have broader population or ecosystem implications?\n\nThis can be assessed through a variety of field- based experiments\n\nOutplanting primed and non-primed mussels to assess response at sites with higher or lower contaminant burdens.\nReciprocal outplanting - mussels outplanted at high contaminant sites are moved to sites with low contamination and vice versa.\n\n\n\n\n\n\nLarger questions we’re kicking around to use as guides in creating the initial proposal (in addition to those above)\n\nDo epigenetics play a role in creating a phenotypic buffer that supports mussel acclimation/ resilience in the face of climate change drivers (xenobiotic exposure)?\nCan we define a tipping- point in mussel’s physiology and/ or their role in ecosystem health?\n\nIf there is a tipping point, to what degree does prior exposure create phenotypic response?\nWhat are the ecosystem- level consequences of foundational organisms reaching tipping points?\nWhat mechanisms control phenotypic response to prior exposures (aka epigenetic memory)?\n\nDo we actually have methylation described in mussels? What resources/ information is out there to support putting that picture together?\n\n\n\n\n\nNew (to me) Literature\nReviewing Mytilus trossulus genome literature, I came across a ton of cool papers that I want to discuss in the context of pollutant work, resilience, and hitting a knowledge gap that isn’t a chasm or a dead end. The 3 below are just a few that are interesting to me.\n\nPaper 1: Breton et al. (2006) Comparative analysis of gender-associated complete mtDNA genomes in marine mussels\nPaper 2: Breton et al. (2021) Did doubly uniparental inheritance (DUI) of mtDNA originate as a cytoplasmic male sterility (CMS) system?\nPaper 3: Chelyadina et al. (2022) Effects of heavy metals on sex inversion of the mussel Mytilus galloprovincialis in coastal zone of the Black Sea\n\n\n\nSome questions that are coming up\n\nDo we know why the paternal mtDNA is more degraded than the maternal mtDNA and found dominantly in male offspring?\nHave we seen anything to indicate the population ratios around PS during or after the marine heat waves?\nIs it ethical (assuming they live long enough) to expose mussels to contaminants (heavy metals maybe) induce spawning and sex change and see if there is a difference in methylation patterns?"
+  },
+  {
+    "objectID": "connections2.html#featured",
+    "href": "connections2.html#featured",
+    "title": "Mighty Mytilus",
+    "section": "Featured connection",
+    "text": "Featured connection\n\n\nResearch synthesis · Featured idea\n\n\nWhat does a healthy mussel look like?\nMytilus physiology connects molecular responses to an organism’s ability to survive, grow, reproduce, and respond to environmental change. This is a place to trace those connections, without assuming that any single biomarker tells the whole story.\nWhat we know: Physiological endpoints capture different aspects of an organism’s response.\nWhy it matters: Translating cellular changes into ecological meaning requires attention to context, timescale, and organism-level function.\nWhat I’m connecting it to: My research on biomarker responses, DNA methylation, and the development of more integrative measures of mussel health.\n\nWorking feature — replace or link to a full post when ready."
+  },
+  {
+    "objectID": "connections2.html#what-does-a-healthy-mussel-look-like",
+    "href": "connections2.html#what-does-a-healthy-mussel-look-like",
+    "title": "Mighty Mytilus",
+    "section": "What does a healthy mussel look like?",
+    "text": "What does a healthy mussel look like?\nMytilus physiology connects molecular responses to an organism’s ability to survive, grow, reproduce, and respond to environmental change. This is a place to trace those connections, without assuming that any single biomarker tells the whole story.\nWhat we know: Physiological endpoints capture different aspects of an organism’s response.\nWhy it matters: Translating cellular changes into ecological meaning requires attention to context, timescale, and organism-level function.\nWhat I’m connecting it to: My research on biomarker responses, DNA methylation, and the development of more integrative measures of mussel health.\n\nWorking feature — replace or link to a full post when ready."
+  },
+  {
+    "objectID": "connections2.html#explore",
+    "href": "connections2.html#explore",
+    "title": "Mighty Mytilus",
+    "section": "Explore by perspective",
+    "text": "Explore by perspective\n\nFour entry points into the same set of scientific questions. Use themes such as physiology, ecotoxicology, and epigenetics as cross-cutting tags.\n\n\n\n\nRead & synthesize\n\n\nLiterature connections\nFollow an idea across studies: where findings converge, where they conflict, and what questions remain open.\n\nBrowse connections →\n\n\n\n\n\nExperiment & reflect\n\n\nFrom the lab\nConnect experiments, methods, and dissertation chapters to the broader biological questions they help address.\n\nBrowse connections →\n\n\n\n\n\nObserve & contextualize\n\n\nEcosystem dispatches\nExplore environmental changes, relevant news, and coastal monitoring through a mussel-centered lens.\n\nBrowse connections →\n\n\n\n\n\nCollaborate & share\n\n\nCommunity currents\nHighlight community-led projects, conservation initiatives, and participatory approaches to science.\n\nBrowse connections →"
+  },
+  {
+    "objectID": "connections2.html#archive",
+    "href": "connections2.html#archive",
+    "title": "Mighty Mytilus",
+    "section": "Recent connections",
+    "text": "Recent connections\n\nA chronological index for individual posts. These examples are prompts, not published articles; replace them with your own links as you write.\n\n\n\n\nPOST IDEA\n\n\nFrom biomarker signals to physiological interpretation\n\nLiterature connection · Physiology, ecotoxicology\n\n\n\n\n\nPOST IDEA\n\n\nWhat might tissue-specific methylation add to monitoring?\n\nFrom the lab · Epigenetics, monitoring\n\n\n\n\n\nPOST IDEA\n\n\nConnecting local coastal observations with collaborative science\n\nCommunity currents · Ecosystems, public science\n\n\n\n\n\nEditorial principle: Each new entry should make the connection explicit: What do we know? Why does it matter? What am I connecting it to? Add a citation or source link whenever you discuss a specific study, report, news item, or community project."
+  },
+  {
+    "objectID": "resources/literature-search.html",
+    "href": "resources/literature-search.html",
+    "title": "Reproducible Literature Searching",
+    "section": "",
+    "text": "← All foundational skills {.resource-back}"
+  },
+  {
+    "objectID": "resources/literature-search.html#core-practices",
+    "href": "resources/literature-search.html#core-practices",
+    "title": "Reproducible Literature Searching",
+    "section": "Core practices",
+    "text": "Core practices\n\nScope the question\nIdentify topic, population or system, context, and type of evidence needed.\n\n\nConstruct search strings\nCombine synonyms with OR and different concepts with AND; check each database’s syntax.\n\n\nLog your decisions\nRecord search date, database, exact query, filters, results, changes, and screening reasons."
+  },
+  {
+    "objectID": "resources/literature-search.html#a-simple-workflow",
+    "href": "resources/literature-search.html#a-simple-workflow",
+    "title": "Reproducible Literature Searching",
+    "section": "A simple workflow",
+    "text": "A simple workflow\nRun an initial search, record its exact settings and result count, inspect a manageable sample, then revise one search element at a time. Document the revision and why it was made."
+  },
+  {
+    "objectID": "resources/literature-search.html#in-context",
+    "href": "resources/literature-search.html#in-context",
+    "title": "Reproducible Literature Searching",
+    "section": "In context",
+    "text": "In context\n\nFor a question about eelgrass restoration and sediment, a student searches two databases, logs the two different query syntaxes, and records why studies focused only on terrestrial grasses were excluded."
+  },
+  {
+    "objectID": "resources/literature-search.html#keep-in-mind",
+    "href": "resources/literature-search.html#keep-in-mind",
+    "title": "Reproducible Literature Searching",
+    "section": "Keep in mind",
+    "text": "Keep in mind\nA documented search is not automatically a systematic review. Systematic and scoping reviews require additional design, reporting, and quality controls."
+  },
+  {
+    "objectID": "resources/literature-search.html#practice-this-skill",
+    "href": "resources/literature-search.html#practice-this-skill",
+    "title": "Reproducible Literature Searching",
+    "section": "Practice this skill",
+    "text": "Practice this skill\nFind the corresponding self-guided activity in Practicing the Skills.\n\nBrowse all guides · Practice activities"
+  },
+  {
+    "objectID": "resources/note-taking.html",
+    "href": "resources/note-taking.html",
+    "title": "Purposeful Note Taking",
+    "section": "",
+    "text": "← All foundational skills {.resource-back}"
+  },
+  {
+    "objectID": "resources/note-taking.html#core-practices",
+    "href": "resources/note-taking.html#core-practices",
+    "title": "Purposeful Note Taking",
+    "section": "Core practices",
+    "text": "Core practices\n\nCapture comprehension\nUse Cornell-style notes or brief summaries to record key concepts and questions.\n\n\nRead critically\nAnnotate claims, supporting evidence, assumptions, and limitations instead of highlighting everything.\n\n\nConnect concepts\nUse a mind map or comparison table when relationships across ideas matter."
+  },
+  {
+    "objectID": "resources/note-taking.html#a-simple-workflow",
+    "href": "resources/note-taking.html#a-simple-workflow",
+    "title": "Purposeful Note Taking",
+    "section": "A simple workflow",
+    "text": "A simple workflow\nStart with a purpose statement. Skim once and write two kinds of questions: practical questions you can answer by returning to the material, and conceptual questions about implications or connections. Select a method that addresses your purpose."
+  },
+  {
+    "objectID": "resources/note-taking.html#in-context",
+    "href": "resources/note-taking.html#in-context",
+    "title": "Purposeful Note Taking",
+    "section": "In context",
+    "text": "In context\n\nWhile reading about urban stream temperatures, a student records the study design and major result in a source-notes column, then separately asks whether the result may differ between heavily shaded and open-channel sites."
+  },
+  {
+    "objectID": "resources/note-taking.html#keep-in-mind",
+    "href": "resources/note-taking.html#keep-in-mind",
+    "title": "Purposeful Note Taking",
+    "section": "Keep in mind",
+    "text": "Keep in mind\nMark direct quotations, paraphrases, and your own interpretations distinctly. Record source details and page numbers as you work."
+  },
+  {
+    "objectID": "resources/note-taking.html#practice-this-skill",
+    "href": "resources/note-taking.html#practice-this-skill",
+    "title": "Purposeful Note Taking",
+    "section": "Practice this skill",
+    "text": "Practice this skill\nFind the corresponding self-guided activity in Practicing the Skills.\n\nBrowse all guides · Practice activities"
+  },
+  {
+    "objectID": "resources/practicing.html",
+    "href": "resources/practicing.html",
+    "title": "Practicing the Skills",
+    "section": "",
+    "text": "← All foundational skills {.resource-back}\nDownload the blank practice log · Download the literature search log · Download the synthesis matrix"
+  },
+  {
+    "objectID": "resources/practicing.html#writing-habits",
+    "href": "resources/practicing.html#writing-habits",
+    "title": "Practicing the Skills",
+    "section": "A seven-session writing experiment",
+    "text": "A seven-session writing experiment\nConnected guide: Developing a Writing Habit\nTask: Choose a low-pressure writing unit (for example 10 minutes). Before each session, record your purpose; after, record what you produced and the next action. At the end, assess which cues and conditions worked.\nSuggested record: Session date | Purpose | Time or output | What helped | Next action.\nReflect: What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?"
+  },
+  {
+    "objectID": "resources/practicing.html#note-taking",
+    "href": "resources/practicing.html#note-taking",
+    "title": "Practicing the Skills",
+    "section": "Compare note-taking approaches",
+    "text": "Compare note-taking approaches\nConnected guide: Purposeful Note Taking\nTask: Read a short environmental article twice. On the first pass, use Cornell-style notes; on the second, annotate claims and limitations. Compare what each approach helped you notice.\nSuggested record: Source | Reading purpose | Factual notes | Questions | Interpretation.\nReflect: What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?"
+  },
+  {
+    "objectID": "resources/practicing.html#outlining",
+    "href": "resources/practicing.html#outlining",
+    "title": "Practicing the Skills",
+    "section": "Reverse-outline a draft",
+    "text": "Reverse-outline a draft\nConnected guide: Outlining and Reverse Outlining\nTask: Select 5–8 consecutive paragraphs from your own draft or an openly available article. Write a one-line job description for each. Mark repetition or gaps and propose a better order.\nSuggested record: Paragraph | Main job | Evidence used | Move / revise / keep.\nReflect: What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?"
+  },
+  {
+    "objectID": "resources/practicing.html#reference-managers",
+    "href": "resources/practicing.html#reference-managers",
+    "title": "Practicing the Skills",
+    "section": "Audit five citations",
+    "text": "Audit five citations\nConnected guide: Reference Managers\nTask: Import five sources into a reference manager. Verify each record against the source itself, group the items in a collection, and create a bibliography. Check the exported citations.\nSuggested record: Source identifier | Metadata verified? | Collection / tags | Correction made.\nReflect: What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?"
+  },
+  {
+    "objectID": "resources/practicing.html#literature-search",
+    "href": "resources/practicing.html#literature-search",
+    "title": "Practicing the Skills",
+    "section": "Run three documented search iterations",
+    "text": "Run three documented search iterations\nConnected guide: Reproducible Literature Searching\nTask: State a focused question. Run three searches, changing just one element per iteration; log exact queries, platform, date, filters, and screening decisions.\nSuggested record: Date | Database | Exact query | Filters | Results | Change and reason.\nReflect: What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?"
+  },
+  {
+    "objectID": "resources/practicing.html#literature-synthesis",
+    "href": "resources/practicing.html#literature-synthesis",
+    "title": "Practicing the Skills",
+    "section": "Move from a matrix to a paragraph",
+    "text": "Move from a matrix to a paragraph\nConnected guide: Synthesizing Literature\nTask: Read three sources addressing one shared question. Compare evidence and methods, identify a pattern and a limitation, then write one synthesis paragraph with citations.\nSuggested record: Source | Context | Method | Finding | Limitation | Connection.\nReflect: What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?"
+  },
+  {
+    "objectID": "resources/practicing.html#science-communication",
+    "href": "resources/practicing.html#science-communication",
+    "title": "Practicing the Skills",
+    "section": "Translate for two audiences",
+    "text": "Translate for two audiences\nConnected guide: Communicating with Non-Expert Audiences\nTask: Take one clearly supported scientific claim and rewrite it for a community meeting and for an interdisciplinary research team. Compare choices about vocabulary, emphasis, uncertainty, and format.\nSuggested record: Audience | Goal | Key message | Terms to explain | Evidence / uncertainty.\nReflect: What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?"
+  },
+  {
+    "objectID": "resources/practicing.html#peer-review",
+    "href": "resources/practicing.html#peer-review",
+    "title": "Practicing the Skills",
+    "section": "Feedback to revision plan",
+    "text": "Feedback to revision plan\nConnected guide: Peer Review and Revision\nTask: Use a short draft. Ask a peer for one reader takeaway, two substantive comments, and one unanswered question. Convert feedback into prioritized revision actions.\nSuggested record: Feedback | Location | Priority | Planned action | Reason.\nReflect: What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?"
+  },
+  {
+    "objectID": "resources/practicing.html#research-ethics",
+    "href": "resources/practicing.html#research-ethics",
+    "title": "Practicing the Skills",
+    "section": "Trace a claim and audit tool use",
+    "text": "Trace a claim and audit tool use\nConnected guide: Ethical Research, Writing, and AI Use\nTask: Select one paragraph and one image from a draft. Verify provenance, permissions, citation, and accuracy. Record any assisted tools and whether the material could be shared safely.\nSuggested record: Item | Source / permission | Verification | Risk | Action.\nReflect: What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?"
+  },
+  {
+    "objectID": "resources/practicing.html#practice-reflection",
+    "href": "resources/practicing.html#practice-reflection",
+    "title": "Practicing the Skills",
+    "section": "Practice reflection",
+    "text": "Practice reflection\nAfter any activity, record three things: what you tried, what you noticed, and what you will do next. The goal is a usable process, not a perfect worksheet."
+  },
+  {
+    "objectID": "resources/outlining.html",
+    "href": "resources/outlining.html",
+    "title": "Outlining and Reverse Outlining",
+    "section": "",
+    "text": "← All foundational skills {.resource-back}"
+  },
+  {
+    "objectID": "resources/outlining.html#core-practices",
+    "href": "resources/outlining.html#core-practices",
+    "title": "Outlining and Reverse Outlining",
+    "section": "Core practices",
+    "text": "Core practices\n\nForward outline\nWrite the central question or purpose, then arrange sections and the evidence each requires.\n\n\nReverse outline\nFor each existing paragraph, write a one-sentence description of its main job.\n\n\nRevise the architecture\nMove, combine, split, or remove sections when their order does not support the reader."
+  },
+  {
+    "objectID": "resources/outlining.html#a-simple-workflow",
+    "href": "resources/outlining.html#a-simple-workflow",
+    "title": "Outlining and Reverse Outlining",
+    "section": "A simple workflow",
+    "text": "A simple workflow\nFor a reverse outline, number paragraphs; write each paragraph’s point in the margin; inspect the sequence for repetition, gaps, unsupported transitions, and paragraphs doing too many jobs."
+  },
+  {
+    "objectID": "resources/outlining.html#in-context",
+    "href": "resources/outlining.html#in-context",
+    "title": "Outlining and Reverse Outlining",
+    "section": "In context",
+    "text": "In context\n\nA draft about coastal erosion describes land-use history in three separated paragraphs. A reverse outline makes the repetition visible and suggests consolidating the history before comparing management responses."
+  },
+  {
+    "objectID": "resources/outlining.html#keep-in-mind",
+    "href": "resources/outlining.html#keep-in-mind",
+    "title": "Outlining and Reverse Outlining",
+    "section": "Keep in mind",
+    "text": "Keep in mind\nAn outline is a flexible hypothesis about organization, not a rule that prevents new thinking."
+  },
+  {
+    "objectID": "resources/outlining.html#practice-this-skill",
+    "href": "resources/outlining.html#practice-this-skill",
+    "title": "Outlining and Reverse Outlining",
+    "section": "Practice this skill",
+    "text": "Practice this skill\nFind the corresponding self-guided activity in Practicing the Skills.\n\nBrowse all guides · Practice activities"
+  },
+  {
+    "objectID": "resources/peer-review.html",
+    "href": "resources/peer-review.html",
+    "title": "Peer Review and Revision",
+    "section": "",
+    "text": "← All foundational skills {.resource-back}"
+  },
+  {
+    "objectID": "resources/peer-review.html#core-practices",
+    "href": "resources/peer-review.html#core-practices",
+    "title": "Peer Review and Revision",
+    "section": "Core practices",
+    "text": "Core practices\n\nBegin with the writer’s goal\nAsk what the writer wants readers to understand and what kind of feedback is most useful now.\n\n\nPrioritize substantive issues\nComment first on focus, evidence, organization, audience, and argument; address sentence-level details later.\n\n\nDocument choices\nConvert comments into a short revision plan and record why you accepted, adapted, or declined key suggestions."
+  },
+  {
+    "objectID": "resources/peer-review.html#a-simple-workflow",
+    "href": "resources/peer-review.html#a-simple-workflow",
+    "title": "Peer Review and Revision",
+    "section": "A simple workflow",
+    "text": "A simple workflow\nRead once without marking. Summarize the main message in your own words. On a second pass, note one strength, one significant question, and one specific revision suggestion tied to a location in the draft."
+  },
+  {
+    "objectID": "resources/peer-review.html#in-context",
+    "href": "resources/peer-review.html#in-context",
+    "title": "Peer Review and Revision",
+    "section": "In context",
+    "text": "In context\n\nA reviewer notices that a restoration proposal introduces its recommendation before showing evidence. Instead of “reorganize,” they identify the relevant paragraphs and suggest an evidence-first sequence."
+  },
+  {
+    "objectID": "resources/peer-review.html#keep-in-mind",
+    "href": "resources/peer-review.html#keep-in-mind",
+    "title": "Peer Review and Revision",
+    "section": "Keep in mind",
+    "text": "Keep in mind\nFeedback is information, not an instruction to obey every suggestion. The writer remains responsible for the final piece."
+  },
+  {
+    "objectID": "resources/peer-review.html#practice-this-skill",
+    "href": "resources/peer-review.html#practice-this-skill",
+    "title": "Peer Review and Revision",
+    "section": "Practice this skill",
+    "text": "Practice this skill\nFind the corresponding self-guided activity in Practicing the Skills.\n\nBrowse all guides · Practice activities"
+  },
+  {
+    "objectID": "daily_log/2026_11_05/index.html",
+    "href": "daily_log/2026_11_05/index.html",
+    "title": "Grading and Environmental Data",
+    "section": "",
+    "text": "Teaching\n\nI dominantly caught up with grading and building rubrics for the upcoming major deliverables through the end of the quarter.\n\n\n\nEnvironmental Data Integration\n\nReviewed the environmental data I received from the large EIM downloads.\n\nFirst by adding the metadata to my running data dictionary. Part of the review is to determine if the additional data is supportive of my current project or if I need to put it to the side temporarily."
   }
 ]
