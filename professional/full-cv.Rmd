@@ -207,6 +207,52 @@ print_awards_grants <- function() {
   }))
   cat("\\end{cvhonors}\n")
 }
+
+
+# Compact layouts for list-style sections (no empty description bullets).
+# These read the same CSV fields and keep the date formatting applied above.
+print_organizations <- function() {
+  dat <- entry_data("Professional Organization", "Membership")
+  if (nrow(dat) == 0L) return(invisible(NULL))
+  for (i in seq_len(nrow(dat))) {
+    org <- dat$with[i]
+    acronym <- dat$what[i]
+    label <- if (nzchar(acronym)) paste0(org, " (", acronym, ")") else org
+    cat(sprintf(
+      "\\noindent\\begin{minipage}[t]{0.76\\textwidth}\\raggedright\\descriptionstyle{%s}\\end{minipage}\\hfill\\begin{minipage}[t]{0.22\\textwidth}\\raggedleft\\entrydatestyle{%s}\\end{minipage}\\par\\vspace{1.5mm}\n",
+      latex_escape(label), latex_escape(dat$when[i])
+    ))
+  }
+}
+
+print_skills <- function() {
+  dat <- entry_data("Skills & Certifications", "Skill")
+  if (nrow(dat) == 0L) return(invisible(NULL))
+  cat("\\begin{cvskills}\n")
+  for (i in seq_len(nrow(dat))) {
+    cat(sprintf(
+      "\\cvskill{%s}{%s}\n",
+      latex_escape(dat$where[i]), latex_escape(dat$what[i])
+    ))
+  }
+  cat("\\end{cvskills}\n")
+}
+
+print_certifications <- function() {
+  dat <- entry_data("Skills & Certifications", "Certification")
+  if (nrow(dat) == 0L) return(invisible(NULL))
+  for (i in seq_len(nrow(dat))) {
+    # Credential on first line; issuer and supplemental notes on second line.
+    metadata <- c(dat$with[i], dat$where[i])
+    metadata <- metadata[nzchar(trimws(metadata))]
+    # Escape each element before inserting the intentional LaTeX separator.
+    details <- paste(latex_escape(metadata), collapse = " \\textperiodcentered{} ")
+    cat(sprintf(
+      "\\noindent\\begin{minipage}[t]{0.76\\textwidth}\\raggedright\\entrytitlestyle{%s}\\par\\vspace{0.5mm}\\descriptionstyle{%s}\\end{minipage}\\hfill\\begin{minipage}[t]{0.22\\textwidth}\\raggedleft\\entrydatestyle{%s}\\end{minipage}\\par\\vspace{2mm}\n",
+      latex_escape(dat$what[i]), details, latex_escape(dat$when[i])
+    ))
+  }
+}
 ```
 
 # Education
@@ -317,22 +363,20 @@ print_detailed("Military Service")
 
 # Professional Organizations
 
-```{r professional-organizations}
-print_detailed("Professional Organization")
+```{r professional-organizations, results='asis'}
+print_organizations()
 ```
 
-# Skills & Certifications
+# Technical Skills
 
-## Skills
-
-```{r skills}
-print_detailed("Skills & Certifications", "Skill")
+```{r skills, results='asis'}
+print_skills()
 ```
 
-## Certifications
+# Certifications
 
-```{r certifications}
-print_detailed("Skills & Certifications", "Certification")
+```{r certifications, results='asis'}
+print_certifications()
 ```
 
 # Media
