@@ -1,0 +1,48 @@
+---
+title: "Reading, Grading & EDA"
+date: 2026-11-13
+categories: 
+writing_words: 704
+goal_progress:
+---
+
+Friday the 13th proved to be a productive reading day.
+
+- I started with a refresh- read of
+  [Ankley's](https://doi.org/10.1002/etc.34) (and 11 others in 2010) AOP
+  paper.
+
+- Moved to [Abdel-Shafy &
+  Mansour's](https://linkinghub.elsevier.com/retrieve/pii/S1110062114200237)
+  2016 PAH Review.
+
+- Closed with
+  [Damien's](https://linkinghub.elsevier.com/retrieve/pii/S0045653506006965)
+  (et al., 2007) Integrated Biomarker Response paper.
+
+  - My purpose was to get back into daily reading with concepts I am
+    already familiar with. This time, I'm reading for application to my
+    work, not only as background knowledge gain- which was the first
+    time I read each. Shifting purpose means a different critical
+    reading and note taking.
+
+I shifted to grading the Nature Essay Final Drafts
+
+- I'm about a third of the way through and will pick back up tomorrow to
+  have grades ready for release by Sunday night.
+
+Before returning to the biomarker re-analysis, I spent some time
+clarifying the methylation results I write previously.
+
+- I drafted the results fairly broadly, so I went back and asked myself
+  to answer these questions about each loci or each group (hypo- or
+  hyper- methylated):
+
+  - What is the molecular structure around the loci and what is the
+    potential biological outcome attached to it?
+
+  - If this specific loci is methylated in a gene, what do we think is
+    the biological result?
+
+- It feels pretty basic, but it was an on-ramp task to get back into the
+  thought and writing I need to complete to get this draft out.

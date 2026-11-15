@@ -29,7 +29,7 @@ Overview of daily work.
 
 ```{r}
 #| results: asis
-source("content/daily-dashboard.R")
+source("scripts/daily-dashboard-fixed.R")
 render_daily_dashboard()
 ```
 

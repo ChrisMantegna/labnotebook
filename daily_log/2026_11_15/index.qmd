@@ -1,0 +1,31 @@
+---
+title: "Lab Notebook & Manuscript Writing"
+date: 2026-11-08
+categories: 
+writing_words: 588
+goal_progress:
+---
+
+I started the day by fixing some of my lab notebook structure issues.
+
+- I split my [weekly
+  wrap-ups](https://chrismantegna.github.io/labnotebook/weeklyupdates.html)
+  from my [monthly goals & advisor
+  meetings](https://chrismantegna.github.io/labnotebook/weeklya.html).
+
+- Fixed my [daily log
+  page](https://chrismantegna.github.io/labnotebook/dailylog.html) to
+  include a goals and word count progress dashboard with the help of
+  ChatGPT.
+
+- I thought I got the feed part corrected re: loading in the lab
+  channel, but I have to go back and see why that stopped.
+
+I transitioned from my notebook to building the lecture and in-class
+exercises for Monday's class.
+
+- I refined a single- annotation peer review exercise for students to
+  work together in clarifying some common mistakes.
+
+- I started grading the annotated bibliography submissions that aren't
+  due until 11:59p tonight.

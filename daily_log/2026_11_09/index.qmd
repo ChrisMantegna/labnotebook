@@ -1,0 +1,44 @@
+---
+title: "Class and Biomarkers"
+date: 2026-11-09
+categories: 
+writing_words: 1467
+goal_progress:
+---
+
+302
+
+- Led class and held office hours
+
+- Updated participation grades and reviewed the in-class worksheets
+
+  - Based on the responses and the class-level feedback, I started
+    mocking up a FAQs page that goes into the lit review module.
+
+  - Continued grading the annotated bibliographies.
+
+Biomarkers
+
+- I ran the initial cleaned script for
+  [EDA](https://github.com/ChrisMantegna/mytilus_biomarkers) with
+  success, made notes on what I want to adjust and clearly documented
+  the result on the raw data. I didn't remove or transform any data for
+  this run.
+
+- The purpose of this is to clarify my outlier and/ or transformation
+  decisions that I did not clearly document the first time.
+
+- Next steps, replace all SOD values below the limit of quantification
+  (LOQ), and run it again. Any values below 0.025 will be replaced with
+  0.025 as standard practice is to replace with half of the test's
+  lowest limit; in this case, the Cayman SOD kit cannot reliably detect
+  below 0.05, and since all samples were run in duplicate with protein
+  quantification before assay prep, it is safe to determine that any
+  activity below the LOQ is not technical in source, but biological in
+  response.
+
+![Heavy skews in measured metrics makes for interesting analyses
+decisions.](img/raw_histograms.png){fig-align="left" width="1000"}
+
+![Q-Q Plots confirm what the histograms (above) hint at...
+strongly.](img/raw_qq_plots.png){fig-align="left" width="1000"}

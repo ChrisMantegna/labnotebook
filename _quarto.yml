@@ -20,7 +20,7 @@ website:
       - dailylog.qmd
       - weeklyupdates.qmd
       - weeklya.qmd
-    - text: "Resources"
+    - text: "Study Resources"
       menu:
       - text: "Foundational Skills: Home"
         href: resources/index.qmd

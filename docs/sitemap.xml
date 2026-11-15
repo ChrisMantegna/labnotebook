@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/dailylog.html</loc>
-    <lastmod>2026-11-08T22:09:54.726Z</lastmod>
+    <lastmod>2026-11-15T20:06:00.264Z</lastmod>
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/projectlog.html</loc>
@@ -30,7 +30,7 @@
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/index.html</loc>
-    <lastmod>2026-10-25T17:02:54.905Z</lastmod>
+    <lastmod>2026-11-15T00:01:29.433Z</lastmod>
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/about.html</loc>
@@ -246,7 +246,7 @@
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_08/index.html</loc>
-    <lastmod>2026-11-08T21:28:48.287Z</lastmod>
+    <lastmod>2026-11-15T20:23:53.797Z</lastmod>
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_03/index.html</loc>
@@ -282,11 +282,11 @@
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/mytilusprojects.html</loc>
-    <lastmod>2026-10-26T00:17:31.759Z</lastmod>
+    <lastmod>2026-11-15T00:02:04.032Z</lastmod>
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/nonmytilusprojects.html</loc>
-    <lastmod>2026-11-08T22:11:06.769Z</lastmod>
+    <lastmod>2026-11-15T00:02:01.937Z</lastmod>
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/resources/index.html</loc>
@@ -330,7 +330,7 @@
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/resources/note-taking.html</loc>
-    <lastmod>2026-11-14T23:53:23.761Z</lastmod>
+    <lastmod>2026-11-15T00:01:39.364Z</lastmod>
   </url>
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/resources/practicing.html</loc>
@@ -347,5 +347,13 @@
   <url>
     <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_05/index.html</loc>
     <lastmod>2026-11-08T21:44:50.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/daily_log/2026_11_09/index.html</loc>
+    <lastmod>2026-11-15T20:46:15.695Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chrismantegna.github.io/labnotebook/professional/full_cv.html</loc>
+    <lastmod>2026-11-15T03:00:16.702Z</lastmod>
   </url>
 </urlset>
