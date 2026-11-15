@@ -3,7 +3,7 @@ title: "  "
 format:
   html: 
     theme: pulse
-    css: styles.css
+    css: styles/styles.css
     page-layout: full
 ---
 

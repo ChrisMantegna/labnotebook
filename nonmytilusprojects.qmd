@@ -7,7 +7,7 @@ execute:
   warning: false
 format:
   html: 
-    css: projects.css
+    css: styles/projects.css
 ---
 
 ```{r projects}

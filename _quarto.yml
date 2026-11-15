@@ -49,7 +49,7 @@ exclude:
 format:
   html:
     theme: pulse
-    css: styles.css
+    css: styles/styles.css
     toc: false
 
 editor: source

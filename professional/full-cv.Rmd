@@ -1,0 +1,307 @@
+---
+name: Chris
+surname: Mantegna
+position: "PhD Student, Aquatic & Fishery Sciences"
+address: "University of Washington, Seattle, WA"
+email: "mantegna@uw.edu"
+phone: "(206) 823-4242"
+date: "`r format(Sys.Date(), '%B %Y')`"
+# UW Brand palette: Spirit Purple = 4b2e83; Husky Gold = b7a57a / e8e3d3 web-only.
+# The vitae awesomecv template uses headcolor for section/header highlights.
+headcolor: "4b2e83"
+# Body style overrides: increase CV body text by ~2pt while keeping the top header unchanged.
+header-includes:
+  - |
+    \AtBeginDocument{%
+      % Keep the name/contact header unchanged; adjust only section/body/footer styles.
+      % Use AwesomeCV's actual section macro (\sectionstyle), not \sectionstyleface.
+      % The \providecommand lines make these overrides safer across vitae/AwesomeCV versions.
+      \providecommand*{\sectionstyle}[1]{#1}
+      \providecommand*{\subsectionstyle}[1]{#1}
+      \providecommand*{\paragraphstyle}{}
+      \providecommand*{\entrytitlestyle}[1]{#1}
+      \providecommand*{\entrypositionstyle}[1]{#1}
+      \providecommand*{\entrydatestyle}[1]{#1}
+      \providecommand*{\entrylocationstyle}[1]{#1}
+      \providecommand*{\descriptionstyle}[1]{#1}
+      \providecommand*{\subentrytitlestyle}[1]{#1}
+      \providecommand*{\subentrypositionstyle}[1]{#1}
+      \providecommand*{\subentrydatestyle}[1]{#1}
+      \providecommand*{\subentrylocationstyle}[1]{#1}
+      \providecommand*{\subdescriptionstyle}[1]{#1}
+      \providecommand*{\honortitlestyle}[1]{#1}
+      \providecommand*{\honorpositionstyle}[1]{#1}
+      \providecommand*{\honordatestyle}[1]{#1}
+      \providecommand*{\honorlocationstyle}[1]{#1}
+      \providecommand*{\skilltypestyle}[1]{#1}
+      \providecommand*{\skillsetstyle}[1]{#1}
+      \providecommand*{\footerstyle}[1]{#1}
+      \providecommand{\acvSectionTopSkip}{3mm}
+      \providecommand{\acvSectionContentTopSkip}{2.5mm}
+      \renewcommand*{\sectionstyle}[1]{{\fontsize{18pt}{1em}\bodyfont\bfseries\color{text} #1}}
+      \renewcommand*{\subsectionstyle}[1]{{\fontsize{14pt}{1em}\bodyfont\scshape\textcolor{text}{#1}}}
+      \renewcommand*{\paragraphstyle}{\fontsize{11pt}{1.1em}\bodyfontlight\upshape\color{text}}
+      \renewcommand*{\entrytitlestyle}[1]{{\fontsize{12pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+      \renewcommand*{\entrypositionstyle}[1]{{\fontsize{10pt}{1em}\bodyfont\scshape\color{graytext} #1}}
+      \renewcommand*{\entrydatestyle}[1]{{\fontsize{10pt}{1em}\bodyfontlight\slshape\color{graytext} #1}}
+      \renewcommand*{\entrylocationstyle}[1]{{\fontsize{11pt}{1em}\bodyfontlight\slshape\color{awesome} #1}}
+      \renewcommand*{\descriptionstyle}[1]{{\fontsize{11pt}{1.15em}\bodyfontlight\upshape\color{text} #1}}
+      \renewcommand*{\subentrytitlestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\mdseries\color{graytext} #1}}
+      \renewcommand*{\subentrypositionstyle}[1]{{\fontsize{9pt}{1em}\bodyfont\scshape\color{graytext} #1}}
+      \renewcommand*{\subentrydatestyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\slshape\color{graytext} #1}}
+      \renewcommand*{\subentrylocationstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\slshape\color{awesome} #1}}
+      \renewcommand*{\subdescriptionstyle}[1]{{\fontsize{10pt}{1em}\bodyfontlight\upshape\color{text} #1}}
+      \renewcommand*{\honortitlestyle}[1]{{\fontsize{11pt}{1em}\bodyfont\color{graytext} #1}}
+      \renewcommand*{\honorpositionstyle}[1]{{\fontsize{11pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+      \renewcommand*{\honordatestyle}[1]{{\fontsize{11pt}{1em}\bodyfont\color{graytext} #1}}
+      \renewcommand*{\honorlocationstyle}[1]{{\fontsize{11pt}{1em}\bodyfontlight\slshape\color{awesome} #1}}
+      \renewcommand*{\skilltypestyle}[1]{{\fontsize{12pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+      \renewcommand*{\skillsetstyle}[1]{{\fontsize{11pt}{1em}\bodyfontlight\color{text} #1}}
+      \renewcommand*{\footerstyle}[1]{{\fontsize{10pt}{1em}\footerfont\scshape\color{lighttext} #1}}
+      % Slightly reduce vertical spacing around sections and between entries.
+      \renewcommand{\acvSectionTopSkip}{2mm}
+      \renewcommand{\acvSectionContentTopSkip}{1.2mm}
+      \setlength{\parskip}{0pt}
+      \setlist[itemize]{topsep=0pt,itemsep=0pt,parsep=0pt,partopsep=0pt}
+      \patchcmd{\cventry}{\vspace{-2.0mm}}{\vspace{-2.8mm}}{}{}
+      \patchcmd{\cvitems}{\vspace{-4.0mm}}{\vspace{-4.8mm}}{}{}
+      \patchcmd{\endcvitems}{\vspace{1.0mm}}{\vspace{0.2mm}}{}{}
+      % Custom award layout: year left, award + organization stacked, amount/notes right.
+      \newcommand*{\cvaward}[4]{%
+        \honordatestyle{#1} &%
+        \parbox[t]{\dimexpr\textwidth-4.0cm\relax}{\honorpositionstyle{#2}\\[-0.15em]\honortitlestyle{#3}} &%
+        \honorlocationstyle{#4} \\
+      }
+    }
+output:
+  vitae::awesomecv:
+    latex_engine: xelatex
+    page_total: true
+---
+
+```{r setup, include=FALSE}
+# To render this CV locally:
+# install.packages(c("vitae", "rmarkdown", "tinytex"))
+# tinytex::install_tinytex() # only needed if you do not already have LaTeX installed
+# From the repository root: rmarkdown::render("professional/full-cv.Rmd")
+
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+library(vitae)
+
+# Allow rendering from either the repository root or the professional/ folder.
+cv_paths <- c("content/complete_cv.csv", "../content/complete_cv.csv")
+cv_path <- cv_paths[file.exists(cv_paths)][1]
+if (is.na(cv_path)) {
+  stop("Cannot locate content/complete_cv.csv. Check the repository layout.")
+}
+cv <- read.csv(cv_path, stringsAsFactors = FALSE, check.names = FALSE)
+required_columns <- c("section", "subsection", "what", "when", "with", "where", "why")
+if (!all(required_columns %in% names(cv))) {
+  stop("CV CSV is missing required columns: ",
+       paste(setdiff(required_columns, names(cv)), collapse = ", "))
+}
+cv[is.na(cv)] <- ""
+cv$section <- trimws(cv$section)  # CSV has a trailing space in 'Professional Organization '
+
+
+entry_data <- function(section_name, subsection_name = NULL) {
+  dat <- cv[cv$section == section_name, , drop = FALSE]
+  if (!is.null(subsection_name)) {
+    dat <- dat[dat$subsection == subsection_name, , drop = FALSE]
+  }
+  dat
+}
+
+print_detailed <- function(section_name, subsection_name = NULL) {
+  dat <- entry_data(section_name, subsection_name)
+  detailed_entries(dat, what = what, when = when, with = with, where = where, why = why)
+}
+
+print_brief <- function(section_name, subsection_name = NULL) {
+  dat <- entry_data(section_name, subsection_name)
+  brief_entries(dat, what = what, when = when, with = with)
+}
+
+latex_escape <- function(x) {
+  x <- as.character(x)
+  x[is.na(x)] <- ""
+
+  # Local LaTeX escaping avoids depending on xfun::escape_latex(),
+  # which is not exported in some installed xfun versions.
+  replacements <- c(
+    "\\" = "\\textbackslash{}",
+    "&"  = "\\&",
+    "%"  = "\\%",
+    "$"  = "\\$",
+    "#"  = "\\#",
+    "_"  = "\\_",
+    "{"  = "\\{",
+    "}"  = "\\}",
+    "~"  = "\\textasciitilde{}",
+    "^"  = "\\textasciicircum{}"
+  )
+
+  vapply(x, function(value) {
+    if (!nzchar(value)) return("")
+    chars <- strsplit(value, "", fixed = TRUE)[[1]]
+    paste0(ifelse(chars %in% names(replacements), replacements[chars], chars), collapse = "")
+  }, character(1), USE.NAMES = FALSE)
+}
+
+print_awards_grants <- function() {
+  dat <- entry_data("Awards & Grants")
+  dat <- dat[dat$what != "", , drop = FALSE]
+
+  cat("\\begin{cvhonors}\n")
+  invisible(apply(dat, 1, function(row) {
+    cat(sprintf(
+      "\\cvaward{%s}{%s}{%s}{%s}\n",
+      latex_escape(row[["when"]]),   # year
+      latex_escape(row[["what"]]),   # award/grant name
+      latex_escape(row[["with"]]),   # organization
+      latex_escape(row[["where"]])   # award amount or note
+    ))
+  }))
+  cat("\\end{cvhonors}\n")
+}
+```
+
+# Education
+
+```{r education}
+print_detailed("Education")
+```
+
+# Awards & Grants
+
+*Fellowships include tuition, stipend, and benefits.*
+
+```{r awards-grants, results='asis'}
+print_awards_grants()
+```
+
+# Publications
+
+## Peer reviewed
+
+```{r publications-peer-reviewed}
+print_detailed("Publications", "Peer reviewed")
+```
+
+## Non-peer reviewed
+
+```{r publications-non-peer-reviewed}
+print_detailed("Publications", "Non-peer reviewed")
+```
+
+# Teaching Experience
+
+## Lead instruction
+
+```{r teaching-lead-instruction}
+print_detailed("Teaching Experience", "Lead instruction")
+```
+
+## Team teaching
+
+```{r teaching-team-teaching}
+print_detailed("Teaching Experience", "Team teaching")
+```
+
+# Workshops Developed & Delivered
+
+```{r workshops-developed-delivered}
+print_detailed("Workshops Developed & Delivered")
+```
+
+# Invited Lectures
+
+```{r invited-lectures}
+print_detailed("Invited Lectures")
+```
+
+# Conference Presentations
+
+*Note: an asterisk indicates an undergraduate mentee.*
+
+```{r conference-presentations}
+print_detailed("Conference Presentations")
+```
+
+# Panels
+
+```{r panels}
+print_detailed("Panels")
+```
+
+# Leadership & Outreach
+
+```{r leadership-outreach}
+print_detailed("Leadership & Outreach")
+```
+
+# Professional Development
+
+## Training
+
+```{r professional-development-training}
+print_detailed("Professional Development", "Training")
+```
+
+## Conferences
+
+```{r professional-development-conferences}
+print_detailed("Professional Development", "Conferences")
+```
+
+## Workshops / Working Groups
+
+```{r professional-development-workshops}
+print_detailed("Professional Development", "Workshops/Working Groups")
+```
+
+## Courses
+
+```{r professional-development-courses}
+print_detailed("Professional Development", "Courses")
+```
+
+# Military Service
+
+```{r military-service}
+print_detailed("Military Service")
+```
+
+# Professional Organizations
+
+```{r professional-organizations}
+print_detailed("Professional Organization")
+```
+
+# Skills & Certifications
+
+## Skills
+
+```{r skills}
+print_detailed("Skills & Certifications", "Skill")
+```
+
+## Certifications
+
+```{r certifications}
+print_detailed("Skills & Certifications", "Certification")
+```
+
+# Media
+
+## Research showcase
+
+```{r media-research}
+print_detailed("Media", "Research Showcase")
+```
+
+## Project showcase
+
+```{r media-project}
+print_detailed("Media", "Project Showcase")
+```
