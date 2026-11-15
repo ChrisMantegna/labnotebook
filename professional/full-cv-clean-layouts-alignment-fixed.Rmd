@@ -113,10 +113,14 @@ if (!all(required_columns %in% names(cv))) {
   stop("CV CSV is missing required columns: ",
        paste(setdiff(required_columns, names(cv)), collapse = ", "))
 }
+# The revised CSV includes three unnamed, empty trailing columns.
+# Select only the seven columns used by the CV renderers; otherwise vitae's
+# internal tibble conversion fails because blank column names are not allowed.
+cv <- cv[, required_columns, drop = FALSE]
 cv[is.na(cv)] <- ""
 cv$section <- trimws(cv$section)  # CSV has a trailing space in 'Professional Organization '
 cv$subsection <- trimws(cv$subsection)
-# The updated CSV has an empty trailing column; it is ignored by the renderers.
+# The CSV trailing blank columns have been removed from the in-memory data.
 
 # Normalize DATE DISPLAY ONLY; do not rewrite the source CSV.
 # Known month names: Jan 2026, January 2026, Jan-26, and 11/2026 -> Jan 2026 etc.
@@ -307,50 +311,87 @@ print_awards_grants <- function() {
 }
 
 
-# Compact layouts for list-style sections (no empty description bullets).
-# These read the same CSV fields and keep the date formatting applied above.
+# Compact, left-aligned layouts for list-style sections.
+# Use ordinary LaTeX tabular cells instead of minipages or AwesomeCV's
+# cvskills. This keeps the left column at the actual text margin and
+# consistently holds the date in a right-hand column.
+# Each function prints one LaTeX table with no extra blank paragraphs.
+# Keep \raggedright and \raggedleft scoped within braces: these commands
+# redefine the LaTeX row-break macro (\\), causing an alignment error
+# if they remain active when the outer tabular row ends.
 print_organizations <- function() {
   dat <- entry_data("Professional Organization", "Membership")
-  if (nrow(dat) == 0L) return(invisible(NULL))
+  if (!nrow(dat)) return(invisible(NULL))
+  cat("\\noindent\\begin{tabular}{@{}p{0.72\\linewidth}@{\\hspace{2mm}}p{0.24\\linewidth}@{}}\n")
   for (i in seq_len(nrow(dat))) {
-    org <- dat$with[i]
-    acronym <- dat$what[i]
+    org <- trimws(dat$with[i])
+    acronym <- trimws(dat$what[i])
     label <- if (nzchar(acronym)) paste0(org, " (", acronym, ")") else org
     cat(sprintf(
-      "\\noindent\\begin{minipage}[t]{0.76\\textwidth}\\raggedright\\descriptionstyle{%s}\\end{minipage}\\hfill\\begin{minipage}[t]{0.22\\textwidth}\\raggedleft\\entrydatestyle{%s}\\end{minipage}\\par\\vspace{1.5mm}\n",
+      "{\\raggedright\\descriptionstyle{%s}\\par} & {\\raggedleft\\entrydatestyle{%s}\\par} \\\\[1.5mm]\n",
       latex_escape(label), latex_escape(dat$when[i])
     ))
   }
+  cat("\\end{tabular}\n")
 }
 
 print_skills <- function() {
   dat <- entry_data("Skills & Certifications", "Skill")
-  if (nrow(dat) == 0L) return(invisible(NULL))
-  cat("\\begin{cvskills}\n")
+  if (!nrow(dat)) return(invisible(NULL))
+  # Fixed-width first column keeps every category aligned and flush left.
+  # Wider right column allows lengthy molecular bench skills to wrap.
+  cat("\\noindent\\begin{tabular}{@{}p{0.30\\linewidth}@{\\hspace{2mm}}p{0.65\\linewidth}@{}}\n")
   for (i in seq_len(nrow(dat))) {
     cat(sprintf(
-      "\\cvskill{%s}{%s}\n",
+      "{\\raggedright\\skilltypestyle{%s}\\par} & {\\raggedright\\skillsetstyle{%s}\\par} \\\\[1.5mm]\n",
       latex_escape(dat$where[i]), latex_escape(dat$what[i])
     ))
   }
-  cat("\\end{cvskills}\n")
+  cat("\\end{tabular}\n")
 }
 
 print_certifications <- function() {
   dat <- entry_data("Skills & Certifications", "Certification")
-  if (nrow(dat) == 0L) return(invisible(NULL))
+  if (!nrow(dat)) return(invisible(NULL))
+  cat("\\noindent\\begin{tabular}{@{}p{0.72\\linewidth}@{\\hspace{2mm}}p{0.24\\linewidth}@{}}\n")
   for (i in seq_len(nrow(dat))) {
-    # Credential on first line; issuer and supplemental notes on second line.
     metadata <- c(dat$with[i], dat$where[i])
     metadata <- metadata[nzchar(trimws(metadata))]
-    # Escape each element before inserting the intentional LaTeX separator.
     details <- paste(latex_escape(metadata), collapse = " \\textperiodcentered{} ")
+    # A top-aligned cell with title and issuer/details, plus a right date.
+    left <- sprintf("\\entrytitlestyle{%s}\\newline\\descriptionstyle{%s}",
+                    latex_escape(dat$what[i]), details)
     cat(sprintf(
-      "\\noindent\\begin{minipage}[t]{0.76\\textwidth}\\raggedright\\entrytitlestyle{%s}\\par\\vspace{0.5mm}\\descriptionstyle{%s}\\end{minipage}\\hfill\\begin{minipage}[t]{0.22\\textwidth}\\raggedleft\\entrydatestyle{%s}\\end{minipage}\\par\\vspace{2mm}\n",
-      latex_escape(dat$what[i]), details, latex_escape(dat$when[i])
+      "{\\raggedright %s\\par} & {\\raggedleft\\entrydatestyle{%s}\\par} \\\\[2mm]\n",
+      left, latex_escape(dat$when[i])
     ))
   }
+  cat("\\end{tabular}\n")
 }
+
+# Standard detailed_entries() produces a cvitems list even for empty `why`.
+# For the two requested sections, call AwesomeCV's cventry directly instead:
+# no phantom bullets for non-peer-reviewed work; leadership descriptions
+# stay visible as plain prose rather than list bullets.
+print_clean_entries <- function(section_name, subsection_name = NULL,
+                                show_description = TRUE) {
+  dat <- entry_data(section_name, subsection_name)
+  if (!nrow(dat)) return(invisible(NULL))
+  dat <- prepare_detailed(dat, section_name, subsection_name)
+  cat("\\begin{cventries}\n")
+  for (i in seq_len(nrow(dat))) {
+    description <- if (show_description) trimws(dat$why[i]) else ""
+    desc_latex <- if (nzchar(description)) {
+      sprintf("\\descriptionstyle{%s}", latex_escape(description))
+    } else ""
+    # cventry arguments: bold position, upper organization, location, date, description
+    cat(sprintf("\\cventry{%s}{%s}{%s}{%s}{%s}\n",
+                latex_escape(dat$what[i]), latex_escape(dat$with[i]),
+                latex_escape(dat$where[i]), latex_escape(dat$when[i]), desc_latex))
+  }
+  cat("\\end{cventries}\n")
+}
+
 ```
 
 # Education
@@ -377,8 +418,8 @@ print_detailed("Publications", "Peer reviewed")
 
 ## Non-peer reviewed
 
-```{r publications-non-peer-reviewed}
-print_detailed("Publications", "Non-peer reviewed")
+```{r publications-non-peer-reviewed, results='asis'}
+print_clean_entries("Publications", "Non-peer reviewed", show_description = FALSE)
 ```
 
 # Teaching Experience
@@ -423,8 +464,8 @@ print_detailed("Panels")
 
 # Leadership & Outreach
 
-```{r leadership-outreach}
-print_detailed("Leadership & Outreach")
+```{r leadership-outreach, results='asis'}
+print_clean_entries("Leadership & Outreach")
 ```
 
 # Professional Development
