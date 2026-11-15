@@ -1,7 +1,7 @@
 ---
 name: Chris
 surname: Mantegna
-position: "PhD Student, Aquatic & Fishery Sciences"
+position: "PhD Candidate, Aquatic & Fishery Sciences"
 address: "University of Washington, Seattle, WA"
 email: "mantegna@uw.edu"
 phone: "(206) 823-4242"
@@ -38,34 +38,31 @@ header-includes:
       \providecommand*{\footerstyle}[1]{#1}
       \providecommand{\acvSectionTopSkip}{3mm}
       \providecommand{\acvSectionContentTopSkip}{2.5mm}
-      \renewcommand*{\sectionstyle}[1]{{\fontsize{18pt}{1em}\bodyfont\bfseries\color{text} #1}}
-      \renewcommand*{\subsectionstyle}[1]{{\fontsize{14pt}{1em}\bodyfont\scshape\textcolor{text}{#1}}}
-      \renewcommand*{\paragraphstyle}{\fontsize{11pt}{1.1em}\bodyfontlight\upshape\color{text}}
-      \renewcommand*{\entrytitlestyle}[1]{{\fontsize{12pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
-      \renewcommand*{\entrypositionstyle}[1]{{\fontsize{10pt}{1em}\bodyfont\scshape\color{graytext} #1}}
-      \renewcommand*{\entrydatestyle}[1]{{\fontsize{10pt}{1em}\bodyfontlight\slshape\color{graytext} #1}}
-      \renewcommand*{\entrylocationstyle}[1]{{\fontsize{11pt}{1em}\bodyfontlight\slshape\color{awesome} #1}}
-      \renewcommand*{\descriptionstyle}[1]{{\fontsize{11pt}{1.15em}\bodyfontlight\upshape\color{text} #1}}
-      \renewcommand*{\subentrytitlestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\mdseries\color{graytext} #1}}
-      \renewcommand*{\subentrypositionstyle}[1]{{\fontsize{9pt}{1em}\bodyfont\scshape\color{graytext} #1}}
-      \renewcommand*{\subentrydatestyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\slshape\color{graytext} #1}}
-      \renewcommand*{\subentrylocationstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\slshape\color{awesome} #1}}
-      \renewcommand*{\subdescriptionstyle}[1]{{\fontsize{10pt}{1em}\bodyfontlight\upshape\color{text} #1}}
-      \renewcommand*{\honortitlestyle}[1]{{\fontsize{11pt}{1em}\bodyfont\color{graytext} #1}}
-      \renewcommand*{\honorpositionstyle}[1]{{\fontsize{11pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
-      \renewcommand*{\honordatestyle}[1]{{\fontsize{11pt}{1em}\bodyfont\color{graytext} #1}}
-      \renewcommand*{\honorlocationstyle}[1]{{\fontsize{11pt}{1em}\bodyfontlight\slshape\color{awesome} #1}}
-      \renewcommand*{\skilltypestyle}[1]{{\fontsize{12pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
-      \renewcommand*{\skillsetstyle}[1]{{\fontsize{11pt}{1em}\bodyfontlight\color{text} #1}}
+      \renewcommand*{\sectionstyle}[1]{{\fontsize{18pt}{22pt}\bodyfont\bfseries\color{text} #1}}
+      \renewcommand*{\subsectionstyle}[1]{{\fontsize{14pt}{18pt}\bodyfont\scshape\textcolor{text}{#1}}}
+      \renewcommand*{\paragraphstyle}{\fontsize{11pt}{14pt}\bodyfontlight\upshape\color{text}}
+      \renewcommand*{\entrytitlestyle}[1]{{\fontsize{12pt}{15pt}\bodyfont\bfseries\color{darktext} #1}}
+      \renewcommand*{\entrypositionstyle}[1]{{\fontsize{10pt}{13pt}\bodyfont\scshape\color{graytext} #1}}
+      \renewcommand*{\entrydatestyle}[1]{{\fontsize{10pt}{13pt}\bodyfontlight\slshape\color{graytext} #1}}
+      \renewcommand*{\entrylocationstyle}[1]{{\fontsize{11pt}{14pt}\bodyfontlight\slshape\color{awesome} #1}}
+      \renewcommand*{\descriptionstyle}[1]{{\fontsize{11pt}{14pt}\bodyfontlight\upshape\color{text} #1}}
+      \renewcommand*{\subentrytitlestyle}[1]{{\fontsize{10pt}{13pt}\bodyfont\mdseries\color{graytext} #1}}
+      \renewcommand*{\subentrypositionstyle}[1]{{\fontsize{9pt}{12pt}\bodyfont\scshape\color{graytext} #1}}
+      \renewcommand*{\subentrydatestyle}[1]{{\fontsize{9pt}{12pt}\bodyfontlight\slshape\color{graytext} #1}}
+      \renewcommand*{\subentrylocationstyle}[1]{{\fontsize{9pt}{12pt}\bodyfontlight\slshape\color{awesome} #1}}
+      \renewcommand*{\subdescriptionstyle}[1]{{\fontsize{10pt}{13pt}\bodyfontlight\upshape\color{text} #1}}
+      \renewcommand*{\honortitlestyle}[1]{{\fontsize{11pt}{14pt}\bodyfont\color{graytext} #1}}
+      \renewcommand*{\honorpositionstyle}[1]{{\fontsize{11pt}{14pt}\bodyfont\bfseries\color{darktext} #1}}
+      \renewcommand*{\honordatestyle}[1]{{\fontsize{11pt}{14pt}\bodyfont\color{graytext} #1}}
+      \renewcommand*{\honorlocationstyle}[1]{{\fontsize{11pt}{14pt}\bodyfontlight\slshape\color{awesome} #1}}
+      \renewcommand*{\skilltypestyle}[1]{{\fontsize{12pt}{15pt}\bodyfont\bfseries\color{darktext} #1}}
+      \renewcommand*{\skillsetstyle}[1]{{\fontsize{11pt}{14pt}\bodyfontlight\color{text} #1}}
       \renewcommand*{\footerstyle}[1]{{\fontsize{10pt}{1em}\footerfont\scshape\color{lighttext} #1}}
-      % Slightly reduce vertical spacing around sections and between entries.
-      \renewcommand{\acvSectionTopSkip}{2mm}
-      \renewcommand{\acvSectionContentTopSkip}{1.2mm}
+      % Leave space for the larger section/subsection fonts.
+      \renewcommand{\acvSectionTopSkip}{4mm}
+      \renewcommand{\acvSectionContentTopSkip}{3mm}
       \setlength{\parskip}{0pt}
       \setlist[itemize]{topsep=0pt,itemsep=0pt,parsep=0pt,partopsep=0pt}
-      \patchcmd{\cventry}{\vspace{-2.0mm}}{\vspace{-2.8mm}}{}{}
-      \patchcmd{\cvitems}{\vspace{-4.0mm}}{\vspace{-4.8mm}}{}{}
-      \patchcmd{\endcvitems}{\vspace{1.0mm}}{\vspace{0.2mm}}{}{}
       % Custom award layout: year left, award + organization stacked, amount/notes right.
       \newcommand*{\cvaward}[4]{%
         \honordatestyle{#1} &%
@@ -102,6 +99,52 @@ if (!all(required_columns %in% names(cv))) {
 }
 cv[is.na(cv)] <- ""
 cv$section <- trimws(cv$section)  # CSV has a trailing space in 'Professional Organization '
+
+# Normalize DATE DISPLAY ONLY; do not rewrite the source CSV.
+# Known month names: Jan 2026, January 2026, Jan-26, and 11/2026 -> Jan 2026 etc.
+# Ranges and labels ('Since', 'Certified:', 'Defense Target:') are retained.
+# Seasons and academic years are intentionally preserved because they do not
+# identify a precise month.
+normalize_cv_date <- function(x) {
+  month_abbr <- month.abb
+  month_full <- month.name
+  one <- function(s) {
+    if (is.na(s) || !nzchar(s)) return("")
+    # Numeric month / four-digit year, including within prose, e.g. Submitted 11/2026.
+    pat_num <- "\\b(0?[1-9]|1[0-2])/(20[0-9]{2}|19[0-9]{2})\\b"
+    matches <- gregexpr(pat_num, s, perl = TRUE)
+    found <- regmatches(s, matches)[[1]]
+    if (length(found) && found[1] != "") {
+      replaced <- vapply(found, function(z) {
+        parts <- strsplit(z, "/", fixed = TRUE)[[1]]
+        paste(month_abbr[as.integer(parts[1])], parts[2])
+      }, character(1))
+      regmatches(s, matches) <- list(replaced)
+    }
+    # Explicit abbreviated/full month followed by -YY, -YYYY, space YY, space YYYY.
+    # Find and replace complete month-year tokens without affecting seasons.
+    monthpat <- paste(c(month_full, month_abbr), collapse = "|")
+    pat <- paste0("\\b(", monthpat, ")[[:space:]-]+([0-9]{2}|[0-9]{4})\\b")
+    matches <- gregexpr(pat, s, perl = TRUE, ignore.case = TRUE)
+    found <- regmatches(s, matches)[[1]]
+    if (length(found) && found[1] != "") {
+      replaced <- vapply(found, function(z) {
+        parts <- strsplit(z, "[[:space:]-]+", perl = TRUE)[[1]]
+        mi <- match(tolower(parts[1]), tolower(month_full))
+        if (is.na(mi)) mi <- match(tolower(parts[1]), tolower(month_abbr))
+        yy <- parts[length(parts)]
+        if (nchar(yy) == 2) yy <- paste0("20", yy)
+        paste(month_abbr[mi], yy)
+      }, character(1))
+      regmatches(s, matches) <- list(replaced)
+    }
+    s
+  }
+  vapply(as.character(x), one, character(1), USE.NAMES = FALSE)
+}
+cv$when <- normalize_cv_date(cv$when)
+# Publication status in 'with' sometimes includes an actual month/year.
+cv$with <- normalize_cv_date(cv$with)
 
 
 entry_data <- function(section_name, subsection_name = NULL) {
