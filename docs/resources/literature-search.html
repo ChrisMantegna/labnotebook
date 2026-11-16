@@ -76,8 +76,8 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="resources.css">
+<link rel="stylesheet" href="../styles/styles.css">
+<link rel="stylesheet" href="styles/resources.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -144,10 +144,10 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Resources</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-study-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Study Resources</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-resources">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-study-resources">    
         <li>
     <a class="dropdown-item" href="../resources/index.html">
  <span class="dropdown-text">Foundational Skills: Home</span></a>
@@ -210,10 +210,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul class="collapse">
-  <li><a href="#core-practices" id="toc-core-practices" class="nav-link active" data-scroll-target="#core-practices">Core practices</a></li>
+  <li><a href="#why-make-a-search-reproducible" id="toc-why-make-a-search-reproducible" class="nav-link active" data-scroll-target="#why-make-a-search-reproducible">Why make a search reproducible?</a></li>
+  <li><a href="#core-practices" id="toc-core-practices" class="nav-link" data-scroll-target="#core-practices">Core practices</a></li>
   <li><a href="#a-simple-workflow" id="toc-a-simple-workflow" class="nav-link" data-scroll-target="#a-simple-workflow">A simple workflow</a></li>
+  <li><a href="#knowing-when-to-stop" id="toc-knowing-when-to-stop" class="nav-link" data-scroll-target="#knowing-when-to-stop">Knowing when to stop</a></li>
   <li><a href="#in-context" id="toc-in-context" class="nav-link" data-scroll-target="#in-context">In context</a></li>
+  <li><a href="#common-pitfalls" id="toc-common-pitfalls" class="nav-link" data-scroll-target="#common-pitfalls">Common pitfalls</a></li>
   <li><a href="#keep-in-mind" id="toc-keep-in-mind" class="nav-link" data-scroll-target="#keep-in-mind">Keep in mind</a></li>
+  <li><a href="#sources-and-further-reading" id="toc-sources-and-further-reading" class="nav-link" data-scroll-target="#sources-and-further-reading">Sources and further reading</a></li>
   <li><a href="#practice-this-skill" id="toc-practice-this-skill" class="nav-link" data-scroll-target="#practice-this-skill">Practice this skill</a></li>
   </ul>
 </nav>
@@ -246,38 +250,208 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="../resources/index.html">← All foundational skills</a> {.resource-back}</p>
+<p><a href="../resources/index.html" class="resource-back">← All foundational skills</a></p>
 <div class="resource-intro">
-<p><strong>The essential idea:</strong> A transparent literature search records where, when, and how you searched, as well as why sources were included or excluded. It supports defensible decisions even when the search evolves.</p>
+<p><strong>The essential idea:</strong> A transparent literature search records where, when, and how you searched, and why sources were included or excluded. It lets you (or a reader, instructor, or teammate) see how you got from a question to a set of sources. It supports defensible decisions even when the search evolves.</p>
 </div>
+<section id="why-make-a-search-reproducible" class="level2">
+<h2 class="anchored" data-anchor-id="why-make-a-search-reproducible">Why make a search reproducible?</h2>
+<p>Most student searches are a string of quick queries that can’t be rebuilt a week later. That causes practical problems. You lose track of what you already checked, you can’t explain why a key paper is missing, and you can’t update the search when an assignment grows. Even in published systematic reviews, the search is often poorly reported, which led to the PRISMA-S reporting checklist (Rethlefsen et al., 2021).</p>
+<p>You don’t need full systematic-review rigor for a course paper. The same habits scale down well: <strong>plan the question, build the search deliberately, and write down what you did.</strong></p>
+</section>
 <section id="core-practices" class="level2">
 <h2 class="anchored" data-anchor-id="core-practices">Core practices</h2>
 <section id="scope-the-question" class="level3">
-<h3 class="anchored" data-anchor-id="scope-the-question">Scope the question</h3>
-<p>Identify topic, population or system, context, and type of evidence needed.</p>
+<h3 class="anchored" data-anchor-id="scope-the-question">1. Scope the question</h3>
+<p>Before you search, write your question as one sentence. Then break it into concepts. A simple frame:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Element</th>
+<th>Ask yourself</th>
+<th>Example (eelgrass restoration)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Topic or intervention</strong></td>
+<td>What phenomenon, process, or action?</td>
+<td>Eelgrass restoration / transplanting</td>
+</tr>
+<tr class="even">
+<td><strong>Population or system</strong></td>
+<td>Who or what is studied?</td>
+<td><em>Zostera marina</em> beds</td>
+</tr>
+<tr class="odd">
+<td><strong>Context</strong></td>
+<td>Where, when, under what conditions?</td>
+<td>Temperate estuaries</td>
+</tr>
+<tr class="even">
+<td><strong>Outcome or focus</strong></td>
+<td>What are you trying to learn about it?</td>
+<td>Sediment characteristics, survival</td>
+</tr>
+<tr class="odd">
+<td><strong>Evidence type</strong></td>
+<td>What kind of source answers this?</td>
+<td>Field studies, experiments, reviews</td>
+</tr>
+</tbody>
+</table>
+<p>Health sciences often use PICO (Population, Intervention, Comparison, Outcome) for the same purpose. Use whatever frame your discipline uses. What matters is having named concepts to search for.</p>
+<p>Also decide your <strong>inclusion and exclusion criteria before you start screening</strong>: date range, language, study type, geography, peer review. Writing them down early keeps you from changing the rules to fit the sources you happen to find.</p>
 </section>
-<section id="construct-search-strings" class="level3">
-<h3 class="anchored" data-anchor-id="construct-search-strings">Construct search strings</h3>
-<p>Combine synonyms with OR and different concepts with AND; check each database’s syntax.</p>
+<section id="build-the-search-string" class="level3">
+<h3 class="anchored" data-anchor-id="build-the-search-string">2. Build the search string</h3>
+<p>Combine <strong>synonyms within a concept using OR</strong>, and <strong>different concepts using AND</strong>. Do this in a text document first, not in the search box. A document lets you edit, reuse, and record the string (Bramer et al., 2018).</p>
+<pre><code>(eelgrass OR "Zostera marina" OR seagrass)
+AND (restor* OR transplant* OR replant*)
+AND (sediment* OR "grain size" OR "organic matter")</code></pre>
+<p>Tools to know (check each database’s help page, because syntax varies):</p>
+<ul>
+<li><strong>Quotation marks</strong> search an exact phrase: <code>"grain size"</code>.</li>
+<li><strong>Truncation</strong> (often <code>*</code>) finds word endings: <code>restor*</code> → restore, restoration, restoring.</li>
+<li><strong>Parentheses</strong> group OR terms so AND applies correctly.</li>
+<li><strong>NOT</strong> excludes terms. Use it sparingly, since it can quietly remove relevant results.</li>
+<li><strong>Field limits</strong> restrict terms to title, abstract, or keywords.</li>
+<li><strong>Controlled vocabulary</strong> (subject headings such as MeSH in PubMed, or a database’s thesaurus) catches papers that use different words for the same idea.</li>
+</ul>
+<p><strong>Finding synonyms:</strong> Read the titles, abstracts, and keywords of two or three relevant papers. Note the terms <em>they</em> use, including older terms, regional spellings, and technical vs.&nbsp;common names.</p>
+</section>
+<section id="choose-where-to-search" class="level3">
+<h3 class="anchored" data-anchor-id="choose-where-to-search">3. Choose where to search</h3>
+<p>Use more than one source. Different databases index different journals, and no single tool covers everything.</p>
+<ul>
+<li><strong>A subject database</strong> for your field (e.g., Web of Science, Scopus, PubMed, ERIC, PsycINFO, Aquatic Sciences and Fisheries Abstracts). Your library’s subject guides list the main ones.</li>
+<li><strong>A broad tool</strong> such as Google Scholar, for breadth and gray literature. Its results change over time and are hard to reproduce, so log the date and treat it as a supplement.</li>
+<li><strong>Citation chasing:</strong> Check the reference lists of key papers (backward) and use “cited by” links to find newer work that cites them (forward).</li>
+</ul>
+<p><strong>Ask a librarian.</strong> Subject librarians help with exactly this, and a short consultation can save you hours.</p>
 </section>
 <section id="log-your-decisions" class="level3">
-<h3 class="anchored" data-anchor-id="log-your-decisions">Log your decisions</h3>
-<p>Record search date, database, exact query, filters, results, changes, and screening reasons.</p>
+<h3 class="anchored" data-anchor-id="log-your-decisions">4. Log your decisions</h3>
+<p>Keep a search log in a spreadsheet or document <em>as you go</em>. Record every search you run, including the ones that didn’t work.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 14%">
+<col style="width: 14%">
+<col style="width: 14%">
+<col style="width: 14%">
+<col style="width: 14%">
+<col style="width: 14%">
+<col style="width: 14%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Database / platform</th>
+<th>Exact search string</th>
+<th>Fields searched</th>
+<th>Filters / limits</th>
+<th>Results</th>
+<th>Notes / changes and why</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2026-02-03</td>
+<td>Web of Science Core Collection</td>
+<td><code>(eelgrass OR "Zostera marina") AND restor* AND sediment*</code></td>
+<td>Topic</td>
+<td>2000–2026; English</td>
+<td>214</td>
+<td>Many results on terrestrial grasses. Added <code>seagrass</code> and field-limited to abstract.</td>
+</tr>
+<tr class="even">
+<td>2026-02-03</td>
+<td>Web of Science Core Collection</td>
+<td><code>(eelgrass OR "Zostera marina" OR seagrass) AND (restor* OR transplant*) AND sediment*</code></td>
+<td>Abstract</td>
+<td>2000–2026; English</td>
+<td>167</td>
+<td>More focused. Screening a sample of 30.</td>
+</tr>
+</tbody>
+</table>
+<p>These fields line up with the core items PRISMA-S asks review authors to report: information sources, full search strategies, limits, and dates (Rethlefsen et al., 2021).</p>
+</section>
+<section id="screen-in-stages-and-record-your-reasons" class="level3">
+<h3 class="anchored" data-anchor-id="screen-in-stages-and-record-your-reasons">5. Screen in stages, and record your reasons</h3>
+<ol type="1">
+<li><strong>Title and abstract screening:</strong> Apply your inclusion and exclusion criteria. Mark each source <em>include</em>, <em>exclude</em>, or <em>maybe</em>.</li>
+<li><strong>Full-text screening:</strong> Read the “maybes” and includes. For each exclusion, record a short reason (“terrestrial system,” “no sediment data,” “opinion piece”).</li>
+<li><strong>Count as you go.</strong> Note how many records you found, removed as duplicates, screened, excluded (with reasons), and kept. These counts are the same flow PRISMA diagrams report (Page et al., 2021), and they let you describe your search in one sentence of a methods section or paper.</li>
+</ol>
+</section>
+<section id="manage-sources-with-a-reference-manager" class="level3">
+<h3 class="anchored" data-anchor-id="manage-sources-with-a-reference-manager">6. Manage sources with a reference manager</h3>
+<p>Export results into a reference manager such as <a href="https://www.zotero.org/">Zotero</a> (free), Mendeley, or EndNote. A reference manager removes duplicates, stores PDFs and notes, and formats citations. Use folders or tags that mirror your screening stages (e.g., <code>to-screen</code>, <code>included</code>, <code>excluded-scope</code>).</p>
 </section>
 </section>
 <section id="a-simple-workflow" class="level2">
 <h2 class="anchored" data-anchor-id="a-simple-workflow">A simple workflow</h2>
-<p>Run an initial search, record its exact settings and result count, inspect a manageable sample, then revise one search element at a time. Document the revision and why it was made.</p>
+<ol type="1">
+<li>Write the question and break it into three or four concepts.</li>
+<li>List synonyms for each concept, and set inclusion criteria.</li>
+<li>Draft the search string in a document.</li>
+<li>Run the search in one database. Log the exact string, settings, date, and result count.</li>
+<li>Scan the first 20–30 results. Are they on target? What terms do relevant papers use that you missed?</li>
+<li><strong>Revise one element at a time</strong> (add a synonym, change a field limit, adjust a filter). Rerun it, log it, and note why you changed it. Changing several things at once makes it impossible to tell what helped.</li>
+<li>Translate the final string to a second database, adjusting the syntax, and log it.</li>
+<li>Screen, record reasons, and chase citations from your best sources.</li>
+</ol>
+</section>
+<section id="knowing-when-to-stop" class="level2">
+<h2 class="anchored" data-anchor-id="knowing-when-to-stop">Knowing when to stop</h2>
+<p>You will rarely find “everything.” Signs that a search is good enough for its purpose:</p>
+<ul>
+<li>New searches and citation chasing mostly return sources you’ve already seen.</li>
+<li>The key papers your instructor, a review article, or a librarian would expect are in your set.</li>
+<li>You can explain the boundaries of your search in two or three sentences.</li>
+</ul>
 </section>
 <section id="in-context" class="level2">
 <h2 class="anchored" data-anchor-id="in-context">In context</h2>
 <div class="callout-example">
-<p>For a question about eelgrass restoration and sediment, a student searches two databases, logs the two different query syntaxes, and records why studies focused only on terrestrial grasses were excluded.</p>
+<p>For a question about eelgrass restoration and sediment, a student searches two databases and logs both query syntaxes, because one platform uses field codes differently from the other. Their first search returns many studies of terrestrial grasses. They record the problem, add <code>seagrass</code> and <code>"Zostera marina"</code>, limit terms to abstracts, and note the change in the log. During screening they record “terrestrial system” as an exclusion reason for six papers, so their final set and their choices are easy to explain.</p>
 </div>
+<div class="callout-example">
+<p>A student in a public policy course is researching minimum-wage effects on youth employment. They search a social science database and a working-paper repository, and they log that they limited results to 2010 onward because of a major policy change that year. When a classmate asks why an older landmark study is missing, the log explains the decision.</p>
+</div>
+</section>
+<section id="common-pitfalls" class="level2">
+<h2 class="anchored" data-anchor-id="common-pitfalls">Common pitfalls</h2>
+<ul>
+<li><strong>Searching a full sentence.</strong> Databases match keywords, not questions. Break the question into concepts.</li>
+<li><strong>Stopping at the first page of results.</strong> Relevance ranking isn’t the same as relevance to <em>your</em> question.</li>
+<li><strong>Relying on one database.</strong> Coverage differs. A second source often turns up key papers.</li>
+<li><strong>Not saving the string.</strong> If you can’t rerun it, you can’t update or explain it.</li>
+<li><strong>Changing criteria mid-screening</strong> to keep a favorite paper or drop an inconvenient one.</li>
+</ul>
 </section>
 <section id="keep-in-mind" class="level2">
 <h2 class="anchored" data-anchor-id="keep-in-mind">Keep in mind</h2>
-<p>A documented search is not automatically a systematic review. Systematic and scoping reviews require additional design, reporting, and quality controls.</p>
+<p>A documented search is not automatically a systematic review. Systematic, scoping, and other formal reviews have their own design, reporting, and quality-control standards, such as protocols, independent dual screening, and critical appraisal (Grant &amp; Booth, 2009; Page et al., 2021). Describe your work accurately. “A structured search of two databases” is honest and defensible. Calling it “a systematic review” when it isn’t one is not.</p>
+</section>
+<section id="sources-and-further-reading" class="level2">
+<h2 class="anchored" data-anchor-id="sources-and-further-reading">Sources and further reading</h2>
+<ul>
+<li>Bramer, W. M., de Jonge, G. B., Rethlefsen, M. L., Mast, F., &amp; Kleijnen, J. (2018). A systematic approach to searching: An efficient and complete method to develop literature searches. <em>Journal of the Medical Library Association, 106</em>(4), 531–541. <a href="https://doi.org/10.5195/jmla.2018.283" class="uri">https://doi.org/10.5195/jmla.2018.283</a></li>
+<li>Grant, M. J., &amp; Booth, A. (2009). A typology of reviews: An analysis of 14 review types and associated methodologies. <em>Health Information and Libraries Journal, 26</em>(2), 91–108. <a href="https://doi.org/10.1111/j.1471-1842.2009.00848.x" class="uri">https://doi.org/10.1111/j.1471-1842.2009.00848.x</a></li>
+<li>Page, M. J., McKenzie, J. E., Bossuyt, P. M., et al.&nbsp;(2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. <em>BMJ, 372</em>, n71. <a href="https://doi.org/10.1136/bmj.n71" class="uri">https://doi.org/10.1136/bmj.n71</a></li>
+<li>Rethlefsen, M. L., Kirtley, S., Waffenschmidt, S., Ayala, A. P., Moher, D., Page, M. J., Koffel, J. B., &amp; PRISMA-S Group. (2021). PRISMA-S: An extension to the PRISMA Statement for reporting literature searches in systematic reviews. <em>Systematic Reviews, 10</em>,
+<ol start="39" type="1">
+<li><a href="https://doi.org/10.1186/s13643-020-01542-z" class="uri">https://doi.org/10.1186/s13643-020-01542-z</a></li>
+</ol></li>
+<li>Your library’s subject guides and research consultation service.</li>
+</ul>
 </section>
 <section id="practice-this-skill" class="level2">
 <h2 class="anchored" data-anchor-id="practice-this-skill">Practice this skill</h2>

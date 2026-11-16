@@ -1,49 +1,228 @@
 ---
 title: "Communicating with Non-Expert Audiences"
-subtitle: "Make complex environmental information useful without erasing nuance."
-description: "Make complex environmental information useful without erasing nuance."
+subtitle: "Make complex information useful without erasing nuance."
+description: "Make complex information useful without erasing nuance."
 category: "Communication"
-reading_time: "8 min"
+reading_time: "14 min"
 format:
   html:
     toc: true
     toc-depth: 2
-    css: resources.css
+    css: styles/resources.css
 ---
 
-[← All foundational skills](index.qmd) {.resource-back}
+[← All foundational skills](index.qmd){.resource-back}
 
 ::: {.resource-intro}
-**The essential idea:** Good communication begins with a specific audience and purpose. Translation changes language, structure, and format while protecting the meaning and limits of the evidence.
+**The essential idea:** Good communication begins with a specific
+audience and purpose. Translating research for non-experts changes the
+language, structure, and format, while protecting the meaning and the
+limits of the evidence.
 :::
+
+## Beyond "just explain it more simply"
+
+A common assumption is that people disagree with or ignore research
+because they lack information, so the fix is to give them more facts.
+This is called the **knowledge deficit model**. Research shows that
+public communication of science is more complicated than the model
+suggests, yet the model persists among scientists (Simis et al., 2016).
+People interpret information through their values, experiences,
+identities, and the decisions they face.
+
+Effective communication therefore starts with the audience, not with
+your results. It also treats communication as a two-way exchange:
+communities, practitioners, and other non-specialists often hold
+knowledge that researchers lack.
 
 ## Core practices
 
-### Know the audience
+### 1. Know your audience and purpose
 
-Ask what readers already know, what matters to them, and what decisions they may face.
+Before writing, answer:
 
-### Lead with meaning
+- **Who** specifically? ("The public" is too broad. Try "parents at a
+  school board meeting," "shellfish growers," "city council staff," or
+  "readers of a campus newspaper.")
+- **What do they already know**, and what do they care about?
+- **What decisions** might they face that your information affects?
+- **What do you want them to know, feel, or do** afterward?
+- **What concerns or prior experiences** might shape how they hear you?
 
-State the central takeaway early, define necessary terms, and choose concrete examples.
+When possible, **ask**: talk to someone from the audience, read what
+they read, or test a draft with them.
 
-### Match the medium
+### 2. Lead with meaning
 
-Use a report, brief, infographic, talk, blog, or other genre because it fits the audience and message.
+Scientific papers usually build from background through methods and
+results to the conclusion. Non-expert audiences generally want the
+reverse: **the bottom line first**, then why it matters, then as much
+supporting detail as they need.
+
+| Research paper order | Non-expert order |
+|---|---|
+| Background → Methods → Results → Conclusion | Main point → Why it matters → Key evidence → Details if needed |
+
+**The Message Box.** COMPASS's Message Box is a widely used planning
+tool that organizes a message around an **Issue** and four questions:
+**Problem**, **So what?**, **Solutions**, and **Benefits**. It is
+adapted from Nancy Baron's *Escape from the Ivory Tower* (COMPASS,
+n.d.). The "so what?" asks why *this* audience should care, and the
+answer often changes from one audience to another.
+
+### 3. Choose words carefully
+
+- **Replace or define jargon.** Scientists often forget that they once
+  didn't know a term. This is sometimes called the "curse of
+  knowledge." Even lay summaries published alongside research articles
+  contain more jargon than is recommended for public understanding
+  (Rakedzon et al., 2017). Free tools such as the
+  [De-Jargonizer](https://scienceandpublic.com/) can flag
+  uncommon words in your draft.
+- **Watch for words that mean something different to the public.** For
+  example, "positive feedback" sounds like praise, "theory" sounds like
+  a guess, "significant" sounds like "important," and "uncertainty"
+  sounds like "we don't know." Somerville and Hassol (2011) compiled a
+  widely used table of such terms with better alternatives, for
+  instance "human-caused" instead of "anthropogenic."
+- **Use concrete examples, comparisons, and familiar units.**
+  "About the weight of a paperclip" is easier to picture than "1 g."
+- **Define a necessary term once, clearly, and then use it
+  consistently.**
+
+### 4. Use stories, with care
+
+Narratives can increase comprehension, interest, and engagement, and
+most non-experts already get their science through media that favor
+stories (Dahlstrom, 2014). A specific person, place, or event can make
+a finding relevant. But stories are also persuasive, which raises
+ethical questions (Dahlstrom, 2014). Choose examples that represent the
+evidence fairly, not just the most dramatic case.
+
+### 5. Communicate uncertainty honestly
+
+Uncertainty is part of all knowledge, but communicators often avoid it
+for fear of losing trust. A review of the evidence found that
+communicating uncertainty does not necessarily affect audiences
+negatively, although effects vary with the person and the format (van
+der Bles et al., 2019). Practical guidance:
+
+- **Quantify when you can:** "between 10 and 15 percent" is clearer
+  than "around 12 percent, though this is uncertain."
+- **Say what is known with confidence** before what is uncertain.
+- **Explain *why* something is uncertain** (limited data, natural
+  variability, models that differ) and what would reduce the
+  uncertainty.
+- **Keep the conditions:** If a finding applies only to certain places,
+  populations, or time periods, say so.
+
+### 6. Match the medium
+
+Choose a format because it fits the audience and the message, not out
+of habit.
+
+| Format | Strengths | Watch out for |
+|---|---|---|
+| Policy brief / fact sheet | Fast, decision-focused | Space forces hard choices about nuance |
+| Infographic | Visual, shareable | Can oversimplify, and may not be accessible |
+| Short talk or presentation | Personal, allows questions | One chance to land the main point |
+| Blog post or article | Room for story and context | Needs a strong opening to hold readers |
+| Social media post | Reach | Easy to lose conditions and caveats |
+| Community meeting / workshop | Two-way exchange | Requires listening as much as presenting |
+
+### 7. Make it accessible and inclusive
+
+- **Accessibility:** readable fonts, sufficient color contrast, alt
+  text for images, captions for video, and not relying on color alone.
+  Plain language is an accessibility practice too.
+- **Cultural context and values:** Consider how your framing will land
+  with different communities, and whose examples you choose.
+- **Whose expertise counts:** Acknowledge local, practical, and
+  Indigenous knowledge. Credit community partners, and follow their
+  guidance on what is shared and how (see [Ethical Research, Writing,
+  and AI Use](research-ethics.qmd)).
+- **Language access:** Consider translation, and work with fluent or
+  native speakers rather than relying only on automated translation for
+  important messages.
 
 ## A simple workflow
 
-Write a one-sentence takeaway, identify its intended audience, then replace or explain specialized terms. Check that the rewritten message retains the conditions and uncertainty of the original finding.
+1. **Write a one-sentence takeaway**: the single thing you most want
+   the audience to remember.
+2. **Name the specific audience** and what they care about or need to
+   decide.
+3. **Fill in a Message Box** (Problem, So what?, Solutions, Benefits)
+   for that audience.
+4. **Draft in "bottom line first" order.**
+5. **Replace or define specialized terms.** Run a jargon check.
+6. **Check fidelity:** Compare your message with the original finding.
+   Did you keep the conditions, limits, and uncertainty? Would the
+   original researchers agree with your summary?
+7. **Test it** with someone from (or close to) the intended audience,
+   and revise.
 
 ## In context
 
 ::: {.callout-example}
-For a community shoreline meeting, “hypoxia” becomes “low oxygen in the water,” followed by a concrete explanation of what that condition can mean for aquatic organisms.
+For a community shoreline meeting, "hypoxia" becomes "low oxygen in the
+water," followed by a concrete explanation of what that condition can
+mean for fish and shellfish. The speaker keeps an important limit:
+low-oxygen events were measured in summer at two sites, so the
+presentation doesn't claim they happen everywhere or all year.
 :::
+
+::: {.callout-example}
+A public health student turns a study on heat and emergency visits
+into a one-page flyer for older adults. They lead with "Hot days
+increase the risk of heat illness, even indoors," add three practical
+steps, and state the evidence in plain terms. They test the flyer with
+two residents at a senior center and enlarge the font after feedback.
+:::
+
+## Common pitfalls
+
+- **Starting with methods** or background the audience doesn't need
+  yet.
+- **"Dumbing down"** instead of clarifying, which can come across as
+  condescending.
+- **Dropping the caveats** that change what a finding means.
+- **Assuming a deficit:** treating the audience as empty containers for
+  facts rather than as people with knowledge, values, and concerns.
+- **One message for every audience:** The "so what?" usually needs to
+  change.
 
 ## Keep in mind
 
-Avoid deficit assumptions about community knowledge; consider accessibility, cultural context, values, and whose expertise is represented.
+Avoid deficit assumptions about community knowledge. Consider
+accessibility, cultural context, values, and whose expertise is
+represented. Clear communication isn't less rigorous. Getting it right
+requires understanding both the evidence and the audience.
+
+## Sources and further reading
+
+- COMPASS. (n.d.). *The Message Box.*
+  <https://www.compassscicomm.org/>
+- Dahlstrom, M. F. (2014). Using narratives and storytelling to
+  communicate science with nonexpert audiences. *Proceedings of the
+  National Academy of Sciences, 111*(Suppl. 4), 13614–13620.
+  <https://doi.org/10.1073/pnas.1320645111>
+- Rakedzon, T., Segev, E., Chapnik, N., Yosef, R., & Baram-Tsabari, A.
+  (2017). Automatic jargon identifier for scientists engaging with the
+  public and science communication educators. *PLOS ONE, 12*(8),
+  e0181742. <https://doi.org/10.1371/journal.pone.0181742>
+- Simis, M. J., Madden, H., Cacciatore, M. A., & Yeo, S. K. (2016). The
+  lure of rationality: Why does the deficit model persist in science
+  communication? *Public Understanding of Science, 25*(4), 400–414.
+  <https://doi.org/10.1177/0963662516629749>
+- Somerville, R. C. J., & Hassol, S. J. (2011). Communicating the
+  science of climate change. *Physics Today, 64*(10), 48–53.
+- van der Bles, A. M., van der Linden, S., Freeman, A. L. J., Mitchell,
+  J., Galvao, A. B., Zaval, L., & Spiegelhalter, D. J. (2019).
+  Communicating uncertainty about facts, numbers and science. *Royal
+  Society Open Science, 6*(5), 181870.
+  <https://doi.org/10.1098/rsos.181870>
+- Related guides: [Ethical Research, Writing, and AI Use](research-ethics.qmd)
+  · [Peer Review and Revision](peer-review.qmd)
 
 ## Practice this skill
 

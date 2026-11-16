@@ -3,47 +3,206 @@ title: "Outlining and Reverse Outlining"
 subtitle: "Plan ideas before drafting and diagnose structure after drafting."
 description: "Plan ideas before drafting and diagnose structure after drafting."
 category: "Writing"
-reading_time: "7 min"
+reading_time: "12 min"
 format:
   html:
     toc: true
     toc-depth: 2
-    css: resources.css
+    css: styles/resources.css
 ---
 
-[← All foundational skills](index.qmd) {.resource-back}
+[← All foundational skills](index.qmd){.resource-back}
 
 ::: {.resource-intro}
-**The essential idea:** An outline is a map of intended ideas; a reverse outline is a map of what an existing text actually does. Both reveal relationships between claims and evidence.
+**The essential idea:** An outline is a map of the ideas you *intend*
+to write. A reverse outline is a map of what an existing draft
+*actually* does. Both show how claims, evidence, and sections relate,
+and comparing the two shows you where to revise.
 :::
+
+## Why outline at all?
+
+Writing asks you to do several demanding things at once: generate
+ideas, organize them, turn them into sentences, and check what you've
+written. Trying to do all of that simultaneously can overload your
+attention. In experiments with college writers, preparing an outline
+before drafting led to higher-quality documents. A mental outline
+helped as much as a written one, which suggests the benefit comes from
+doing the planning, not from having a page to look at (Kellogg, 1988).
+
+Reverse outlining addresses a different problem. Experienced writers
+use revision to rethink the argument and move or merge whole sections,
+while student writers tend to treat revision as rewording individual
+sentences (Sommers, 1980). Because a reverse outline strips a draft
+down to its paragraph-level moves, it lets you see and revise structure
+instead of only polishing sentences.
 
 ## Core practices
 
-### Forward outline
+### 1. Forward outline: plan before drafting
 
-Write the central question or purpose, then arrange sections and the evidence each requires.
+Start with your **purpose or central question**, then arrange the
+sections and the evidence each one needs.
 
-### Reverse outline
+1. **Write your working claim or question** in one or two sentences at
+   the top. For a research paper this is your working thesis. For a
+   report or proposal it is the main question, problem, or
+   recommendation.
+2. **List the main points** that a reader would need in order to accept
+   or understand that claim.
+3. **Order them for the reader.** Common patterns include
+   general → specific, problem → cause → solution, chronological,
+   compare and contrast, and evidence → recommendation.
+4. **Under each point, note the evidence** you'll use (sources, data,
+   examples) and any gaps you still need to fill.
+5. **Draft topic sentences** for each section. These become the
+   skeleton of your paragraphs.
 
-For each existing paragraph, write a one-sentence description of its main job.
+### Choosing an outline format
 
-### Revise the architecture
+| Format | What it looks like | Good for |
+|---|---|---|
+| **Topic outline** | Short phrases in a hierarchy (I, A, 1, a) | Fast planning, early stages |
+| **Sentence outline** | A full sentence for each point | Testing whether your argument holds together |
+| **Evidence outline** | Each point paired with its sources or data | Research papers and literature reviews |
+| **Visual outline** | A mind map, flowchart, or sticky notes | Exploring connections before committing to an order |
 
-Move, combine, split, or remove sections when their order does not support the reader.
+The levels match outlining as a note-taking method (see [Note Taking
+Methods](note-taking.qmd)): Level 1 for main sections, Level 2 for
+sub-points, Level 3 for supporting details, and Level 4 for examples.
+
+### 2. Reverse outline: diagnose after drafting
+
+A reverse outline is created *from* a draft. For each paragraph, write
+down what it says and what job it does in the argument.
+
+1. **Number every paragraph** in the draft.
+2. **For each paragraph, write two short notes** in the margin or in a
+   two-column table:
+   - **Says:** the main point, in one sentence.
+   - **Does:** its function (introduces, defines, gives evidence,
+     compares, counters, transitions, concludes).
+3. **Read the list of notes on its own,** without the draft. Does it
+   make sense as an argument?
+4. **Compare it with your thesis or purpose.** Does every paragraph
+   serve it?
+
+| ¶ | Says (main point) | Does (function) | Supports thesis? | Notes |
+|---|---|---|---|---|
+| 1 | Coastal erosion threatens county infrastructure | Introduces problem | Yes | Thesis comes late in ¶. Move it up? |
+| 2 | Land-use history: 1950s seawalls | Background | Partly | Same topic as ¶5 |
+| 3 | Erosion rates measured 2010–2020 | Evidence | Yes | |
+| 4 | Managed retreat vs. armoring | Compares responses | Yes | Two jobs: compare AND recommend |
+| 5 | Land-use history: 1970s development | Background | Partly | Combine with ¶2 |
+
+### 3. Revise the architecture
+
+Use the reverse outline to look for these problems:
+
+- **Repetition:** Two or more paragraphs make the same point.
+  *Combine them.*
+- **Gaps:** A step in the reasoning is missing between two paragraphs.
+  *Add a paragraph or a stronger transition.*
+- **Paragraphs doing too many jobs:** The "Does" column needs "and."
+  *Split the paragraph.*
+- **Off-thesis paragraphs:** A paragraph doesn't connect to your claim.
+  *Cut it, or revise the thesis if the paragraph shows where your
+  thinking actually went.*
+- **Order problems:** A paragraph relies on information that comes
+  later. *Move it.*
+- **Imbalance:** A minor point gets three paragraphs and a major point
+  gets one. *Rebalance.*
+
+Make structural changes **before** editing sentences. There's no point
+polishing a paragraph you're about to cut.
 
 ## A simple workflow
 
-For a reverse outline, number paragraphs; write each paragraph’s point in the margin; inspect the sequence for repetition, gaps, unsupported transitions, and paragraphs doing too many jobs.
+**Before drafting (forward outline):**
+
+1. Write your working claim or question.
+2. List three to six main points, in the order a reader needs them.
+3. Attach evidence to each point and flag gaps.
+4. Draft topic sentences. Treat the outline as a plan, not a contract.
+
+**After drafting (reverse outline):**
+
+1. Number the paragraphs.
+2. Write each paragraph's point and function in one line.
+3. Read the outline alone. Look for repetition, gaps, unsupported
+   transitions, off-thesis paragraphs, and paragraphs doing too many
+   jobs.
+4. Write a short revision plan: move, combine, split, add, or cut.
+5. Revise the structure, then reverse-outline again if the changes were
+   large.
+
+## Using reverse outlines beyond your own drafts
+
+- **Reading:** Reverse-outline a dense article to see how the author
+  builds an argument. You can borrow the structure for your own
+  writing.
+- **Peer review:** Reverse-outline a classmate's draft and share it
+  with them. Showing a writer what each paragraph seems to do is often
+  more useful than general comments (see [Peer Review and
+  Revision](peer-review.qmd)).
+- **Comparing plan and draft:** Put your original outline beside the
+  reverse outline. Where they differ, decide which version is better.
+  Sometimes the draft found a stronger argument than the plan.
 
 ## In context
 
 ::: {.callout-example}
-A draft about coastal erosion describes land-use history in three separated paragraphs. A reverse outline makes the repetition visible and suggests consolidating the history before comparing management responses.
+A draft about coastal erosion describes land-use history in three
+separated paragraphs. A reverse outline makes the repetition visible
+and suggests consolidating the history before comparing management
+responses. The writer also notices that one paragraph both compares
+options and recommends one. They split it so that the recommendation
+gets its own paragraph near the end, after the evidence.
 :::
+
+::: {.callout-example}
+A student writing a history essay on a labor strike drafts in
+chronological order. Their reverse outline shows that the argument
+about *why* the strike succeeded appears only in the last two
+paragraphs. They reorganize around three causes, using chronology
+within each section, so that the argument leads the essay.
+:::
+
+## Common pitfalls
+
+- **Over-planning:** Spending so long on the outline that drafting
+  never starts. A working outline only needs to be good enough to
+  begin.
+- **Treating the outline as fixed:** Drafting often shows you better
+  ideas. Update the outline instead of forcing the draft to match it.
+- **Summarizing content instead of function:** In a reverse outline,
+  "talks about sediment" is less useful than "gives evidence that
+  sediment loss accelerated after 1990."
+- **Skipping the reverse outline because the draft "feels fine":**
+  Structural problems are hard to see from inside the prose.
 
 ## Keep in mind
 
-An outline is a flexible hypothesis about organization, not a rule that prevents new thinking.
+An outline is a flexible hypothesis about organization, not a rule that
+prevents new thinking. Many writers discover their argument while
+drafting. The reverse outline is how you make sure the final structure
+reflects what you discovered.
+
+## Sources and further reading
+
+- Kellogg, R. T. (1988). Attentional overload and writing performance:
+  Effects of rough draft and outline strategies. *Journal of
+  Experimental Psychology: Learning, Memory, and Cognition, 14*(2).
+- Sommers, N. (1980). Revision strategies of student writers and
+  experienced adult writers. *College Composition and Communication,
+  31*(4), 378–388. <http://www.jstor.org/stable/356588>
+- University of Wisconsin–Madison Writing Center. *Reverse outlines.*
+  <https://writing.wisc.edu/handbook/reverseoutlines/>
+- George Mason University Writing Center. *Reverse outlining.*
+  <https://writingcenter.gmu.edu/writing-resources/writing-as-process/reverse-outlining>
+- Related guides: [Note Taking Methods](note-taking.qmd) ·
+  [Synthesizing Literature](literature-synthesis.qmd) ·
+  [Peer Review and Revision](peer-review.qmd)
 
 ## Practice this skill
 

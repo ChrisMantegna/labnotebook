@@ -2,6 +2,12 @@
   {
     "listing": "/dailylog.html",
     "items": [
+      "/daily_log/2026_11_15/index.html",
+      "/daily_log/2026_11_14/index.html",
+      "/daily_log/2026_11_13/index.html",
+      "/daily_log/2026_11_12/index.html",
+      "/daily_log/2026_11_11/index.html",
+      "/daily_log/2026_11_10/index.html",
       "/daily_log/2026_11_09/index.html",
       "/daily_log/2026_11_08/index.html",
       "/daily_log/2026_11_07/index.html",
@@ -35,7 +41,6 @@
   {
     "listing": "/weeklyupdates.html",
     "items": [
-      "/weekly/2026_1101/index.html",
       "/weekly/2026_0425/index.html",
       "/weekly/2026_0411/index.html",
       "/weekly/2026_0125/index.html",

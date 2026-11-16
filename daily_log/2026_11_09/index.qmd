@@ -25,7 +25,7 @@ Biomarkers
   the result on the raw data. I didn't remove or transform any data for
   this run.
 
-- The purpose of this is to clarify my outlier and/ or transformation
+- The purpose of this is to clarify my outliers and/ or transformation
   decisions that I did not clearly document the first time.
 
 - Next steps, replace all SOD values below the limit of quantification

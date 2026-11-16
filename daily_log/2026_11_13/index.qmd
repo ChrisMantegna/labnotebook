@@ -4,6 +4,8 @@ date: 2026-11-13
 categories: 
 writing_words: 704
 goal_progress:
+  teaching: 1
+  manuscript: 1
 ---
 
 Friday the 13th proved to be a productive reading day.

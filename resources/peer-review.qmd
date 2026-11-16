@@ -3,47 +3,229 @@ title: "Peer Review and Revision"
 subtitle: "Give useful feedback and make intentional revision decisions."
 description: "Give useful feedback and make intentional revision decisions."
 category: "Communication"
-reading_time: "8 min"
+reading_time: "13 min"
 format:
   html:
     toc: true
     toc-depth: 2
-    css: resources.css
+    css: styles/resources.css
 ---
 
-[← All foundational skills](index.qmd) {.resource-back}
+[← All foundational skills](index.qmd){.resource-back}
 
 ::: {.resource-intro}
-**The essential idea:** Peer review is collaborative inquiry into whether a piece works for its purpose and audience. Revision rethinks meaning and structure; copyediting improves expression after the larger decisions are sound.
+**The essential idea:** Peer review is collaborative inquiry into
+whether a piece of writing works for its purpose and audience.
+Revision rethinks meaning and structure. Copyediting improves
+expression once the larger decisions are sound.
 :::
 
-## Core practices
+## Why peer review is worth your time
 
-### Begin with the writer’s goal
+Students often assume the point of peer review is to *get* feedback.
+Research suggests that *giving* feedback may teach you as much or
+more. In one semester-long study, students who only reviewed others'
+papers made larger gains in their own writing than students who only
+received feedback (Lundstrom & Baker, 2009). Interviews with
+university students point to a likely reason: writing a review makes
+you compare someone else's work with your own and with the criteria,
+which sharpens your judgment of your own writing (Nicol, Thomson, &
+Breslin, 2014).
 
-Ask what the writer wants readers to understand and what kind of feedback is most useful now.
+Peer review also helps with a common revision problem. Inexperienced
+writers tend to treat revision as fixing words and sentences, while
+experienced writers use it to reshape the argument (Sommers, 1980). A
+reader who asks "what is this paragraph for?" pushes the writer toward
+the second kind of revision.
 
-### Prioritize substantive issues
+## Three levels of change
 
-Comment first on focus, evidence, organization, audience, and argument; address sentence-level details later.
+Name which level you're working at, both as a reviewer and as a writer.
 
-### Document choices
+| Level | Focus | Questions | When |
+|---|---|---|---|
+| **Revision (global)** | Purpose, argument, evidence, organization, audience | Is the main point clear? Is it supported? Is the order logical? Is anything missing? | Early drafts |
+| **Editing (paragraph and sentence)** | Clarity, flow, transitions, concision | Does each paragraph have one job? Are sentences clear? | Once the structure is stable |
+| **Proofreading (surface)** | Grammar, spelling, formatting, citations | Are there errors? Does it follow the required style? | Final draft |
 
-Convert comments into a short revision plan and record why you accepted, adapted, or declined key suggestions.
+Work from the top down. Comma fixes in a paragraph that will be cut are
+wasted effort.
+
+## Core practices: giving feedback
+
+### 1. Begin with the writer's goal
+
+Before reading, ask the writer (or have them write a short note):
+
+- What do you want readers to understand or do after reading?
+- Who is the intended audience?
+- What stage is this draft at?
+- **What kind of feedback would be most useful right now?** Where are
+  you stuck or unsure?
+
+This turns peer review from general judgment into a response to the
+writer's own goals.
+
+### 2. Read first, then respond
+
+- **First pass: read without marking.** Experience the draft as a
+  reader would.
+- **Summarize the main message in your own words.** If you can't, or
+  if your summary differs from what the writer intended, that is your
+  most important piece of feedback.
+- **Second pass: annotate**, tying each comment to a specific place in
+  the draft.
+
+A reverse outline of the draft (one line per paragraph describing what
+it does) is a useful thing to give a writer. See [Outlining and
+Reverse Outlining](outlining.qmd).
+
+### 3. Prioritize substantive issues
+
+Comment first on focus, evidence, organization, audience, and argument.
+Leave sentence-level details for later drafts, or note patterns
+("several sentences in section 2 begin with 'This shows'") rather than
+correcting every instance.
+
+### 4. Make comments specific, located, and actionable
+
+| Vague | Specific and useful |
+|---|---|
+| "Reorganize." | "Paragraphs 2 and 5 both cover land-use history. Combining them before your comparison in ¶4 might help readers follow the argument." |
+| "Good job!" | "The example of the 2019 storm in ¶3 makes the stakes concrete. More examples like this in section 2 would help." |
+| "Unclear." | "I lost the thread in ¶6. Is the point that both methods fail, or that one works only in sheltered sites?" |
+| "Needs more evidence." | "The claim in ¶4 that restoration costs are 'much lower' would be stronger with a figure or source." |
+
+A useful pattern is **observe → effect → suggest**: *"In ¶4 you give
+the recommendation before the data (observe). As a reader, I wasn't yet
+convinced (effect). You could move the data in ¶6 ahead of it
+(suggest)."*
+
+### 5. Use reader-response language
+
+Describe your experience as a reader ("I expected…", "I got lost
+here…", "I was persuaded by…") rather than issuing verdicts ("this is
+wrong"). Reader-response comments are easier to hear and give the
+writer information they can act on.
+
+### 6. Balance strength, question, and suggestion
+
+For each review, aim for at least:
+
+- **One strength** to keep, named specifically so the writer knows what
+  is working.
+- **One significant question** about the argument, evidence, or
+  audience.
+- **One specific revision suggestion**, tied to a location in the
+  draft.
+
+## Core practices: using feedback
+
+### 1. Sort before you act
+
+Read all the feedback once without responding. Then sort comments into:
+
+- **Global** (argument, structure, evidence) vs. **local** (sentences,
+  mechanics)
+- **Agree / Unsure / Disagree**
+- **Patterns:** If two readers flag the same section, take it
+  seriously, even if they suggest different fixes.
+
+### 2. Write a revision plan
+
+Turn comments into a short, ordered plan before changing the draft.
+
+| Priority | Issue (from feedback) | Decision | Planned change | Why |
+|---|---|---|---|---|
+| 1 | Recommendation appears before evidence (2 reviewers) | Accept | Move data from ¶6 ahead of ¶4 | Readers need evidence first |
+| 2 | Cost claim unsupported | Adapt | Add a source, and soften "much lower" to "lower" | Only one cost study found |
+| 3 | Reviewer suggests cutting the field-site description | Decline | Keep, but shorten | Audience is unfamiliar with the site |
+
+### 3. Document your choices
+
+Record **why** you accepted, adapted, or declined key suggestions. This
+helps you revise deliberately, and it is useful when a course asks for
+a revision memo or reflection.
+
+### 4. Revise globally first, then locally
+
+Address structure and argument first, then reread the whole draft
+before editing sentences.
 
 ## A simple workflow
 
-Read once without marking. Summarize the main message in your own words. On a second pass, note one strength, one significant question, and one specific revision suggestion tied to a location in the draft.
+**As a reviewer:**
+
+1. Read the writer's goals and questions.
+2. Read once without marking.
+3. Summarize the main message in two or three sentences.
+4. On a second pass, note one strength, one significant question, and
+   one specific suggestion, each tied to a location.
+5. Add a reverse outline if structure seems to be the main issue.
+
+**As a writer:**
+
+1. Tell reviewers your goal, your audience, and what you want feedback
+   on.
+2. Read all feedback before responding.
+3. Sort comments and look for patterns.
+4. Write a revision plan with reasons.
+5. Revise globally, then edit and proofread.
 
 ## In context
 
 ::: {.callout-example}
-A reviewer notices that a restoration proposal introduces its recommendation before showing evidence. Instead of “reorganize,” they identify the relevant paragraphs and suggest an evidence-first sequence.
+A reviewer notices that a restoration proposal gives its
+recommendation before showing the evidence. Instead of writing
+"reorganize," they identify the relevant paragraphs, explain that they
+weren't convinced when they first read the recommendation, and suggest
+putting the evidence first.
 :::
+
+::: {.callout-example}
+A student in a psychology course receives conflicting feedback. One
+peer wants more detail on methods, and another says the methods
+section is too long. Rather than choosing one, the writer notices that
+both reviewers struggled with the same section. They reorganize it
+with subheadings and move procedural details into a table. Their
+revision memo explains the decision.
+:::
+
+## Giving feedback with care
+
+- **Critique the writing, not the writer.** "This paragraph…" rather
+  than "You…"
+- **Respect the writer's voice and experience,** especially in personal
+  or reflective writing. Don't push a writer toward your own style.
+- **Be honest and kind.** Vague praise doesn't help a writer improve,
+  and harshness makes it harder to hear useful points.
+- **Be aware of language and dialect bias.** Don't treat unfamiliar
+  phrasing or a non-dominant variety of English as an error unless it
+  actually gets in the way of meaning for the intended audience.
 
 ## Keep in mind
 
-Feedback is information, not an instruction to obey every suggestion. The writer remains responsible for the final piece.
+Feedback is information, not an instruction to obey every suggestion.
+The writer remains responsible for the final piece. Good revision
+decisions consider each suggestion against the writer's purpose,
+audience, and evidence.
+
+## Sources and further reading
+
+- Lundstrom, K., & Baker, W. (2009). To give is better than to receive:
+  The benefits of peer review to the reviewer's own writing. *Journal
+  of Second Language Writing, 18*(1), 30–43.
+  <https://doi.org/10.1016/j.jslw.2008.06.002>
+- Nicol, D., Thomson, A., & Breslin, C. (2014). Rethinking feedback
+  practices in higher education: A peer review perspective. *Assessment
+  & Evaluation in Higher Education, 39*(1), 102–122.
+  <https://doi.org/10.1080/02602938.2013.795518>
+- Sommers, N. (1980). Revision strategies of student writers and
+  experienced adult writers. *College Composition and Communication,
+  31*(4), 378–388. <http://www.jstor.org/stable/356588>
+- Your campus writing center.
+- Related guides: [Outlining and Reverse Outlining](outlining.qmd) ·
+  [Developing a Writing Habit](writing-habits.qmd)
 
 ## Practice this skill
 

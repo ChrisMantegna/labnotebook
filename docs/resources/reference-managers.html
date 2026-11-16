@@ -76,8 +76,8 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="resources.css">
+<link rel="stylesheet" href="../styles/styles.css">
+<link rel="stylesheet" href="styles/resources.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -144,10 +144,10 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Resources</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-study-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Study Resources</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-resources">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-study-resources">    
         <li>
     <a class="dropdown-item" href="../resources/index.html">
  <span class="dropdown-text">Foundational Skills: Home</span></a>
@@ -210,10 +210,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul class="collapse">
-  <li><a href="#core-practices" id="toc-core-practices" class="nav-link active" data-scroll-target="#core-practices">Core practices</a></li>
+  <li><a href="#why-use-a-reference-manager" id="toc-why-use-a-reference-manager" class="nav-link active" data-scroll-target="#why-use-a-reference-manager">Why use a reference manager?</a></li>
+  <li><a href="#core-practices" id="toc-core-practices" class="nav-link" data-scroll-target="#core-practices">Core practices</a></li>
   <li><a href="#a-simple-workflow" id="toc-a-simple-workflow" class="nav-link" data-scroll-target="#a-simple-workflow">A simple workflow</a></li>
   <li><a href="#in-context" id="toc-in-context" class="nav-link" data-scroll-target="#in-context">In context</a></li>
+  <li><a href="#common-pitfalls" id="toc-common-pitfalls" class="nav-link" data-scroll-target="#common-pitfalls">Common pitfalls</a></li>
   <li><a href="#keep-in-mind" id="toc-keep-in-mind" class="nav-link" data-scroll-target="#keep-in-mind">Keep in mind</a></li>
+  <li><a href="#sources-and-further-reading" id="toc-sources-and-further-reading" class="nav-link" data-scroll-target="#sources-and-further-reading">Sources and further reading</a></li>
   <li><a href="#practice-this-skill" id="toc-practice-this-skill" class="nav-link" data-scroll-target="#practice-this-skill">Practice this skill</a></li>
   </ul>
 </nav>
@@ -246,38 +249,169 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="../resources/index.html">← All foundational skills</a> {.resource-back}</p>
+<p><a href="../resources/index.html" class="resource-back">← All foundational skills</a></p>
 <div class="resource-intro">
-<p><strong>The essential idea:</strong> A reference manager such as Zotero stores bibliographic records and can connect them to PDFs, notes, and drafts. It does not replace careful reading or citation verification.</p>
+<p><strong>The essential idea:</strong> A reference manager such as Zotero stores bibliographic records and links them to PDFs, notes, and drafts. It saves time and reduces errors, but it does not replace careful reading or checking that your citations are accurate.</p>
 </div>
+<section id="why-use-a-reference-manager" class="level2">
+<h2 class="anchored" data-anchor-id="why-use-a-reference-manager">Why use a reference manager?</h2>
+<p>A reference manager is a personal database of your sources. It helps you:</p>
+<ul>
+<li><strong>Capture</strong> citation information from databases, library catalogs, publisher pages, and DOIs with one click.</li>
+<li><strong>Organize</strong> sources by project, theme, or reading status.</li>
+<li><strong>Connect</strong> each source to its PDF, your notes, and your annotations.</li>
+<li><strong>Cite</strong> sources in your word processor and build a bibliography in any citation style.</li>
+<li><strong>Reuse</strong> sources across courses and projects for years.</li>
+</ul>
+<p>Common options include <a href="https://www.zotero.org/">Zotero</a> (free and open source), Mendeley, and EndNote. Your library may support one in particular and offer workshops. This page uses Zotero for its examples, but the practices apply to any of these tools.</p>
+<p><strong>Why accuracy matters:</strong> Citation errors are surprisingly common, even in published research. A review of studies in medical journals estimated that about 14.5% of cited claims were quoted incorrectly, and most of those errors were major: the cited source failed to support, was unrelated to, or contradicted the claim (Mogull, 2017). A reference manager can make your citations <em>formatted</em> correctly. Only you can make sure they’re <em>accurate</em>.</p>
+</section>
 <section id="core-practices" class="level2">
 <h2 class="anchored" data-anchor-id="core-practices">Core practices</h2>
 <section id="capture-the-record" class="level3">
-<h3 class="anchored" data-anchor-id="capture-the-record">Capture the record</h3>
-<p>Save a source with its DOI or stable URL and check author names, title, publication, date, and source type.</p>
+<h3 class="anchored" data-anchor-id="capture-the-record">1. Capture the record</h3>
+<ul>
+<li><strong>Save from the source.</strong> Use the browser connector (e.g., Zotero Connector) on a database or publisher page, or add by identifier (DOI, ISBN, PubMed ID).</li>
+<li><strong>Check the metadata immediately.</strong> Automatic capture often gets details wrong. Check:
+<ul>
+<li><strong>Authors:</strong> spelling, order, and initials; organizations as authors</li>
+<li><strong>Title:</strong> capitalization, and subtitles that are missing or duplicated</li>
+<li><strong>Publication:</strong> full journal name, volume, issue, pages</li>
+<li><strong>Date:</strong> publication date, not access date</li>
+<li><strong>Item type:</strong> journal article, book, chapter, report, dataset, webpage</li>
+<li><strong>Identifier:</strong> DOI or stable URL</li>
+</ul></li>
+<li><strong>Attach or link the full text</strong> where your access permits.</li>
+<li><strong>Add a quick note</strong> on why the source matters to your project.</li>
+</ul>
 </section>
 <section id="organize-for-retrieval" class="level3">
-<h3 class="anchored" data-anchor-id="organize-for-retrieval">Organize for retrieval</h3>
-<p>Use collections for projects and a small, consistent set of tags for themes or reading status.</p>
+<h3 class="anchored" data-anchor-id="organize-for-retrieval">2. Organize for retrieval</h3>
+<ul>
+<li><strong>Collections (folders)</strong> for projects or courses. One item can live in several collections without being duplicated.</li>
+<li><strong>Tags</strong> for themes, methods, or status. Keep a small, consistent set and write it down so you use it the same way every time.</li>
+</ul>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Tag type</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Status</td>
+<td><code>to-read</code>, <code>read</code>, <code>cited</code>, <code>excluded</code></td>
+</tr>
+<tr class="even">
+<td>Theme</td>
+<td><code>sediment</code>, <code>restoration</code>, <code>policy</code></td>
+</tr>
+<tr class="odd">
+<td>Method</td>
+<td><code>field-study</code>, <code>model</code>, <code>review</code>, <code>survey</code></td>
+</tr>
+<tr class="even">
+<td>Screening</td>
+<td><code>include</code>, <code>exclude-scope</code>, <code>maybe</code></td>
+</tr>
+</tbody>
+</table>
+<p>The screening tags match the log in <a href="../resources/literature-search.html">Reproducible Literature Searching</a>.</p>
+<ul>
+<li><strong>Use duplicate detection</strong> regularly, especially after importing from several databases.</li>
+<li><strong>Name attached files consistently</strong> (e.g., <code>Author_Year_ShortTitle.pdf</code>). Zotero can rename attachments automatically.</li>
+</ul>
+</section>
+<section id="connect-sources-to-notes" class="level3">
+<h3 class="anchored" data-anchor-id="connect-sources-to-notes">3. Connect sources to notes</h3>
+<ul>
+<li><strong>Annotate PDFs</strong> inside the reference manager so your highlights and comments stay with the source. Zotero’s built-in reader can pull annotations into a note with citations attached.</li>
+<li><strong>Write a short summary note</strong> for each important source: research question, methods, key findings, limitations, and relevance. Use the same headings as your <a href="../resources/literature-synthesis.html">synthesis matrix</a>.</li>
+<li><strong>Keep quotations, paraphrases, and your own ideas visibly separate</strong> in notes, with page numbers for anything quoted or paraphrased (see <a href="../resources/note-taking.html">Note Taking Methods</a>).</li>
+</ul>
 </section>
 <section id="cite-carefully" class="level3">
-<h3 class="anchored" data-anchor-id="cite-carefully">Cite carefully</h3>
-<p>Use your word processor’s citation integration, then verify that the output matches the required style and the underlying source.</p>
+<h3 class="anchored" data-anchor-id="cite-carefully">4. Cite carefully</h3>
+<ul>
+<li><strong>Install the word-processor plugin</strong> (Word, Google Docs, or LibreOffice) and insert citations with it rather than typing them. The bibliography then updates automatically.</li>
+<li><strong>Choose the required style</strong> (APA, MLA, Chicago, CSE, or a journal style), and check one or two entries against the official style guide.</li>
+<li><strong>Add page numbers</strong> for direct quotations and specific claims.</li>
+<li><strong>Verify before submitting:</strong>
+<ul>
+<li>Every in-text citation has a reference entry, and every reference is cited.</li>
+<li>Each citation supports the specific claim it’s attached to.</li>
+<li>Capitalization and italics follow the style.</li>
+<li>Nothing comes from an AI-generated reference you haven’t checked against the original source (see <a href="../resources/research-ethics.html">Ethical Research, Writing, and AI Use</a>).</li>
+</ul></li>
+</ul>
+</section>
+<section id="watch-for-retracted-sources" class="level3">
+<h3 class="anchored" data-anchor-id="watch-for-retracted-sources">5. Watch for retracted sources</h3>
+<p>Papers are sometimes retracted after publication because of errors or misconduct. Zotero checks your library against the Retraction Watch database, flags retracted items, and warns you when you try to cite one (Zotero, 2019). This check currently works only for items with a DOI or PubMed ID, which is another reason to make sure your records include identifiers.</p>
+</section>
+<section id="back-up-and-sync" class="level3">
+<h3 class="anchored" data-anchor-id="back-up-and-sync">6. Back up and sync</h3>
+<ul>
+<li><strong>Sync</strong> your library to an account so it is backed up and available on other devices. Free storage for attached files is limited, so check your plan or your institution’s options.</li>
+<li><strong>Export your library</strong> periodically (e.g., as a <code>.bib</code> or <code>.ris</code> file) as an extra backup.</li>
+<li><strong>Don’t keep your only copy of a library in a temporary location</strong> such as a lab computer or a course drive that will be deleted.</li>
+</ul>
+</section>
+<section id="collaborate-with-group-libraries" class="level3">
+<h3 class="anchored" data-anchor-id="collaborate-with-group-libraries">7. Collaborate with group libraries</h3>
+<ul>
+<li><strong>Use a shared group</strong> for team projects, with an agreed set of collections and tags.</li>
+<li><strong>Keep interpretations separate:</strong> Put shared, approved references in the group library, and keep personal notes and interpretations in your own library or in clearly labeled notes. This avoids mixing different people’s conclusions.</li>
+<li><strong>Respect copyright and licensing</strong> when sharing PDFs. Many licenses allow personal use only. Share citations or DOIs instead of files when in doubt.</li>
+</ul>
 </section>
 </section>
 <section id="a-simple-workflow" class="level2">
 <h2 class="anchored" data-anchor-id="a-simple-workflow">A simple workflow</h2>
-<p>Create a project collection; import one source from a scholarly database and another from a DOI; inspect both metadata records; attach or link the full text where permitted; add a note on why each source matters.</p>
+<ol type="1">
+<li>Install a reference manager and its browser connector and word-processor plugin.</li>
+<li>Create a collection for your project.</li>
+<li>Import one source from a scholarly database and another by DOI.</li>
+<li>Inspect and correct both metadata records.</li>
+<li>Attach or link the full text where permitted.</li>
+<li>Add a tag and a short note on why each source matters.</li>
+<li>Insert both citations into a document with the plugin, then generate a bibliography in your required style.</li>
+<li>Check the output against the style guide and the original sources.</li>
+</ol>
 </section>
 <section id="in-context" class="level2">
 <h2 class="anchored" data-anchor-id="in-context">In context</h2>
 <div class="callout-example">
-<p>A collaborative coastal monitoring project uses one shared collection for approved references and personal notes for interpretation, reducing duplicate downloads without conflating different researchers’ conclusions.</p>
+<p>A collaborative coastal monitoring project uses one shared collection for approved references and personal notes for interpretation. This reduces duplicate downloads without mixing different researchers’ conclusions. Before a report goes out, one team member checks that each in-text citation supports its claim.</p>
 </div>
+<div class="callout-example">
+<p>A student writing a sociology paper imports twelve sources from two databases. Duplicate detection merges three repeated records. While checking metadata, the student finds a book chapter saved as a journal article and a missing second author, and fixes both before citing.</p>
+</div>
+</section>
+<section id="common-pitfalls" class="level2">
+<h2 class="anchored" data-anchor-id="common-pitfalls">Common pitfalls</h2>
+<ul>
+<li><strong>Trusting automatic metadata.</strong> Always check author names, titles, and item types.</li>
+<li><strong>Citing from memory or from abstracts.</strong> Cite what you’ve actually read, and check that the source says what you claim.</li>
+<li><strong>Secondary citation by accident:</strong> citing an original study you only know about through another paper. Either read the original, or cite it as a secondary source according to your style guide.</li>
+<li><strong>Tag sprawl:</strong> dozens of near-duplicate tags (<code>restoration</code>, <code>Restoration</code>, <code>restor.</code>). Keep a short list.</li>
+<li><strong>Editing the bibliography by hand.</strong> Manual edits are lost when the plugin refreshes. Fix the record in the library instead.</li>
+</ul>
 </section>
 <section id="keep-in-mind" class="level2">
 <h2 class="anchored" data-anchor-id="keep-in-mind">Keep in mind</h2>
-<p>Back up or sync your library appropriately and respect copyright and access conditions when sharing PDFs.</p>
+<p>Back up or sync your library, and respect copyright and access conditions when sharing PDFs. A reference manager is a tool for accuracy, not a guarantee of it. You are responsible for every citation in your work.</p>
+</section>
+<section id="sources-and-further-reading" class="level2">
+<h2 class="anchored" data-anchor-id="sources-and-further-reading">Sources and further reading</h2>
+<ul>
+<li>Mogull, S. A. (2017). Accuracy of cited “facts” in medical research articles: A review of study methodology and recalculation of quotation error rate. <em>PLOS ONE, 12</em>(9), e0184727. <a href="https://doi.org/10.1371/journal.pone.0184727" class="uri">https://doi.org/10.1371/journal.pone.0184727</a></li>
+<li>Zotero. (2019). <em>Retracted item notifications with Retraction Watch integration.</em> <a href="https://www.zotero.org/blog/retracted-item-notifications/" class="uri">https://www.zotero.org/blog/retracted-item-notifications/</a></li>
+<li>Zotero documentation. <a href="https://www.zotero.org/support/" class="uri">https://www.zotero.org/support/</a></li>
+<li>Your library’s reference-manager guide and workshops.</li>
+<li>Related guides: <a href="../resources/literature-search.html">Reproducible Literature Searching</a> · <a href="../resources/literature-synthesis.html">Synthesizing Literature</a> · <a href="../resources/note-taking.html">Note Taking Methods</a></li>
+</ul>
 </section>
 <section id="practice-this-skill" class="level2">
 <h2 class="anchored" data-anchor-id="practice-this-skill">Practice this skill</h2>

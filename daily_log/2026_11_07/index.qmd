@@ -36,7 +36,7 @@ goal_progress:
 - Finally, when looking through the repo, I noticed I left the worst
   shorthand notes and comments on the values I imputed or removed before
   creating the IBR.
-  - Before revieing the correlations, I am going to go back and walk
+  - Before reviewing the correlations, I am going to go back and walk
     through the data cleaning code and verify, clearly document, and
     make any necessary adjustments.
   - If that isn't a reminder to [**WRITE IT DOWN

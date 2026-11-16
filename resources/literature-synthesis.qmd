@@ -3,47 +3,212 @@ title: "Synthesizing Literature"
 subtitle: "Turn a collection of sources into a connected account of what is known."
 description: "Turn a collection of sources into a connected account of what is known."
 category: "Research"
-reading_time: "9 min"
+reading_time: "13 min"
 format:
   html:
     toc: true
     toc-depth: 2
-    css: resources.css
+    css: styles/resources.css
 ---
 
 [← All foundational skills](index.qmd) {.resource-back}
 
 ::: {.resource-intro}
-**The essential idea:** Synthesis compares evidence across sources to explain patterns, disagreements, limitations, and open questions. It is more than a sequence of article summaries.
+**The essential idea:** Synthesis compares evidence across sources to
+explain patterns, disagreements, limitations, and open questions. It is
+more than a sequence of article summaries. It is organized around
+**ideas**, not around authors.
 :::
+
+## Summary vs. synthesis
+
+The most common problem in student literature reviews is writing an
+"annotated bibliography in paragraphs": one paragraph per source, in the
+order the sources were read. Webster and Watson (2002) describe the
+difference as **author-centric** vs. **concept-centric** reviews.
+Strong reviews are organized by concept.
+
+| Summary (author-centric) | Synthesis (concept-centric) |
+|---|---|
+| "Smith (2019) found… Lee (2021) found… Patel (2022) found…" | "Three field studies report cooling from tree cover, but the size of the effect depends on how temperature was measured." |
+| One source per paragraph | Several sources per paragraph, connected by a claim |
+| Describes what each source says | Explains how sources relate: agree, conflict, extend, or leave gaps |
+| Ends when the sources run out | Ends with what is still unknown and why it matters |
 
 ## Core practices
 
-### Build a comparison matrix
+### 1. Start from your notes, organized for comparison
 
-Track questions, methods, settings, findings, limitations, and relevance in consistent columns.
+Synthesis depends on note taking. If your notes on each source record
+different things, you can't compare them. Before building a matrix,
+make sure each source has notes on the same core questions. See [Note
+Taking Methods](note-taking.qmd) for annotation and the conceptual and
+practical question columns that feed this step.
 
-### Look across rows
+### 2. Build a comparison matrix
 
-Group studies by their shared claim, divergent result, method, scale, or context.
+A synthesis matrix is a table with **one row per source** and **the
+same columns for every source**. The idea goes back to Garrard's
+"matrix method" for literature reviews (Garrard, 2022) and to Webster
+and Watson's concept matrix (2002). Matrix-style notes have also been
+linked to better recall and synthesis than conventional linear notes
+(Kiewra et al., 1991).
 
-### Write from a claim
+Start with columns like these, and adapt them to your field:
 
-Begin a paragraph with a supported cross-study observation, then use individual studies as evidence and explain any important differences.
+| Source | Question / aim | Methods & design | Setting / population / scale | Key findings | Limitations (stated & your own) | Relevance to my question | My notes / questions |
+|---|---|---|---|---|---|---|---|
+| Author A (2019) | | | | | | | |
+| Author B (2021) | | | | | | | |
+| Author C (2023) | | | | | | | |
+
+Tips:
+
+- **Use consistent wording within each column** (e.g., always "field
+  experiment," "survey," "model," "lab study"). Consistent wording makes
+  patterns visible.
+- **Add concept columns** for the themes that keep coming up, and mark
+  which sources address each one. This is Webster and Watson's concept
+  matrix.
+- **Separate what the source says from what you think.** Keep your own
+  interpretations in the last column.
+- Build the matrix in a spreadsheet so you can sort and filter by
+  method, year, or setting.
+
+### 3. Look across rows, not just along them
+
+Reading *along* a row tells you about one study. Reading *down* a
+column shows patterns across studies. Ask:
+
+- **Agreement:** Which findings show up across several studies?
+- **Divergence:** Where do results differ? Do the differences line up
+  with method, setting, population, scale, time period, or how the
+  outcome was measured?
+- **Gaps:** Which questions, places, populations, or methods are
+  missing?
+- **Quality and weight:** Which findings rest on stronger designs or
+  larger samples? Which rest on a single study?
+- **Change over time:** Has the consensus shifted? Did a new method
+  change the picture?
+
+Group sources by what they share: a claim, a method, a scale, or a
+context. Those groups often become the sections of your review.
+
+### 4. Write from a claim
+
+Each synthesis paragraph should start with **your** cross-study
+observation, then use individual studies as evidence.
+
+**A paragraph pattern:**
+
+1. **Claim:** A cross-source observation in your own words.
+2. **Evidence:** Two or more sources that support it, with brief
+   specifics.
+3. **Complication:** Where sources differ, and the likely reason
+   (design, site, measurement).
+4. **So what:** What this means for your question, or what remains
+   unresolved.
+
+**Before (summary):**
+
+> Author A (2019) measured air temperature under trees in a temperate
+> city and found cooling of about 1 °C. Author B (2021) studied an arid
+> city and found larger cooling. Author C (2023) used satellite data and
+> found a strong effect.
+
+**After (synthesis):**
+
+> Studies agree that tree cover lowers urban temperatures, but reported
+> magnitudes differ in ways that track how temperature was measured.
+> Ground-level air-temperature studies report modest cooling (Author A,
+> 2019), whereas satellite-derived surface temperatures show larger
+> differences (Author C, 2023), likely because surfaces heat and cool
+> more than air. Climate may also matter: cooling appears greater in an
+> arid city (Author B, 2021), though a single study can't establish
+> that pattern. Comparing these results requires attention to the
+> outcome measured, not only the direction of the effect.
+
+*(Author names and values are placeholders that show the structure.)*
+
+### 5. Make your synthesis visible in the language
+
+Use words that signal relationships between sources:
+
+- **Agreement:** *consistent with, corroborates, similarly, converging
+  evidence*
+- **Contrast:** *in contrast, however, diverges, whereas*
+- **Qualification:** *only under, depends on, limited to, in the
+  settings studied*
+- **Extension:** *builds on, extends, applies … to a new context*
+- **Gap:** *few studies, remains unclear, has not been tested in*
 
 ## A simple workflow
 
-Choose three related studies. Complete a matrix with comparable fields. Identify one agreement and one apparent disagreement, then investigate whether design, site, population, or measurement explains the difference.
+1. Choose three related sources.
+2. Complete a matrix with comparable fields for each.
+3. Read down the columns. Identify **one agreement** and **one apparent
+   disagreement**.
+4. Investigate the disagreement. Can design, site, population, scale,
+   or measurement explain it?
+5. Write one paragraph using the claim → evidence → complication → so
+   what pattern.
+6. Add sources and repeat. As patterns emerge, group them into themes
+   for your outline.
 
 ## In context
 
 ::: {.callout-example}
-Three urban heat studies may report different magnitudes of cooling from tree cover. A synthesis asks which outcomes were measured and in which climates before concluding that the findings conflict.
+Three urban heat studies report different amounts of cooling from tree
+cover. Before concluding that the findings conflict, a student adds
+"temperature measured" and "climate zone" columns to their matrix. Two
+studies measured air temperature and one measured surface temperature.
+The "conflict" turns into a finding about measurement, and the student
+notes that few studies compare both in the same city.
 :::
+
+::: {.callout-example}
+In an education course, a student synthesizes research on peer
+tutoring. Their matrix shows that positive effects cluster in studies
+with structured tutor training, while untrained-tutor studies show
+mixed results. They organize their review around tutor preparation
+rather than summarizing each study in turn.
+:::
+
+## Common pitfalls
+
+- **One paragraph per source.** If each paragraph begins with an
+  author's name, you're probably summarizing.
+- **Treating a few studies as consensus.** Three studies don't make "the
+  literature." Say how many sources support a claim and what kinds.
+- **Hiding disagreement.** Conflicting findings are often the most
+  interesting part of a review. Explain them rather than leaving them
+  out.
+- **Losing your voice.** The connections between studies are your
+  contribution. Make them explicit.
+- **Ignoring quality.** Not all evidence weighs the same. Note design
+  strength and sample size.
 
 ## Keep in mind
 
-Do not treat a small number of studies as field-wide consensus. Distinguish evidence, interpretation, and uncertainty.
+Do not treat a small number of studies as field-wide consensus.
+Distinguish **evidence** (what studies found), **interpretation** (what
+you or the authors think it means), and **uncertainty** (what can't yet
+be concluded). Scale your language to the evidence: *suggests* or
+*indicates* for limited evidence, and stronger verbs only when many
+well-designed studies agree.
+
+## Sources and further reading
+
+- Garrard, J. (2022). *Health sciences literature review made easy: The
+  matrix method* (6th ed.). Jones & Bartlett Learning.
+- Kiewra, K. A., DuBois, N. F., Christian, D., McShane, A.,
+  Meyerhoffer, M., & Roskelley, D. (1991). Note-taking functions and
+  techniques. *Journal of Educational Psychology, 83*(2), 240–245.
+- Webster, J., & Watson, R. T. (2002). Analyzing the past to prepare
+  for the future: Writing a literature review. *MIS Quarterly, 26*(2),
+  xiii–xxiii. <http://www.jstor.org/stable/4132319>
+- Related guides: [Reproducible Literature Searching](literature-search.qmd)
+  · [Note Taking Methods](note-taking.qmd)
 
 ## Practice this skill
 

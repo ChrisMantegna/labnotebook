@@ -3,47 +3,198 @@ title: "Developing a Writing Habit"
 subtitle: "Build a sustainable practice of making ideas visible, revisiting them, and making progress."
 description: "Build a sustainable practice of making ideas visible, revisiting them, and making progress."
 category: "Writing"
-reading_time: "8 min"
+reading_time: "12 min"
 format:
   html:
     toc: true
     toc-depth: 2
-    css: resources.css
+    css: styles/resources.css
 ---
 
-[← All foundational skills](index.qmd) {.resource-back}
+[← All foundational skills](index.qmd){.resource-back}
 
 ::: {.resource-intro}
-**The essential idea:** Writing consistently is a way to think, not simply to produce polished text. A useful habit has a small starting step, a repeatable cue, and a way to capture what comes next.
+**The essential idea:** Writing consistently is a way to think, not
+simply a way to produce polished text. A useful habit has a small
+starting step, a repeatable cue, and a way to capture what comes next.
 :::
+
+## Why a habit, and not just a deadline?
+
+Many students write in bursts: nothing for weeks, then a long session
+the night before a deadline. Robert Boice's studies of academic writers
+found that people who wrote in brief, regular sessions produced more,
+and with less stress, than those who waited for large blocks of time
+(Boice, 1990). Later research added a correction. Successful writers
+are far more varied than "write every day" suggests, and most do not
+write daily (Sword, 2016).
+
+The useful lesson from both: **frequent, low-pressure contact with your
+writing project matters more than any single rule.** Find a rhythm you
+can sustain, and protect it.
+
+Writing also helps you learn. A meta-analysis of writing-to-learn
+programs found small but positive effects on achievement, and the
+effects were larger when students wrote reflectively about their own
+understanding and confusion (Bangert-Drowns et al., 2004).
 
 ## Core practices
 
-### Separate drafting from editing
+### 1. Prepare to write
 
-Use a short exploratory draft to discover ideas. Reserve later sessions for reorganizing and refining them.
+Getting started is often the hardest part. Build a short, consistent
+**start-up routine** that tells you it's time to write: the same place,
+a playlist, a cup of tea, closing other tabs, putting your phone in
+another room. The cue matters more than the details.
 
-### Choose a workable unit
+Make the plan specific with an **if-then plan**: "*If* it's Tuesday
+after my 10:30 class, *then* I'll go to the library's third floor and
+write for 25 minutes." If-then plans that link a situation to an action
+make people more likely to follow through on goals (Gollwitzer, 1999).
 
-Try a 15-minute session, one paragraph, or one question answered. A daily word count can be helpful, but is not the only measure of progress.
+**Reflect:** What helps you feel ready to write: music or silence, home
+or the library, morning or night? What reliably *stops* you? Design
+around both.
 
-### Leave a restart note
+### 2. Separate drafting from editing
 
-End each session by noting the next sentence, question, or source to consult.
+Drafting and editing use different mindsets. Trying to do both at once
+(polishing each sentence before writing the next) is a common cause of
+getting stuck.
+
+- **Drafting sessions** are for generating material: freewriting,
+  listing ideas, sketching an argument, writing a messy paragraph.
+  Freewriting means writing nonstop for a set time without stopping to
+  correct (Elbow, 1973). It is a reliable way to start.
+- **Revising sessions** are for rearranging, cutting, and strengthening
+  the argument.
+- **Editing sessions** are for sentence-level clarity, word choice,
+  grammar, and citations.
+
+### 3. Know what a useful draft looks like
+
+An early draft doesn't need to be good. It needs to give you, a peer,
+or an instructor something to respond to.
+
+| Aim for in an early draft | Leave for later |
+|---|---|
+| An identifiable subject or question | The perfect opening |
+| Specific content: a scene, example, data, or evidence | A fully realized ending |
+| A developing argument, relationship, or line of reasoning | Every transition |
+| Concrete details | Stylistic polish |
+| A possible larger meaning or "so what" | A definitive interpretation |
+| Enough writing for meaningful feedback | The final order of every paragraph |
+
+**One way to build a draft in stages:**
+
+1. **Find the material.** Write the core scene, example, finding, or
+   explanation without worrying about the introduction or conclusion.
+2. **Find the connection.** Add reflection or analysis. Why does this
+   material matter? What does it show?
+3. **Find the shape.** Arrange, connect, and expand the material into a
+   draft with a beginning, middle, and end.
+
+### 4. Choose a workable unit
+
+Pick a session goal small enough that you'll actually start:
+
+- **Time:** 15, 25, or 45 minutes. A timer helps, and Boice recommended
+  sessions in roughly the 10–50 minute range (Boice, 1990).
+- **Output:** One paragraph, one section, or one figure caption.
+- **Task:** Answer one question, outline one section, or revise one
+  page for argument.
+
+A daily word count can help, but it isn't the only measure of progress.
+Reading notes, outlining, making a synthesis matrix, and revising all
+count as writing work.
+
+### 5. Leave a restart note
+
+End each session by writing down the next step: the next sentence, the
+question you're stuck on, or the source to check. Starting the next
+session from a note is much easier than starting from a blank page.
+
+> *Next: finish paragraph on sediment results. Need the sample size
+> from Author B, p. 6. Unsure whether to move the methods comparison up.*
+
+### 6. Track lightly and get support
+
+- **Keep a simple log** of date, time spent, and what you worked on. It
+  shows you your real patterns and makes small progress visible.
+- **Write with others.** Writing groups, campus writing centers, or a
+  friend who writes at the same time add structure and accountability.
+- **Share drafts early.** Feedback on a rough draft is more useful than
+  feedback on a finished one.
 
 ## A simple workflow
 
-Before writing, name one purpose: explore an idea, explain evidence, revise a claim, or edit for clarity. Set a manageable session length and stop by recording your next action.
+1. **Before:** Name one purpose for the session: *explore* an idea,
+   *explain* evidence, *revise* a claim, or *edit* for clarity.
+2. **Set the unit:** Choose a session length or output goal you can
+   meet.
+3. **Start your cue:** Same place, same routine, distractions off.
+4. **Write:** Stay with that one purpose. If you notice something to
+   fix that belongs to a different purpose, make a note and keep going.
+5. **Stop on purpose:** Write your restart note and log the session.
+
+## Building the habit over time
+
+- **Expect it to take time.** In one study, the time for a new daily
+  behavior to feel automatic ranged from 18 to 254 days, with a median
+  around 66 days. Occasionally missing a day did not derail the process
+  (Lally et al., 2010).
+- **Start smaller than you think you need to.** A habit you keep beats
+  an ambitious plan you drop.
+- **Tie writing to an existing routine** (after a class, after lunch)
+  so the cue is reliable.
+- **Adjust by semester.** Your rhythm in exam weeks will differ from
+  the start of term, and that's fine.
 
 ## In context
 
 ::: {.callout-example}
-A student developing a shoreline restoration proposal spends 15 minutes listing what is known, what is uncertain, and which readers need the explanation. The session produces questions, not a perfect introduction.
+A student developing a shoreline restoration proposal spends 15 minutes
+listing what is known, what is uncertain, and which readers need the
+explanation. The session produces questions, not a perfect
+introduction. Their restart note reads: *"Find one source on erosion
+rates for the site. Start with the 'uncertain' list."*
+:::
+
+::: {.callout-example}
+A student with a lab report due on Friday sets three short sessions:
+Monday to draft methods and results from their lab notebook, Wednesday
+to draft the discussion from their notes on two sources, and Thursday
+to revise and edit. Each session has one purpose and ends with a
+restart note.
 :::
 
 ## Keep in mind
 
-A sustainable practice includes rest and flexibility. Missing a session is information about your schedule, not evidence that you cannot write.
+A sustainable practice includes rest and flexibility. Missing a session
+is information about your schedule, not evidence that you can't write.
+There is no single correct writing routine (Sword, 2016). Experiment,
+notice what helps, and keep what works.
+
+## Sources and further reading
+
+- Bangert-Drowns, R. L., Hurley, M. M., & Wilkinson, B. (2004). The
+  effects of school-based writing-to-learn interventions on academic
+  achievement: A meta-analysis. *Review of Educational Research, 74*(1),
+  29–58. <https://doi.org/10.3102/00346543074001029>
+- Boice, R. (1990). *Professors as writers: A self-help guide to
+  productive writing.* New Forums Press.
+- Elbow, P. (1973). *Writing without teachers.* Oxford University Press.
+- Gollwitzer, P. M. (1999). Implementation intentions: Strong effects
+  of simple plans. *American Psychologist, 54*(7), 493–503.
+  <https://doi.org/10.1037/0003-066X.54.7.493>
+- Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J.
+  (2010). How are habits formed: Modelling habit formation in the real
+  world. *European Journal of Social Psychology, 40*(6), 998–1009.
+  <https://doi.org/10.1002/ejsp.674>
+- Sword, H. (2016). 'Write every day!': A mantra dismantled.
+  *International Journal for Academic Development, 21*(4), 312–322.
+  <https://doi.org/10.1080/1360144X.2016.1210153>
+- Your campus writing center.
 
 ## Practice this skill
 

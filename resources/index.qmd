@@ -4,84 +4,89 @@ subtitle: "Field guides for reading, researching, writing, and communicating"
 format:
   html:
     toc: false
-    css: resources.css
+    css: styles/resources.css
 ---
 
 ::: {.resource-hero}
 ## Learn a skill. Put it to work.
 
-These concise field guides offer practical starting points for independent learning, research, and public communication. Each guide provides a core idea, a few habits to adopt, and a worked example. The separate **Practicing the Skills** module provides exercises and templates.
+These field guides offer practical, research-informed starting points
+for reading, research, writing, and communication. Each guide explains
+a core idea, walks through a step-by-step process with templates and
+examples, flags common pitfalls, and lists sources for further reading.
+The separate **Practicing the Skills** module provides exercises,
+templates, and an ethical AI checklist.
 
-[Explore practice activities](practicing.qmd) {.resource-cta}
+[Explore practice activities](practicing.qmd){.resource-cta}
 :::
 
 ## Browse the field guides
 
-:::: {.resource-grid}
-::: {.resource-card}
-<span class="resource-eyebrow">Writing</span>
-### [Developing a Writing Habit](writing-habits.qmd)
+The guides are ordered to follow a typical study or research project,
+from reading and finding sources through writing and sharing, then
+ethical tool use and practice. Each one stands alone, so you can start
+wherever you are.
 
-Build a sustainable practice of making ideas visible, revisiting them, and making progress.
-:::
-::: {.resource-card}
-<span class="resource-eyebrow">Reading</span>
-### [Purposeful Note Taking](note-taking.qmd)
-
-Take notes that support understanding, inquiry, and future reuse.
-:::
-::: {.resource-card}
-<span class="resource-eyebrow">Writing</span>
-### [Outlining and Reverse Outlining](outlining.qmd)
-
-Plan ideas before drafting and diagnose structure after drafting.
-:::
-::: {.resource-card}
-<span class="resource-eyebrow">Research</span>
-### [Reference Managers](reference-managers.qmd)
-
-Keep a verifiable, searchable record of sources and citations.
-:::
-::: {.resource-card}
-<span class="resource-eyebrow">Research</span>
-### [Reproducible Literature Searching](literature-search.qmd)
-
-Make the path from question to source selection understandable and repeatable.
-:::
-::: {.resource-card}
-<span class="resource-eyebrow">Research</span>
-### [Synthesizing Literature](literature-synthesis.qmd)
-
-Turn a collection of sources into a connected account of what is known.
-:::
-::: {.resource-card}
-<span class="resource-eyebrow">Communication</span>
-### [Communicating with Non-Expert Audiences](science-communication.qmd)
-
-Make complex environmental information useful without erasing nuance.
-:::
-::: {.resource-card}
-<span class="resource-eyebrow">Communication</span>
-### [Peer Review and Revision](peer-review.qmd)
-
-Give useful feedback and make intentional revision decisions.
-:::
-::: {.resource-card}
-<span class="resource-eyebrow">Practice</span>
-### [Ethical Research, Writing, and AI Use](research-ethics.qmd)
-
-Build trustworthy practices for attribution, representation, and responsible tool use.
-:::
-::::
-
-## Apply what you learn
-
-::: {.resource-feature}
-### [Practicing the Skills](practicing.qmd)
-
-Nine exercises, reflection prompts, and blank templates provide a place to try techniques on your own work. Activities are independent: start anywhere.
-:::
+```{=html}
+<div class="resource-grid">
+<div class="resource-card">
+<span class="resource-eyebrow">1 · Reading</span>
+<h3><a href="note-taking.html">Note Taking Methods</a></h3>
+<p>Choose a note-taking method by purpose, then use your notes to recall, connect, and write.</p>
+</div>
+<div class="resource-card">
+<span class="resource-eyebrow">2 · Research</span>
+<h3><a href="literature-search.html">Reproducible Literature Searching</a></h3>
+<p>Make the path from question to source selection understandable and repeatable.</p>
+</div>
+<div class="resource-card">
+<span class="resource-eyebrow">3 · Research</span>
+<h3><a href="reference-managers.html">Reference Managers</a></h3>
+<p>Keep a verifiable, searchable record of sources and citations.</p>
+</div>
+<div class="resource-card">
+<span class="resource-eyebrow">4 · Research</span>
+<h3><a href="literature-synthesis.html">Synthesizing Literature</a></h3>
+<p>Turn a collection of sources into a connected account of what is known.</p>
+</div>
+<div class="resource-card">
+<span class="resource-eyebrow">5 · Writing</span>
+<h3><a href="writing-habits.html">Developing a Writing Habit</a></h3>
+<p>Build a sustainable practice of making ideas visible, revisiting them, and making progress.</p>
+</div>
+<div class="resource-card">
+<span class="resource-eyebrow">6 · Writing</span>
+<h3><a href="outlining.html">Outlining and Reverse Outlining</a></h3>
+<p>Plan ideas before drafting and diagnose structure after drafting.</p>
+</div>
+<div class="resource-card">
+<span class="resource-eyebrow">7 · Communication</span>
+<h3><a href="peer-review.html">Peer Review and Revision</a></h3>
+<p>Give useful feedback and make intentional revision decisions.</p>
+</div>
+<div class="resource-card">
+<span class="resource-eyebrow">8 · Communication</span>
+<h3><a href="science-communication.html">Communicating with Non-Expert Audiences</a></h3>
+<p>Make complex information useful without erasing nuance.</p>
+</div>
+<div class="resource-card">
+<span class="resource-eyebrow">9 · Ethics &amp; AI</span>
+<h3><a href="research-ethics.html">Ethical Research, Writing, and AI Use</a></h3>
+<p>Build trustworthy practices for attribution, representation, and responsible tool use.</p>
+</div>
+<div class="resource-card">
+<span class="resource-eyebrow">10 · Practice</span>
+<h3><a href="practicing.html">Practicing the Skills</a></h3>
+<p>Nine activities, an ethical AI vetting checklist, and downloadable templates. Start anywhere.</p>
+</div>
+</div>
+```
 
 ## Who these resources are for
 
-These guides are written for advanced undergraduate learners and early-career researchers working across environmental fields. They are not tied to a course, assignment, discipline, laboratory, or required software package.
+These guides are written for undergraduate students in any discipline,
+and they are useful for early-career researchers too. They are not tied
+to a course, assignment, discipline, laboratory, or required software
+package. Examples come from a range of fields, and each guide links to
+the others so you can follow a skill from reading to research to
+writing and sharing.

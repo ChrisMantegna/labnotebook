@@ -6,125 +6,541 @@ format:
   html:
     toc: true
     toc-depth: 2
-    css: resources.css
+    css: styles/resources.css
 ---
 
-[← All foundational skills](index.qmd) {.resource-back}
+[← All foundational skills](index.qmd){.resource-back}
 
 ::: {.resource-intro}
-**How to use this module:** Each activity takes approximately 10–25 minutes, with longer optional extensions. Choose an activity that fits your current work; you do not need to complete them in order. Keep your outputs in a notebook or project folder so your decisions remain traceable.
+**How to use this module:** Each activity takes about 15–30 minutes,
+with optional extensions. Choose the activity that fits your current
+work. You don't need to do them in order. Use real material from your
+own courses or projects whenever you can, and keep your outputs in a
+notebook or project folder so your decisions stay traceable.
 :::
 
-[Download the blank practice log](templates/practice-log.csv) · [Download the literature search log](templates/literature-search-log.csv) · [Download the synthesis matrix](templates/synthesis-matrix.csv)
+**Templates:** [Practice log](templates/practice-log.csv) ·
+[Literature search log](templates/literature-search-log.csv) ·
+[Synthesis matrix](templates/synthesis-matrix.csv) ·
+[Revision plan](templates/revision-plan.csv) ·
+[AI use log](templates/ai-use-log.csv)
 
-## A seven-session writing experiment {#writing-habits}
+## Where to start
 
-**Connected guide:** [Developing a Writing Habit](writing-habits.qmd)
+The skills build on each other across a typical research or writing
+project. Use this table to find the activity that matches where you
+are now.
 
-**Task:** Choose a low-pressure writing unit (for example 10 minutes). Before each session, record your purpose; after, record what you produced and the next action. At the end, assess which cues and conditions worked.
-
-**Suggested record:** Session date | Purpose | Time or output | What helped | Next action.
-
-**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+| If you are… | Try | Then |
+|---|---|---|
+| Starting to read for a course or topic | [Compare note-taking approaches](#note-taking) | [Run three search iterations](#literature-search) |
+| Looking for sources on a question | [Run three search iterations](#literature-search) | [Audit five citations](#reference-managers) |
+| Holding a pile of sources | [Move from a matrix to a paragraph](#literature-synthesis) | [Reverse-outline a draft](#outlining) |
+| Struggling to start or keep writing | [A seven-session writing experiment](#writing-habits) | [Reverse-outline a draft](#outlining) |
+| Holding a full draft | [Reverse-outline a draft](#outlining) | [Feedback to revision plan](#peer-review) |
+| Preparing to share work beyond class | [Translate for two audiences](#science-communication) | [Trace a claim and audit tool use](#research-ethics) |
+| About to submit anything | [Ethical AI use: vetting checklist](#ai-checklist) | |
 
 ---
 
 ## Compare note-taking approaches {#note-taking}
 
-**Connected guide:** [Purposeful Note Taking](note-taking.qmd)
+**Connected guide:** [Note Taking Methods](note-taking.qmd) ·
+**Time:** 25–30 minutes · **You'll need:** one short reading (3–6
+pages) from any course
 
-**Task:** Read a short environmental article twice. On the first pass, use Cornell-style notes; on the second, annotate claims and limitations. Compare what each approach helped you notice.
+**Task:** Practice choosing a method by purpose, and see what different
+methods help you notice.
 
-**Suggested record:** Source | Reading purpose | Factual notes | Questions | Interpretation.
+1. **Write your purpose** at the top of a scratch page in one sentence.
+2. **Skim once** and fill only two columns: *conceptual* questions and
+   *practical* questions. Take no other notes.
+3. **Read one section using Cornell notes.** Record in the right
+   column, then reduce to cues in the left column.
+4. **Read a second section using annotation.** Mark claims (C),
+   evidence (E), assumptions (A), and limitations (L), with a margin
+   note for every mark.
+5. **Recite:** Cover your Cornell notes and answer your cue questions
+   from memory. Note what you couldn't recall.
+6. **Compare:** What did each method help you notice? Which fit your
+   purpose better?
 
-**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+**Suggested record:**
 
----
+| Section | Purpose | Method | What it helped me notice | What it missed | Recall check (✓ / ✗) |
+|---|---|---|---|---|---|
+| | | Cornell | | | |
+| | | Annotation | | | |
 
-## Reverse-outline a draft {#outlining}
+**Check your work:**
 
-**Connected guide:** [Outlining and Reverse Outlining](outlining.qmd)
+- Quotations, paraphrases, and your own ideas are visibly separate, with
+  page numbers.
+- Your Cornell summary is in your own words and is three sentences or
+  fewer.
+- Every annotation mark has a note explaining why you made it.
 
-**Task:** Select 5–8 consecutive paragraphs from your own draft or an openly available article. Write a one-line job description for each. Mark repetition or gaps and propose a better order.
+**Extension:** Turn the same reading into a mind map with labeled
+links, then review your Cornell cues again two or three days later
+before rereading anything.
 
-**Suggested record:** Paragraph | Main job | Evidence used | Move / revise / keep.
-
-**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
-
----
-
-## Audit five citations {#reference-managers}
-
-**Connected guide:** [Reference Managers](reference-managers.qmd)
-
-**Task:** Import five sources into a reference manager. Verify each record against the source itself, group the items in a collection, and create a bibliography. Check the exported citations.
-
-**Suggested record:** Source identifier | Metadata verified? | Collection / tags | Correction made.
-
-**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+**Reflect:** Which practical questions did the reading answer, and
+which conceptual questions are still open? Which method will you use
+next time for this kind of reading, and why?
 
 ---
 
 ## Run three documented search iterations {#literature-search}
 
 **Connected guide:** [Reproducible Literature Searching](literature-search.qmd)
+· **Time:** 30 minutes · **You'll need:** access to a library
+database, plus the [literature search log](templates/literature-search-log.csv)
 
-**Task:** State a focused question. Run three searches, changing just one element per iteration; log exact queries, platform, date, filters, and screening decisions.
+**Task:** Build a search deliberately and record each change so that
+someone else could rerun it.
 
-**Suggested record:** Date | Database | Exact query | Filters | Results | Change and reason.
+1. **Write a focused question** in one sentence and split it into three
+   concepts.
+2. **List synonyms** for each concept, using two or three relevant
+   abstracts to find terms you hadn't thought of.
+3. **Write inclusion and exclusion criteria** (date range, study type,
+   setting) *before* searching.
+4. **Search 1:** Draft the string in a document using OR within concepts
+   and AND between them. Run it, then log the exact string, database,
+   date, fields, filters, and result count.
+5. **Scan the first 20 results.** Note what's on target, what's off, and
+   which terms relevant papers use.
+6. **Searches 2 and 3:** Change **one element at a time** (add a
+   synonym, change a field limit, or adjust a filter). Log each change
+   and why you made it.
+7. **Screen 10 titles and abstracts** from your best search: include,
+   exclude (with a reason), or maybe.
 
-**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+**Suggested record:**
+
+| Date | Database | Exact query | Fields | Filters | Results | Change and reason |
+|---|---|---|---|---|---|---|
+
+**Check your work:**
+
+- Could a classmate rerun every search from your log alone?
+- Did each iteration change only one thing?
+- Does every exclusion have a recorded reason?
+
+**Extension:** Translate your best string into a second database,
+adjusting the syntax. Then chase citations from your strongest source,
+both backward through its reference list and forward through "cited
+by."
+
+**Reflect:** Which change had the biggest effect, and why? How would
+you describe the boundaries of your search in two sentences?
+
+---
+
+## Audit five citations {#reference-managers}
+
+**Connected guide:** [Reference Managers](reference-managers.qmd) ·
+**Time:** 25 minutes · **You'll need:** Zotero (or another reference
+manager) with its browser connector and word-processor plugin installed
+
+**Task:** Import sources, verify their records, and check that a
+generated bibliography is accurate.
+
+1. **Create a collection** for a current project.
+2. **Import five sources** using at least two methods: a database page,
+   a DOI, and an ISBN or library catalog entry.
+3. **Verify each record against the source itself:** authors, title,
+   publication, volume and pages, date, item type, and DOI.
+4. **Correct errors** in the library (not in the document), and add one
+   or two tags from a short, consistent list.
+5. **Add a note** to each item explaining why it matters to your
+   project.
+6. **Insert all five citations** into a document with the plugin, then
+   generate a bibliography in your required style.
+7. **Spot-check two entries** against the official style guide.
+
+**Suggested record:**
+
+| Source identifier | Import method | Metadata errors found | Correction made | Tags | Why it matters |
+|---|---|---|---|---|---|
+
+**Check your work:**
+
+- Every item has a DOI or stable identifier where one exists. Zotero's
+  retraction check depends on it.
+- No item is the wrong type (for example, a book chapter saved as a
+  journal article).
+- You didn't edit the bibliography by hand.
+
+**Extension:** Pick one sentence in a draft that cites a source. Reopen
+the source and confirm that the cited passage actually supports that
+specific claim.
+
+**Reflect:** How many records needed corrections? What does that
+suggest about trusting automatic metadata?
 
 ---
 
 ## Move from a matrix to a paragraph {#literature-synthesis}
 
 **Connected guide:** [Synthesizing Literature](literature-synthesis.qmd)
+· **Time:** 30 minutes (plus reading time) · **You'll need:** three
+sources on one shared question, plus the [synthesis
+matrix](templates/synthesis-matrix.csv)
 
-**Task:** Read three sources addressing one shared question. Compare evidence and methods, identify a pattern and a limitation, then write one synthesis paragraph with citations.
+**Task:** Compare sources systematically and write one synthesis
+paragraph that starts from a claim, not from an author.
 
-**Suggested record:** Source | Context | Method | Finding | Limitation | Connection.
+1. **Complete one matrix row per source** using the same columns:
+   question, methods, setting, findings, limitations, relevance.
+2. **Read down the columns.** Find **one agreement** and **one apparent
+   disagreement**.
+3. **Investigate the disagreement:** Can design, setting, population,
+   scale, or measurement explain it?
+4. **Write a one-sentence cross-source claim.**
+5. **Write the paragraph:** claim → evidence from at least two sources
+   → complication → so what.
+6. **Underline your claim and circle each author name.** If a circled
+   name starts the paragraph, revise.
 
-**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+**Suggested record:**
+
+| Source | Question | Method | Setting | Finding | Limitation | Connection to others |
+|---|---|---|---|---|---|---|
+
+**Check your work:**
+
+- The paragraph opens with your observation, not a summary of one study.
+- At least two sources appear as evidence.
+- Your language matches the strength of the evidence (*suggests* vs.
+  *shows*).
+- You don't present three studies as the consensus of a whole field.
+
+**Extension:** Add two more sources and a concept column for a theme
+that keeps coming up. Do your groupings change?
+
+**Reflect:** What did reading down the columns show you that reading
+each source alone did not?
+
+---
+
+## A seven-session writing experiment {#writing-habits}
+
+**Connected guide:** [Developing a Writing Habit](writing-habits.qmd) ·
+**Time:** 10–25 minutes per session, over 1–2 weeks · **You'll need:** a
+current writing project of any size, plus the [practice
+log](templates/practice-log.csv)
+
+**Task:** Treat your writing routine as an experiment, and gather
+evidence about what helps you start and keep going.
+
+1. **Set an if-then plan** for each session: "*If* it's [time/place],
+   *then* I'll write for [unit]."
+2. **Choose a small unit:** 10–25 minutes, one paragraph, or one
+   question answered.
+3. **Before each session,** name one purpose: *explore*, *explain*,
+   *revise*, or *edit*.
+4. **During the session,** stay with that purpose. Note anything else
+   for later.
+5. **End each session with a restart note:** the next sentence,
+   question, or source.
+6. **Log each session.** Vary one condition across sessions (place,
+   time of day, music or silence, alone or with a group) so you can
+   compare.
+7. **After seven sessions,** review the log for patterns.
+
+**Suggested record:**
+
+| Date | If-then plan | Purpose | Condition tested | Time or output | What helped | Restart note |
+|---|---|---|---|---|---|---|
+
+**Check your work:**
+
+- Every session ends with a restart note.
+- Missed sessions are logged with the reason, not just skipped.
+- At least two conditions were compared.
+
+**Extension:** Join or start a writing session with others for at least
+two of the seven sessions, and compare those entries with your solo
+sessions.
+
+**Reflect:** Which cue or condition most reliably got you started? What
+does a missed session tell you about your schedule, rather than about
+your ability?
+
+---
+
+## Reverse-outline a draft {#outlining}
+
+**Connected guide:** [Outlining and Reverse Outlining](outlining.qmd) ·
+**Time:** 20–30 minutes · **You'll need:** 5–8 consecutive paragraphs
+from your own draft or an openly available article
+
+**Task:** Map what each paragraph actually does, then propose a better
+structure.
+
+1. **Write the draft's thesis or purpose** in one sentence at the top.
+2. **Number each paragraph.**
+3. **For each paragraph, write two notes:** *Says* (main point, one
+   sentence) and *Does* (function: introduces, gives evidence,
+   compares, counters, concludes).
+4. **Read only the outline**, without the draft. Does it work as an
+   argument?
+5. **Mark problems:** repetition, gaps, off-thesis paragraphs,
+   paragraphs doing two jobs ("and" in the *Does* column), and order
+   problems.
+6. **Propose a revised order** and a short action for each paragraph:
+   keep, move, combine, split, add, or cut.
+
+**Suggested record:**
+
+| ¶ | Says | Does | Evidence used | Supports thesis? | Action |
+|---|---|---|---|---|---|
+
+**Check your work:**
+
+- *Says* entries describe claims ("evidence that X increased after
+  1990"), not just topics ("talks about X").
+- Every paragraph has exactly one job, or is marked to split.
+- Structural actions are planned before any sentence editing.
+
+**Extension:** Compare your reverse outline with your original plan.
+Where they differ, decide which version is stronger and why.
+
+**Reflect:** What problem was invisible in the prose but obvious in the
+outline?
+
+---
+
+## Feedback to revision plan {#peer-review}
+
+**Connected guide:** [Peer Review and Revision](peer-review.qmd) ·
+**Time:** 20 minutes to review, 20 minutes to plan · **You'll need:** a
+short draft (1–3 pages), a peer, and the [revision
+plan](templates/revision-plan.csv)
+
+**Task:** Exchange focused feedback and turn it into a prioritized,
+reasoned revision plan.
+
+**As the writer:**
+
+1. Write a short note for your reviewer: your goal, your audience, and
+   one place where you're unsure.
+
+**As the reviewer:**
+
+2. Read once without marking.
+3. Summarize the main message in two or three sentences.
+4. On a second pass, give **one strength**, **two substantive
+   comments**, and **one unanswered question**. Tie each to a location
+   in the draft and use the *observe → effect → suggest* pattern.
+
+**As the writer, again:**
+
+5. Read all feedback before responding. Sort comments into global vs.
+   local and agree / unsure / disagree.
+6. Compare the reviewer's summary with your intended message.
+7. Write a revision plan with priorities and a reason for each
+   decision.
+
+**Suggested record:**
+
+| Priority | Feedback | Location | Decision (accept / adapt / decline) | Planned action | Reason |
+|---|---|---|---|---|---|
+
+**Check your work:**
+
+- Every comment points to a specific place in the draft.
+- Global issues are ranked above sentence-level issues.
+- Declined suggestions have a reason.
+
+**Extension:** Swap roles and review your partner's draft. Then write
+two sentences on what reviewing taught you about your own draft.
+
+**Reflect:** Did the reviewer's summary match your intended message?
+If not, what does that gap tell you?
 
 ---
 
 ## Translate for two audiences {#science-communication}
 
 **Connected guide:** [Communicating with Non-Expert Audiences](science-communication.qmd)
+· **Time:** 30 minutes · **You'll need:** one clearly supported finding
+from a source you have read
 
-**Task:** Take one clearly supported scientific claim and rewrite it for a community meeting and for an interdisciplinary research team. Compare choices about vocabulary, emphasis, uncertainty, and format.
+**Task:** Adapt one finding for two different audiences while keeping
+its meaning and limits.
 
-**Suggested record:** Audience | Goal | Key message | Terms to explain | Evidence / uncertainty.
+1. **Write the original finding** in one sentence, including its
+   conditions and uncertainty (where, when, how sure).
+2. **Choose two specific audiences**, for example a community meeting
+   and an interdisciplinary research team, or a city council and a
+   high school class.
+3. **For each audience, fill in a Message Box:** Problem, So what?,
+   Solutions, Benefits.
+4. **Draft a short version for each** (a 100-word paragraph, a slide, or
+   a 60-second spoken explanation), bottom line first.
+5. **Check terms:** Replace or define jargon, and watch for words with
+   different public meanings (e.g., "significant," "theory,"
+   "positive feedback").
+6. **Fidelity check:** Compare each version with your original
+   sentence. Are the conditions and uncertainty still there?
+7. **Test one version** with someone from (or close to) that audience.
 
-**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+**Suggested record:**
 
----
+| Audience | Goal | So what? (for them) | Key message | Terms changed | Uncertainty kept? | Format |
+|---|---|---|---|---|---|---|
 
-## Feedback to revision plan {#peer-review}
+**Check your work:**
 
-**Connected guide:** [Peer Review and Revision](peer-review.qmd)
+- Each version leads with meaning, not methods.
+- The "so what?" differs between the two audiences.
+- Neither version claims more than the evidence supports.
 
-**Task:** Use a short draft. Ask a peer for one reader takeaway, two substantive comments, and one unanswered question. Convert feedback into prioritized revision actions.
+**Extension:** Run both drafts through a jargon checker such as the
+De-Jargonizer and revise any flagged terms.
 
-**Suggested record:** Feedback | Location | Priority | Planned action | Reason.
-
-**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+**Reflect:** What did you have to give up for each audience, and what
+did you refuse to give up?
 
 ---
 
 ## Trace a claim and audit tool use {#research-ethics}
 
 **Connected guide:** [Ethical Research, Writing, and AI Use](research-ethics.qmd)
+· **Time:** 25 minutes · **You'll need:** one paragraph and one visual
+(figure, image, map, or table) from a current draft
 
-**Task:** Select one paragraph and one image from a draft. Verify provenance, permissions, citation, and accuracy. Record any assisted tools and whether the material could be shared safely.
+**Task:** Verify where your content came from, whether it is
+represented fairly, and whether any tool use is documented.
 
-**Suggested record:** Item | Source / permission | Verification | Risk | Action.
+1. **List every factual claim** in the paragraph.
+2. **Trace each claim** to its source. Open the source and confirm it
+   says what you claim, at the page you cite.
+3. **Check wording:** Mark direct quotes and check paraphrases against
+   the original for patchwriting.
+4. **Check the visual:** Who created it? What license or permission
+   applies? Is it cited? Does it present the data honestly (scales,
+   axes, cropping)?
+5. **Check data and people:** Does anything identify individuals,
+   sensitive locations, or community-controlled information?
+6. **Record any tool assistance** (AI, translation, paraphrasing,
+   grammar tools), what it did, and what you verified.
 
-**Reflect:** What did this activity make visible that you might otherwise have missed? What would you change in your next attempt?
+**Suggested record:**
+
+| Item | Source / permission | Verified against original? | Risk | Action |
+|---|---|---|---|---|
+
+**Check your work:**
+
+- Every claim traces to a source you have read.
+- The visual has a citation and a reuse right you can name.
+- Any tool use is recorded and allowed by the policy for this
+  assignment.
+
+**Extension:** Complete the [Ethical AI use: vetting
+checklist](#ai-checklist) below for a full assignment.
+
+**Reflect:** Which item was hardest to trace? What note-taking or
+citation habit would have made it easier?
+
+---
+
+## Ethical AI use: vetting checklist {#ai-checklist}
+
+**Connected guide:** [Ethical Research, Writing, and AI Use](research-ethics.qmd)
+· **Use:** before you start using an AI tool on an assignment, and
+again before you submit · **Template:** [AI use
+log](templates/ai-use-log.csv)
+
+AI tools can help with brainstorming, organizing, and editing. They can
+also invent sources, misstate findings, and blur whose work is whose.
+Use this checklist to make sure any use is **permitted, verified,
+transparent, and yours**.
+
+### Before you use a tool
+
+- [ ] I've read the AI policy for **this** course or assignment, or
+      asked my instructor. (One course's policy doesn't apply to
+      another.)
+- [ ] I can say what I'm using the tool **for** (e.g., brainstorming
+      search terms, checking grammar) and what I'm **not** using it for.
+- [ ] The task still lets me practice the skill the assignment is meant
+      to build.
+- [ ] I won't enter restricted material: unpublished data, participant
+      or personal information, confidential documents, peer-review
+      materials, or someone else's work without permission.
+
+### While you use it
+
+- [ ] I'm logging the tool, date, task, and what I kept or changed.
+- [ ] I treat output as a draft or suggestion to evaluate, not as a
+      source.
+- [ ] I don't ask the tool to write sections I'm meant to write myself.
+
+### Before you submit
+
+**Sources and facts**
+
+- [ ] Every source I cite is one I found and opened myself. No
+      citations come from AI output without being checked against the
+      original.
+- [ ] Every factual claim the tool contributed has been checked against
+      a reliable primary source.
+- [ ] Each citation supports the specific claim it's attached to.
+
+**Authorship and voice**
+
+- [ ] I can explain and defend every part of the submission without the
+      tool.
+- [ ] The ideas, argument, and analysis are mine, or are attributed to
+      their sources.
+- [ ] I've reviewed AI-assisted passages for accuracy, bias, and fit
+      with my own voice.
+
+**Transparency**
+
+- [ ] I've disclosed AI use where the course requires it, in the
+      required format (e.g., a statement or methods note, or a citation
+      following my style guide).
+- [ ] My AI use log is complete enough to answer "what did you use it
+      for, and what did you check?"
+
+**Care and representation**
+
+- [ ] No personal, sensitive, or community-controlled information was
+      shared with a tool.
+- [ ] Generated images or figures (if allowed) are labeled as generated
+      and don't misrepresent real data, people, or places.
+
+**Example disclosure statement:**
+
+> *I used [tool name] on [date(s)] to [task, e.g., suggest alternative
+> search terms and check grammar in my final draft]. I did not use it to
+> generate sources, analysis, or text for [sections]. I verified all
+> suggestions against my own reading, and all citations come from my
+> own search.*
+
+**If you can't check a box:** Stop and fix the issue, remove the
+AI-assisted material, or ask your instructor before submitting. An
+unchecked box is information, not a failure.
 
 ---
 
 ## Practice reflection
 
-After any activity, record three things: what you tried, what you noticed, and what you will do next. The goal is a usable process, not a perfect worksheet.
+After any activity, record three things: **what you tried**, **what you
+noticed**, and **what you will do next**. Every few weeks, look back
+across your practice log:
+
+- Which skills are becoming routine?
+- Which steps do you still skip under time pressure?
+- Which one habit would most improve your next project?
+
+The goal is a usable process, not a perfect worksheet.
+
+::: {.resource-footer}
+[Browse all guides](index.qmd) · [Practice activities](practicing.qmd)
+:::

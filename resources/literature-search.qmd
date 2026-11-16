@@ -3,47 +3,239 @@ title: "Reproducible Literature Searching"
 subtitle: "Make the path from question to source selection understandable and repeatable."
 description: "Make the path from question to source selection understandable and repeatable."
 category: "Research"
-reading_time: "9 min"
+reading_time: "14 min"
 format:
   html:
     toc: true
     toc-depth: 2
-    css: resources.css
+    css: styles/resources.css
 ---
 
-[← All foundational skills](index.qmd) {.resource-back}
+[← All foundational skills](index.qmd){.resource-back}
 
 ::: {.resource-intro}
-**The essential idea:** A transparent literature search records where, when, and how you searched, as well as why sources were included or excluded. It supports defensible decisions even when the search evolves.
+**The essential idea:** A transparent literature search records where,
+when, and how you searched, and why sources were included or excluded.
+It lets you (or a reader, instructor, or teammate) see how you got from
+a question to a set of sources. It supports defensible decisions even
+when the search evolves.
 :::
+
+## Why make a search reproducible?
+
+Most student searches are a string of quick queries that can't be
+rebuilt a week later. That causes practical problems. You lose track of
+what you already checked, you can't explain why a key paper is missing,
+and you can't update the search when an assignment grows. Even in
+published systematic reviews, the search is often poorly reported,
+which led to the PRISMA-S reporting checklist (Rethlefsen et al.,
+2021).
+
+You don't need full systematic-review rigor for a course paper. The
+same habits scale down well: **plan the question, build the search
+deliberately, and write down what you did.**
 
 ## Core practices
 
-### Scope the question
+### 1. Scope the question
 
-Identify topic, population or system, context, and type of evidence needed.
+Before you search, write your question as one sentence. Then break it
+into concepts. A simple frame:
 
-### Construct search strings
+| Element | Ask yourself | Example (eelgrass restoration) |
+|---|---|---|
+| **Topic or intervention** | What phenomenon, process, or action? | Eelgrass restoration / transplanting |
+| **Population or system** | Who or what is studied? | *Zostera marina* beds |
+| **Context** | Where, when, under what conditions? | Temperate estuaries |
+| **Outcome or focus** | What are you trying to learn about it? | Sediment characteristics, survival |
+| **Evidence type** | What kind of source answers this? | Field studies, experiments, reviews |
 
-Combine synonyms with OR and different concepts with AND; check each database’s syntax.
+Health sciences often use PICO (Population, Intervention, Comparison,
+Outcome) for the same purpose. Use whatever frame your discipline uses.
+What matters is having named concepts to search for.
 
-### Log your decisions
+Also decide your **inclusion and exclusion criteria before you start
+screening**: date range, language, study type, geography, peer review.
+Writing them down early keeps you from changing the rules to fit the
+sources you happen to find.
 
-Record search date, database, exact query, filters, results, changes, and screening reasons.
+### 2. Build the search string
+
+Combine **synonyms within a concept using OR**, and **different
+concepts using AND**. Do this in a text document first, not in the
+search box. A document lets you edit, reuse, and record the string
+(Bramer et al., 2018).
+
+```
+(eelgrass OR "Zostera marina" OR seagrass)
+AND (restor* OR transplant* OR replant*)
+AND (sediment* OR "grain size" OR "organic matter")
+```
+
+Tools to know (check each database's help page, because syntax varies):
+
+- **Quotation marks** search an exact phrase: `"grain size"`.
+- **Truncation** (often `*`) finds word endings: `restor*` → restore,
+  restoration, restoring.
+- **Parentheses** group OR terms so AND applies correctly.
+- **NOT** excludes terms. Use it sparingly, since it can quietly remove
+  relevant results.
+- **Field limits** restrict terms to title, abstract, or keywords.
+- **Controlled vocabulary** (subject headings such as MeSH in PubMed,
+  or a database's thesaurus) catches papers that use different words
+  for the same idea.
+
+**Finding synonyms:** Read the titles, abstracts, and keywords of two
+or three relevant papers. Note the terms *they* use, including older
+terms, regional spellings, and technical vs. common names.
+
+### 3. Choose where to search
+
+Use more than one source. Different databases index different journals,
+and no single tool covers everything.
+
+- **A subject database** for your field (e.g., Web of Science, Scopus,
+  PubMed, ERIC, PsycINFO, Aquatic Sciences and Fisheries Abstracts).
+  Your library's subject guides list the main ones.
+- **A broad tool** such as Google Scholar, for breadth and gray
+  literature. Its results change over time and are hard to reproduce,
+  so log the date and treat it as a supplement.
+- **Citation chasing:** Check the reference lists of key papers
+  (backward) and use "cited by" links to find newer work that cites
+  them (forward).
+
+**Ask a librarian.** Subject librarians help with exactly this, and a
+short consultation can save you hours.
+
+### 4. Log your decisions
+
+Keep a search log in a spreadsheet or document *as you go*. Record
+every search you run, including the ones that didn't work.
+
+| Date | Database / platform | Exact search string | Fields searched | Filters / limits | Results | Notes / changes and why |
+|---|---|---|---|---|---|---|
+| 2026-02-03 | Web of Science Core Collection | `(eelgrass OR "Zostera marina") AND restor* AND sediment*` | Topic | 2000–2026; English | 214 | Many results on terrestrial grasses. Added `seagrass` and field-limited to abstract. |
+| 2026-02-03 | Web of Science Core Collection | `(eelgrass OR "Zostera marina" OR seagrass) AND (restor* OR transplant*) AND sediment*` | Abstract | 2000–2026; English | 167 | More focused. Screening a sample of 30. |
+
+These fields line up with the core items PRISMA-S asks review authors to
+report: information sources, full search strategies, limits, and dates
+(Rethlefsen et al., 2021).
+
+### 5. Screen in stages, and record your reasons
+
+1. **Title and abstract screening:** Apply your inclusion and exclusion
+   criteria. Mark each source *include*, *exclude*, or *maybe*.
+2. **Full-text screening:** Read the "maybes" and includes. For each
+   exclusion, record a short reason ("terrestrial system," "no sediment
+   data," "opinion piece").
+3. **Count as you go.** Note how many records you found, removed as
+   duplicates, screened, excluded (with reasons), and kept. These counts
+   are the same flow PRISMA diagrams report (Page et al., 2021), and
+   they let you describe your search in one sentence of a methods
+   section or paper.
+
+### 6. Manage sources with a reference manager
+
+Export results into a reference manager such as
+[Zotero](https://www.zotero.org/) (free), Mendeley, or EndNote. A
+reference manager removes duplicates, stores PDFs and notes, and
+formats citations. Use folders or tags that mirror your screening
+stages (e.g., `to-screen`, `included`, `excluded-scope`).
 
 ## A simple workflow
 
-Run an initial search, record its exact settings and result count, inspect a manageable sample, then revise one search element at a time. Document the revision and why it was made.
+1. Write the question and break it into three or four concepts.
+2. List synonyms for each concept, and set inclusion criteria.
+3. Draft the search string in a document.
+4. Run the search in one database. Log the exact string, settings,
+   date, and result count.
+5. Scan the first 20–30 results. Are they on target? What terms do
+   relevant papers use that you missed?
+6. **Revise one element at a time** (add a synonym, change a field
+   limit, adjust a filter). Rerun it, log it, and note why you changed
+   it. Changing several things at once makes it impossible to tell
+   what helped.
+7. Translate the final string to a second database, adjusting the
+   syntax, and log it.
+8. Screen, record reasons, and chase citations from your best sources.
+
+## Knowing when to stop
+
+You will rarely find "everything." Signs that a search is good enough
+for its purpose:
+
+- New searches and citation chasing mostly return sources you've already
+  seen.
+- The key papers your instructor, a review article, or a librarian would
+  expect are in your set.
+- You can explain the boundaries of your search in two or three
+  sentences.
 
 ## In context
 
 ::: {.callout-example}
-For a question about eelgrass restoration and sediment, a student searches two databases, logs the two different query syntaxes, and records why studies focused only on terrestrial grasses were excluded.
+For a question about eelgrass restoration and sediment, a student
+searches two databases and logs both query syntaxes, because one
+platform uses field codes differently from the other. Their first
+search returns many studies of terrestrial grasses. They record the
+problem, add `seagrass` and `"Zostera marina"`, limit terms to
+abstracts, and note the change in the log. During screening they record
+"terrestrial system" as an exclusion reason for six papers, so their
+final set and their choices are easy to explain.
 :::
+
+::: {.callout-example}
+A student in a public policy course is researching minimum-wage
+effects on youth employment. They search a social science database and
+a working-paper repository, and they log that they limited results to
+2010 onward because of a major policy change that year. When a
+classmate asks why an older landmark study is missing, the log explains
+the decision.
+:::
+
+## Common pitfalls
+
+- **Searching a full sentence.** Databases match keywords, not
+  questions. Break the question into concepts.
+- **Stopping at the first page of results.** Relevance ranking isn't
+  the same as relevance to *your* question.
+- **Relying on one database.** Coverage differs. A second source often
+  turns up key papers.
+- **Not saving the string.** If you can't rerun it, you can't update or
+  explain it.
+- **Changing criteria mid-screening** to keep a favorite paper or drop
+  an inconvenient one.
 
 ## Keep in mind
 
-A documented search is not automatically a systematic review. Systematic and scoping reviews require additional design, reporting, and quality controls.
+A documented search is not automatically a systematic review.
+Systematic, scoping, and other formal reviews have their own design,
+reporting, and quality-control standards, such as protocols,
+independent dual screening, and critical appraisal (Grant & Booth,
+2009; Page et al., 2021). Describe your work accurately. "A structured
+search of two databases" is honest and defensible. Calling it "a
+systematic review" when it isn't one is not.
+
+## Sources and further reading
+
+- Bramer, W. M., de Jonge, G. B., Rethlefsen, M. L., Mast, F., &
+  Kleijnen, J. (2018). A systematic approach to searching: An efficient
+  and complete method to develop literature searches. *Journal of the
+  Medical Library Association, 106*(4), 531–541.
+  <https://doi.org/10.5195/jmla.2018.283>
+- Grant, M. J., & Booth, A. (2009). A typology of reviews: An analysis
+  of 14 review types and associated methodologies. *Health Information
+  and Libraries Journal, 26*(2), 91–108.
+  <https://doi.org/10.1111/j.1471-1842.2009.00848.x>
+- Page, M. J., McKenzie, J. E., Bossuyt, P. M., et al. (2021). The
+  PRISMA 2020 statement: An updated guideline for reporting systematic
+  reviews. *BMJ, 372*, n71. <https://doi.org/10.1136/bmj.n71>
+- Rethlefsen, M. L., Kirtley, S., Waffenschmidt, S., Ayala, A. P.,
+  Moher, D., Page, M. J., Koffel, J. B., & PRISMA-S Group. (2021).
+  PRISMA-S: An extension to the PRISMA Statement for reporting
+  literature searches in systematic reviews. *Systematic Reviews, 10*,
+  39. <https://doi.org/10.1186/s13643-020-01542-z>
+- Your library's subject guides and research consultation service.
 
 ## Practice this skill
 
