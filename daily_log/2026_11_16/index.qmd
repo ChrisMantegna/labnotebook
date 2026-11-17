@@ -1,0 +1,11 @@
+---
+title: "Cleaning Up the To-Do List"
+date: 2026-11-15
+categories: 
+writing_words: 886
+goal_progress:
+---
+
+I finally got through the first pass updates for the study resources pages. It is comprehensive enough to push to students for testing the usefulness and necessity of some of these pages.
+
+I built the lecture materials and slides for Monday, and spent the rest of the day knocking out personal tasks.
