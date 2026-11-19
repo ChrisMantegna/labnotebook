@@ -10,7 +10,128 @@
 <atom:link href="https://chrismantegna.github.io/labnotebook/weeklya.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 01 Nov 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Advisor Meeting</title>
+  <link>https://chrismantegna.github.io/labnotebook/weeklya/2026_1119/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="agenda" class="level2">
+<h2 class="anchored" data-anchor-id="agenda">Agenda</h2>
+<ol type="1">
+<li>Committee status re: written exam</li>
+<li>General Updates &amp; November goal status</li>
+</ol>
+<section id="committee-written-exam" class="level3">
+<h3 class="anchored" data-anchor-id="committee-written-exam">1. Committee &amp; Written Exam</h3>
+<ul>
+<li><p>Met with Dan on 11.3 to loop him in on the plan, my work, and just check-in</p></li>
+<li><p>Degree Milestones are in compliance</p>
+<ul>
+<li><p>Plan of Study &amp; Qualifying Exam request submitted to SAFS milestones</p></li>
+<li><p>Sam S. reviewed coursework and ‘accepted’ exam dates</p></li>
+</ul></li>
+<li><p>Met with Alison, José and Martha to establish knowledge expectations (see 1.1)</p>
+<ul>
+<li><p>Established a shared Zotero library with committee members so everyone can see what is being assigned or the general ideas.</p></li>
+<li><p>Complete reading list from José (11.17)</p></li>
+<li><p>Partial list from Alison (11.10) and Martha (11.12)</p></li>
+<li><p>Need to verify your list today, please. I have the papers in this <a href="https://www.zotero.org/groups/6750458/mantegna_written_exam_readings/library">shared Zotero library</a>, and you should have a direct email from Zotero inviting you to edit/ adjust/ add to the library.</p>
+<ul>
+<li><p>Each member has a folder with their name where I dropped some papers in their expertise areas. Each member asked to see what I had already been working with to understand where they wanted to slot in.</p></li>
+<li><p>The folder labeled <u>Curated</u> is specifically provided from the committee member.</p></li>
+</ul></li>
+<li><p>Each member would benefit from an email (or group email) to help them clarify expectation, timing, and question writing.</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="established-knowledge-areas-by-committee-member" class="level3">
+<h3 class="anchored" data-anchor-id="established-knowledge-areas-by-committee-member">1.1 Established Knowledge Areas by Committee Member</h3>
+<ul>
+<li><p>Alison- Aquatic Toxicology</p>
+<ul>
+<li><p>Characteristics of PAHs, PCBs, and metals and their organism-impact profiles (not great wording for ‘what are they &amp; what do they do in a biological sense’)</p></li>
+<li><p>Oxidative stress mechanisms and manifestations</p></li>
+<li><p>Biochemical responses including enzymatic activity and enzymatic effects</p></li>
+<li><p>Detoxification pathways, including how that scales through biological scales, whole organism, and population or ecosystem-levels</p></li>
+<li><p>Lab versus field-based study mechanisms, limitations, anticipated outcomes, and what each can or cannot predict re: organismal response.</p></li>
+</ul></li>
+<li><p>Jose - Physiology</p>
+<ul>
+<li><p>What physiological endpoints define a successful <em>Mytilus</em> phenotype, and how contaminants impact crucial pathways in growth, maintenance, and reproduction.</p>
+<ul>
+<li><p>Generally, I should be able to write (and occasionally support with diagrams):</p>
+<ul>
+<li><p>Foundational biological systems of <em>Mytilus</em>, and how those systems contribute to the successful growth and reproduction of each mussel.</p>
+<ul>
+<li>Including mechanisms of action, interaction, and control or balance.</li>
+</ul></li>
+<li><p>Detailed knowledge of the biological systems at play to maintain homeostasis, from cellular to organ system and back.</p></li>
+<li><p>Detailed understanding of the endocrine control of growth and reproduction.</p></li>
+<li><p>Answer, with specificity, how mussels are being affected by contaminant exposure; with a focus on PAHs, PCBs, metals, and endocrine disruptors.</p></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><p>Martha - Nearshore Ecology &amp; Conservation</p>
+<ul>
+<li><p>Primary driving question: How am I contextualizing my work within broader conservation efforts?</p>
+<ul>
+<li><p>To answer this I should be able to answer:</p></li>
+<li><p>Foundational/ classic nearshore ecology and conservation concepts and terminology (think Paine)</p></li>
+<li><p>How are epigenetics studies adding to the conservation conversation, specifically how are we approaching physiological impact from this axis of investigation?</p></li>
+</ul></li>
+<li><p>Large scale contextualization - what makes genetic work fundamental to conservation research?</p>
+<ul>
+<li>What is the conservation puzzle I am solving, what puzzle pieces am I supplying, and what specifically can conservation efforts gain from these pieces?</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="general-updates-goal-progress" class="level3">
+<h3 class="anchored" data-anchor-id="general-updates-goal-progress">2. General Updates &amp; Goal Progress</h3>
+<section id="goal-1-biometh-manuscript-to-steven-and-alison" class="level4">
+<h4 class="anchored" data-anchor-id="goal-1-biometh-manuscript-to-steven-and-alison">Goal 1: BioMeth Manuscript to Steven and Alison</h4>
+<ul>
+<li>Goal milestone description: All written sections (n‎ = 5), figure recreation and captioning (n=5), and supplementary file list development and curation (n=2).<br>
+</li>
+<li>Total number of milestones: 12<br>
+</li>
+<li>Milestones met: 1 (results) Had to separate the presence/ absence contaminant indices from the full site concentration indices for pairwise and correlations.</li>
+</ul>
+</section>
+<section id="goal-2-teaching-302" class="level4">
+<h4 class="anchored" data-anchor-id="goal-2-teaching-302">Goal 2: Teaching 302</h4>
+<ul>
+<li>Goal milestone description: Maintain grading within 48 hours (n=4), weekly canvas improvement (n‎ = 4), meet with lubna for 1v1s (n=3), and implement midterm eval suggestions for improvement (n=2)<br>
+</li>
+<li>Total number of milestones: 12<br>
+</li>
+<li>Milestones met: 8 (grading (3/4), Canvas (2/4), Lubna (2/3), Midterm (1/2))</li>
+</ul>
+</section>
+<section id="goal-3-written-exam-preparation-degree-progress" class="level4">
+<h4 class="anchored" data-anchor-id="goal-3-written-exam-preparation-degree-progress">Goal 3: Written Exam Preparation &amp; Degree Progress</h4>
+<ul>
+<li>Goal milestone description: Maintain weekly reading and writing plan (n=8), make a weekly synthesis post to support the discipline connections across my dissertation (n=4), submit plan of study milestone to SAFS, schedule written exam for December 14-18 via milestone form (n=2).<br>
+</li>
+<li>Total number of milestones: 14<br>
+</li>
+<li>Milestones met: 5 ((Reading (2) + Writing (1) of 8), Milestones (2/2))</li>
+</ul>
+
+
+</section>
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://chrismantegna.github.io/labnotebook/weeklya/2026_1119/</guid>
+  <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+</item>
 <item>
   <title>November Goal Setting</title>
   <link>https://chrismantegna.github.io/labnotebook/weeklya/2026_1101/</link>

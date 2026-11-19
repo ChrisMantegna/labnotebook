@@ -1,11 +1,25 @@
 ---
-title: "Cleaning Up the To-Do List"
-date: 2026-11-15
+title: "Class & Grading"
+date: 2026-11-16
 categories: 
-writing_words: 886
+writing_words: 0
 goal_progress:
+  teaching: 1
 ---
 
-I finally got through the first pass updates for the study resources pages. It is comprehensive enough to push to students for testing the usefulness and necessity of some of these pages.
+## 302
 
-I built the lecture materials and slides for Monday, and spent the rest of the day knocking out personal tasks.
+- Finished building the research workbook, delivered lecture and led an
+  in-class working session based on refining annotated bibliographies.
+
+- Held a 90-minute office hours session that was well attended (hence
+  the extended time) so that students could ask project-specific
+  questions.
+
+- Started grading the next assignment.
+
+- Shared the [Study
+  Resources](https://chrismantegna.github.io/labnotebook/resources/)
+  with them so that they can use it as a reference and provide me
+  feedback on how they're interacting with it so I can refine and
+  improve the resource.

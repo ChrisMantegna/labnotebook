@@ -1,0 +1,43 @@
+---
+title: "Committee & Collaborator Day"
+date: 2026-11-17
+categories: 
+writing_words: 119
+goal_progress:
+  quals: 1
+---
+
+## Yellow Island
+
+- Ángel and I met to go over the planning and responsibilities for the
+  Yellow Island Projects completed this year and last. Since Ángel's
+  winters have more off-island time, he focuses on related projects.
+  This winter's focus is on getting the products out to our
+  collaborators and building the resource to share what we've been up to
+  the past few years.
+
+## Physiology Prep w/ José
+- I met with José to go over my reading list and discuss knowledge
+  expectations for my exam. The focus is on physiology and reproduction,
+  with a primary goal of demonstrating my knowledge in what
+  physiological endpoints define a successful *Mytilus* phenotype, and
+  how contaminants impact crucial pathways in growth, maintenance, and
+  reproduction.
+
+- Generally, I should be able to write and diagram:
+
+  - Foundational biological systems of *Mytilus*, and how those systems
+    contribute to the successful growth and reproduction of each mussel.
+
+    - Including mechanisms of action, interaction, and control or
+      balance.
+
+  - Detailed knowledge of the biological systems at play to maintain
+    homeostasis, from cellular to organ system and back.
+
+  - Detailed understanding of the endocrine control of growth and
+    reproduction.
+
+  - Answer, with specificity, how mussels are being affected by
+    contaminant exposure; with a focus on PAHs, PCBs, metals, and
+    endocrine disruptors.

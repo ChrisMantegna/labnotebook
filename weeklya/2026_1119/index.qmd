@@ -1,0 +1,163 @@
+---
+title: Advisor Meeting
+date: 2026-11-19 
+page-layout: full
+title-block-banner: true
+format:
+  html:
+       toc: true
+       toc-location: right
+       number-sections: false
+       smooth-scroll: true
+       css: daily-dashboard.css
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+## Agenda
+
+1.  Committee status re: written exam
+2.  General Updates & November goal status
+
+### 1. Committee & Written Exam 
+
+- Met with Dan on 11.3 to loop him in on the plan, my work, and just
+  check-in
+
+- Degree Milestones are in compliance
+
+  - Plan of Study & Qualifying Exam request submitted to SAFS milestones
+
+  - Sam S. reviewed coursework and 'accepted' exam dates
+
+- Met with Alison, José and Martha to establish knowledge expectations
+  (see 1.1)
+
+  - Established a shared Zotero library with committee members so
+    everyone can see what is being assigned or the general ideas.
+
+  - Complete reading list from José (11.17)
+
+  - Partial list from Alison (11.10) and Martha (11.12)
+
+  - Need to verify your list today, please. I have the papers in this
+    [shared Zotero
+    library](https://www.zotero.org/groups/6750458/mantegna_written_exam_readings/library),
+    and you should have a direct email from Zotero inviting you to edit/
+    adjust/ add to the library.
+
+    - Each member has a folder with their name where I dropped some
+      papers in their expertise areas. Each member asked to see what I
+      had already been working with to understand where they wanted to
+      slot in.
+
+    - The folder labeled [Curated]{.underline} is specifically provided
+      from the committee member.
+
+  - Each member would benefit from an email (or group email) to help
+    them clarify expectation, timing, and question writing.
+
+### 1.1 Established Knowledge Areas by Committee Member
+
+- Alison- Aquatic Toxicology
+
+  - Characteristics of PAHs, PCBs, and metals and their organism-impact
+    profiles (not great wording for 'what are they & what do they do in
+    a biological sense')
+
+  - Oxidative stress mechanisms and manifestations
+
+  - Biochemical responses including enzymatic activity and enzymatic
+    effects
+
+  - Detoxification pathways, including how that scales through
+    biological scales, whole organism, and population or
+    ecosystem-levels
+
+  - Lab versus field-based study mechanisms, limitations, anticipated
+    outcomes, and what each can or cannot predict re: organismal
+    response.
+
+- Jose - Physiology
+
+  - What physiological endpoints define a successful *Mytilus*
+    phenotype, and how contaminants impact crucial pathways in growth,
+    maintenance, and reproduction.
+
+    - Generally, I should be able to write (and occasionally support
+      with diagrams):
+
+      - Foundational biological systems of *Mytilus*, and how those
+        systems contribute to the successful growth and reproduction of
+        each mussel.
+
+        - Including mechanisms of action, interaction, and control or
+          balance.
+
+      - Detailed knowledge of the biological systems at play to maintain
+        homeostasis, from cellular to organ system and back.
+
+      - Detailed understanding of the endocrine control of growth and
+        reproduction.
+
+      - Answer, with specificity, how mussels are being affected by
+        contaminant exposure; with a focus on PAHs, PCBs, metals, and
+        endocrine disruptors.
+
+- Martha - Nearshore Ecology & Conservation
+
+  - Primary driving question: How am I contextualizing my work within
+    broader conservation efforts?
+
+    - To answer this I should be able to answer:
+
+    - Foundational/ classic nearshore ecology and conservation concepts
+      and terminology (think Paine)
+
+    - How are epigenetics studies adding to the conservation
+      conversation, specifically how are we approaching physiological
+      impact from this axis of investigation?
+
+  - Large scale contextualization - what makes genetic work fundamental
+    to conservation research?
+
+    - What is the conservation puzzle I am solving, what puzzle pieces
+      am I supplying, and what specifically can conservation efforts
+      gain from these pieces?
+
+### 2. General Updates & Goal Progress
+
+#### Goal 1: BioMeth Manuscript to Steven and Alison
+
+- Goal milestone description: All written sections (n‎ = 5), figure
+  recreation and captioning (n=5), and supplementary file list
+  development and curation (n=2).\
+- Total number of milestones: 12\
+- Milestones met: 1 (results) Had to separate the presence/ absence
+  contaminant indices from the full site concentration indices for
+  pairwise and correlations.
+
+#### Goal 2: Teaching 302
+
+- Goal milestone description: Maintain grading within 48 hours (n=4),
+  weekly canvas improvement (n‎ = 4), meet with lubna for 1v1s (n=3), and
+  implement midterm eval suggestions for improvement (n=2)\
+- Total number of milestones: 12\
+- Milestones met: 8 (grading (3/4), Canvas (2/4), Lubna (2/3), Midterm
+  (1/2))
+
+#### Goal 3: Written Exam Preparation & Degree Progress
+
+- Goal milestone description: Maintain weekly reading and writing plan
+  (n=8), make a weekly synthesis post to support the discipline
+  connections across my dissertation (n=4), submit plan of study
+  milestone to SAFS, schedule written exam for December 14-18 via
+  milestone form (n=2).\
+- Total number of milestones: 14\
+- Milestones met: 5 ((Reading (2) + Writing (1) of 8), Milestones (2/2))
