@@ -133,15 +133,15 @@ editor:
 
 ### 2. General Updates & Goal Progress
 
+#### 2.1 Goals Status
+
 #### Goal 1: BioMeth Manuscript to Steven and Alison
 
 - Goal milestone description: All written sections (n‎ = 5), figure
   recreation and captioning (n=5), and supplementary file list
   development and curation (n=2).\
 - Total number of milestones: 12\
-- Milestones met: 1 (results) Had to separate the presence/ absence
-  contaminant indices from the full site concentration indices for
-  pairwise and correlations.
+- Milestones met: 1 (results)
 
 #### Goal 2: Teaching 302
 
@@ -161,3 +161,61 @@ editor:
   milestone form (n=2).\
 - Total number of milestones: 14\
 - Milestones met: 5 ((Reading (2) + Writing (1) of 8), Milestones (2/2))
+
+#### 2.2 Updates on Goals Status
+
+Delays in goal progress due to:
+
+- SACNAS Conference attendance and presentation (10.28 - 11.2)
+
+  - Kicked off the month on the backfoot
+
+- Yellow Island
+
+  - Had to help design a deliverables roadmap with Ángel for Dec - Feb
+    activities that Ángel can lead while his work balance is dominantly
+    in-office instead of on-island.
+
+- Mussel Physiology
+
+  - Spent some time hanging out with my Chem-E friend (also a grad
+    student) to see if her visualization tool could be used for mussel
+    tissues instead of human brain tissue. Promising, but may end up
+    something to be used down the line instead of for my current needs.
+
+  - Did not do hemolymph extractions as it took two sets of mussels from
+    the grocery store to keep enough samples alive to test her tools.
+
+- Teaching & Grading
+
+  - Familiarity with the content, scaffolding foundational skills and
+    preparing resources was a heavy lift. I built a first-pass [Study
+    Resource](https://chrismantegna.github.io/labnotebook/resources/)
+    section into my notebook that took a bit of time to curate and put
+    together, but it will also prevent re-work for the next two
+    quarters.
+
+  - Grading writing is time consuming... I worked with Lubna to build
+    clearer rubrics and talk through how to get a little faster.
+
+- Manuscript Progress
+
+  - Re-outlined the Introduction to 'pair' the biomarker and methylation
+    work rather than make the methylation a pilot (per our last
+    discussion of it mid-October)
+
+  - Tightening up the results made me question why certain contaminant
+    classes were significantly correlated to every geographic site when
+    it should not have been - turns out I used the full class indices
+    for correlations and pairwise comparisons rather than removing the
+    classes that were presence/ absence only.
+
+    - I had to go back, separate the presence/ absence contaminant
+      indices from the full site concentration indices, and rerun the KW
+      comparisons and correlations.
+
+    - Ultimately, it doesn't change the outcome of the work, but it does
+      reduce the significant sites in the global spatial analyses to
+      reflect what I thought: high-weight PAHs, PCBs, and DDTs are
+      significantly correlated, chlordanes, HCHs, and all metals but
+      zinc and mercury are no longer significantly correlated.
